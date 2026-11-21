@@ -6,7 +6,7 @@ We analyze historical Indian prison statistics to study population, capacity, le
 
 **Current status:** Phases 0–11 are implemented. The academic PDF is complete; the final requirement-compliance audit remains. The latest recorded project verification contains **78 passing tests**.
 
-[Download the academic report](report/India_Prison_Analytics_Report.pdf) — 91 pages, 42 figures, complete methodology, results, references and appendices.
+[Download the academic report](report/India_Prison_Analytics_Report.pdf) — 88 pages, 42 figures, complete methodology, results and references, with every figure in the main report.
 
 ## Objectives
 
@@ -41,7 +41,7 @@ See the [dataset audit](report/dataset_audit.md), [file inventory](results/table
 | 8 — MAFIA | Implemented bitmap maximal-itemset search, checked maximality, and generated rules using recounted subset supports. | [MAFIA report](report/mafia.md) |
 | 9 — Spark FP-Growth | Verified all 12 parameter settings against Python and measured repeated runtimes. | [Spark FP-Growth report](report/spark_fp_growth.md) |
 | 10 — Spark K-Medoids | Distributed PAM cost calculations, verified optimization trajectories, and measured repeated runtimes. | [Spark K-Medoids report](report/spark_k_medoids.md) |
-| 11 — Academic report | Compiled a detailed LaTeX PDF using saved statistics, 42 figures, algorithms, benchmarks and appendices. | [Final PDF](report/India_Prison_Analytics_Report.pdf) |
+| 11 — Academic report | Compiled a detailed LaTeX PDF using saved statistics, 42 figures, algorithms, benchmarks and detailed result tables. | [Final PDF](report/India_Prison_Analytics_Report.pdf) |
 
 ## Methods and findings
 
@@ -171,7 +171,7 @@ The final compliance review must confirm the assignment's plot-coverage requirem
 
 ## Academic PDF report
 
-The [report](report/India_Prison_Analytics_Report.pdf) includes the title page, abstract, contents, lists of figures/tables, dataset audit, preprocessing, descriptive analysis, visualization interpretations, FP-Growth, PAM, MAFIA, both Spark comparisons, limitations, conclusion, references and appendices. It is prepared for **Abdur Rahim (CS23I1019), IIITDM Kancheepuram**, for **Analytics and Systems of Big Data — End Sem Hackathon**.
+The [report](report/India_Prison_Analytics_Report.pdf) includes the title page, abstract, contents, lists of figures/tables, dataset audit, preprocessing, descriptive analysis, visualization interpretations, FP-Growth, PAM, MAFIA, both Spark comparisons, limitations, conclusion, references and integrated result tables. All 26 descriptive figures are embedded directly in the visualization chapter; algorithm and benchmark figures appear alongside their results. The report has no appendix sections. It is prepared for **Abdur Rahim (CS23I1019), IIITDM Kancheepuram**, for **Analytics and Systems of Big Data — End Sem Hackathon**.
 
 The compiled PDF is retained in the repository. LaTeX source and intermediate files remain in the ignored local `report/.latex/` directory. The [build manifest](report/report_build_manifest.json) records PDF/source-artifact hashes and report-specific checks. No analysis cells or benchmark runs were repeated to typeset the report.
 
