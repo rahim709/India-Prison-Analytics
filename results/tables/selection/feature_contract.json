@@ -1,0 +1,45 @@
+[
+  {
+    "feature": "occupancy_ratio",
+    "sources": [
+      "Jail wise population of prison inmates.csv",
+      "Other Prison data/Population_and_capacity_of_jails.csv"
+    ],
+    "future_formula": "total_prisoners / total_capacity",
+    "reason": "Capacity pressure, independent of absolute state size."
+  },
+  {
+    "feature": "undertrial_share",
+    "sources": [
+      "Jail wise population of prison inmates.csv"
+    ],
+    "future_formula": "undertrial_prisoners / total_prisoners",
+    "reason": "Legal-status composition without complementary status shares."
+  },
+  {
+    "feature": "female_share",
+    "sources": [
+      "Jail wise population of prison inmates.csv"
+    ],
+    "future_formula": "female_prisoners / total_prisoners",
+    "reason": "Aggregate gender composition; not an individual risk score."
+  },
+  {
+    "feature": "age_18_30_share",
+    "sources": [
+      "Age_group.csv",
+      "Jail wise population of prison inmates.csv"
+    ],
+    "future_formula": "sum age_18_30 over nationality, status and gender / total_prisoners",
+    "reason": "One age-composition measure; omit other complementary age shares."
+  },
+  {
+    "feature": "illiterate_share",
+    "sources": [
+      "Education.csv",
+      "Jail wise population of prison inmates.csv"
+    ],
+    "future_formula": "sum four status counts for education=Illiterate over gender / total_prisoners",
+    "reason": "One education-composition measure with a verified common denominator."
+  }
+]

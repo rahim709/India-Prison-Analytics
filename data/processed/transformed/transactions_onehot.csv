@@ -1,0 +1,438 @@
+profile_id,age_18_30_share=lower_tertile,age_18_30_share=middle_tertile,age_18_30_share=upper_tertile,female_share=lower_tertile,female_share=middle_tertile,female_share=upper_tertile,illiterate_share=lower_tertile,illiterate_share=middle_tertile,illiterate_share=upper_tertile,occupancy_ratio=over_100_to_150pct,occupancy_ratio=over_150pct,occupancy_ratio=within_capacity,undertrial_share=lower_tertile,undertrial_share=middle_tertile,undertrial_share=upper_tertile
+Andaman & Nicobar Islands|2001,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Andaman & Nicobar Islands|2002,False,True,False,True,False,False,True,False,False,True,False,False,True,False,False
+Andaman & Nicobar Islands|2003,False,False,True,True,False,False,True,False,False,True,False,False,False,True,False
+Andaman & Nicobar Islands|2004,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Andaman & Nicobar Islands|2005,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Andaman & Nicobar Islands|2006,False,True,False,True,False,False,True,False,False,True,False,False,False,False,True
+Andaman & Nicobar Islands|2007,False,False,True,True,False,False,True,False,False,True,False,False,False,False,True
+Andaman & Nicobar Islands|2008,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Andaman & Nicobar Islands|2009,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Andaman & Nicobar Islands|2010,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Andaman & Nicobar Islands|2011,True,False,False,True,False,False,True,False,False,False,True,False,False,True,False
+Andaman & Nicobar Islands|2012,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Andaman & Nicobar Islands|2013,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Andhra Pradesh|2001,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Andhra Pradesh|2002,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Andhra Pradesh|2003,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Andhra Pradesh|2004,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Andhra Pradesh|2005,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Andhra Pradesh|2006,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Andhra Pradesh|2007,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Andhra Pradesh|2008,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False
+Andhra Pradesh|2009,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False
+Andhra Pradesh|2010,True,False,False,False,False,True,False,False,True,False,False,True,True,False,False
+Andhra Pradesh|2011,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False
+Andhra Pradesh|2012,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False
+Andhra Pradesh|2013,False,True,False,False,False,True,False,False,True,False,False,True,False,True,False
+Arunachal Pradesh|2009,False,False,True,False,False,True,False,True,False,True,False,False,False,False,True
+Arunachal Pradesh|2010,False,False,True,False,False,True,True,False,False,True,False,False,False,False,True
+Arunachal Pradesh|2011,False,False,True,False,False,True,False,True,False,False,False,True,False,False,True
+Arunachal Pradesh|2012,False,False,True,False,False,True,False,False,True,True,False,False,False,False,True
+Arunachal Pradesh|2013,False,False,True,True,False,False,False,True,False,False,True,False,False,False,True
+Assam|2001,True,False,False,True,False,False,False,False,True,True,False,False,False,True,False
+Assam|2002,True,False,False,True,False,False,False,False,True,True,False,False,True,False,False
+Assam|2003,False,True,False,True,False,False,False,False,True,True,False,False,True,False,False
+Assam|2004,True,False,False,False,True,False,False,False,True,True,False,False,True,False,False
+Assam|2005,False,True,False,True,False,False,False,False,True,True,False,False,True,False,False
+Assam|2006,True,False,False,True,False,False,False,True,False,True,False,False,True,False,False
+Assam|2007,False,True,False,True,False,False,False,True,False,True,False,False,True,False,False
+Assam|2008,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Assam|2009,True,False,False,False,True,False,False,False,True,True,False,False,True,False,False
+Assam|2010,True,False,False,False,True,False,False,False,True,True,False,False,True,False,False
+Assam|2011,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Assam|2012,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Assam|2013,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Bihar|2001,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Bihar|2002,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True
+Bihar|2003,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Bihar|2004,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Bihar|2005,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Bihar|2006,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Bihar|2007,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True
+Bihar|2008,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True
+Bihar|2009,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True
+Bihar|2010,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Bihar|2011,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True
+Bihar|2012,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True
+Bihar|2013,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True
+Chandigarh|2001,True,False,False,False,False,True,True,False,False,False,False,True,False,False,True
+Chandigarh|2002,False,True,False,False,False,True,True,False,False,False,False,True,False,False,True
+Chandigarh|2003,True,False,False,False,False,True,False,True,False,False,False,True,False,False,True
+Chandigarh|2004,True,False,False,False,False,True,False,True,False,False,False,True,False,False,True
+Chandigarh|2005,True,False,False,False,False,True,False,False,True,False,False,True,False,False,True
+Chandigarh|2006,True,False,False,False,False,True,False,True,False,False,False,True,False,False,True
+Chandigarh|2007,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True
+Chandigarh|2008,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Chandigarh|2009,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False
+Chandigarh|2010,True,False,False,False,False,True,True,False,False,False,False,True,False,True,False
+Chandigarh|2011,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Chandigarh|2012,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False
+Chandigarh|2013,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False
+Chhattisgarh|2001,False,True,False,False,True,False,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2002,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Chhattisgarh|2003,True,False,False,False,True,False,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2004,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2005,False,True,False,False,True,False,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2006,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2007,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2008,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2009,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2010,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Chhattisgarh|2011,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Chhattisgarh|2012,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Chhattisgarh|2013,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Dadra & Nagar Haveli|2001,False,False,True,True,False,False,False,False,True,False,True,False,False,False,True
+Dadra & Nagar Haveli|2002,False,False,True,True,False,False,False,False,True,False,True,False,False,False,True
+Dadra & Nagar Haveli|2003,False,False,True,True,False,False,False,True,False,False,True,False,False,False,True
+Dadra & Nagar Haveli|2004,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Dadra & Nagar Haveli|2005,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Dadra & Nagar Haveli|2006,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Dadra & Nagar Haveli|2007,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Dadra & Nagar Haveli|2008,True,False,False,False,False,True,False,False,True,False,False,True,False,False,True
+Dadra & Nagar Haveli|2009,False,False,True,False,True,False,False,False,True,False,False,True,False,False,True
+Dadra & Nagar Haveli|2010,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Dadra & Nagar Haveli|2011,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Dadra & Nagar Haveli|2012,True,False,False,False,False,True,True,False,False,False,False,True,False,False,True
+Dadra & Nagar Haveli|2013,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Daman & Diu|2001,False,False,True,True,False,False,True,False,False,False,False,True,True,False,False
+Daman & Diu|2002,False,True,False,True,False,False,True,False,False,False,False,True,True,False,False
+Daman & Diu|2003,False,True,False,True,False,False,True,False,False,False,False,True,True,False,False
+Daman & Diu|2004,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Daman & Diu|2005,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False
+Daman & Diu|2006,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Daman & Diu|2007,False,False,True,False,False,True,False,False,True,False,False,True,False,False,True
+Daman & Diu|2008,False,False,True,False,False,True,False,False,True,False,False,True,False,True,False
+Daman & Diu|2009,True,False,False,True,False,False,True,False,False,False,False,True,True,False,False
+Daman & Diu|2010,False,True,False,False,True,False,True,False,False,False,False,True,True,False,False
+Daman & Diu|2011,False,True,False,False,True,False,True,False,False,False,False,True,True,False,False
+Daman & Diu|2012,False,False,True,False,False,True,False,False,True,False,False,True,True,False,False
+Daman & Diu|2013,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False
+Delhi|2001,False,False,True,False,False,True,False,False,True,False,True,False,False,False,True
+Delhi|2002,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True
+Delhi|2003,False,False,True,False,False,True,False,False,True,False,True,False,False,False,True
+Delhi|2004,False,False,True,False,True,False,False,True,False,False,True,False,False,False,True
+Delhi|2005,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True
+Delhi|2006,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True
+Delhi|2007,False,False,True,False,True,False,False,True,False,False,True,False,False,False,True
+Delhi|2008,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True
+Delhi|2009,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True
+Delhi|2010,False,False,True,False,False,True,False,True,False,False,True,False,False,False,True
+Delhi|2011,False,False,True,False,False,True,False,True,False,False,True,False,False,False,True
+Delhi|2012,False,False,True,False,False,True,True,False,False,False,True,False,False,False,True
+Delhi|2013,False,False,True,False,False,True,True,False,False,False,True,False,False,False,True
+Goa|2001,False,True,False,True,False,False,False,False,True,True,False,False,False,True,False
+Goa|2002,False,True,False,True,False,False,False,False,True,True,False,False,True,False,False
+Goa|2003,True,False,False,True,False,False,False,False,True,True,False,False,False,False,True
+Goa|2004,False,True,False,True,False,False,True,False,False,True,False,False,False,True,False
+Goa|2005,False,True,False,False,False,True,True,False,False,True,False,False,False,True,False
+Goa|2006,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False
+Goa|2007,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Goa|2008,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False
+Goa|2009,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Goa|2010,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False
+Goa|2011,False,False,True,False,False,True,False,True,False,True,False,False,False,False,True
+Goa|2012,False,False,True,False,False,True,False,True,False,True,False,False,False,False,True
+Goa|2013,False,False,True,False,False,True,True,False,False,True,False,False,False,False,True
+Gujarat|2001,False,True,False,True,False,False,False,False,True,False,True,False,False,True,False
+Gujarat|2002,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Gujarat|2003,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Gujarat|2004,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Gujarat|2005,False,True,False,False,True,False,False,False,True,False,True,False,True,False,False
+Gujarat|2006,False,True,False,False,True,False,False,False,True,False,True,False,True,False,False
+Gujarat|2007,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Gujarat|2008,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Gujarat|2009,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Gujarat|2010,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Gujarat|2011,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Gujarat|2012,True,False,False,False,False,True,True,False,False,False,False,True,True,False,False
+Gujarat|2013,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False
+Haryana|2001,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Haryana|2002,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Haryana|2003,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Haryana|2004,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Haryana|2005,False,False,True,False,True,False,False,False,True,True,False,False,False,True,False
+Haryana|2006,True,False,False,False,True,False,False,True,False,True,False,False,True,False,False
+Haryana|2007,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Haryana|2008,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Haryana|2009,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Haryana|2010,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Haryana|2011,False,False,True,False,False,True,False,True,False,False,False,True,True,False,False
+Haryana|2012,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False
+Haryana|2013,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Himachal Pradesh|2001,True,False,False,True,False,False,False,False,True,True,False,False,True,False,False
+Himachal Pradesh|2002,False,False,True,True,False,False,True,False,False,False,False,True,True,False,False
+Himachal Pradesh|2003,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Himachal Pradesh|2004,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Himachal Pradesh|2005,False,True,False,True,False,False,False,True,False,True,False,False,True,False,False
+Himachal Pradesh|2006,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Himachal Pradesh|2007,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Himachal Pradesh|2008,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Himachal Pradesh|2009,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Himachal Pradesh|2010,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Himachal Pradesh|2011,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False
+Himachal Pradesh|2012,True,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+Himachal Pradesh|2013,True,False,False,False,False,True,True,False,False,True,False,False,True,False,False
+Jammu & Kashmir|2001,False,False,True,True,False,False,False,True,False,False,False,True,False,True,False
+Jammu & Kashmir|2002,False,False,True,True,False,False,False,True,False,False,False,True,False,True,False
+Jammu & Kashmir|2003,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False
+Jammu & Kashmir|2004,False,False,True,True,False,False,False,True,False,False,False,True,False,True,False
+Jammu & Kashmir|2005,False,False,True,False,True,False,False,True,False,False,False,True,False,False,True
+Jammu & Kashmir|2006,False,False,True,True,False,False,False,True,False,False,False,True,False,False,True
+Jammu & Kashmir|2007,False,False,True,False,True,False,False,False,True,False,False,True,False,False,True
+Jammu & Kashmir|2008,False,False,True,False,True,False,False,False,True,False,False,True,False,False,True
+Jammu & Kashmir|2009,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Jammu & Kashmir|2010,False,False,True,False,True,False,False,False,True,False,False,True,False,False,True
+Jammu & Kashmir|2011,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Jammu & Kashmir|2012,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Jammu & Kashmir|2013,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Jharkhand|2001,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Jharkhand|2002,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True
+Jharkhand|2003,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True
+Jharkhand|2004,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Jharkhand|2005,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True
+Jharkhand|2006,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Jharkhand|2007,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Jharkhand|2008,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False
+Jharkhand|2009,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False
+Jharkhand|2010,False,False,True,False,True,False,True,False,False,True,False,False,False,False,True
+Jharkhand|2011,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Jharkhand|2012,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True
+Jharkhand|2013,True,False,False,False,False,True,False,True,False,True,False,False,False,False,True
+Karnataka|2001,True,False,False,True,False,False,False,False,True,True,False,False,False,False,True
+Karnataka|2002,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Karnataka|2004,False,False,True,False,True,False,False,True,False,True,False,False,False,True,False
+Karnataka|2005,False,False,True,False,True,False,False,True,False,True,False,False,False,True,False
+Karnataka|2006,False,False,True,False,True,False,False,True,False,True,False,False,False,True,False
+Karnataka|2007,False,False,True,False,True,False,False,True,False,True,False,False,False,True,False
+Karnataka|2008,False,False,True,False,True,False,False,False,True,True,False,False,False,True,False
+Karnataka|2009,False,False,True,False,True,False,False,False,True,True,False,False,False,True,False
+Karnataka|2010,False,False,True,False,True,False,False,False,True,False,False,True,False,True,False
+Karnataka|2011,False,False,True,False,True,False,False,False,True,False,False,True,False,True,False
+Karnataka|2012,False,False,True,False,True,False,False,True,False,True,False,False,False,True,False
+Karnataka|2013,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Kerala|2001,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Kerala|2002,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Kerala|2003,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Kerala|2004,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Kerala|2005,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Kerala|2006,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Kerala|2007,True,False,False,True,False,False,True,False,False,False,True,False,True,False,False
+Kerala|2008,True,False,False,True,False,False,True,False,False,False,True,False,True,False,False
+Kerala|2009,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Kerala|2010,True,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+Kerala|2011,True,False,False,True,False,False,True,False,False,False,False,True,True,False,False
+Kerala|2012,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Kerala|2013,True,False,False,True,False,False,True,False,False,True,False,False,False,True,False
+Lakshadweep|2001,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Lakshadweep|2002,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Lakshadweep|2003,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Lakshadweep|2005,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Lakshadweep|2007,False,False,True,True,False,False,True,False,False,True,False,False,True,False,False
+Lakshadweep|2008,True,False,False,True,False,False,True,False,False,True,False,False,False,False,True
+Lakshadweep|2009,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Lakshadweep|2010,False,False,True,True,False,False,False,False,True,False,True,False,False,False,True
+Lakshadweep|2011,False,True,False,True,False,False,True,False,False,False,True,False,True,False,False
+Madhya Pradesh|2001,False,False,True,True,False,False,False,False,True,False,True,False,True,False,False
+Madhya Pradesh|2002,False,True,False,True,False,False,False,False,True,False,True,False,True,False,False
+Madhya Pradesh|2003,False,True,False,False,True,False,False,False,True,False,True,False,True,False,False
+Madhya Pradesh|2004,True,False,False,True,False,False,False,False,True,False,True,False,True,False,False
+Madhya Pradesh|2005,False,False,True,True,False,False,False,False,True,False,True,False,True,False,False
+Madhya Pradesh|2006,False,False,True,True,False,False,False,True,False,False,True,False,True,False,False
+Madhya Pradesh|2007,False,True,False,True,False,False,False,True,False,False,True,False,True,False,False
+Madhya Pradesh|2008,False,True,False,True,False,False,False,True,False,True,False,False,True,False,False
+Madhya Pradesh|2009,False,True,False,True,False,False,False,True,False,True,False,False,True,False,False
+Madhya Pradesh|2010,False,False,True,False,True,False,False,True,False,True,False,False,True,False,False
+Madhya Pradesh|2011,False,False,True,False,True,False,False,True,False,True,False,False,True,False,False
+Madhya Pradesh|2012,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Madhya Pradesh|2013,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Maharashtra|2001,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Maharashtra|2002,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Maharashtra|2003,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False
+Maharashtra|2004,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False
+Maharashtra|2005,True,False,False,False,False,True,True,False,False,True,False,False,False,True,False
+Maharashtra|2006,True,False,False,False,False,True,True,False,False,True,False,False,False,True,False
+Maharashtra|2007,True,False,False,False,False,True,True,False,False,True,False,False,False,True,False
+Maharashtra|2008,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False
+Maharashtra|2009,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False
+Maharashtra|2011,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False
+Maharashtra|2012,True,False,False,False,False,True,True,False,False,False,False,True,False,True,False
+Maharashtra|2013,True,False,False,False,False,True,True,False,False,True,False,False,False,True,False
+Manipur|2001,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Manipur|2002,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False
+Manipur|2003,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False
+Manipur|2004,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Manipur|2005,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Manipur|2006,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True
+Manipur|2007,False,False,True,True,False,False,True,False,False,False,False,True,True,False,False
+Manipur|2008,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Manipur|2009,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False
+Manipur|2010,False,True,False,False,False,True,True,False,False,False,False,True,True,False,False
+Manipur|2011,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False
+Manipur|2012,False,True,False,False,False,True,True,False,False,False,False,True,False,False,True
+Manipur|2013,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Meghalaya|2001,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2002,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2003,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2004,False,False,True,True,False,False,False,False,True,False,False,True,False,False,True
+Meghalaya|2005,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2006,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True
+Meghalaya|2007,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2008,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2009,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2010,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2011,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+Meghalaya|2012,False,False,True,True,False,False,False,True,False,True,False,False,False,False,True
+Meghalaya|2013,False,False,True,True,False,False,False,False,True,False,True,False,False,False,True
+Mizoram|2001,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Mizoram|2002,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False
+Mizoram|2003,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Mizoram|2004,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Mizoram|2005,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Mizoram|2006,False,False,True,False,False,True,True,False,False,False,False,True,False,False,True
+Mizoram|2007,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False
+Mizoram|2008,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Mizoram|2009,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Mizoram|2010,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Mizoram|2011,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Mizoram|2012,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False
+Mizoram|2013,False,True,False,False,False,True,True,False,False,False,False,True,True,False,False
+Nagaland|2001,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Nagaland|2002,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Nagaland|2003,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Nagaland|2004,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Nagaland|2005,True,False,False,False,True,False,True,False,False,False,False,True,False,False,True
+Nagaland|2006,True,False,False,False,True,False,True,False,False,False,False,True,False,False,True
+Nagaland|2007,True,False,False,False,True,False,True,False,False,False,False,True,False,False,True
+Nagaland|2008,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Nagaland|2009,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Nagaland|2010,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Nagaland|2011,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False
+Nagaland|2012,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False
+Nagaland|2013,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False
+Odisha|2001,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Odisha|2002,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Odisha|2003,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Odisha|2004,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Odisha|2005,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Odisha|2006,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Odisha|2007,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Odisha|2008,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Odisha|2009,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Odisha|2010,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Odisha|2011,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Odisha|2012,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Odisha|2013,False,True,False,False,False,True,False,True,False,False,False,True,False,False,True
+Puducherry|2001,False,False,True,True,False,False,False,True,False,False,False,True,True,False,False
+Puducherry|2002,False,True,False,False,False,True,True,False,False,False,False,True,True,False,False
+Puducherry|2003,False,False,True,True,False,False,False,True,False,False,False,True,True,False,False
+Puducherry|2004,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Puducherry|2005,False,True,False,True,False,False,False,True,False,False,False,True,True,False,False
+Puducherry|2006,False,False,True,True,False,False,False,True,False,True,False,False,False,True,False
+Puducherry|2007,False,False,True,True,False,False,False,True,False,True,False,False,False,True,False
+Puducherry|2008,False,False,True,True,False,False,False,True,False,False,False,True,False,True,False
+Puducherry|2009,False,True,False,True,False,False,True,False,False,False,False,True,True,False,False
+Puducherry|2010,False,False,True,True,False,False,False,True,False,False,False,True,True,False,False
+Puducherry|2011,True,False,False,True,False,False,False,True,False,False,False,True,True,False,False
+Puducherry|2012,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Puducherry|2013,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False
+Punjab|2001,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2002,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2003,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2004,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2005,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2006,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2007,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2008,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2009,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2010,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+Punjab|2011,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False
+Punjab|2012,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False
+Punjab|2013,True,False,False,False,False,True,True,False,False,True,False,False,False,True,False
+Rajasthan|2001,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Rajasthan|2002,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Rajasthan|2003,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Rajasthan|2004,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Rajasthan|2005,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Rajasthan|2006,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Rajasthan|2007,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Rajasthan|2008,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Rajasthan|2009,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Rajasthan|2010,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Rajasthan|2011,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Rajasthan|2012,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Rajasthan|2013,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Sikkim|2001,False,False,True,True,False,False,False,True,False,False,True,False,True,False,False
+Sikkim|2002,False,True,False,True,False,False,True,False,False,False,True,False,True,False,False
+Sikkim|2003,False,False,True,True,False,False,False,False,True,False,True,False,True,False,False
+Sikkim|2004,False,False,True,True,False,False,True,False,False,False,True,False,True,False,False
+Sikkim|2005,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False
+Sikkim|2006,False,False,True,True,False,False,False,True,False,False,True,False,True,False,False
+Sikkim|2007,False,False,True,True,False,False,True,False,False,True,False,False,False,True,False
+Sikkim|2008,False,False,True,False,True,False,True,False,False,True,False,False,False,False,True
+Sikkim|2009,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False
+Sikkim|2010,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False
+Sikkim|2011,False,False,True,True,False,False,False,True,False,False,False,True,False,True,False
+Sikkim|2012,False,False,True,True,False,False,True,False,False,True,False,False,False,True,False
+Sikkim|2013,False,True,False,False,True,False,True,False,False,False,False,True,True,False,False
+Tamil Nadu|2001,False,True,False,False,False,True,False,False,True,True,False,False,True,False,False
+Tamil Nadu|2003,True,False,False,False,False,True,False,True,False,True,False,False,True,False,False
+Tamil Nadu|2004,True,False,False,False,False,True,False,True,False,True,False,False,True,False,False
+Tamil Nadu|2005,True,False,False,False,False,True,False,False,True,True,False,False,True,False,False
+Tamil Nadu|2006,True,False,False,False,False,True,False,False,True,True,False,False,True,False,False
+Tamil Nadu|2007,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False
+Tamil Nadu|2008,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False
+Tamil Nadu|2009,True,False,False,False,False,True,False,True,False,False,False,True,True,False,False
+Tamil Nadu|2010,True,False,False,False,False,True,False,False,True,False,False,True,True,False,False
+Tamil Nadu|2011,True,False,False,False,False,True,False,True,False,False,False,True,True,False,False
+Tamil Nadu|2012,True,False,False,False,False,True,False,False,True,False,False,True,True,False,False
+Tamil Nadu|2013,True,False,False,False,False,True,False,False,True,False,False,True,True,False,False
+Tripura|2001,False,True,False,True,False,False,True,False,False,True,False,False,False,True,False
+Tripura|2002,False,True,False,True,False,False,True,False,False,True,False,False,True,False,False
+Tripura|2003,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False
+Tripura|2005,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Tripura|2006,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Tripura|2007,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Tripura|2008,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Tripura|2009,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False
+Tripura|2010,True,False,False,True,False,False,True,False,False,False,False,True,True,False,False
+Tripura|2011,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False
+Tripura|2012,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False
+Tripura|2013,True,False,False,True,False,False,True,False,False,False,False,True,True,False,False
+Uttar Pradesh|2002,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True
+Uttar Pradesh|2003,False,True,False,True,False,False,False,False,True,True,False,False,False,False,True
+Uttar Pradesh|2004,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True
+Uttar Pradesh|2005,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Uttar Pradesh|2006,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Uttar Pradesh|2007,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Uttar Pradesh|2008,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Uttar Pradesh|2009,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+Uttar Pradesh|2010,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+Uttar Pradesh|2011,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+Uttar Pradesh|2012,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+Uttar Pradesh|2013,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Uttarakhand|2001,False,True,False,True,False,False,False,False,True,False,False,True,False,False,True
+Uttarakhand|2002,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True
+Uttarakhand|2003,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Uttarakhand|2004,True,False,False,False,False,True,True,False,False,False,False,True,False,True,False
+Uttarakhand|2005,True,False,False,True,False,False,True,False,False,True,False,False,False,True,False
+Uttarakhand|2006,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Uttarakhand|2007,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Uttarakhand|2008,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Uttarakhand|2009,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Uttarakhand|2010,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Uttarakhand|2011,False,True,False,False,True,False,False,False,True,False,False,True,True,False,False
+Uttarakhand|2012,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Uttarakhand|2013,True,False,False,False,False,True,False,True,False,True,False,False,True,False,False
+West Bengal|2001,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True
+West Bengal|2002,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True
+West Bengal|2003,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True
+West Bengal|2004,False,False,True,False,False,True,False,False,True,False,False,True,False,False,True
+West Bengal|2005,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True
+West Bengal|2006,True,False,False,False,False,True,False,True,False,False,False,True,False,False,True
+West Bengal|2007,True,False,False,False,False,True,False,True,False,False,False,True,False,False,True
+West Bengal|2008,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False
+West Bengal|2009,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False
+West Bengal|2010,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False
+West Bengal|2011,False,True,False,False,False,True,False,False,True,False,False,True,False,True,False
+West Bengal|2012,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False

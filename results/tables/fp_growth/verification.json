@@ -1,0 +1,126 @@
+{
+  "tests_passed": 56,
+  "mining_tests": 6,
+  "parameter_combinations_verified": 12,
+  "admissible_itemsets_checked_by_tests": 1023,
+  "notebook_code_cells": 8,
+  "notebook_inline_generated_figures": 2,
+  "notebook_errors": 0,
+  "upstream_files_unchanged": 85,
+  "repeat_execution_identical": true,
+  "mining_table_files": 23,
+  "images": [
+    {
+      "file": "results/plots/fp_growth/exploratory_rule_metrics.png",
+      "sha256": "8d5d313ea7bb2dce336655b6fb28d70da90b61649c5b0aeafc85e8e66abecab6",
+      "dimensions": [
+        3254,
+        1475
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/fp_growth/rule_count_sensitivity.png",
+      "sha256": "0178c1f1d0b0ad2d024edef27d8540119a30d47b6ea1f292857d2b38223c36f2",
+      "dimensions": [
+        2253,
+        1450
+      ],
+      "dpi": 300
+    }
+  ],
+  "output_hashes": [
+    {
+      "file": "results/tables/fp_growth/association_rules.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/exploratory_rules.csv",
+      "sha256": "fc759422f456291ee9de5b70422a78dd315a9a0f3495f7b59eb1a29785ab9741"
+    },
+    {
+      "file": "results/tables/fp_growth/frequent_itemsets.csv",
+      "sha256": "61b74604ea9c07e2dd9b204043b86dfac039304b98e3bea06ee5b85b06f55e68"
+    },
+    {
+      "file": "results/tables/fp_growth/interpretable_rules.csv",
+      "sha256": "fc759422f456291ee9de5b70422a78dd315a9a0f3495f7b59eb1a29785ab9741"
+    },
+    {
+      "file": "results/tables/fp_growth/itemsets_s0p05.csv",
+      "sha256": "19df0f6f1890dd9b5626627ff9c660af1dd567678b20c8eb29f957fdb880841e"
+    },
+    {
+      "file": "results/tables/fp_growth/itemsets_s0p10.csv",
+      "sha256": "61b74604ea9c07e2dd9b204043b86dfac039304b98e3bea06ee5b85b06f55e68"
+    },
+    {
+      "file": "results/tables/fp_growth/itemsets_s0p15.csv",
+      "sha256": "e35bee573e04538b09250ba88b13633f96a8cdcb583879099271c32f2bdb3715"
+    },
+    {
+      "file": "results/tables/fp_growth/itemsets_s0p20.csv",
+      "sha256": "fe993dced975ee6cddcbffdc0d5f487b02a96799dac13f4d17e548319fc284c5"
+    },
+    {
+      "file": "results/tables/fp_growth/occupancy_rules.csv",
+      "sha256": "5d0ee3160d4fe5605531c00fc757d3b91e835acb3b4ec260ee82181ba51d1265"
+    },
+    {
+      "file": "results/tables/fp_growth/parameter_comparison.csv",
+      "sha256": "1c501a5cbd07e0216a87778d3a1c085535dabdb769d919326abdc706da226390"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p05_c0.60.csv",
+      "sha256": "00ea9e06fc83da15e50e8e527e17fb77321cecb4126ec17556dbe6e35e38dfce"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p05_c0.70.csv",
+      "sha256": "fc759422f456291ee9de5b70422a78dd315a9a0f3495f7b59eb1a29785ab9741"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p05_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p10_c0.60.csv",
+      "sha256": "229af542a8d3971d9554a7eef8b322b97b3d0c306db45232491f4d4346f1fb5d"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p10_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p10_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p15_c0.60.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p15_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p15_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p20_c0.60.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p20_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p20_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/run_summary.json",
+      "sha256": "afe88e558db76c7689440dee8d31651aa70e334f27b40adc11620525775185f0"
+    }
+  ]
+}

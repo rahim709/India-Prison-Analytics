@@ -1,0 +1,4123 @@
+source_record,state_name,year,vocational_trainings_program,inmates_trained
+2,Andhra Pradesh,2001,Steel unit,270
+3,Andhra Pradesh,2001,Phenyl,9
+4,Andhra Pradesh,2001,Soap unit,115
+5,Andhra Pradesh,2001,Weaving,328
+6,Andhra Pradesh,2001,Tailoring unit,122
+7,Andhra Pradesh,2001,Durry unit,337
+8,Andhra Pradesh,2001,Dyeing unit,73
+9,Andhra Pradesh,2001,Printing unit,143
+10,Andhra Pradesh,2001,Coir,65
+11,Andhra Pradesh,2001,Book binding,4
+12,Andhra Pradesh,2001,House wiring,6
+13,Andhra Pradesh,2001,Plumbing,3
+14,Andhra Pradesh,2001,Others,23
+15,Andhra Pradesh,2002,Steel,530
+16,Andhra Pradesh,2002,Phenyl,16
+17,Andhra Pradesh,2002,Soap,9
+18,Andhra Pradesh,2002,Weaving,126
+19,Andhra Pradesh,2002,Tailoring,90
+20,Andhra Pradesh,2002,Durry,23
+21,Andhra Pradesh,2002,Coir,92
+22,Andhra Pradesh,2002,Book binding,22
+23,Andhra Pradesh,2002,Cotton tape,16
+24,Andhra Pradesh,2002,Tooth powder,160
+25,Andhra Pradesh,2002,Chalk piece,116
+26,Andhra Pradesh,2002,Others,35
+27,Andhra Pradesh,2003,Masonry,56
+28,Andhra Pradesh,2003,Plumber,25
+29,Andhra Pradesh,2003,Electrician,31
+30,Andhra Pradesh,2004,Steel unit,405
+31,Andhra Pradesh,2004,Steel unit,405
+32,Andhra Pradesh,2004,Phenyl,8
+33,Andhra Pradesh,2004,Durry unit,70
+34,Andhra Pradesh,2004,Soap unit,8
+35,Andhra Pradesh,2004,Weaving,141
+36,Andhra Pradesh,2004,Dyeing unit,6
+37,Andhra Pradesh,2004,DTP,2
+38,Andhra Pradesh,2004,Book binding,10
+39,Andhra Pradesh,2004,Carpentry unit,5
+40,Andhra Pradesh,2004,Tooth powder unit,10
+41,Andhra Pradesh,2004,Chalk piece unit,10
+42,Andhra Pradesh,2004,Candle making,5
+43,Andhra Pradesh,2004,Amber charka,19
+44,Andhra Pradesh,2004,Coir making unit,11
+45,Andhra Pradesh,2004,Cover making,10
+46,Andhra Pradesh,2004,Electrical,6
+47,Andhra Pradesh,2005,Steel unit,808
+48,Andhra Pradesh,2005,Phenyl,7
+49,Andhra Pradesh,2005,Durry unit,370
+50,Andhra Pradesh,2005,Soap,11
+51,Andhra Pradesh,2005,Weaving,320
+52,Andhra Pradesh,2005,Tailoring,116
+53,Andhra Pradesh,2005,Dyeing,7
+54,Andhra Pradesh,2005,Black smithy,66
+55,Andhra Pradesh,2005,DTP,12
+56,Andhra Pradesh,2005,Book binding,11
+57,Andhra Pradesh,2005,Carpentry,26
+58,Andhra Pradesh,2005,Electrical Motor Winding,7
+59,Andhra Pradesh,2005,Tooth powder,10
+60,Andhra Pradesh,2005,Candle,5
+61,Andhra Pradesh,2005,Chalk,5
+62,Andhra Pradesh,2005,Coir mat,10
+63,Andhra Pradesh,2005,Cover making,17
+64,Andhra Pradesh,2005,Amber charka,17
+65,Andhra Pradesh,2005,Masonry,30
+66,Andhra Pradesh,2005,Plumber,30
+67,Andhra Pradesh,2005,Electrician,30
+68,Andhra Pradesh,2006,Amber charka,17
+69,Andhra Pradesh,2006,Book binding,6
+70,Andhra Pradesh,2006,Candle unit,10
+71,Andhra Pradesh,2006,Carpentry,12
+72,Andhra Pradesh,2006,Chalkpiece,10
+73,Andhra Pradesh,2006,Coir making unit,97
+74,Andhra Pradesh,2006,Cover making,17
+75,Andhra Pradesh,2006,DTP,7
+76,Andhra Pradesh,2006,Durry unit,38
+77,Andhra Pradesh,2006,Dyeing,18
+78,Andhra Pradesh,2006,Electrical Motor Winding,18
+79,Andhra Pradesh,2006,Embroidery Unit,20
+80,Andhra Pradesh,2006,Steel unit,154
+81,Andhra Pradesh,2006,Tailoring,57
+82,Andhra Pradesh,2006,Tooth powder,10
+83,Andhra Pradesh,2006,Weaving unit,152
+84,Andhra Pradesh,2006,Wire unit,10
+85,Andhra Pradesh,2006,Masonry,30
+86,Andhra Pradesh,2006,Plumber,30
+87,Andhra Pradesh,2006,Electrician,30
+88,Andhra Pradesh,2007,Amber charka,20
+89,Andhra Pradesh,2007,Book binding,12
+90,Andhra Pradesh,2007,Making candles,10
+91,Andhra Pradesh,2007,Carpentry,10
+92,Andhra Pradesh,2007,Coir making unit,45
+93,Andhra Pradesh,2007,Cover making,10
+94,Andhra Pradesh,2007,DTP,5
+95,Andhra Pradesh,2007,Dari weaving,297
+96,Andhra Pradesh,2007,Dyeing,73
+97,Andhra Pradesh,2007,Electrical,60
+98,Andhra Pradesh,2007,Electrical Motor Winding,7
+99,Andhra Pradesh,2007,Embroidery,30
+100,Andhra Pradesh,2007,Masonry,60
+101,Andhra Pradesh,2007,Phenyl,45
+102,Andhra Pradesh,2007,Plumbing,60
+103,Andhra Pradesh,2007,Printing,9
+104,Andhra Pradesh,2007,Soap,128
+105,Andhra Pradesh,2007,Steel unit,488
+106,Andhra Pradesh,2007,Tailoring,172
+107,Andhra Pradesh,2007,Tooth powder,10
+108,Andhra Pradesh,2007,Weaving,463
+109,Andhra Pradesh,2007,Wire men,10
+110,Andhra Pradesh,2008,Amber charka,10
+111,Andhra Pradesh,2008,Book binding,37
+112,Andhra Pradesh,2008,Others (candle making),10
+113,Andhra Pradesh,2008,Carpentry,13
+114,Andhra Pradesh,2008,Coir making unit,85
+115,Andhra Pradesh,2008,Cover making,10
+116,Andhra Pradesh,2008,DTP,10
+117,Andhra Pradesh,2008,Dari making,156
+118,Andhra Pradesh,2008,Dyeing,29
+119,Andhra Pradesh,2008,Electrical Motor Winding,10
+120,Andhra Pradesh,2008,Embroidery,25
+121,Andhra Pradesh,2008,Masonry,43
+122,Andhra Pradesh,2008,Plumbing,30
+123,Andhra Pradesh,2008,Printing,10
+124,Andhra Pradesh,2008,Steel unit,914
+125,Andhra Pradesh,2008,Soap unit,16
+126,Andhra Pradesh,2008,Tailoring,107
+127,Andhra Pradesh,2008,Tooth powder,10
+128,Andhra Pradesh,2008,Weaving unit,271
+129,Andhra Pradesh,2008,Welding,31
+130,Andhra Pradesh,2008,Wire unit,10
+131,Andhra Pradesh,2009,Book binding,86
+132,Andhra Pradesh,2009,Other (candle making unit),10
+133,Andhra Pradesh,2009,Coir making unit,83
+134,Andhra Pradesh,2009,Masonry,756
+135,Andhra Pradesh,2009,Plumbing & sanitation,145
+136,Andhra Pradesh,2009,Printing & decorators,131
+137,Andhra Pradesh,2009,Steel,1169
+138,Andhra Pradesh,2009,Tailoring,140
+139,Andhra Pradesh,2009,Tooth powder,15
+140,Andhra Pradesh,2009,Weaving,351
+141,Andhra Pradesh,2009,Welding,51
+142,Andhra Pradesh,2009,Electrical & house wiring,117
+143,Andhra Pradesh,2009,Soap & phenyle,8
+144,Andhra Pradesh,2009,Pillows,68
+145,Andhra Pradesh,2009,Chalk piece,10
+146,Andhra Pradesh,2009,Woolen,10
+147,Andhra Pradesh,2009,Italian lace making,65
+148,Andhra Pradesh,2009,Painting & decorators,416
+149,Andhra Pradesh,2009,Automobile mechanic,22
+150,Andhra Pradesh,2009,Refrigeration & air condition,18
+151,Andhra Pradesh,2009,Computer (ms office),137
+152,Andhra Pradesh,2009,Computer (dtp),95
+153,Andhra Pradesh,2010,Amber charka,102
+154,Andhra Pradesh,2010,Book binding,33
+155,Andhra Pradesh,2010,Cover making,220
+156,Andhra Pradesh,2010,DTP,5
+157,Andhra Pradesh,2010,Handloom (durry unit),1181
+158,Andhra Pradesh,2010,Dying,225
+159,Andhra Pradesh,2010,Tailoring,619
+160,Andhra Pradesh,2010,Tooth powder,45
+161,Andhra Pradesh,2010,Pillows,60
+162,Andhra Pradesh,2010,Weaving,1487
+163,Andhra Pradesh,2011,Plumbing & sanitation,537
+164,Andhra Pradesh,2011,Masonry,973
+165,Andhra Pradesh,2011,Book binding,16
+166,Andhra Pradesh,2011,Weaving (durry making),62
+167,Andhra Pradesh,2011,Dying,22
+168,Andhra Pradesh,2011,Soap making,13
+169,Andhra Pradesh,2011,Steel manufacturing,231
+170,Andhra Pradesh,2011,Tailoring and embroidary,133
+171,Andhra Pradesh,2011,Weaving,134
+172,Andhra Pradesh,2011,Paper plate making,20
+173,Andhra Pradesh,2011,Painting and decoration,254
+174,Andhra Pradesh,2011,Electrical house & motor wiring,308
+175,Andhra Pradesh,2011,Coir making unit,70
+176,Andhra Pradesh,2011,Cover making,10
+177,Andhra Pradesh,2011,Bakery unit,33
+178,Andhra Pradesh,2011,Computer,75
+179,Andhra Pradesh,2011,Lab technician,20
+180,Andhra Pradesh,2011,Carpentry,2
+181,Andhra Pradesh,2011,Tooth powder making,20
+182,Andhra Pradesh,2011,Other (candle making),10
+183,Andhra Pradesh,2011,Woolen unit,20
+184,Andhra Pradesh,2012,Plumbing/sanitation,219
+185,Andhra Pradesh,2012,Masonry,419
+186,Andhra Pradesh,2012,Book binding,3
+187,Andhra Pradesh,2012,Weaving (durry making),74
+188,Andhra Pradesh,2012,Dying,24
+189,Andhra Pradesh,2012,Soap making,6
+190,Andhra Pradesh,2012,Steel manufacturing,349
+191,Andhra Pradesh,2012,Tailoring/embroidery,141
+192,Andhra Pradesh,2012,Weaving,125
+193,Andhra Pradesh,2012,Paper plate making,20
+194,Andhra Pradesh,2012,Painting/decoration,211
+195,Andhra Pradesh,2012,Electrical house/motor wiring,67
+196,Andhra Pradesh,2012,Coir making unit,85
+197,Andhra Pradesh,2012,Cover making,10
+198,Andhra Pradesh,2012,Bakery unit,23
+199,Andhra Pradesh,2012,Nac,58
+200,Andhra Pradesh,2012,Computer,18
+201,Andhra Pradesh,2012,Lab technician,20
+202,Andhra Pradesh,2012,Carpentry,101
+203,Andhra Pradesh,2012,Tooth powder making,5
+204,Andhra Pradesh,2012,Others (candle making unit),5
+205,Andhra Pradesh,2012,Woolen unit,10
+206,Arunachal Pradesh,2009,Nil,0
+207,Arunachal Pradesh,2010,Nil,0
+208,Arunachal Pradesh,2012,Gardening,3
+209,Arunachal Pradesh,2012,Mora making,4
+210,Assam,2001,Weaving,55
+211,Assam,2001,Carpentry,9
+212,Assam,2001,Tailoring,21
+213,Assam,2001,Bamboo & cane,74
+214,Assam,2001,Black smithy,15
+215,Assam,2001,Handloom,8
+216,Assam,2002,Weaving,56
+217,Assam,2002,Carpentry,2
+218,Assam,2002,Tailoring,31
+219,Assam,2002,Bamboo & cane,82
+220,Assam,2002,Type writing,7
+221,Assam,2002,Black smith,16
+222,Assam,2002,Soap making,3
+223,Assam,2002,Handloom,6
+224,Assam,2002,Radio mechanic,7
+225,Assam,2003,Weaving,79
+226,Assam,2003,Carpentry,7
+227,Assam,2003,Tailoring,48
+228,Assam,2003,Bamboo & cane,55
+229,Assam,2003,Black smithy,12
+230,Assam,2003,Handloom,6
+231,Assam,2003,Radio mechanic,11
+232,Assam,2004,Weaving,82
+233,Assam,2004,Carpentry,7
+234,Assam,2004,Tailoring,43
+235,Assam,2004,Bamboo & cane,67
+236,Assam,2004,Black smithy,12
+237,Assam,2004,Handloom,9
+238,Assam,2004,Radio mechanic,6
+239,Assam,2005,Weaving,61
+240,Assam,2005,Carpentry,7
+241,Assam,2005,Tailoring,46
+242,Assam,2005,Bamboo & cane,140
+243,Assam,2005,Black smithy,11
+244,Assam,2005,Handloom,7
+245,Assam,2005,Radio mechanic,4
+246,Assam,2006,Weaving,61
+247,Assam,2006,Carpentry,7
+248,Assam,2006,Tailoring,25
+249,Assam,2006,Bamboo & cane,86
+250,Assam,2006,Blacksmithy,12
+251,Assam,2006,Handloom,7
+252,Assam,2006,Others,164
+253,Assam,2007,Weaving,78
+254,Assam,2007,Carpentry,19
+255,Assam,2007,Tailoring,37
+256,Assam,2007,Blacksmithy,28
+257,Assam,2007,Handloom,3
+258,Assam,2007,Canning,137
+259,Assam,2007,Others,29
+260,Assam,2008,Weaving,82
+261,Assam,2008,Carpentry,21
+262,Assam,2008,Tailoring,45
+263,Assam,2008,Black smithy,35
+264,Assam,2008,Handloom,15
+265,Assam,2008,Canning & bamboo,146
+266,Assam,2008,Others,41
+267,Assam,2009,Weaving,52
+268,Assam,2009,Carpentry,18
+269,Assam,2009,Tailoring,25
+270,Assam,2009,Others (blacksmith),15
+271,Assam,2009,Handloom,10
+272,Assam,2009,Canning & bamboo,156
+273,Assam,2009,Other,34
+274,Assam,2010,Weaving,35
+275,Assam,2010,Carpentry,16
+276,Assam,2010,Tailoring,26
+277,Assam,2010,Others (blacksmith),14
+278,Assam,2010,Handloom,10
+279,Assam,2010,Canning & bamboo,146
+280,Assam,2010,Other,30
+281,Assam,2011,Weaving,38
+282,Assam,2011,Carpentry,17
+283,Assam,2011,Tailoring,21
+284,Assam,2011,Others (blacksmith),12
+285,Assam,2011,Handloom,8
+286,Assam,2011,Can & bamboo,136
+287,Assam,2011,Other,40
+288,Assam,2012,Weaving,54
+289,Assam,2012,Can and bamboo/carpentry,129
+290,Assam,2012,Tailoring,23
+291,Assam,2012,Others (blacksmith),5
+292,Assam,2012,Electrical training,27
+293,Assam,2012,Soap,29
+294,Bihar,2001,Agriculture,216
+295,Bihar,2001,Industries,1791
+296,Bihar,2001,Adult education,522
+297,Bihar,2001,Meditation,175
+298,Bihar,2001,Yoga,717
+299,Bihar,2001,Computer,197
+300,Bihar,2002,Industrial,405
+301,Bihar,2002,Computer,111
+302,Bihar,2002,"Tailoring, knitting & weaving",112
+303,Bihar,2002,Agriculture,70
+304,Bihar,2002,Yoga/teaching/adult education,1289
+305,Bihar,2003,Agriculture,107
+306,Bihar,2003,Industrial,379
+307,Bihar,2003,Adult education,197
+308,Bihar,2003,Meditation & yoga programme,1161
+309,Bihar,2003,Art & living,526
+310,Bihar,2003,Aids awarness programme,937
+311,Bihar,2003,Computer,15
+312,Bihar,2003,Weaving & tailoring,12
+313,Bihar,2003,Phenyle & soap making,14
+314,Bihar,2004,Industrial training,326
+315,Bihar,2004,Aids awareness and yoga,992
+316,Bihar,2004,Art of living,585
+317,Bihar,2004,Agriculture,117
+318,Bihar,2004,Tailoring and cutting,35
+319,Bihar,2004,Weaving,13
+320,Bihar,2004,Caustic soap & phenyle making,15
+321,Bihar,2004,Literacy programme,40
+322,Bihar,2005,Industrial training,4063
+323,Bihar,2005,Agricultural,550
+324,Bihar,2005,Aids awareness,1008
+325,Bihar,2005,Art of living,345
+326,Bihar,2005,Literacy programme,418
+327,Bihar,2005,Others,72
+328,Bihar,2006,Industrial training,4142
+329,Bihar,2006,Yoga,1138
+330,Bihar,2006,Art of living,242
+331,Bihar,2006,Aids awareness,180
+332,Bihar,2006,"Embroidary, cutting, typing",134
+333,Bihar,2007,Industrial training,3973
+334,Bihar,2007,Yoga & meditation,912
+335,Bihar,2007,Art of living,158
+336,Bihar,2007,Aids awareness,223
+337,Bihar,2007,Embroidery,108
+338,Bihar,2008,Industrial training,2672
+339,Bihar,2008,"Embroidery, cutting, typing etc",178
+340,Bihar,2009,Carpentry,55
+341,Bihar,2009,Tailoring,984
+342,Bihar,2009,Handloom,530
+343,Bihar,2009,Powerloom,413
+344,Bihar,2009,Woollen blanket,317
+345,Bihar,2009,Soap & phenyle,42
+346,Bihar,2009,Tent making,110
+347,Bihar,2009,Aluminium utensil,16
+348,Bihar,2009,Others (blacksmith),68
+349,Bihar,2010,Carpentry,51
+350,Bihar,2010,Tailoring,936
+351,Bihar,2010,Handloom,541
+352,Bihar,2010,Powerloom,401
+353,Bihar,2010,Woolen,415
+354,Bihar,2010,Soap & phenyl making,40
+355,Bihar,2010,Tent making,125
+356,Bihar,2010,Aluminium,12
+357,Bihar,2010,Others (blacksmith),70
+358,Bihar,2010,"Embroidery, cutting, typing, etc",270
+359,Bihar,2011,Agriculture,40
+360,Bihar,2011,Atta chakki milling,10
+361,Bihar,2011,Carpentry,7
+362,Bihar,2011,Charkha suta katai,25
+363,Bihar,2011,Computer training,240
+364,Bihar,2011,Cutting and stitching cloths,65
+365,Bihar,2011,Embroidery training,57
+366,Bihar,2011,Industries,25
+367,Bihar,2011,Mushroom training,37
+368,Bihar,2011,Others (blacksmith),3
+369,Bihar,2011,Practical training in jail industry,189
+370,Bihar,2011,"Prayas as candle, needle, phenyle, etc.",200
+371,Bihar,2011,"Prayas as mithila painting, tailoring",75
+372,Bihar,2011,Sewing centre,53
+373,Bihar,2011,Soap & phenyle,21
+374,Bihar,2011,Tailoring,85
+375,Bihar,2011,Tent/tamboo making,55
+376,Bihar,2011,Type writing,87
+377,Bihar,2011,"Weaving (cotton, carpet, kalin)",21
+378,Bihar,2011,Weaving (woolen),12
+379,Bihar,2011,Weaving handloom cloths,30
+380,Bihar,2012,Computer,238
+381,Bihar,2012,Tailoring and stitching,23
+382,Bihar,2012,Tent and tamboo making,44
+383,Bihar,2012,Tailoring,19
+384,Bihar,2012,"Weaving (cotton, carpet & kalin)",19
+385,Bihar,2012,Carpentry,8
+386,Bihar,2012,Others (blacksmith),4
+387,Bihar,2012,Soap & phenyle manufacturing,8
+388,Bihar,2012,Woolen wearing,9
+389,Bihar,2012,Soap (caustic soap production),15
+390,Bihar,2012,Soap (phenyle production training),9
+391,Bihar,2012,Weaving handloom cloths,45
+392,Bihar,2012,Charkha suta katai,26
+393,Bihar,2012,Tailoring (sewing centre),15
+394,Bihar,2012,Atta chakki milling,8
+395,Bihar,2012,Embroidery training,22
+396,Bihar,2012,Mushroom training,25
+397,Bihar,2012,Typing training,35
+398,Bihar,2012,Computer training,65
+399,Bihar,2012,Embroidery,22
+400,Bihar,2012,Tailoring (stitching and cutting),25
+401,Bihar,2012,Mushroom production,5
+402,Bihar,2012,Bee keeping,9
+403,Bihar,2012,Poultry farm,15
+404,Bihar,2012,Vermi compost,6
+405,Bihar,2012,Keep and watch of fruit and vegetable,2
+406,Bihar,2012,Weaving (uniform),2
+407,Bihar,2012,Crech kendra for children,2
+408,Bihar,2012,Computer training,120
+409,Bihar,2012,Tailoring,41
+410,Bihar,2012,Embroidery,7
+411,Bihar,2012,Typing,92
+412,Bihar,2012,Practical training in jail industry,223
+413,Bihar,2012,Saksharta karyakaram,155
+414,Bihar,2012,Computer training,15
+415,Bihar,2012,Computer data entry training,75
+416,Bihar,2012,Tailoring (cutting and stiching cloths),20
+417,Bihar,2012,Computer training,20
+418,Bihar,2012,Type writing,19
+419,Bihar,2012,Tailoring (stitch training),16
+420,Bihar,2012,Computer training,35
+421,Bihar,2012,Tailoring (sewing training),5
+422,Bihar,2012,Computer data entry training,10
+423,Bihar,2012,Computer training,15
+424,Bihar,2012,Tailoring,15
+425,Bihar,2012,Mushroom cultivation training,150
+426,Bihar,2012,Computer training,120
+427,Chhattisgarh,2012,Tailoring,199
+428,Chhattisgarh,2012,Carpentry,160
+429,Chhattisgarh,2012,Screen printing,94
+430,Chhattisgarh,2012,Embroidery,43
+431,Chhattisgarh,2012,Bamboo craft,15
+432,Chhattisgarh,2012,Steel work,13
+433,Chhattisgarh,2012,Weaving work,239
+434,Chhattisgarh,2012,Terracoata,18
+435,Chhattisgarh,2012,Wooden carving,41
+436,Chhattisgarh,2012,Offset printing,37
+437,Chhattisgarh,2012,Soap (washing powder),38
+438,Chhattisgarh,2012,Chalk/masala,19
+439,Chhattisgarh,2012,Weaving (nylon dari),24
+440,Chhattisgarh,2012,Bend,27
+441,Chhattisgarh,2012,Cloth press,4
+442,Chhattisgarh,2012,Knitting industry,30
+443,Chhattisgarh,2012,Others (blacksmith),39
+444,Chhattisgarh,2001,Weaving,703
+445,Chhattisgarh,2001,Printing,26
+446,Chhattisgarh,2001,Others,63
+447,Chhattisgarh,2001,Metal,37
+448,Chhattisgarh,2001,Sewing,62
+449,Chhattisgarh,2001,Jute,80
+450,Chhattisgarh,2001,Soap,20
+451,Chhattisgarh,2001,"Carpentry, idol",597
+452,Chhattisgarh,2002,Weaving,930
+453,Chhattisgarh,2002,Printing,31
+454,Chhattisgarh,2002,Wood work,254
+455,Chhattisgarh,2002,Metal industry,80
+456,Chhattisgarh,2002,Tailoring,83
+457,Chhattisgarh,2002,Soap,22
+458,Chhattisgarh,2002,Jute,95
+459,Chhattisgarh,2002,Spice,3
+460,Chhattisgarh,2002,Knitting,468
+461,Chhattisgarh,2002,Laundry,26
+462,Chhattisgarh,2002,Kosa,54
+463,Chhattisgarh,2003,Laundry,24
+464,Chhattisgarh,2003,Dari making,745
+465,Chhattisgarh,2003,Tailoring,148
+466,Chhattisgarh,2003,Metal works,149
+467,Chhattisgarh,2003,Ivory,185
+468,Chhattisgarh,2003,Carpentry,386
+469,Chhattisgarh,2003,Terracoata,55
+470,Chhattisgarh,2003,Bal metal,81
+471,Chhattisgarh,2003,Spice,25
+472,Chhattisgarh,2003,Bamboo work,52
+473,Chhattisgarh,2003,Art & crafts,156
+474,Chhattisgarh,2003,Screen printing,71
+475,Chhattisgarh,2003,Knitting & weaving,190
+476,Chhattisgarh,2003,Soap making,20
+477,Chhattisgarh,2003,Jute,50
+478,Chhattisgarh,2003,Band,30
+479,Chhattisgarh,2003,Tatpatti,30
+480,Chhattisgarh,2004,Washerman,67
+481,Chhattisgarh,2004,Dari,1621
+482,Chhattisgarh,2004,Sewing,96
+483,Chhattisgarh,2004,Metal works,199
+484,Chhattisgarh,2004,Ivory,1199
+485,Chhattisgarh,2004,Carpentry,42
+486,Chhattisgarh,2004,Terracoata,157
+487,Chhattisgarh,2004,Bal metal,30
+488,Chhattisgarh,2004,Spices,308
+489,Chhattisgarh,2004,Embroidry,20
+490,Chhattisgarh,2004,Bamboo work,214
+491,Chhattisgarh,2004,Marwahi art,214
+492,Chhattisgarh,2004,Screen printing,101
+493,Chhattisgarh,2004,Knitting,189
+494,Chhattisgarh,2004,Soap,11
+495,Chhattisgarh,2004,Jute,45
+496,Chhattisgarh,2004,Band,24
+497,Chhattisgarh,2004,Gona patti,18
+498,Chhattisgarh,2004,Phenyl,6
+499,Chhattisgarh,2005,Electronics,38
+500,Chhattisgarh,2005,Pathology,18
+501,Chhattisgarh,2005,Sweing,209
+502,Chhattisgarh,2005,Metal works,54
+503,Chhattisgarh,2005,Ivory,295
+504,Chhattisgarh,2005,Carpentry,42
+505,Chhattisgarh,2005,Terracoata,12
+506,Chhattisgarh,2005,Bail metal,9
+507,Chhattisgarh,2005,Spices,12
+508,Chhattisgarh,2005,Kikati,63
+509,Chhattisgarh,2005,Bamboo,35
+510,Chhattisgarh,2005,Marwahi art,23
+511,Chhattisgarh,2005,Screen printing,87
+512,Chhattisgarh,2005,Knitting,226
+513,Chhattisgarh,2005,Soap/washing powder,23
+514,Chhattisgarh,2005,Chalk,6
+515,Chhattisgarh,2005,Band,29
+516,Chhattisgarh,2005,Tatpatti,22
+517,Chhattisgarh,2005,Sheeshal,40
+518,Chhattisgarh,2005,Jute,14
+519,Chhattisgarh,2006,Washermanship,4
+520,Chhattisgarh,2006,Chalk making,8
+521,Chhattisgarh,2006,Tailoring,153
+522,Chhattisgarh,2006,Blacksmithy,29
+523,Chhattisgarh,2006,Wood crafting,81
+524,Chhattisgarh,2006,Carpentary,112
+525,Chhattisgarh,2006,Electronics,41
+526,Chhattisgarh,2006,Sculpture,43
+527,Chhattisgarh,2006,Spice making,1
+528,Chhattisgarh,2006,Bamboo craft,15
+529,Chhattisgarh,2006,Candle making,4
+530,Chhattisgarh,2006,Screen printing,87
+531,Chhattisgarh,2006,Knitting,165
+532,Chhattisgarh,2006,Embroidary,8
+533,Chhattisgarh,2006,Washing power making,3
+534,Chhattisgarh,2006,Others,149
+535,Chhattisgarh,2007,Washermanship,4
+536,Chhattisgarh,2007,Chalk,13
+537,Chhattisgarh,2007,Tailoring,131
+538,Chhattisgarh,2007,Blacksmithy,77
+539,Chhattisgarh,2007,Wood work,253
+540,Chhattisgarh,2007,Terracoata,5
+541,Chhattisgarh,2007,Nylon thread spinning,32
+542,Chhattisgarh,2007,Electronics,12
+543,Chhattisgarh,2007,Spice making,18
+544,Chhattisgarh,2007,Bamboo work,19
+545,Chhattisgarh,2007,Making candles,10
+546,Chhattisgarh,2007,Screen printing,102
+547,Chhattisgarh,2007,Weaving,232
+548,Chhattisgarh,2007,Embroidery,21
+549,Chhattisgarh,2007,Soap,9
+550,Chhattisgarh,2008,Band training,15
+551,Chhattisgarh,2008,Bans shilps,5
+552,Chhattisgarh,2008,Black smithy,52
+553,Chhattisgarh,2008,Others (candle making),4
+554,Chhattisgarh,2008,Carpentry,136
+555,Chhattisgarh,2008,Chalk industry,21
+556,Chhattisgarh,2008,Embroidery,19
+557,Chhattisgarh,2008,Jute craft,10
+558,Chhattisgarh,2008,Masala,19
+559,Chhattisgarh,2008,Nylon dari,11
+560,Chhattisgarh,2008,Printing,9
+561,Chhattisgarh,2008,Screen printing,28
+562,Chhattisgarh,2008,Soap,2
+563,Chhattisgarh,2008,Tailoring,111
+564,Chhattisgarh,2008,Terracoata,5
+565,Chhattisgarh,2008,Washing powder,8
+566,Chhattisgarh,2008,Weaving,118
+567,Chhattisgarh,2008,Wooden,57
+568,Chhattisgarh,2008,Offset printing,36
+569,Chhattisgarh,2009,Wooden art,147
+570,Chhattisgarh,2009,Tailoring,148
+571,Chhattisgarh,2009,Weaving,122
+572,Chhattisgarh,2009,Masala,9
+573,Chhattisgarh,2009,Screen printing,54
+574,Chhattisgarh,2009,Offset printing,38
+575,Chhattisgarh,2009,Betmetal,20
+576,Chhattisgarh,2009,Terracoata,20
+577,Chhattisgarh,2009,Embroidery,38
+578,Chhattisgarh,2009,Others (blacksmith),77
+579,Chhattisgarh,2009,Soap & washing powder,26
+580,Chhattisgarh,2009,Nylon,14
+581,Chhattisgarh,2009,Band training,26
+582,Chhattisgarh,2009,Jute art,8
+583,Chhattisgarh,2009,Tatpatti,20
+584,Chhattisgarh,2009,Bamboo art,31
+585,Chhattisgarh,2009,Sweep making,20
+586,Chhattisgarh,2010,Bamboo art,20
+587,Chhattisgarh,2010,Band training,15
+588,Chhattisgarh,2010,Others (blacksmith),36
+589,Chhattisgarh,2010,Others (candle),4
+590,Chhattisgarh,2010,Carpentry,68
+591,Chhattisgarh,2010,Chalk,4
+592,Chhattisgarh,2010,Embroidery,33
+593,Chhattisgarh,2010,Masala,8
+594,Chhattisgarh,2010,Nylon doi,13
+595,Chhattisgarh,2010,Offset printing,36
+596,Chhattisgarh,2010,Printing,41
+597,Chhattisgarh,2010,Screen,5
+598,Chhattisgarh,2010,Screen printing,9
+599,Chhattisgarh,2010,Soap,26
+600,Chhattisgarh,2010,Steel furniture,4
+601,Chhattisgarh,2010,Sweeping,20
+602,Chhattisgarh,2010,Tailoring,124
+603,Chhattisgarh,2010,Tatpatti,20
+604,Chhattisgarh,2010,Soap & washing powder,8
+605,Chhattisgarh,2010,Weaving,202
+606,Chhattisgarh,2010,Wooden,63
+607,Chhattisgarh,2010,Bamboo art,7
+608,Chhattisgarh,2010,Belmetal,20
+609,Chhattisgarh,2010,Others (blacksmith),20
+610,Chhattisgarh,2010,Eaving,10
+611,Chhattisgarh,2010,Tailoring,10
+612,Chhattisgarh,2010,Tailoring,20
+613,Chhattisgarh,2010,Teddy bear,20
+614,Chhattisgarh,2010,Weaving,20
+615,Chhattisgarh,2010,Wooden,20
+616,Chhattisgarh,2011,Weaving,207
+617,Chhattisgarh,2011,Sewing,128
+618,Chhattisgarh,2011,Soap and washing powder,49
+619,Chhattisgarh,2011,Iron and aluminium,32
+620,Chhattisgarh,2011,Carpentry,154
+621,Chhattisgarh,2011,Wood carving,29
+622,Chhattisgarh,2011,Kitchen masala,10
+623,Chhattisgarh,2011,Printing,66
+624,Chhattisgarh,2011,Screen printing,28
+625,Chhattisgarh,2011,Music band,31
+626,Chhattisgarh,2011,Chalk making,5
+627,Chhattisgarh,2011,Bans shilps,11
+628,Chhattisgarh,2011,Embroidery,31
+629,Chhattisgarh,2011,Nylon dori,18
+630,Chhattisgarh,2011,Others (candal),8
+631,Chhattisgarh,2011,Steel furniture,9
+632,Goa,2001,Horticulture,6
+633,Goa,2001,Tailoring,10
+634,Goa,2001,Carpentry,12
+635,Goa,2001,Bakery,6
+636,Goa,2002,Agro horticulture,4
+637,Goa,2002,Literacy programme,30
+638,Goa,2002,Sudharshan kriya,25
+639,Goa,2002,Tailoring,10
+640,Goa,2002,Carpentry,7
+641,Goa,2002,Paper bags,3
+642,Goa,2002,Gardening,8
+643,Goa,2002,Bakery,4
+644,Goa,2003,Agro horticulture,10
+645,Goa,2003,Carpentry,4
+646,Goa,2003,Tailoring,10
+647,Goa,2003,Bakery,4
+648,Goa,2004,Carpentry,5
+649,Goa,2004,Tailoring,5
+650,Goa,2004,Agro horticulture,9
+651,Goa,2004,Paper bags,4
+652,Goa,2005,Carpentry,13
+653,Goa,2005,Tailoring,19
+654,Goa,2005,Gardening,21
+655,Goa,2005,Craft,5
+656,Goa,2005,Paper bags,6
+657,Goa,2005,Agro horticulture,5
+658,Goa,2006,Carpentry,19
+659,Goa,2006,Tailoring,17
+660,Goa,2006,Gardening,7
+661,Goa,2006,Craft,5
+662,Goa,2006,Paper bags making,6
+663,Goa,2006,Agro horticulture,5
+664,Goa,2007,Carpentry,15
+665,Goa,2007,Tailoring,19
+666,Goa,2007,Gardening,6
+667,Goa,2007,Craft,6
+668,Goa,2007,Paper bags making,10
+669,Goa,2007,Agriculture,5
+670,Goa,2008,Carpentry,20
+671,Goa,2008,Tailoring,20
+672,Goa,2008,Craft,10
+673,Goa,2008,Paper bags,10
+674,Goa,2008,Agriculture,10
+675,Goa,2009,Tailoring,11
+676,Goa,2009,Carpentary,6
+677,Goa,2009,Others (hand craft),7
+678,Goa,2009,Book binding,10
+679,Goa,2009,Bey worker,8
+680,Goa,2009,Other (candle making),2
+681,Goa,2009,Bakery,4
+682,Goa,2010,Complete training programme,8
+683,Goa,2010,Gardening,12
+684,Goa,2010,Tailoring,6
+685,Goa,2010,Others (candle making),2
+686,Goa,2010,Others (hand craft),7
+687,Goa,2010,Book binding,8
+688,Goa,2011,Computer training programme,6
+689,Goa,2011,Gardening,14
+690,Goa,2011,Tailoring,8
+691,Goa,2011,Book binding,8
+692,Goa,2011,Other (candle making),2
+693,Goa,2011,Other (handicraft),7
+694,Goa,2012,Computer training programme,46
+695,Goa,2012,Gardening,12
+696,Goa,2012,Tailoring,8
+697,Goa,2012,Book binding,16
+698,Goa,2012,Others (candle making),2
+699,Goa,2012,Bakery,16
+700,Goa,2012,Art section,10
+701,Goa,2012,Others (hand craft),7
+702,Gujarat,2001,Carpentry,210
+703,Gujarat,2001,Weaving,40
+704,Gujarat,2001,Chemical,20
+705,Gujarat,2001,Tailoring,40
+706,Gujarat,2001,Leathering,10
+707,Gujarat,2001,Bakery,7
+708,Gujarat,2001,Wire men,53
+709,Gujarat,2001,Scooter repairing,24
+710,Gujarat,2001,Vipshyana,154
+711,Gujarat,2001,Instrument repairing,39
+712,Gujarat,2002,Carpentry,191
+713,Gujarat,2002,Weaving,297
+714,Gujarat,2002,Printing,75
+715,Gujarat,2002,Agriculture,143
+716,Gujarat,2002,Bakery,92
+717,Gujarat,2002,Chemical,17
+718,Gujarat,2003,Carpentry,207
+719,Gujarat,2003,Weaving,354
+720,Gujarat,2003,Printing,114
+721,Gujarat,2003,Agriculture,150
+722,Gujarat,2003,Bakery,70
+723,Gujarat,2003,Chemical,16
+724,Gujarat,2003,Tailoring,146
+725,Gujarat,2004,Carpentry,194
+726,Gujarat,2004,Weaving,415
+727,Gujarat,2004,Printing,121
+728,Gujarat,2004,Agriculture,155
+729,Gujarat,2004,Bakery,69
+730,Gujarat,2004,Chemical,36
+731,Gujarat,2004,Tailoring,174
+732,Gujarat,2004,Leather,14
+733,Gujarat,2005,Carpentry,204
+734,Gujarat,2005,Weaving,430
+735,Gujarat,2005,Printing,120
+736,Gujarat,2005,Agricultural,158
+737,Gujarat,2005,Bakery,72
+738,Gujarat,2005,Chemical,37
+739,Gujarat,2005,Tailoring,175
+740,Gujarat,2005,Leather,15
+741,Gujarat,2006,Carpentry section,1317
+742,Gujarat,2006,Weaving section,1203
+743,Gujarat,2006,Printing section,384
+744,Gujarat,2006,Bakery section,177
+745,Gujarat,2006,Chemical section,258
+746,Gujarat,2006,Tailoring section,761
+747,Gujarat,2006,Leather section,173
+748,Gujarat,2007,Carpentry,1559
+749,Gujarat,2007,Weaving,1009
+750,Gujarat,2007,Printing,802
+751,Gujarat,2007,Bakery,311
+752,Gujarat,2007,Chemical,186
+753,Gujarat,2007,Tailoring,979
+754,Gujarat,2007,Leather section,57
+755,Gujarat,2008,Carpentry section,1626
+756,Gujarat,2008,Weaving section,917
+757,Gujarat,2008,Printing,889
+758,Gujarat,2008,Bakery,296
+759,Gujarat,2008,Chemical section,190
+760,Gujarat,2008,Tailoring section,458
+761,Gujarat,2008,Leather,125
+762,Gujarat,2009,Carpentry,1693
+763,Gujarat,2009,Weaving,1279
+764,Gujarat,2009,Printing,850
+765,Gujarat,2009,Bakery,167
+766,Gujarat,2009,Chemical,201
+767,Gujarat,2009,Tailoring,271
+768,Gujarat,2009,Leather,475
+769,Gujarat,2009,Washing,168
+770,Gujarat,2010,Carpentry section,1796
+771,Gujarat,2010,Weaving section,1382
+772,Gujarat,2010,Printing section,792
+773,Gujarat,2010,Bakery section,205
+774,Gujarat,2010,Chemical section,168
+775,Gujarat,2010,Tailoring section,284
+776,Gujarat,2010,Leather section,12
+777,Gujarat,2010,Washing,180
+778,Gujarat,2011,Carpentry,1808
+779,Gujarat,2011,Weaving,1396
+780,Gujarat,2011,Printing,630
+781,Gujarat,2011,Bakery,166
+782,Gujarat,2011,Chemical,15
+783,Gujarat,2011,Tailoring,167
+784,Gujarat,2011,Washing,133
+785,Gujarat,2011,Agriculture,66
+786,Gujarat,2012,Carpentry,1634
+787,Gujarat,2012,Weaving,1772
+788,Gujarat,2012,Printing,828
+789,Gujarat,2012,Bakery,175
+790,Gujarat,2012,Chemical,20
+791,Gujarat,2012,Tailoring,187
+792,Gujarat,2012,Washing,154
+793,Gujarat,2012,Agriculture,75
+794,Gujarat,2012,"Vtp (under mes, govt. of india)",210
+795,Gujarat,2012,Computer,383
+796,Gujarat,2012,Beauty parlour,95
+797,Gujarat,2012,Motor cycle repairing,53
+798,Gujarat,2012,"Sewing work, handicraft, making soft toy",22
+799,Gujarat,2012,Jewellery making,30
+800,Gujarat,2012,Hair style,30
+801,Gujarat,2012,Electrician,29
+802,Gujarat,2012,Making papad,10
+803,Gujarat,2012,Baba pithora painting,30
+804,Haryana,2003,Tent,212
+805,Haryana,2003,Carpentry,71
+806,Haryana,2003,Tailoring,127
+807,Haryana,2003,Niwar making,5
+808,Haryana,2003,Cloth weaving,4
+809,Haryana,2003,Atta chakki,13
+810,Haryana,2003,Soap & phenyle,21
+811,Haryana,2003,Black smithy,29
+812,Haryana,2004,Tent,296
+813,Haryana,2004,Carpentry,44
+814,Haryana,2004,Atta chakki,51
+815,Haryana,2004,Soap,13
+816,Haryana,2004,Phenyl,21
+817,Haryana,2004,Tailoring,96
+818,Haryana,2004,Black smithy,34
+819,Haryana,2004,Canning,40
+820,Haryana,2004,Miscellaneous,101
+821,Haryana,2005,Niwar,2
+822,Haryana,2005,Tailoring,12
+823,Haryana,2005,Textile,4
+824,Haryana,2005,Tent,181
+825,Haryana,2005,Carpentry,7
+826,Haryana,2006,Tent making / tailoring,135
+827,Haryana,2006,Carpentary,10
+828,Haryana,2006,Niwar / making / canning,34
+829,Haryana,2006,Misc / agriculture,87
+830,Haryana,2006,Handloom / soap,82
+831,Haryana,2007,Agriculture,76
+832,Haryana,2007,"Tent making, carpentary, niwar making",7
+833,Haryana,2007,Others,283
+834,Haryana,2008,Tent making,105
+835,Haryana,2008,Carpentry,57
+836,Haryana,2008,Niwar making,60
+837,Haryana,2008,Agriculture,90
+838,Haryana,2008,Handloom,26
+839,Haryana,2008,Soap & phenyle,22
+840,Haryana,2008,Welding and drilling,12
+841,Haryana,2008,Tailoring,42
+842,Haryana,2008,Canning,71
+843,Haryana,2009,Tent making,85
+844,Haryana,2009,Carpentary,163
+845,Haryana,2009,Niwar making,63
+846,Haryana,2009,Agriculture,123
+847,Haryana,2009,Handloom,32
+848,Haryana,2009,Soap & phenyle manufacturing,42
+849,Haryana,2009,Welding,250
+850,Haryana,2009,Tailoring,183
+851,Haryana,2009,Canning,103
+852,Haryana,2009,Embroidery,20
+853,Haryana,2009,Electrician,128
+854,Haryana,2009,Turning,131
+855,Haryana,2010,Tent making,120
+856,Haryana,2010,Carpentry,172
+857,Haryana,2010,Niwar making,75
+858,Haryana,2010,Agriculture,146
+859,Haryana,2010,Handloom,50
+860,Haryana,2010,Soap & phenyl making,50
+861,Haryana,2010,Welding,102
+862,Haryana,2010,Tailoring,87
+863,Haryana,2010,Canning,78
+864,Haryana,2010,Embroidary,25
+865,Haryana,2010,Electrician,20
+866,Haryana,2010,Turning,45
+867,Haryana,2010,Stiching,35
+868,Haryana,2010,Paintaining,17
+869,Haryana,2010,Art & crafts,23
+870,Haryana,2010,Others (candle making),56
+871,Haryana,2010,Cooking,15
+872,Haryana,2010,Tripolion stiching,5
+873,Haryana,2010,Others,15
+874,Haryana,2011,Certificate in library science,18
+875,Haryana,2011,Tailoring and dress making,23
+876,Haryana,2011,Carpentry,68
+877,Haryana,2011,Laundry services,8
+878,Haryana,2011,Bakery and confectionary,8
+879,Haryana,2011,Welding technology,5
+880,Haryana,2011,Plant protection,1
+881,Haryana,2011,Catering management,4
+882,Haryana,2011,Plumbing,8
+883,Haryana,2011,Beauty culture,2
+884,Haryana,2011,Indian embroidery,3
+885,Haryana,2011,Tailoring and cutting,23
+886,Haryana,2011,Tailoring,35
+887,Haryana,2011,Welding and drilling,42
+888,Haryana,2011,Canning,58
+889,Haryana,2011,Soap and phenyle,36
+890,Haryana,2011,Computer training,32
+891,Haryana,2011,Electrician training programme,20
+892,Haryana,2011,Powerloom and handloom,10
+893,Haryana,2011,Agriculture,137
+894,Haryana,2011,Handloom,10
+895,Haryana,2011,Niwar making,18
+896,Haryana,2011,Canning etc.,6
+897,Haryana,2011,Tent/tirpolian,80
+898,Haryana,2011,Miscellaneous,12
+899,Haryana,2012,Electrician,24
+900,Haryana,2012,Computer,32
+901,Haryana,2012,Weaving cloth,8
+902,Haryana,2012,Tent making,19
+903,Haryana,2012,Niwar,9
+904,Haryana,2012,Carpentry,13
+905,Haryana,2012,Miscellaneous,10
+906,Haryana,2012,Agro dairy farming 4 days camp,250
+907,Haryana,2012,Bee keeping 4 days camp,40
+908,Haryana,2012,Computer application,6
+909,Haryana,2012,Welding,5
+910,Haryana,2012,Data entry,5
+911,Haryana,2012,Tailoring (cutting & tailoring),9
+912,Haryana,2012,Library science,1
+913,Haryana,2012,Tv repairing,2
+914,Haryana,2012,"Tailoring, knitting & weaving soft toys",15
+915,Haryana,2012,"Aloe-vera products juice, gel, shampoo,",20
+916,Haryana,2012,"Electric motor winding, assembling",5
+917,Haryana,2012,Canning & carpentry,15
+918,Haryana,2012,"Plumbing, welding",5
+919,Haryana,2012,Weaving cloth and spinning of yarn,5
+920,Haryana,2012,Bee keeping,3
+921,Haryana,2012,Vermi compost making,5
+922,Haryana,2012,Certificate in library science,11
+923,Haryana,2012,Certificate in computer application,17
+924,Haryana,2012,Electrical technician,12
+925,Haryana,2012,"Tailoring, cutting & dress making",13
+926,Haryana,2012,Bakery and confectionary,14
+927,Haryana,2012,Welding technology,7
+928,Haryana,2012,Plumbing,12
+929,Haryana,2012,Beauty culture,10
+930,Himachal Pradesh,2001,Weaving,125
+931,Himachal Pradesh,2001,Carpentry,10
+932,Himachal Pradesh,2001,Tailoring,15
+933,Himachal Pradesh,2001,Agriculture,35
+934,Himachal Pradesh,2002,Weaving,52
+935,Himachal Pradesh,2002,Tailoring,16
+936,Himachal Pradesh,2002,Carpentry,23
+937,Himachal Pradesh,2003,Weaving,45
+938,Himachal Pradesh,2003,Tailoring,11
+939,Himachal Pradesh,2003,Carpentry/weilding,30
+940,Himachal Pradesh,2004,Weaving,39
+941,Himachal Pradesh,2004,Carpentry,26
+942,Himachal Pradesh,2004,Tailoring,7
+943,Himachal Pradesh,2004,Welding,3
+944,Himachal Pradesh,2005,Weaving,39
+945,Himachal Pradesh,2005,Carpentry,26
+946,Himachal Pradesh,2005,Tailoring,7
+947,Himachal Pradesh,2005,Welding,3
+948,Himachal Pradesh,2006,Weaving,49
+949,Himachal Pradesh,2006,Carpentry,30
+950,Himachal Pradesh,2006,Tailoring,7
+951,Himachal Pradesh,2006,Welding,4
+952,Himachal Pradesh,2007,Weaving,28
+953,Himachal Pradesh,2007,Carpentry,12
+954,Himachal Pradesh,2007,Tailoring,12
+955,Himachal Pradesh,2007,Welding,4
+956,Himachal Pradesh,2008,Weaving,29
+957,Himachal Pradesh,2008,Carpentry,21
+958,Himachal Pradesh,2008,Welding,1
+959,Himachal Pradesh,2009,Vocational (typing training),2
+960,Himachal Pradesh,2009,Weaving training,27
+961,Himachal Pradesh,2009,Tailoring training,9
+962,Himachal Pradesh,2009,Carpentry training,14
+963,Himachal Pradesh,2009,Welding training,1
+964,Himachal Pradesh,2009,Canning (re-canning training),3
+965,Himachal Pradesh,2010,Tailoring,14
+966,Himachal Pradesh,2010,Knitting,2
+967,Himachal Pradesh,2010,Pine needles,6
+968,Himachal Pradesh,2010,Paper plate making,2
+969,Himachal Pradesh,2010,Canning (re-canning),6
+970,Himachal Pradesh,2010,Welding,2
+971,Himachal Pradesh,2010,Carpentry,11
+972,Himachal Pradesh,2010,Rexen cushan,1
+973,Himachal Pradesh,2010,Weaving,26
+974,Himachal Pradesh,2011,Tailoring,22
+975,Himachal Pradesh,2011,Knitting,4
+976,Himachal Pradesh,2011,Weaving section,80
+977,Himachal Pradesh,2011,Pine needles,10
+978,Himachal Pradesh,2011,Paper plate making,4
+979,Himachal Pradesh,2011,Carpentry section,23
+980,Himachal Pradesh,2012,Weaving section,15
+981,Himachal Pradesh,2012,Tailoring section,6
+982,Himachal Pradesh,2012,Carpentry section,18
+983,Himachal Pradesh,2012,Weaving of shawls and blanket,15
+984,Himachal Pradesh,2012,Agriculture (mushroom cultivation),70
+985,Jammu & Kashmir,2013,Carpentary section,59
+986,Jammu & Kashmir,2013,Other (embroidery),9
+987,Jammu & Kashmir,2013,Handloom,64
+988,Jammu & Kashmir,2013,Others (carpet),21
+989,Jammu & Kashmir,2013,Others (pipe band),24
+990,Jammu & Kashmir,2013,Weavingof clothes,27
+991,Jammu & Kashmir,2013,Others ( tv/fan repairing),13
+992,Jammu & Kashmir,2013,Others ( transformer making),14
+993,Jammu & Kashmir,2013,Others (powerloom),1
+994,Jammu & Kashmir,2013,Others (winder),15
+995,Jammu & Kashmir,2013,Others (gucchi making),2
+996,Jammu & Kashmir,2013,Others (dari making),20
+997,Jammu & Kashmir,2013,Others (electrician),3
+998,Jammu & Kashmir,2013,Others (candle making),12
+999,Jammu & Kashmir,2013,Others (embriodery),25
+1000,Jammu & Kashmir,2013,Others (typing/computer),38
+1001,Jammu & Kashmir,2013,Others (electrician),17
+1002,Jammu & Kashmir,2013,Others (electricain),7
+1003,Jammu & Kashmir,2013,Others (candle making),9
+1004,Jammu & Kashmir,2012,Carpentry section,40
+1005,Jammu & Kashmir,2012,Tailoring section,87
+1006,Jammu & Kashmir,2012,Embroidery section,92
+1007,Jammu & Kashmir,2012,Handloom,69
+1008,Jammu & Kashmir,2012,Others (carpet section),17
+1009,Jammu & Kashmir,2012,Pipe band section,19
+1010,Jammu & Kashmir,2012,Computer trade,6
+1011,Jammu & Kashmir,2012,Transformer electrician,22
+1012,Jammu & Kashmir,2012,Powerloom,3
+1013,Jammu & Kashmir,2012,Winding,20
+1014,Jammu & Kashmir,2012,Tana making,8
+1015,Jammu & Kashmir,2012,Gucchi making,8
+1016,Jammu & Kashmir,2012,Weaving (dari making),25
+1017,Jammu & Kashmir,2012,Electrician,20
+1018,Jammu & Kashmir,2012,Others (candle making),20
+1019,Jammu & Kashmir,2012,Motor winding,5
+1020,Jammu & Kashmir,2012,Type writing,29
+1021,Jammu & Kashmir,2012,Computer,27
+1022,Jammu & Kashmir,2011,Khadi khana,31
+1023,Jammu & Kashmir,2011,Carpentry section,6
+1024,Jammu & Kashmir,2011,Tailoring,10
+1025,Jammu & Kashmir,2011,Embroidary section,86
+1026,Jammu & Kashmir,2011,Cloth printing,2
+1027,Jammu & Kashmir,2011,Other (candle making),36
+1028,Jammu & Kashmir,2011,Jail inmate pipe band,26
+1029,Jammu & Kashmir,2011,Electrician,3
+1030,Jammu & Kashmir,2011,Weaving (durry making),16
+1031,Jammu & Kashmir,2011,Handloom,185
+1032,Jammu & Kashmir,2010,Carpentry trade,27
+1033,Jammu & Kashmir,2010,Electrician,54
+1034,Jammu & Kashmir,2010,Embroidery,8
+1035,Jammu & Kashmir,2010,Transformer winding,4
+1036,Jammu & Kashmir,2010,Nitting,11
+1037,Jammu & Kashmir,2010,Type writing,107
+1038,Jammu & Kashmir,2010,Tailoring,44
+1039,Jammu & Kashmir,2010,Others (candle making),6
+1040,Jammu & Kashmir,2010,Soap making,4
+1041,Jammu & Kashmir,2010,Computer,30
+1042,Jammu & Kashmir,2010,Other trades,109
+1043,Jammu & Kashmir,2009,Carpentary trade,6
+1044,Jammu & Kashmir,2009,Electrician,20
+1045,Jammu & Kashmir,2009,Embroidery,78
+1046,Jammu & Kashmir,2009,Transformer winding,16
+1047,Jammu & Kashmir,2009,Weaving (clothing),450
+1048,Jammu & Kashmir,2009,Type writing,16
+1049,Jammu & Kashmir,2009,Tailoring,25
+1050,Jammu & Kashmir,2009,Other (candle making),26
+1051,Jammu & Kashmir,2008,Carpentry,3
+1052,Jammu & Kashmir,2008,Electrician,4
+1053,Jammu & Kashmir,2008,Type writing,58
+1054,Jammu & Kashmir,2008,Tailoring,29
+1055,Jammu & Kashmir,2008,Others (candle making),10
+1056,Jammu & Kashmir,2007,Carpentry,4
+1057,Jammu & Kashmir,2007,Electrician,10
+1058,Jammu & Kashmir,2007,Motor winding,1
+1059,Jammu & Kashmir,2007,Typing,57
+1060,Jammu & Kashmir,2007,Tailoring,25
+1061,Jammu & Kashmir,2006,Carpentary trade,9
+1062,Jammu & Kashmir,2006,Electrician,27
+1063,Jammu & Kashmir,2006,Radio tv mechanic,3
+1064,Jammu & Kashmir,2006,House wiring,2
+1065,Jammu & Kashmir,2006,Plumber,2
+1066,Jammu & Kashmir,2006,Type writing,121
+1067,Jammu & Kashmir,2006,Tailoring,22
+1068,Jammu & Kashmir,2006,Painting,22
+1069,Jammu & Kashmir,2006,Candle making,18
+1070,Jammu & Kashmir,2005,Carpentry,47
+1071,Jammu & Kashmir,2005,Electrician,60
+1072,Jammu & Kashmir,2005,Radio tv mechanic,37
+1073,Jammu & Kashmir,2005,Motor mechanic,30
+1074,Jammu & Kashmir,2005,Motor winding,62
+1075,Jammu & Kashmir,2005,House wiring,5
+1076,Jammu & Kashmir,2005,Plumber,2
+1077,Jammu & Kashmir,2005,Type writing,152
+1078,Jammu & Kashmir,2005,Tailoring,64
+1079,Jammu & Kashmir,2004,Carpentry,64
+1080,Jammu & Kashmir,2004,Electrician,50
+1081,Jammu & Kashmir,2004,Radio tv mechanic,28
+1082,Jammu & Kashmir,2004,Motor winding,59
+1083,Jammu & Kashmir,2004,House wiring,22
+1084,Jammu & Kashmir,2004,Type writing,69
+1085,Jammu & Kashmir,2004,Tailoring,100
+1086,Jammu & Kashmir,2004,Candle making,35
+1087,Jammu & Kashmir,2003,Carpentry,7
+1088,Jammu & Kashmir,2003,Electrician,117
+1089,Jammu & Kashmir,2003,Radio tv mechanic,56
+1090,Jammu & Kashmir,2003,Motor winding,50
+1091,Jammu & Kashmir,2003,House wiring,6
+1092,Jammu & Kashmir,2003,Type writing,187
+1093,Jammu & Kashmir,2003,Tailoring,50
+1094,Jammu & Kashmir,2002,Carpentry,122
+1095,Jammu & Kashmir,2002,Electrician,88
+1096,Jharkhand,2001,Literacy programme,715
+1097,Jharkhand,2001,Gardening,864
+1098,Jharkhand,2001,Tailoring/wiring,207
+1099,Jharkhand,2001,Handloom,475
+1100,Jharkhand,2001,Others,504
+1101,Jharkhand,2002,Tailoring,54
+1102,Jharkhand,2002,Weaving,594
+1103,Jharkhand,2002,Soap & phenyle,45
+1104,Jharkhand,2002,Carpentry,62
+1105,Jharkhand,2002,Black smith,15
+1106,Jharkhand,2002,Paper making,176
+1107,Jharkhand,2002,Gardening,667
+1108,Jharkhand,2002,Literacy programme,1082
+1109,Jharkhand,2002,Prison smart course,405
+1110,Jharkhand,2002,Yoga,124
+1111,Jharkhand,2002,Computer training,24
+1112,Jharkhand,2002,Radio & tv repairing,15
+1113,Jharkhand,2002,Screen printing,14
+1114,Jharkhand,2002,"Flyleaf, candle, envelop making",35
+1115,Jharkhand,2002,Jute making,11
+1116,Jharkhand,2003,Academic,133
+1117,Jharkhand,2003,Agriculture,50
+1118,Jharkhand,2003,Black smithy,15
+1119,Jharkhand,2003,Candle,15
+1120,Jharkhand,2003,Carpentry,45
+1121,Jharkhand,2003,Soap & phenyle,150
+1122,Jharkhand,2003,Computer training,42
+1123,Jharkhand,2003,Cottage,57
+1124,Jharkhand,2003,Weaving & tailoring,676
+1125,Jharkhand,2003,Educational prog.,41
+1126,Jharkhand,2003,Fly leaf,25
+1127,Jharkhand,2003,Gardening,1175
+1128,Jharkhand,2003,Handicrafting,42
+1129,Jharkhand,2003,Handlook training,30
+1130,Jharkhand,2003,Envelope,24
+1131,Jharkhand,2003,Jute,35
+1132,Jharkhand,2003,Literacy programme,742
+1133,Jharkhand,2003,Mat weaving,76
+1134,Jharkhand,2003,Paper making & printing,276
+1135,Jharkhand,2003,Art of living,172
+1136,Jharkhand,2003,Brahma kumari,84
+1137,Jharkhand,2003,Screen printing,20
+1138,Jharkhand,2003,Tailoring,77
+1139,Jharkhand,2003,Weaving,48
+1140,Jharkhand,2003,Yoga,254
+1141,Jharkhand,2003,Counselling,102
+1142,Jharkhand,2004,Academic,149
+1143,Jharkhand,2004,Agriculture,50
+1144,Jharkhand,2004,Candle,7
+1145,Jharkhand,2004,Carpentry & black smithy,97
+1146,Jharkhand,2004,Computer literacy,45
+1147,Jharkhand,2004,Computer training,12
+1148,Jharkhand,2004,Cottage,59
+1149,Jharkhand,2004,Weaving,735
+1150,Jharkhand,2004,Agricultural,33
+1151,Jharkhand,2004,Envelope making,60
+1152,Jharkhand,2004,Fly leaf,12
+1153,Jharkhand,2004,Gardening,1112
+1154,Jharkhand,2004,Hand paper making,89
+1155,Jharkhand,2004,Handi crafts,115
+1156,Jharkhand,2004,Handloom training,30
+1157,Jharkhand,2004,Literacy programme,1182
+1158,Jharkhand,2004,Masrum,6
+1159,Jharkhand,2004,Mat weaving,15
+1160,Jharkhand,2004,Phenyle making,7
+1161,Jharkhand,2004,Phenyle & caustic soap,150
+1162,Jharkhand,2004,Press printing,10
+1163,Jharkhand,2004,Screen printing,9
+1164,Jharkhand,2004,Soap making,7
+1165,Jharkhand,2004,Stick work,5
+1166,Jharkhand,2004,Tailoring,81
+1167,Jharkhand,2004,Weaving,108
+1168,Jharkhand,2004,Yoga,220
+1169,Jharkhand,2005,Agricultural,8768
+1170,Jharkhand,2005,Bakery,282
+1171,Jharkhand,2005,Candle,14
+1172,Jharkhand,2005,Carpentry,85
+1173,Jharkhand,2005,Computer training,35
+1174,Jharkhand,2005,Counselling,98
+1175,Jharkhand,2005,Cotton cloth weaving (handloom),780
+1176,Jharkhand,2005,Cycle repairing,20
+1177,Jharkhand,2005,Designed candle,282
+1178,Jharkhand,2005,Fly leaf and tag,238
+1179,Jharkhand,2005,Gardening,1446
+1180,Jharkhand,2005,Handi crafts,55
+1181,Jharkhand,2005,Hand paper,112
+1182,Jharkhand,2005,Horticulture,226
+1183,Jharkhand,2005,Jute,35
+1184,Jharkhand,2005,Literacy programme,795
+1185,Jharkhand,2005,Phenyle & soap making,282
+1186,Jharkhand,2005,Screen printing,10
+1187,Jharkhand,2005,Seed production,226
+1188,Jharkhand,2005,Soap making,31
+1189,Jharkhand,2005,Tailoring,129
+1190,Jharkhand,2005,Weaving,72
+1191,Jharkhand,2005,Work incorodenge,545
+1192,Jharkhand,2005,Yoga,120
+1193,Jharkhand,2005,Envelop making,25
+1194,Jharkhand,2005,Dabba making,282
+1195,Jharkhand,2006,Aplic & embroidery,19
+1196,Jharkhand,2006,Baby & female clothing & bag making,26
+1197,Jharkhand,2006,Beautician course/trg,85
+1198,Jharkhand,2006,Bicycle repairing,36
+1199,Jharkhand,2006,Carpentry & black smithy,85
+1200,Jharkhand,2006,Carpet & basket manufacturing,1
+1201,Jharkhand,2006,Catering services,61
+1202,Jharkhand,2006,Commercial training,180
+1203,Jharkhand,2006,Computer training,86
+1204,Jharkhand,2006,Cotton cloth weaving (handloom),1140
+1205,Jharkhand,2006,Cycle repairing,47
+1206,Jharkhand,2006,Earth worm fertilizer manufacturing,44
+1207,Jharkhand,2006,Earthworm manure,40
+1208,Jharkhand,2006,Educational,812
+1209,Jharkhand,2006,First aid,61
+1210,Jharkhand,2006,Gardening trg programme,1867
+1211,Jharkhand,2006,Hand paper making & printing,224
+1212,Jharkhand,2006,Kenchua khad,22
+1213,Jharkhand,2006,Mali,20
+1214,Jharkhand,2006,Mushroom production/cultivation,66
+1215,Jharkhand,2006,Phenyle & soap making,178
+1216,Jharkhand,2006,Pumpset repairing trg programme,20
+1217,Jharkhand,2006,Screen printing,8
+1218,Jharkhand,2006,Soap making,21
+1219,Jharkhand,2006,Tailoring,228
+1220,Jharkhand,2006,Tokevy making,39
+1221,Jharkhand,2006,Weaving,85
+1222,Jharkhand,2006,Yoga,747
+1223,Jharkhand,2006,Others,82
+1224,Jharkhand,2007,Carpentry,85
+1225,Jharkhand,2007,Computer training,0
+1226,Jharkhand,2007,Handloom,570
+1227,Jharkhand,2007,Cycle repairing,12
+1228,Jharkhand,2007,Gardening,846
+1229,Jharkhand,2007,Generator repairing,12
+1230,Jharkhand,2007,Hand paper making & printing,112
+1231,Jharkhand,2007,Phenyl,160
+1232,Jharkhand,2007,Phenyl,10
+1233,Jharkhand,2007,Pumpset repairing,20
+1234,Jharkhand,2007,Screen printing,25
+1235,Jharkhand,2007,Soap,25
+1236,Jharkhand,2007,Tailoring,163
+1237,Jharkhand,2007,Weaving,28
+1238,Jharkhand,2007,Weaving,450
+1239,Jharkhand,2007,Yoga & meditation,518
+1240,Jharkhand,2007,Literacy programme,807
+1241,Jharkhand,2007,Phenyl,50
+1242,Jharkhand,2007,Traditional training,190
+1243,Jharkhand,2008,30 days tasar (silk) manufacturing,10
+1244,Jharkhand,2008,Anm & aww for groth chart & nutrition,14
+1245,Jharkhand,2008,Agarbati manufactuing,18
+1246,Jharkhand,2008,Soap making,40
+1247,Jharkhand,2008,Carpentry & black smithy,85
+1248,Jharkhand,2008,Computer training,45
+1249,Jharkhand,2008,Weaving (cotton cloth),370
+1250,Jharkhand,2008,Cycle repairing training,20
+1251,Jharkhand,2008,Soap (detergent powder making),44
+1252,Jharkhand,2008,Electric work training,5
+1253,Jharkhand,2008,Soap & phenyle,10
+1254,Jharkhand,2008,Gardening,446
+1255,Jharkhand,2008,Gardening training,20
+1256,Jharkhand,2008,Printing & hand paper making,112
+1257,Jharkhand,2008,Others (hand craft),14
+1258,Jharkhand,2008,Handloom,53
+1259,Jharkhand,2008,Jute craft,18
+1260,Jharkhand,2008,Kalazattha,25
+1261,Jharkhand,2008,Lah bangle,16
+1262,Jharkhand,2008,Making of fly leaf,20
+1263,Jharkhand,2008,Painting,50
+1264,Jharkhand,2008,Soap & phenyle,5
+1265,Jharkhand,2008,Soap & phenyle,160
+1266,Jharkhand,2008,Phenyle making,8
+1267,Jharkhand,2008,Photo framing,15
+1268,Jharkhand,2008,Pump repairing,20
+1269,Jharkhand,2008,Pumpset repairing,20
+1270,Jharkhand,2008,Radio training,13
+1271,Jharkhand,2008,Resum katai,30
+1272,Jharkhand,2008,Screen printing,12
+1273,Jharkhand,2008,Soap making,5
+1274,Jharkhand,2008,Soap manufacturing,15
+1275,Jharkhand,2008,Weaving (sweater),21
+1276,Jharkhand,2008,Tv training,9
+1277,Jharkhand,2008,Tailoring,152
+1278,Jharkhand,2008,Others (wearing),18
+1279,Jharkhand,2008,Weaving,349
+1280,Jharkhand,2008,Wood craft,23
+1281,Jharkhand,2008,Others (candle making),18
+1282,Jharkhand,2008,Fly leaf making,12
+1283,Jharkhand,2008,Knitting,10
+1284,Jharkhand,2008,Sewing,5
+1285,Jharkhand,2009,Teacher training (15 days),12
+1286,Jharkhand,2009,Anm & aww,11
+1287,Jharkhand,2009,Beautician & jewellery making,20
+1288,Jharkhand,2009,Carpentry & black smithy,85
+1289,Jharkhand,2009,Chalk manufacturing training,16
+1290,Jharkhand,2009,Computer training,388
+1291,Jharkhand,2009,Crafting,4
+1292,Jharkhand,2009,Soap (detergent powder making),45
+1293,Jharkhand,2009,Fly leaf making,28
+1294,Jharkhand,2009,Frame making,15
+1295,Jharkhand,2009,Gardening,1466
+1296,Jharkhand,2009,Craft (hand),14
+1297,Jharkhand,2009,Paper making & printing,303
+1298,Jharkhand,2009,Jute craft,18
+1299,Jharkhand,2009,Kala jatha,27
+1300,Jharkhand,2009,Knitting,10
+1301,Jharkhand,2009,Lah bangle,16
+1302,Jharkhand,2009,Painting,90
+1303,Jharkhand,2009,"Paper, aachar manufacturing",42
+1304,Jharkhand,2009,Soap & phenyle manufacturing,190
+1305,Jharkhand,2009,Radio training,15
+1306,Jharkhand,2009,Screen printing,12
+1307,Jharkhand,2009,Sewing,28
+1308,Jharkhand,2009,Silk reeling,33
+1309,Jharkhand,2009,Soap making,94
+1310,Jharkhand,2009,Sweater weaving,22
+1311,Jharkhand,2009,T.v. training,21
+1312,Jharkhand,2009,Tailoring,257
+1313,Jharkhand,2009,Wearing,12
+1314,Jharkhand,2009,Weaving,378
+1315,Jharkhand,2009,Woollen cutting,42
+1316,Jharkhand,2009,Wood craft,23
+1317,Jharkhand,2009,Handloom,1214
+1318,Jharkhand,2009,Others (handpump repairing trg (3 days)),22
+1319,Jharkhand,2010,Others(handmade packaged food productn),23
+1320,Jharkhand,2010,Anm,7
+1321,Jharkhand,2010,Agarbatti making,40
+1322,Jharkhand,2010,Soap (bathing) making,55
+1323,Jharkhand,2010,Beautician & jewellery making,28
+1324,Jharkhand,2010,Carpentry & black smithy,65
+1325,Jharkhand,2010,Weaving (cloth weaving),370
+1326,Jharkhand,2010,Computer training,531
+1327,Jharkhand,2010,Crafting,3
+1328,Jharkhand,2010,Fly leaf making,12
+1329,Jharkhand,2010,Frame making,10
+1330,Jharkhand,2010,Gardening,275
+1331,Jharkhand,2010,Others (hand paper making & printing),205
+1332,Jharkhand,2010,Kala jatha,26
+1333,Jharkhand,2010,Knitting,13
+1334,Jharkhand,2010,Painting,37
+1335,Jharkhand,2010,Panting,45
+1336,Jharkhand,2010,Soap & phenyl making,140
+1337,Jharkhand,2010,Soap & phenyl making,10
+1338,Jharkhand,2010,Radio reparing,15
+1339,Jharkhand,2010,Screen printing/book binding,7
+1340,Jharkhand,2010,Sewing,25
+1341,Jharkhand,2010,Silk yarn,23
+1342,Jharkhand,2010,Soap making,10
+1343,Jharkhand,2010,Sweater weaving,30
+1344,Jharkhand,2010,Tv repairing,10
+1345,Jharkhand,2010,Tailoring,162
+1346,Jharkhand,2010,Soap & washing powder,45
+1347,Jharkhand,2010,Others (wearing),22
+1348,Jharkhand,2010,Weaving,393
+1349,Jharkhand,2010,Carpentry / wood work,11
+1350,Jharkhand,2011,Agarbatti making,80
+1351,Jharkhand,2011,Animal husbandary,125
+1352,Jharkhand,2011,Soap (bathing) making,45
+1353,Jharkhand,2011,Beautician & jewellery making,30
+1354,Jharkhand,2011,Carpentry,10
+1355,Jharkhand,2011,Carpentry & black smithy,36
+1356,Jharkhand,2011,Computer training,323
+1357,Jharkhand,2011,Handloom (cotton cloth weaving),309
+1358,Jharkhand,2011,Weaving (cotton cloth - power loom),65
+1359,Jharkhand,2011,Crafting,5
+1360,Jharkhand,2011,Soap (detergent powder making),35
+1361,Jharkhand,2011,Fishery,140
+1362,Jharkhand,2011,Fly leaf making,9
+1363,Jharkhand,2011,Frame making,20
+1364,Jharkhand,2011,Gardening,305
+1365,Jharkhand,2011,Health training,27
+1366,Jharkhand,2011,Jute mat power loom,75
+1367,Jharkhand,2011,Kala jatha,24
+1368,Jharkhand,2011,Knitting,9
+1369,Jharkhand,2011,Offset printing press & hand paper mill,85
+1370,Jharkhand,2011,Painting,17
+1371,Jharkhand,2011,Soap & phenyle,8
+1372,Jharkhand,2011,Soap & phenyle manufacturing,72
+1373,Jharkhand,2011,Radio and tv repairing,12
+1374,Jharkhand,2011,Radio training,15
+1375,Jharkhand,2011,Screen printing/book binding,12
+1376,Jharkhand,2011,Silk yarn,22
+1377,Jharkhand,2011,Soap making,18
+1378,Jharkhand,2011,Weaving (sweater),32
+1379,Jharkhand,2011,Swing,19
+1380,Jharkhand,2011,Tv training,25
+1381,Jharkhand,2011,Tailoring,210
+1382,Jharkhand,2011,Other (wearing),7
+1383,Jharkhand,2011,Weaving,396
+1384,Jharkhand,2011,Weaving,43
+1385,Jharkhand,2012,Computer training,376
+1386,Jharkhand,2012,Handloom weaving training,138
+1387,Jharkhand,2012,Tailoring (cloth sewing),72
+1388,Jharkhand,2012,Soap (caustic soap making),35
+1389,Jharkhand,2012,Soap (phenyle making training),91
+1390,Jharkhand,2012,Gunny bag door mat/pooja asni making,20
+1391,Jharkhand,2012,Resum or cocoon katai training,15
+1392,Jharkhand,2012,Weaving (sweater weaving),42
+1393,Jharkhand,2012,Handloom (cotton cloth weaving),309
+1394,Jharkhand,2012,Soap making,106
+1395,Jharkhand,2012,Carpentry,75
+1396,Jharkhand,2012,Others (blacksmith),10
+1397,Jharkhand,2012,Offset printing press & hand paper mill,105
+1398,Jharkhand,2012,Tailoring,224
+1399,Jharkhand,2012,Gardening,377
+1400,Jharkhand,2012,Powerloom (jute mat),20
+1401,Jharkhand,2012,Frame making,30
+1402,Jharkhand,2012,Beautician & jewellery making,35
+1403,Jharkhand,2012,Jute craft,35
+1404,Jharkhand,2012,Weaving,357
+1405,Jharkhand,2012,Screen printing,30
+1406,Jharkhand,2012,Carpentry (wood craft),10
+1407,Jharkhand,2012,Fly leaf making,15
+1408,Jharkhand,2012,"Tv, fan, cfl bulb repairing",15
+1409,Jharkhand,2012,Tailoring (sewing),21
+1410,Jharkhand,2012,Radio & tv,15
+1411,Jharkhand,2012,Powerloom (cotton cloth weaving),10
+1412,Jharkhand,2012,Others (wearing),17
+1413,Karnataka,2001,Carpentry,92
+1414,Karnataka,2001,Weaving,32
+1415,Karnataka,2001,Tailoring,56
+1416,Karnataka,2001,Smithy,42
+1417,Karnataka,2001,Printing & binding,40
+1418,Karnataka,2001,Soap & phenyle manufacturing,55
+1419,Karnataka,2001,Dhobi,77
+1420,Karnataka,2001,Electrical wiring,16
+1421,Karnataka,2001,Tv & transistor repair,7
+1422,Karnataka,2002,Carpentry,103
+1423,Karnataka,2002,Weaving,87
+1424,Karnataka,2002,Tailoring,63
+1425,Karnataka,2002,Smithy,57
+1426,Karnataka,2002,Printing & binding,61
+1427,Karnataka,2002,Soap and phenyle,56
+1428,Karnataka,2002,Dhobi,89
+1429,Karnataka,2002,Electrical wiring,12
+1430,Karnataka,2002,Service & repair - two wheeler,8
+1431,Karnataka,2002,Tv repair,4
+1432,Karnataka,2003,Carpentry,117
+1433,Karnataka,2003,Carpentry,137
+1434,Karnataka,2003,Power loom & handloom,116
+1435,Karnataka,2003,Tailoring,51
+1436,Karnataka,2003,Carpet making,43
+1437,Karnataka,2003,Printing,38
+1438,Karnataka,2003,Footwear making,23
+1439,Karnataka,2003,Tent making,36
+1440,Karnataka,2003,Soap & phenyle,49
+1441,Karnataka,2003,Black smithy,42
+1442,Karnataka,2003,Bakery,12
+1443,Karnataka,2003,Two wheeler servicing,5
+1444,Karnataka,2004,Bakery,14
+1445,Karnataka,2004,Black smithy & steel,44
+1446,Karnataka,2004,Carpentry,212
+1447,Karnataka,2004,Laundry,107
+1448,Karnataka,2004,Soap & phenyle,51
+1449,Karnataka,2004,Tailoring,59
+1450,Karnataka,2004,Two wheeler servicing,8
+1451,Karnataka,2004,Carpet,42
+1452,Karnataka,2004,Foot wear,25
+1453,Karnataka,2004,Power & handloom,107
+1454,Karnataka,2004,Printing,36
+1455,Karnataka,2004,Tent making,37
+1456,Karnataka,2005,Powerloom and handloom,88
+1457,Karnataka,2005,Tailoring,214
+1458,Karnataka,2005,Black smithy,44
+1459,Karnataka,2005,Steel furniture making,12
+1460,Karnataka,2005,Press and printing,47
+1461,Karnataka,2005,Phenyle and soap oil making,68
+1462,Karnataka,2005,Soft toys making,54
+1463,Karnataka,2005,Beautician course,54
+1464,Karnataka,2005,Car driving,5
+1465,Karnataka,2005,Nurse training,30
+1466,Karnataka,2005,Bakery,22
+1467,Karnataka,2005,Laundry,107
+1468,Karnataka,2005,Two wheeler servicing,4
+1469,Karnataka,2006,Tailoring,252
+1470,Karnataka,2006,Carpentry,97
+1471,Karnataka,2006,Carpet making,49
+1472,Karnataka,2006,Printing,52
+1473,Karnataka,2006,Foot wear making,37
+1474,Karnataka,2006,Tent making,24
+1475,Karnataka,2006,Soap and phenyle making,37
+1476,Karnataka,2006,Black smity and steel making,37
+1477,Karnataka,2006,Laundry,32
+1478,Karnataka,2006,Two wheeler servicing,12
+1479,Karnataka,2006,Bakery items making,24
+1480,Karnataka,2006,Mid wife training,37
+1481,Karnataka,2006,Beautician couse,10
+1482,Karnataka,2006,Fabric painting,12
+1483,Karnataka,2006,Knitting,10
+1484,Karnataka,2006,Embroidary,12
+1485,Karnataka,2006,First aid,33
+1486,Karnataka,2006,Soft toys making,22
+1487,Karnataka,2006,Veternary -animal rearing,37
+1488,Karnataka,2007,Bakery,31
+1489,Karnataka,2007,Blacksmithy,48
+1490,Karnataka,2007,Carpentry,873
+1491,Karnataka,2007,Carpet,38
+1492,Karnataka,2007,Decorative items making,10
+1493,Karnataka,2007,Embroidery,12
+1494,Karnataka,2007,Fabric painting,5
+1495,Karnataka,2007,First aid,22
+1496,Karnataka,2007,Foot wear making,45
+1497,Karnataka,2007,Laundry,87
+1498,Karnataka,2007,Mid wife training,12
+1499,Karnataka,2007,Handlooms & powerlooms,94
+1500,Karnataka,2007,Soap,76
+1501,Karnataka,2007,Tailoring,248
+1502,Karnataka,2007,Wheel chair refurbishing,24
+1503,Karnataka,2007,Knitting,10
+1504,Karnataka,2007,Printing,78
+1505,Karnataka,2007,Soft toys making,10
+1506,Karnataka,2007,Tent making,16
+1507,Karnataka,2008,Bakery,37
+1508,Karnataka,2008,Black smithy,43
+1509,Karnataka,2008,Fabric painting,2
+1510,Karnataka,2008,Foot wear making,31
+1511,Karnataka,2008,Laundry,93
+1512,Karnataka,2008,Tailoring,237
+1513,Karnataka,2008,Carpentry,49
+1514,Karnataka,2008,Embroidery,10
+1515,Karnataka,2008,Knitting,10
+1516,Karnataka,2008,Printing,67
+1517,Karnataka,2008,Soap & phenyle,59
+1518,Karnataka,2008,Soft toys making,4
+1519,Karnataka,2008,Tent making,16
+1520,Karnataka,2008,Wheel chair refurbishing,32
+1521,Karnataka,2008,Decorative items making,5
+1522,Karnataka,2009,Bakery items making,43
+1523,Karnataka,2009,Other (black smithy and steel furniture),56
+1524,Karnataka,2009,Fabric painting,4
+1525,Karnataka,2009,Foot wear making,19
+1526,Karnataka,2009,Laundry,130
+1527,Karnataka,2009,Tailoring,188
+1528,Karnataka,2009,Carpentry,72
+1529,Karnataka,2009,Embroidery,8
+1530,Karnataka,2009,Knitting,4
+1531,Karnataka,2009,Printing,76
+1532,Karnataka,2009,Soap & phenyle manufacturing,86
+1533,Karnataka,2009,Soft toys making,4
+1534,Karnataka,2009,Tent making,16
+1535,Karnataka,2009,Wheel chair refurnishing,33
+1536,Karnataka,2009,Decorative items making,4
+1537,Karnataka,2009,Other (candle making & agarpatti),35
+1538,Karnataka,2010,Bakery items making,47
+1539,Karnataka,2010,Others (black smity and steel furniture),51
+1540,Karnataka,2010,Fabric painting,4
+1541,Karnataka,2010,Foot wear making,27
+1542,Karnataka,2010,Laundry,134
+1543,Karnataka,2010,Tailoring,78
+1544,Karnataka,2010,Carpentry,61
+1545,Karnataka,2010,Embroidary,5
+1546,Karnataka,2010,Knitting,5
+1547,Karnataka,2010,Printing,38
+1548,Karnataka,2010,Soap & phenyl making,88
+1549,Karnataka,2010,Soft toys making,2
+1550,Karnataka,2010,Tent making,7
+1551,Karnataka,2010,Wheel chair refurbishing,12
+1552,Karnataka,2011,Agriculture & horticulture,198
+1553,Karnataka,2011,Bakery,47
+1554,Karnataka,2011,Others (blacksmith),49
+1555,Karnataka,2011,Footwear making,10
+1556,Karnataka,2011,Laundry,114
+1557,Karnataka,2011,Tailoring,178
+1558,Karnataka,2011,Carpentry,67
+1559,Karnataka,2011,Printing,29
+1560,Karnataka,2011,Soap and phenyle,36
+1561,Karnataka,2011,Wheel chair refurbishing,28
+1562,Karnataka,2011,Agarbatti making,12
+1563,Karnataka,2011,Knitting,3
+1564,Karnataka,2012,Weaving powerlooms and handlooms,76
+1565,Karnataka,2012,Tailoring,82
+1566,Karnataka,2012,Carpentry,44
+1567,Karnataka,2012,Others (carpet making),32
+1568,Karnataka,2012,Printing,19
+1569,Karnataka,2012,Footwear making,9
+1570,Karnataka,2012,Tent making,21
+1571,Karnataka,2012,Soap and phenyle making,36
+1572,Karnataka,2012,Other-blacksmity &steel furniture making,18
+1573,Karnataka,2012,Knitting,16
+1574,Karnataka,2012,Embroidary,10
+1575,Karnataka,2012,Others (candle making),18
+1576,Karnataka,2012,Agarbatti making,36
+1577,Karnataka,2012,Bakery and confectionary,78
+1578,Karnataka,2012,Garmet industry,26
+1579,Karnataka,2012,Wheel chair refurbishing,16
+1580,Karnataka,2012,Laundry,48
+1581,Karnataka,2012,Soft toy and decorative items making,24
+1582,Kerala,2001,Carpentry,1646
+1583,Kerala,2001,Black smithy,345
+1584,Kerala,2001,Agriculture,245
+1585,Kerala,2001,Flour mill,816
+1586,Kerala,2001,Tailoring unit,3717
+1587,Kerala,2001,Rubber tapping,125
+1588,Kerala,2001,Intensive diary,30
+1589,Kerala,2001,Book binding,586
+1590,Kerala,2001,Weaving,7949
+1591,Kerala,2002,Carpentry,1710
+1592,Kerala,2002,Black smith,350
+1593,Kerala,2002,Agriculture,260
+1594,Kerala,2002,Weaving,8018
+1595,Kerala,2002,Flour mill,826
+1596,Kerala,2002,Book binding,615
+1597,Kerala,2002,Tailoring unit,3612
+1598,Kerala,2002,Rubber tapping,142
+1599,Kerala,2002,Dairy,560
+1600,Kerala,2003,Carpentry,268
+1601,Kerala,2003,Black smithy,359
+1602,Kerala,2003,Agriculture,273
+1603,Kerala,2003,Weaving,7863
+1604,Kerala,2003,Flour mill,826
+1605,Kerala,2003,Book binding,826
+1606,Kerala,2003,Tailoring,3683
+1607,Kerala,2003,Rubber tapping,142
+1608,Kerala,2004,Carpentry,280
+1609,Kerala,2004,Black smithy,350
+1610,Kerala,2004,Agricultural,275
+1611,Kerala,2004,Weaving,7893
+1612,Kerala,2004,Flour mill,826
+1613,Kerala,2004,Book binding,673
+1614,Kerala,2004,Tailoring,3684
+1615,Kerala,2004,Rubber tapping,145
+1616,Kerala,2005,Carpentry,280
+1617,Kerala,2005,Black smithy,350
+1618,Kerala,2005,Agricultural,275
+1619,Kerala,2005,Weaving,7893
+1620,Kerala,2005,Flour mill,832
+1621,Kerala,2005,Book binding,678
+1622,Kerala,2005,Tailoring,3692
+1623,Kerala,2005,Rubber tapping,143
+1624,Kerala,2005,Leather,1
+1625,Kerala,2006,Carpentry,180
+1626,Kerala,2006,Black smithy,235
+1627,Kerala,2006,Weaving,260
+1628,Kerala,2006,Book binding,400
+1629,Kerala,2006,Tailoring,700
+1630,Kerala,2006,Rubber tapping,75
+1631,Kerala,2006,Agriculture,210
+1632,Kerala,2007,Carpentry,250
+1633,Kerala,2007,Blacksmithy,200
+1634,Kerala,2007,Weaving,300
+1635,Kerala,2007,Book binding,500
+1636,Kerala,2007,Tailoring,100
+1637,Kerala,2007,Rubber tapping,500
+1638,Kerala,2007,Agriculture,300
+1639,Kerala,2008,Carpentry,750
+1640,Kerala,2008,Black smithy,250
+1641,Kerala,2008,Weaving,350
+1642,Kerala,2008,Book binding,700
+1643,Kerala,2008,Tailoring,150
+1644,Kerala,2008,Rubber tapping,300
+1645,Kerala,2008,Agriculture,350
+1646,Kerala,2009,Carpentry,60
+1647,Kerala,2009,Others (blacksmith),35
+1648,Kerala,2009,Weaving,100
+1649,Kerala,2009,Book binding,75
+1650,Kerala,2009,Tailoring,60
+1651,Kerala,2009,Rubber tapping,340
+1652,Kerala,2009,Agriculture,1125
+1653,Kerala,2010,Carpentry,75
+1654,Kerala,2010,Others (blacksmith),45
+1655,Kerala,2010,Weaving,100
+1656,Kerala,2010,Book binding,50
+1657,Kerala,2010,Tailoring,60
+1658,Kerala,2010,Rubber tapping,300
+1659,Kerala,2010,Agriculture,1200
+1660,Kerala,2011,Mason work,220
+1661,Kerala,2011,Carpentry work,60
+1662,Kerala,2011,Horticulture,100
+1663,Kerala,2011,Book binding,25
+1664,Kerala,2011,Tailoring,22
+1665,Kerala,2011,Chappathi making,180
+1666,Kerala,2011,Weaving,35
+1667,Kerala,2011,Others (hand craft),28
+1668,Kerala,2011,Computer training,68
+1669,Kerala,2011,Rubber tapping,103
+1670,Kerala,2011,Agriculture,306
+1671,Kerala,2011,Laterite stone cutting,60
+1672,Kerala,2011,Poultry farm,10
+1673,Kerala,2011,Vegetable cultivation,12
+1674,Kerala,2011,Mushroom cultivation,12
+1675,Kerala,2011,Printing & textile designing,6
+1676,Kerala,2011,Gardening,4
+1677,Kerala,2011,Jewellery making,10
+1678,Kerala,2011,"Soap, phenyle & squash making",160
+1679,Kerala,2012,Diary farm,100
+1680,Kerala,2012,Printing,25
+1681,Kerala,2012,Pig farm,30
+1682,Kerala,2012,Floriculture,50
+1683,Kerala,2012,Agriculture (mushroom cultivation),125
+1684,Kerala,2012,Rubber nursery,25
+1685,Kerala,2012,Poultry,50
+1686,Kerala,2012,Mason work,250
+1687,Kerala,2012,Carpentry,40
+1688,Kerala,2012,Horticulture,75
+1689,Kerala,2012,Book binding,15
+1690,Kerala,2012,Tailoring,20
+1691,Kerala,2012,Chappathi making,300
+1692,Kerala,2012,Weaving,20
+1693,Kerala,2012,Computer training,125
+1694,Kerala,2012,Laterite stone cutting,75
+1695,Kerala,2012,Printing and textile designing,5
+1696,Kerala,2012,Jewellery making,10
+1697,Kerala,2012,Soap making training,25
+1698,Kerala,2012,Bee keeping,10
+1699,Kerala,2012,Idly making,50
+1700,Kerala,2012,Paper bag/umbrella,5
+1701,Madhya Pradesh,2001,Agriculture,250
+1702,Madhya Pradesh,2001,Band master,40
+1703,Madhya Pradesh,2001,Black smithy,50
+1704,Madhya Pradesh,2001,Bamboo work,40
+1705,Madhya Pradesh,2001,Cane work,40
+1706,Madhya Pradesh,2001,Carpentry,42
+1707,Madhya Pradesh,2001,Doll making,10
+1708,Madhya Pradesh,2001,Light fitting,20
+1709,Madhya Pradesh,2001,Motor binding,20
+1710,Madhya Pradesh,2001,Music training,30
+1711,Madhya Pradesh,2001,Printing and book binding,196
+1712,Madhya Pradesh,2001,Screen printing,20
+1713,Madhya Pradesh,2001,Soap and detergent,40
+1714,Madhya Pradesh,2001,Spices inddustries,40
+1715,Madhya Pradesh,2001,Steaching,118
+1716,Madhya Pradesh,2001,Steel industry,12
+1717,Madhya Pradesh,2001,Weaving,786
+1718,Madhya Pradesh,2001,Computer,20
+1719,Madhya Pradesh,2002,Agriculture,280
+1720,Madhya Pradesh,2002,Band master,40
+1721,Madhya Pradesh,2002,Black smith,60
+1722,Madhya Pradesh,2002,Bamboo work,40
+1723,Madhya Pradesh,2002,Can work,40
+1724,Madhya Pradesh,2002,Carpentry & wood carving,175
+1725,Madhya Pradesh,2002,Doll making,30
+1726,Madhya Pradesh,2002,Light fitting,25
+1727,Madhya Pradesh,2002,Motor winding,75
+1728,Madhya Pradesh,2002,Music training,20
+1729,Madhya Pradesh,2002,Printing & book binding,118
+1730,Madhya Pradesh,2002,Screen printing,25
+1731,Madhya Pradesh,2002,Soap & detergent,22
+1732,Madhya Pradesh,2002,Spices inddustries,25
+1733,Madhya Pradesh,2002,Steaching,2900
+1734,Madhya Pradesh,2002,Steel industry,47
+1735,Madhya Pradesh,2002,Weaving,6913
+1736,Madhya Pradesh,2002,Computer,30
+1737,Madhya Pradesh,2003,Weaving,136
+1738,Madhya Pradesh,2003,Soap indutries,21
+1739,Madhya Pradesh,2003,Printing,956
+1740,Madhya Pradesh,2003,Stiching,956
+1741,Madhya Pradesh,2003,Fabrication,171
+1742,Madhya Pradesh,2003,Masala industries,11
+1743,Madhya Pradesh,2003,Chemical,25
+1744,Madhya Pradesh,2003,Picle indusries,12
+1745,Madhya Pradesh,2003,Doll making,36
+1746,Madhya Pradesh,2003,Painting,12
+1747,Madhya Pradesh,2003,Agriculture,78
+1748,Madhya Pradesh,2003,Computer training,40
+1749,Madhya Pradesh,2004,Chemical industries,38
+1750,Madhya Pradesh,2004,Spices inddustries,33
+1751,Madhya Pradesh,2004,Powerloom,142
+1752,Madhya Pradesh,2004,Printing press,191
+1753,Madhya Pradesh,2004,Carpentry,208
+1754,Madhya Pradesh,2004,Tailoring,900
+1755,Madhya Pradesh,2004,Doll making,33
+1756,Madhya Pradesh,2004,Painting,48
+1757,Madhya Pradesh,2004,Weaving,200
+1758,Madhya Pradesh,2004,Computer training,209
+1759,Madhya Pradesh,2004,Agriculture,81
+1760,Madhya Pradesh,2005,Chemical,157
+1761,Madhya Pradesh,2005,Spices factory,81
+1762,Madhya Pradesh,2005,Vocational,190
+1763,Madhya Pradesh,2005,Powerloom,58
+1764,Madhya Pradesh,2005,Printing,469
+1765,Madhya Pradesh,2005,Carpentry,358
+1766,Madhya Pradesh,2005,Tailoring,407
+1767,Madhya Pradesh,2005,Doll making,21
+1768,Madhya Pradesh,2005,Painting,54
+1769,Madhya Pradesh,2005,Weaving,375
+1770,Madhya Pradesh,2005,Black smithy,19
+1771,Madhya Pradesh,2005,Jan prohit,25
+1772,Madhya Pradesh,2005,Agricultural,161
+1773,Madhya Pradesh,2005,Others,255
+1774,Madhya Pradesh,2006,Chemical factory,49
+1775,Madhya Pradesh,2006,Spices factory,22
+1776,Madhya Pradesh,2006,Vocational,319
+1777,Madhya Pradesh,2006,Powerloom,129
+1778,Madhya Pradesh,2006,Printing,501
+1779,Madhya Pradesh,2006,Carpentary,159
+1780,Madhya Pradesh,2006,Tailoring,640
+1781,Madhya Pradesh,2006,Painting,20
+1782,Madhya Pradesh,2006,Weaving,460
+1783,Madhya Pradesh,2006,Black smith,240
+1784,Madhya Pradesh,2006,Jan prohit,134
+1785,Madhya Pradesh,2006,Raj mistri,35
+1786,Madhya Pradesh,2006,Computer training,205
+1787,Madhya Pradesh,2006,Other training,381
+1788,Madhya Pradesh,2007,Chemical,49
+1789,Madhya Pradesh,2007,Spice making,89
+1790,Madhya Pradesh,2007,Powerloom,237
+1791,Madhya Pradesh,2007,Printing,507
+1792,Madhya Pradesh,2007,Carpentry,147
+1793,Madhya Pradesh,2007,Tailoring,860
+1794,Madhya Pradesh,2007,Doll making,65
+1795,Madhya Pradesh,2007,Painting,34
+1796,Madhya Pradesh,2007,Weaving,573
+1797,Madhya Pradesh,2007,Blacksmithy,241
+1798,Madhya Pradesh,2007,Raj mistri,95
+1799,Madhya Pradesh,2007,Computer training,186
+1800,Madhya Pradesh,2007,Vocational,609
+1801,Madhya Pradesh,2007,Yoga & meditation,50
+1802,Madhya Pradesh,2007,Others,754
+1803,Madhya Pradesh,2007,Agriculture,163
+1804,Madhya Pradesh,2008,Soap & phenyle,25
+1805,Madhya Pradesh,2008,Spices,76
+1806,Madhya Pradesh,2008,Vocational,610
+1807,Madhya Pradesh,2008,Canning & power loom,151
+1808,Madhya Pradesh,2008,Printing,405
+1809,Madhya Pradesh,2008,Carpentry,254
+1810,Madhya Pradesh,2008,Tailoring,748
+1811,Madhya Pradesh,2008,Black smithy,262
+1812,Madhya Pradesh,2008,Weaving,464
+1813,Madhya Pradesh,2008,Painting,10
+1814,Madhya Pradesh,2008,Raj mistri,111
+1815,Madhya Pradesh,2008,Computer training,36
+1816,Madhya Pradesh,2008,Leather,50
+1817,Madhya Pradesh,2008,Others (blanket udyog),109
+1818,Madhya Pradesh,2008,Mat training,127
+1819,Madhya Pradesh,2008,Others,530
+1820,Madhya Pradesh,2008,Agriculture,4826
+1821,Madhya Pradesh,2009,Chemicals factory,20
+1822,Madhya Pradesh,2009,Spices factory,49
+1823,Madhya Pradesh,2009,Powerloom,73
+1824,Madhya Pradesh,2009,Printing press,359
+1825,Madhya Pradesh,2009,Carpentry,147
+1826,Madhya Pradesh,2009,Tailoring,671
+1827,Madhya Pradesh,2009,Doll making,43
+1828,Madhya Pradesh,2009,Painting,68
+1829,Madhya Pradesh,2009,Weaving,765
+1830,Madhya Pradesh,2009,Others (blacksmith),231
+1831,Madhya Pradesh,2009,Jan prohit,23
+1832,Madhya Pradesh,2009,Raj mistri,29
+1833,Madhya Pradesh,2009,Computer & typing,46
+1834,Madhya Pradesh,2009,Zari zardojy,8
+1835,Madhya Pradesh,2009,Leather industries,50
+1836,Madhya Pradesh,2009,Others (blanket udyog),68
+1837,Madhya Pradesh,2009,Mate training,51
+1838,Madhya Pradesh,2009,Vocational training,553
+1839,Madhya Pradesh,2009,Catering,15
+1840,Madhya Pradesh,2009,Agriculture,367
+1841,Madhya Pradesh,2010,Agriculture,486
+1842,Madhya Pradesh,2010,Carpentry,357
+1843,Madhya Pradesh,2010,Canning,76
+1844,Madhya Pradesh,2010,Tailoring,573
+1845,Madhya Pradesh,2010,Weaving,676
+1846,Madhya Pradesh,2010,Handloom,257
+1847,Madhya Pradesh,2010,Spices factory,8
+1848,Madhya Pradesh,2010,Printing press & screen printing,132
+1849,Madhya Pradesh,2010,Powerloom,111
+1850,Madhya Pradesh,2010,Doll making,23
+1851,Madhya Pradesh,2010,Others (blacksmith),43
+1852,Madhya Pradesh,2010,Raj mistri (building),52
+1853,Madhya Pradesh,2010,Leather industries,22
+1854,Madhya Pradesh,2010,Others (blanket industries),122
+1855,Madhya Pradesh,2010,Painting,14
+1856,Madhya Pradesh,2010,Computer & typing,97
+1857,Madhya Pradesh,2011,Agricultural,1561
+1858,Madhya Pradesh,2011,Carpentry,590
+1859,Madhya Pradesh,2011,Canning,77
+1860,Madhya Pradesh,2011,Tailoring,739
+1861,Madhya Pradesh,2011,Weaving,839
+1862,Madhya Pradesh,2011,Soap and phenyle,42
+1863,Madhya Pradesh,2011,Handloom,275
+1864,Madhya Pradesh,2011,Spices factory,92
+1865,Madhya Pradesh,2011,Powerloom,438
+1866,Madhya Pradesh,2011,Printing press and screen printing,527
+1867,Madhya Pradesh,2011,Others (blacksmith),14
+1868,Madhya Pradesh,2011,Other (blanket udyog),357
+1869,Madhya Pradesh,2011,Painting,47
+1870,Madhya Pradesh,2011,"Computer, hindi and english typing",132
+1871,Madhya Pradesh,2012,Agriculture,1766
+1872,Madhya Pradesh,2012,Carpentry,783
+1873,Madhya Pradesh,2012,Canning,42
+1874,Madhya Pradesh,2012,Tailoring,916
+1875,Madhya Pradesh,2012,Weaving,1580
+1876,Madhya Pradesh,2012,Soap and phenyle,61
+1877,Madhya Pradesh,2012,Handloom,167
+1878,Madhya Pradesh,2012,Spices factory,42
+1879,Madhya Pradesh,2012,Powerloom,759
+1880,Madhya Pradesh,2012,Printing press and screen printing,479
+1881,Madhya Pradesh,2012,Others (blacksmith),60
+1882,Madhya Pradesh,2012,Others (blanket),506
+1883,Madhya Pradesh,2012,Painting,50
+1884,Madhya Pradesh,2012,Doll making,51
+1885,Madhya Pradesh,2012,Leather,110
+1886,Madhya Pradesh,2012,Agarbatti industries,686
+1887,Madhya Pradesh,2012,"Computer, hindi and english typing",203
+1888,Maharashtra,2001,Textile,394
+1889,Maharashtra,2001,Carpentry,438
+1890,Maharashtra,2001,Tailoring,263
+1891,Maharashtra,2001,Smithy,202
+1892,Maharashtra,2001,Chemical,15
+1893,Maharashtra,2001,Agriculture,12
+1894,Maharashtra,2001,Others,269
+1895,Maharashtra,2002,Textile,699
+1896,Maharashtra,2002,Carpentry,510
+1897,Maharashtra,2002,Tailoring,455
+1898,Maharashtra,2002,Smithy,209
+1899,Maharashtra,2002,Chemicals,8
+1900,Maharashtra,2002,Agriculture,138
+1901,Maharashtra,2002,Others,92
+1902,Maharashtra,2003,Textile,375
+1903,Maharashtra,2003,Carpentry,323
+1904,Maharashtra,2003,Tailoring,812
+1905,Maharashtra,2003,Smithy,95
+1906,Maharashtra,2003,Chemical,15
+1907,Maharashtra,2003,Agriculture,29
+1908,Maharashtra,2003,Lether work,23
+1909,Maharashtra,2003,Others,154
+1910,Maharashtra,2004,Textile,442
+1911,Maharashtra,2004,Black smithy,172
+1912,Maharashtra,2004,Carpentry,287
+1913,Maharashtra,2004,Tailoring,447
+1914,Maharashtra,2004,Leather work,34
+1915,Maharashtra,2004,Bakery,16
+1916,Maharashtra,2004,Laundry,29
+1917,Maharashtra,2004,Motor mechanic,1
+1918,Maharashtra,2004,Masons,1
+1919,Maharashtra,2004,Gardener/agri.,83
+1920,Maharashtra,2004,Wire men,20
+1921,Maharashtra,2004,Air coolaring,1
+1922,Maharashtra,2005,Textile,406
+1923,Maharashtra,2005,Black smithy,137
+1924,Maharashtra,2005,Carpentry,410
+1925,Maharashtra,2005,Tailoring,744
+1926,Maharashtra,2005,Leather,8
+1927,Maharashtra,2005,Bakery,123
+1928,Maharashtra,2005,Laundry,84
+1929,Maharashtra,2005,Candle,367
+1930,Maharashtra,2005,Masons,3
+1931,Maharashtra,2005,Chemical,13
+1932,Maharashtra,2005,Screen printing,12
+1933,Maharashtra,2005,Others,460
+1934,Maharashtra,2006,Textile,502
+1935,Maharashtra,2006,Black smithy,451
+1936,Maharashtra,2006,Carpentry,469
+1937,Maharashtra,2006,Tailoring,623
+1938,Maharashtra,2006,Leather work,48
+1939,Maharashtra,2006,Bakery,128
+1940,Maharashtra,2006,Laundry,61
+1941,Maharashtra,2006,Motor mechanic,105
+1942,Maharashtra,2006,Masons,1
+1943,Maharashtra,2006,Gardener / agric.,135
+1944,Maharashtra,2006,Wire men,16
+1945,Maharashtra,2006,Other,195
+1946,Maharashtra,2006,Welder,46
+1947,Maharashtra,2006,Chemical,72
+1948,Maharashtra,2006,Screen printing,32
+1949,Maharashtra,2006,Candle making,21
+1950,Maharashtra,2006,Paper cutting,66
+1951,Maharashtra,2006,Computer training,19
+1952,Maharashtra,2007,"Textile (yantramag, hatmag, panjakam)",299
+1953,Maharashtra,2007,Blacksmithy,107
+1954,Maharashtra,2007,Carpentry,417
+1955,Maharashtra,2007,Tailoring,735
+1956,Maharashtra,2007,Weaving,133
+1957,Maharashtra,2007,Leather work,59
+1958,Maharashtra,2007,Bakery,63
+1959,Maharashtra,2007,Laundry,28
+1960,Maharashtra,2007,Motor mechanic,230
+1961,Maharashtra,2007,Masons,83
+1962,Maharashtra,2007,Agriculture,181
+1963,Maharashtra,2007,Wire men,32
+1964,Maharashtra,2007,Welding,65
+1965,Maharashtra,2007,Chemical,2
+1966,Maharashtra,2007,Screen printing,21
+1967,Maharashtra,2007,Paper cutting,80
+1968,Maharashtra,2008,"Textile (yantramag,hatmag,panjakam)",1134
+1969,Maharashtra,2008,Black smithy,444
+1970,Maharashtra,2008,Carpentry,1220
+1971,Maharashtra,2008,Tailoring,1624
+1972,Maharashtra,2008,Weaving,223
+1973,Maharashtra,2008,Leather,8
+1974,Maharashtra,2008,Bakery,19
+1975,Maharashtra,2008,Laundry,35
+1976,Maharashtra,2008,Motor mechanic,264
+1977,Maharashtra,2008,Masons,117
+1978,Maharashtra,2008,Agriculture/gardening,176
+1979,Maharashtra,2008,Wire men,680
+1980,Maharashtra,2008,Welding,60
+1981,Maharashtra,2008,Chemical,2
+1982,Maharashtra,2008,Screen printing,10
+1983,Maharashtra,2008,Paper cutting,6
+1984,Maharashtra,2009,Textile (yantra/hatmag/panjakam),405
+1985,Maharashtra,2009,Others (blacksmith),410
+1986,Maharashtra,2009,Carpentry,431
+1987,Maharashtra,2009,Tailoring,748
+1988,Maharashtra,2009,Weaving,220
+1989,Maharashtra,2009,Bakery,153
+1990,Maharashtra,2009,Laundry,137
+1991,Maharashtra,2009,Motor mechanic,80
+1992,Maharashtra,2009,Masons,87
+1993,Maharashtra,2009,Agriculture/gardening,182
+1994,Maharashtra,2009,Wire men,398
+1995,Maharashtra,2009,Welder,87
+1996,Maharashtra,2009,Chemical,2
+1997,Maharashtra,2010,"Textile (yantra, hathmag, panjakam)",777
+1998,Maharashtra,2010,Others (blacksmith),378
+1999,Maharashtra,2010,Carpentry,522
+2000,Maharashtra,2010,Tailoring,534
+2001,Maharashtra,2010,Weaving,98
+2002,Maharashtra,2010,Leather work,2
+2003,Maharashtra,2010,Bakery,157
+2004,Maharashtra,2010,Laundry,117
+2005,Maharashtra,2010,Motor mechanic,178
+2006,Maharashtra,2010,Masons,90
+2007,Maharashtra,2010,Welder,72
+2008,Maharashtra,2011,Textile,588
+2009,Maharashtra,2011,Others (blacksmith),338
+2010,Maharashtra,2011,Carpentry,353
+2011,Maharashtra,2011,Tailoring,653
+2012,Maharashtra,2011,Weaving,50
+2013,Maharashtra,2011,Bakery,84
+2014,Maharashtra,2011,Laundry,12
+2015,Maharashtra,2011,Motor mechanic,78
+2016,Maharashtra,2011,Masons,33
+2017,Maharashtra,2011,Welder,85
+2018,Maharashtra,2011,Paper cutting,20
+2019,Maharashtra,2011,Computer training,203
+2020,Maharashtra,2011,Book binding,180
+2021,Maharashtra,2011,Plumber,205
+2022,Maharashtra,2011,Moulding,20
+2023,Maharashtra,2012,"Textile (yantramag, hatmag, panjakam)",174
+2024,Maharashtra,2012,Others (blacksmith),241
+2025,Maharashtra,2012,Carpentry,293
+2026,Maharashtra,2012,Tailoring,543
+2027,Maharashtra,2012,Weaving,45
+2028,Maharashtra,2012,Bakery,2
+2029,Maharashtra,2012,Laundry,63
+2030,Maharashtra,2012,Motor mechanic,5
+2031,Maharashtra,2012,Masons,12
+2032,Maharashtra,2012,Welder,2
+2033,Maharashtra,2012,Paper cutting,3
+2034,Maharashtra,2012,Computer training,32
+2035,Maharashtra,2012,Book binding,185
+2036,Maharashtra,2012,Plumber,1
+2037,Maharashtra,2012,Others (candle making),160
+2038,Maharashtra,2012,Computer training,50
+2039,Maharashtra,2012,Book binding,245
+2040,Maharashtra,2012,Plumber,22
+2041,Maharashtra,2012,Moulder,92
+2042,Maharashtra,2012,Beauty parlour,10
+2043,Maharashtra,2012,Electrician,16
+2044,Maharashtra,2012,Others,96
+2045,Manipur,2009,Nil,0
+2046,Manipur,2009,Nil,0
+2047,Manipur,2012,Nil,0
+2048,Meghalaya,2001,Cane & bamboo,8
+2049,Meghalaya,2001,Carpentry,6
+2050,Meghalaya,2002,Cane & bamboo,4
+2051,Meghalaya,2002,Carpentry,3
+2052,Meghalaya,2003,Cane & bamboo,4
+2053,Meghalaya,2003,Carpentry,2
+2054,Meghalaya,2004,Tailoring / flower making/ knitting,6
+2055,Meghalaya,2004,Craft,6
+2056,Meghalaya,2004,Carpentry,3
+2057,Meghalaya,2005,Crafting,7
+2058,Meghalaya,2005,Carpentry,6
+2059,Meghalaya,2006,Crafting,10
+2060,Meghalaya,2006,Carpentry,9
+2061,Meghalaya,2006,Cane & bamboo,11
+2062,Meghalaya,2007,"Handicraft, cane & bamboo works",35
+2063,Meghalaya,2007,Carpentry,2
+2064,Meghalaya,2007,Tailoring,4
+2065,Meghalaya,2008,"Canning, bamboo works and handicraft",59
+2066,Meghalaya,2008,Carpentry,39
+2067,Meghalaya,2008,"Tailoring,embroidery, knitting & weaving",2
+2068,Meghalaya,2009,"Canning, bamboo works and handicraft",12
+2069,Meghalaya,2009,Carpentry,8
+2070,Meghalaya,2010,"Others-handicraft, cane and bamboo works",29
+2071,Meghalaya,2010,Carpentry,22
+2072,Meghalaya,2010,"Tailoring & embroidery, knitting & weavi",2
+2073,Meghalaya,2011,Can & bamboo works and handicraft,18
+2074,Meghalaya,2011,Carpentry,22
+2075,Meghalaya,2011,"Tailoring, embroidery, knitting, weaving",2
+2076,Meghalaya,2012,"Canning, bamboo works and handicraft",27
+2077,Meghalaya,2012,Carpentry,15
+2078,Mizoram,2001,Carpentry,40
+2079,Mizoram,2001,Weaving,18
+2080,Mizoram,2002,Carpentry,45
+2081,Mizoram,2002,Weaving,22
+2082,Mizoram,2003,Carpentry,15
+2083,Mizoram,2003,Handloom / weaving,13
+2084,Mizoram,2003,Tailoring,6
+2085,Mizoram,2004,Carpentry,30
+2086,Mizoram,2004,Handloom / weaving,29
+2087,Mizoram,2004,Tailoring,5
+2088,Mizoram,2005,Carpentry,12
+2089,Mizoram,2005,Handloom,10
+2090,Mizoram,2005,Tailoring,4
+2091,Mizoram,2006,Carpentry section,10
+2092,Mizoram,2006,Handloom section,5
+2093,Mizoram,2006,Tailoring section,2
+2094,Mizoram,2006,Cane & bamboo section,3
+2095,Mizoram,2007,Carpentry,13
+2096,Mizoram,2007,Handloom,5
+2097,Mizoram,2007,Tailoring,3
+2098,Mizoram,2007,Canning,3
+2099,Mizoram,2007,Jute diversity programme,25
+2100,Mizoram,2008,Carpentry section,15
+2101,Mizoram,2008,Handloom section,5
+2102,Mizoram,2008,Tailoring,2
+2103,Mizoram,2009,Carpentry section,25
+2104,Mizoram,2009,Handloom section,20
+2105,Mizoram,2009,Tailoring section,10
+2106,Mizoram,2010,Carpentry section,25
+2107,Mizoram,2010,Handloom,20
+2108,Mizoram,2010,Tailoring,12
+2109,Mizoram,2011,Carpentry section,25
+2110,Mizoram,2011,Handloom,10
+2111,Mizoram,2011,Tailoring,8
+2112,Mizoram,2012,Carpentry,30
+2113,Mizoram,2012,Handloom,25
+2114,Mizoram,2012,Tailoring,20
+2115,Nagaland,2004,Others,123
+2116,Nagaland,2005,Others,310
+2117,Nagaland,2007,Tailoring,121
+2118,Nagaland,2008,Tailoring & music,119
+2119,Nagaland,2009,Others (handicraft - mora making),41
+2120,Nagaland,2010,Others - handicraft (mora making),30
+2121,Nagaland,2010,Basket making,5
+2122,Nagaland,2011,Tailoring,5
+2123,Nagaland,2011,Mora making,10
+2124,Nagaland,2012,Tailoring,4
+2125,Nagaland,2012,Mora making,13
+2126,Odisha,2001,Tailoring,64
+2127,Odisha,2001,Durry making,51
+2128,Odisha,2001,Handloom,21
+2129,Odisha,2001,Craft,14
+2130,Odisha,2001,Weaving,181
+2131,Odisha,2001,Book binding,28
+2132,Odisha,2001,Jute mat making,18
+2133,Odisha,2001,Safai grass making,51
+2134,Odisha,2001,Smithy,16
+2135,Odisha,2001,Press,6
+2136,Odisha,2002,Tailoring,87
+2137,Odisha,2002,Durry making,72
+2138,Odisha,2002,Handloom,61
+2139,Odisha,2002,Craft,34
+2140,Odisha,2002,Weaving,204
+2141,Odisha,2002,Book binding,38
+2142,Odisha,2002,Jute mat making,56
+2143,Odisha,2002,Satar grass making,34
+2144,Odisha,2002,Smithy,12
+2145,Odisha,2002,Press,11
+2146,Odisha,2003,Tailoring,102
+2147,Odisha,2003,Dari making,81
+2148,Odisha,2003,Handloom,53
+2149,Odisha,2003,Craft,34
+2150,Odisha,2003,Weaving,210
+2151,Odisha,2003,Book binding,32
+2152,Odisha,2003,Jute mat making,56
+2153,Odisha,2003,Safai grass making,30
+2154,Odisha,2003,Smithy,10
+2155,Odisha,2003,Press,12
+2156,Odisha,2004,Others,358
+2157,Odisha,2005,Weaving & durry,280
+2158,Odisha,2005,Carpet,33
+2159,Odisha,2005,Phenyl,8
+2160,Odisha,2005,Tailoring,32
+2161,Odisha,2005,Carpentry,2
+2162,Odisha,2005,Binding,10
+2163,Odisha,2005,Candle making,1
+2164,Odisha,2005,Craft making,9
+2165,Odisha,2005,Type & computer,57
+2166,Odisha,2006,Weaving & durry-making,310
+2167,Odisha,2006,Carpet,38
+2168,Odisha,2006,Phynyle manufacturing,10
+2169,Odisha,2006,Tailoring,40
+2170,Odisha,2006,Carpentary/craft,15
+2171,Odisha,2006,Binding/type & computer,64
+2172,Odisha,2007,Weaving,322
+2173,Odisha,2007,Carpet,40
+2174,Odisha,2007,Phenyl,12
+2175,Odisha,2007,Tailoring,45
+2176,Odisha,2007,Carpentry,16
+2177,Odisha,2007,Binding / type & computer,32
+2178,Odisha,2008,Weaving & dary making,322
+2179,Odisha,2008,Others (carpet),46
+2180,Odisha,2008,Soap & phenyle,12
+2181,Odisha,2008,Tailoring,80
+2182,Odisha,2008,Carpentry,23
+2183,Odisha,2008,Binding/typing & computer,112
+2184,Odisha,2009,Weaving & durry making,301
+2185,Odisha,2009,Other (carpet),22
+2186,Odisha,2009,Soap & phenyle manufacturing,10
+2187,Odisha,2009,Tailoring,65
+2188,Odisha,2009,Carpentary/craft,18
+2189,Odisha,2009,Binding/type & computer,82
+2190,Odisha,2010,Weaving & durry making,280
+2191,Odisha,2010,Others (carpet),25
+2192,Odisha,2010,Soap & phenyl making,12
+2193,Odisha,2010,Tailoring,72
+2194,Odisha,2010,Carpentry / craft,20
+2195,Odisha,2010,Binding / type & computer,72
+2196,Odisha,2011,Weaving & durry making,275
+2197,Odisha,2011,Others (carpet),27
+2198,Odisha,2011,Soap & phenyle manufacturing,16
+2199,Odisha,2011,Tailoring,70
+2200,Odisha,2011,Carpentry/craft,23
+2201,Odisha,2011,Binding/type & computer,77
+2202,Odisha,2012,"Binding, type and computer",103
+2203,Odisha,2012,Carpentry,17
+2204,Odisha,2012,Others (carpet),22
+2205,Odisha,2012,Soap (phenyle),15
+2206,Odisha,2012,Tailoring,93
+2207,Odisha,2012,Weaving (durry weaving/making),319
+2208,Punjab,2001,Carpentry,215
+2209,Punjab,2001,Textile,156
+2210,Punjab,2001,Tent,90
+2211,Punjab,2001,Atta chakki,12
+2212,Punjab,2001,Weilding,68
+2213,Punjab,2001,Printing,39
+2214,Punjab,2001,Tailoring,26
+2215,Punjab,2001,Duries,103
+2216,Punjab,2001,Powerloom,14
+2217,Punjab,2001,Motor winding,18
+2218,Punjab,2001,Diesel engine,10
+2219,Punjab,2001,Combine repairs,21
+2220,Punjab,2002,Tents,990
+2221,Punjab,2002,Duri section,180
+2222,Punjab,2002,Cane work,250
+2223,Punjab,2002,Carpentry,25
+2224,Punjab,2002,Soap phenyle,18
+2225,Punjab,2002,Welding,10
+2226,Punjab,2002,Tailoring/weaving,168
+2227,Punjab,2003,Tents,980
+2228,Punjab,2003,Dari making,179
+2229,Punjab,2003,Cane work,244
+2230,Punjab,2003,Carpentry,25
+2231,Punjab,2003,Soap & phenyle,18
+2232,Punjab,2003,Weilding,16
+2233,Punjab,2003,Tailoring/weaving,168
+2234,Punjab,2004,Tents,608
+2235,Punjab,2004,Durri,170
+2236,Punjab,2004,Cane work,150
+2237,Punjab,2004,Carpentry,28
+2238,Punjab,2004,Soap / phenyle,12
+2239,Punjab,2004,Welding,10
+2240,Punjab,2004,Tailoring / weaving,123
+2241,Punjab,2005,Tents,610
+2242,Punjab,2005,Darri,190
+2243,Punjab,2005,Cane work,155
+2244,Punjab,2005,Carpentry,40
+2245,Punjab,2005,Soap phenyle,15
+2246,Punjab,2005,Welding,20
+2247,Punjab,2005,Tailoring,123
+2248,Punjab,2006,Tents,827
+2249,Punjab,2006,Dannian,187
+2250,Punjab,2006,Can work,170
+2251,Punjab,2006,Carpentry,3123
+2252,Punjab,2006,Soap,23
+2253,Punjab,2006,Welding,57
+2254,Punjab,2006,Tailoring / weaving,163
+2255,Punjab,2007,Tents,793
+2256,Punjab,2007,Darrian,157
+2257,Punjab,2007,Canning,194
+2258,Punjab,2007,Carpentry,3019
+2259,Punjab,2007,Soap,29
+2260,Punjab,2007,Welding,67
+2261,Punjab,2007,Tailoring,177
+2262,Punjab,2008,Carpentry,264
+2263,Punjab,2008,Weaving,315
+2264,Punjab,2008,Rassa/dori,8
+2265,Punjab,2008,Niwar making,11
+2266,Punjab,2008,Rangat,4
+2267,Punjab,2008,Tents,180
+2268,Punjab,2008,Soap & phenyle,35
+2269,Punjab,2008,Soap,81
+2270,Punjab,2008,Tailoring,143
+2271,Punjab,2008,Dari making,32
+2272,Punjab,2008,Flour mill,89
+2273,Punjab,2008,Agriculture,30
+2274,Punjab,2008,Pipe,14
+2275,Punjab,2008,Printing,6
+2276,Punjab,2008,Repair,10
+2277,Punjab,2008,Knitting,12
+2278,Punjab,2009,Carpentry,265
+2279,Punjab,2009,Weaving,310
+2280,Punjab,2009,Rassa/dori,8
+2281,Punjab,2009,Niwar,12
+2282,Punjab,2009,Rangot,4
+2283,Punjab,2009,Tent,175
+2284,Punjab,2009,Soap & phynile,120
+2285,Punjab,2009,Tailoring,151
+2286,Punjab,2009,Flour mill,40
+2287,Punjab,2009,Agriculture,30
+2288,Punjab,2009,Pipe,6
+2289,Punjab,2009,Printing press,4
+2290,Punjab,2009,Nitting,22
+2291,Punjab,2010,Carpentry,269
+2292,Punjab,2010,Weaving,312
+2293,Punjab,2010,Rassa/dori,10
+2294,Punjab,2010,Niwar,11
+2295,Punjab,2010,Rangot,2
+2296,Punjab,2010,Tant,190
+2297,Punjab,2010,Soap & phenyl making,40
+2298,Punjab,2010,Soap,78
+2299,Punjab,2010,Tailoring,148
+2300,Punjab,2010,Floor mill,42
+2301,Punjab,2010,Agriculture,45
+2302,Punjab,2010,Pipe,6
+2303,Punjab,2010,Printing press,8
+2304,Punjab,2010,Nitting,29
+2305,Punjab,2010,Miscellaneous,6
+2306,Punjab,2011,Carpentry,280
+2307,Punjab,2011,Weaving,320
+2308,Punjab,2011,Rassa/dori,14
+2309,Punjab,2011,Niwar,12
+2310,Punjab,2011,Rangat,2
+2311,Punjab,2011,Tent,205
+2312,Punjab,2011,Soap & phynile,47
+2313,Punjab,2011,Soap,78
+2314,Punjab,2011,Tailoring,162
+2315,Punjab,2011,Weaving (daries),45
+2316,Punjab,2011,Floor mill,49
+2317,Punjab,2011,Agriculture,50
+2318,Punjab,2011,Pipe,7
+2319,Punjab,2011,Printing press,9
+2320,Punjab,2011,Knitting,33
+2321,Punjab,2011,Miscellaneous,7
+2322,Punjab,2012,Carpentry,309
+2323,Punjab,2012,Weaving,902
+2324,Punjab,2012,Rassa/dori,7
+2325,Punjab,2012,Niwar,127
+2326,Punjab,2012,Rangat,14
+2327,Punjab,2012,Tent,90
+2328,Punjab,2012,Soap & phenyle,56
+2329,Punjab,2012,Soap,80
+2330,Punjab,2012,Tailoring,234
+2331,Punjab,2012,Weaving (daries),194
+2332,Punjab,2012,Flour mill,234
+2333,Punjab,2012,Agriculture,523
+2334,Punjab,2012,Pipe,99
+2335,Punjab,2012,Printing press,62
+2336,Punjab,2012,Knitting,15
+2337,Punjab,2012,Miscellaneous,174
+2338,Rajasthan,2001,Cloth,157
+2339,Rajasthan,2001,Dari industry,664
+2340,Rajasthan,2001,Tailoring,37
+2341,Rajasthan,2001,Niwar,570
+2342,Rajasthan,2001,Carpentry,115
+2343,Rajasthan,2001,Black smithy,5
+2344,Rajasthan,2001,Cooler industry,10
+2345,Rajasthan,2001,Carpet,36
+2346,Rajasthan,2001,Others,227
+2347,Rajasthan,2002,Cloth,17
+2348,Rajasthan,2002,Dari industry,130
+2349,Rajasthan,2002,Tailoring,17
+2350,Rajasthan,2002,Niwar,190
+2351,Rajasthan,2002,Carpet,1
+2352,Rajasthan,2002,Furniture,14
+2353,Rajasthan,2002,Cooler industry,3
+2354,Rajasthan,2002,Fitter,15
+2355,Rajasthan,2002,Wire men,15
+2356,Rajasthan,2002,Computer,19
+2357,Rajasthan,2002,Others,23
+2358,Rajasthan,2003,Cloth,23
+2359,Rajasthan,2003,Dari making,146
+2360,Rajasthan,2003,Tailoring,40
+2361,Rajasthan,2003,Niwar,178
+2362,Rajasthan,2003,Carpet,1
+2363,Rajasthan,2003,Furniture,25
+2364,Rajasthan,2003,Cooler,1
+2365,Rajasthan,2003,Fitter,16
+2366,Rajasthan,2003,Wire men,19
+2367,Rajasthan,2003,Computer,30
+2368,Rajasthan,2003,Others,17
+2369,Rajasthan,2004,Cloth,50
+2370,Rajasthan,2004,Dari,261
+2371,Rajasthan,2004,Tailoring,39
+2372,Rajasthan,2004,Niwar,693
+2373,Rajasthan,2004,Carpet,11
+2374,Rajasthan,2004,Furniture,73
+2375,Rajasthan,2004,Cooler,15
+2376,Rajasthan,2004,Fitter,63
+2377,Rajasthan,2004,Wire men,16
+2378,Rajasthan,2004,Computer,16
+2379,Rajasthan,2004,Others,31
+2380,Rajasthan,2005,Cloth,33
+2381,Rajasthan,2005,Dari,256
+2382,Rajasthan,2005,Tailoring,14
+2383,Rajasthan,2005,Niwar,28
+2384,Rajasthan,2005,Carpet,16
+2385,Rajasthan,2005,Furniture,10
+2386,Rajasthan,2005,Machenical diesel,19
+2387,Rajasthan,2005,Fitter,38
+2388,Rajasthan,2005,Wire men,19
+2389,Rajasthan,2005,Computer,16
+2390,Rajasthan,2005,Others,15
+2391,Rajasthan,2006,Cloth,34
+2392,Rajasthan,2006,Dari,133
+2393,Rajasthan,2006,Tailoring,32
+2394,Rajasthan,2006,Niwar,36
+2395,Rajasthan,2006,Carpet,1
+2396,Rajasthan,2006,Furniture,26
+2397,Rajasthan,2006,Machenical diesel,16
+2398,Rajasthan,2006,Fitter,35
+2399,Rajasthan,2006,Wire men,19
+2400,Rajasthan,2006,Blacksmith,17
+2401,Rajasthan,2006,Others,7
+2402,Rajasthan,2007,Cloth,31
+2403,Rajasthan,2007,Dari weaving,233
+2404,Rajasthan,2007,Tailoring,10
+2405,Rajasthan,2007,Niwar,11
+2406,Rajasthan,2007,Carpet,2
+2407,Rajasthan,2007,Furniture,10
+2408,Rajasthan,2007,Machenical diesel,10
+2409,Rajasthan,2007,Fitter,16
+2410,Rajasthan,2007,Wire men,16
+2411,Rajasthan,2007,Blacksmithy,3
+2412,Rajasthan,2007,Others,6
+2413,Rajasthan,2008,Cloth,2424
+2414,Rajasthan,2008,Dari making,5824
+2415,Rajasthan,2008,Tailoring,1657
+2416,Rajasthan,2008,Niwar making,465
+2417,Rajasthan,2008,Others (carpet),14
+2418,Rajasthan,2008,Furniture,455
+2419,Rajasthan,2008,Fitter,0
+2420,Rajasthan,2008,Black smithy,931
+2421,Rajasthan,2008,Others,19
+2422,Rajasthan,2009,Cloth,148
+2423,Rajasthan,2009,Weaving (dari),625
+2424,Rajasthan,2009,Tailoring,33
+2425,Rajasthan,2009,Niwar,203
+2426,Rajasthan,2009,Furniture,6
+2427,Rajasthan,2009,Others (blacksmith),8
+2428,Rajasthan,2009,Others,14
+2429,Rajasthan,2010,Cloth,254
+2430,Rajasthan,2010,Weaving (dari),319
+2431,Rajasthan,2010,Tailoring,64
+2432,Rajasthan,2010,Niwar,504
+2433,Rajasthan,2010,Others (carpet),124
+2434,Rajasthan,2010,Furniture,77
+2435,Rajasthan,2010,Mechanical diesel,6
+2436,Rajasthan,2010,Fitter,20
+2437,Rajasthan,2010,Wire men,16
+2438,Rajasthan,2010,Others (blacksmith),12
+2439,Rajasthan,2010,Others,295
+2440,Rajasthan,2011,Cloth,291
+2441,Rajasthan,2011,Weaving (dari),4
+2442,Rajasthan,2011,Tailoring,180
+2443,Rajasthan,2011,Niwar,1246
+2444,Rajasthan,2011,Others (carpet),1
+2445,Rajasthan,2011,Furniture,63
+2446,Rajasthan,2011,Mechanical diesel,8
+2447,Rajasthan,2011,Fitter,6
+2448,Rajasthan,2011,Others (blacksmith),10
+2449,Rajasthan,2011,Others,25
+2450,Rajasthan,2012,Pl cloths,8
+2451,Rajasthan,2012,Weaving (niwar weaving),63
+2452,Rajasthan,2012,Tailoring (bandi cloths stitching),5
+2453,Rajasthan,2012,Furniture,8
+2454,Rajasthan,2012,Weaving (durries),9
+2455,Rajasthan,2012,Fitter,10
+2456,Rajasthan,2012,Wire men,10
+2457,Rajasthan,2012,Carpenter,12
+2458,Rajasthan,2012,Cutting-shaving,14
+2459,Rajasthan,2012,Computer,26
+2460,Rajasthan,2012,Bag training,9
+2461,Rajasthan,2012,Flower bouquet,16
+2462,Rajasthan,2012,Soft toys,13
+2463,Rajasthan,2012,Weaving (niwar),230
+2464,Rajasthan,2012,Powerloom,13
+2465,Rajasthan,2012,Iron industry,8
+2466,Rajasthan,2012,Tailoring (silai kachh),8
+2467,Rajasthan,2012,Weaving (niwar),75
+2468,Rajasthan,2012,Furniture,7
+2469,Rajasthan,2012,Others,7
+2470,Sikkim,2001,Cane & bamboo,12
+2471,Sikkim,2001,Angora rearing,10
+2472,Sikkim,2002,Cane & bamboo,15
+2473,Sikkim,2002,Angora rearing,15
+2474,Sikkim,2003,Cane & bamboo,4
+2475,Sikkim,2003,Bag weaving,4
+2476,Sikkim,2003,Tailoring,2
+2477,Sikkim,2003,Angora rearing,2
+2478,Sikkim,2004,Cane & bamboo,7
+2479,Sikkim,2004,"Plastic bag, weaving",8
+2480,Sikkim,2004,Tailoring,3
+2481,Sikkim,2004,Angora rearing,3
+2482,Sikkim,2005,Cane and bamboo,7
+2483,Sikkim,2005,Plastic weaving,8
+2484,Sikkim,2005,Tailoring,3
+2485,Sikkim,2006,Cane and bamboo,12
+2486,Sikkim,2006,Plastic weaving,11
+2487,Sikkim,2006,Tailoring,7
+2488,Sikkim,2007,Canning,34
+2489,Sikkim,2007,Weaving,15
+2490,Sikkim,2007,Piggery,4
+2491,Sikkim,2007,Tailoring,19
+2492,Sikkim,2007,Dairy farming,6
+2493,Sikkim,2007,Carpentry,8
+2494,Sikkim,2007,Goatery,4
+2495,Sikkim,2007,Agriculture,32
+2496,Sikkim,2007,Floriculture,4
+2497,Sikkim,2007,Mushroom,21
+2498,Sikkim,2007,Knitting / envelope,21
+2499,Sikkim,2008,Canning & bamboo,13
+2500,Sikkim,2008,Piggery,4
+2501,Sikkim,2008,Tailoring,24
+2502,Sikkim,2008,Dairy farming,8
+2503,Sikkim,2008,Carpentry,10
+2504,Sikkim,2008,Goatery,4
+2505,Sikkim,2008,Agriculture,18
+2506,Sikkim,2008,Agriculture (floriculture),14
+2507,Sikkim,2008,Mushroom,25
+2508,Sikkim,2008,Envelope making,14
+2509,Sikkim,2008,"Knitting, needle & thread work",8
+2510,Sikkim,2009,Canning & bamboo,13
+2511,Sikkim,2009,Piggery,2
+2512,Sikkim,2009,Tailoring,6
+2513,Sikkim,2009,Dairy farming,5
+2514,Sikkim,2009,Carpentry,5
+2515,Sikkim,2009,Goatery,2
+2516,Sikkim,2009,Agriculture,10
+2517,Sikkim,2009,Agriculture (floriculture),12
+2518,Sikkim,2009,"Knitting, needle & thread work",2
+2519,Sikkim,2009,Printing / envelope making,9
+2520,Sikkim,2009,Prison bakery,6
+2521,Sikkim,2010,Canning & bamboo,12
+2522,Sikkim,2010,Piggery & goatery,4
+2523,Sikkim,2010,Tailoring,2
+2524,Sikkim,2010,Dairy farming,6
+2525,Sikkim,2010,Carpentry/carving,13
+2526,Sikkim,2010,Bakery,5
+2527,Sikkim,2010,Agriculture,10
+2528,Sikkim,2010,"Knitting, needle & thread work",3
+2529,Sikkim,2010,Screen printing,5
+2530,Sikkim,2010,Envelope making,13
+2531,Sikkim,2011,Cane and bamboo,16
+2532,Sikkim,2011,Piggery,1
+2533,Sikkim,2011,Tailoring,1
+2534,Sikkim,2011,Dairy farming,6
+2535,Sikkim,2011,Carpentry,12
+2536,Sikkim,2011,Agriculture,6
+2537,Sikkim,2011,Floriculture,4
+2538,Sikkim,2011,"Knitting, needle & thread work",1
+2539,Sikkim,2011,Printing / envelope making,4
+2540,Sikkim,2011,Prison bakery,4
+2541,Sikkim,2012,Canning & bamboo,20
+2542,Sikkim,2012,Piggery,2
+2543,Sikkim,2012,Tailoring,1
+2544,Sikkim,2012,Dairy farming,6
+2545,Sikkim,2012,Carpentry,13
+2546,Sikkim,2012,Agriculture,7
+2547,Sikkim,2012,Floriculture,4
+2548,Sikkim,2012,"Knitting, needle & thread work",1
+2549,Sikkim,2012,Printing/envelope making,4
+2550,Sikkim,2012,Prison bakery,4
+2551,Tamil Nadu,2001,Flower making,130
+2552,Tamil Nadu,2001,Plumber,142
+2553,Tamil Nadu,2001,Plumber training,103
+2554,Tamil Nadu,2001,Plumbing,80
+2555,Tamil Nadu,2001,Simple trade,15
+2556,Tamil Nadu,2001,Yoga,65
+2557,Tamil Nadu,2001,Electrical simple trade,60
+2558,Tamil Nadu,2001,Carpentry,132
+2559,Tamil Nadu,2001,Agarbatti,70
+2560,Tamil Nadu,2001,Carpentry,72
+2561,Tamil Nadu,2001,Weaving,290
+2562,Tamil Nadu,2001,Handmade paper,243
+2563,Tamil Nadu,2001,Napkins,3
+2564,Tamil Nadu,2001,Lamination,22
+2565,Tamil Nadu,2001,Tailoring,110
+2566,Tamil Nadu,2001,Book making,240
+2567,Tamil Nadu,2002,Brick making,120
+2568,Tamil Nadu,2002,Computer,15
+2569,Tamil Nadu,2002,Doll making,15
+2570,Tamil Nadu,2002,Hand made paper,239
+2571,Tamil Nadu,2002,Mat work,15
+2572,Tamil Nadu,2002,Phenyl,2
+2573,Tamil Nadu,2002,Plumber,121
+2574,Tamil Nadu,2002,Plumbing,80
+2575,Tamil Nadu,2002,Preparation of greeting cards,30
+2576,Tamil Nadu,2002,Simple trade electrical,30
+2577,Tamil Nadu,2002,Tag making,21
+2578,Tamil Nadu,2002,Tailoring,32
+2579,Tamil Nadu,2002,Tailoring & embroding,24
+2580,Tamil Nadu,2002,Weaving,288
+2581,Tamil Nadu,2003,Phenyle1,3
+2582,Tamil Nadu,2003,Plumber,123
+2583,Tamil Nadu,2003,Tag making,21
+2584,Tamil Nadu,2003,Tailoring,33
+2585,Tamil Nadu,2003,Weaving,291
+2586,Tamil Nadu,2004,Plumber,127
+2587,Tamil Nadu,2004,Tag making,25
+2588,Tamil Nadu,2004,Tailoring,35
+2589,Tamil Nadu,2004,Weaving,297
+2590,Tamil Nadu,2004,Phenyl,5
+2591,Tamil Nadu,2005,Plumbing trade,634
+2592,Tamil Nadu,2005,Weaving,232
+2593,Tamil Nadu,2005,Paper binding,643
+2594,Tamil Nadu,2005,Hollow brick making,169
+2595,Tamil Nadu,2005,Simple trade wiring training,151
+2596,Tamil Nadu,2005,Carpentry,15
+2597,Tamil Nadu,2005,Tag making and phenyle,30
+2598,Tamil Nadu,2005,Tailoring & embroidery 3 month course,36
+2599,Tamil Nadu,2005,Electrical wiring,377
+2600,Tamil Nadu,2005,Brick making,480
+2601,Tamil Nadu,2006,Plumbing trade,641
+2602,Tamil Nadu,2006,Weaving,237
+2603,Tamil Nadu,2006,Paper binding,652
+2604,Tamil Nadu,2006,Simple trade wiring training,145
+2605,Tamil Nadu,2006,Carpentary training,17
+2606,Tamil Nadu,2006,"Tag making, phenyle",33
+2607,Tamil Nadu,2006,Tailoring and embraiding 3 month course,37
+2608,Tamil Nadu,2006,Electrical wiring,391
+2609,Tamil Nadu,2006,Brick making,490
+2610,Tamil Nadu,2007,Plumbing,186
+2611,Tamil Nadu,2007,Weaving,356
+2612,Tamil Nadu,2007,Paper binding,691
+2613,Tamil Nadu,2007,Hallow block making,244
+2614,Tamil Nadu,2007,Simple trade wiring training,16
+2615,Tamil Nadu,2007,Carpentry,16
+2616,Tamil Nadu,2007,Wood work,250
+2617,Tamil Nadu,2007,Tailoring,181
+2618,Tamil Nadu,2007,Electrical wiring,20
+2619,Tamil Nadu,2007,Flower wash training,250
+2620,Tamil Nadu,2007,Drawing training,20
+2621,Tamil Nadu,2007,Computer training,42
+2622,Tamil Nadu,2007,Knitting,46
+2623,Tamil Nadu,2007,Yoga & meditation,564
+2624,Tamil Nadu,2007,Boiler training,19
+2625,Tamil Nadu,2007,Spinning,17
+2626,Tamil Nadu,2007,Handloom,26
+2627,Tamil Nadu,2007,Weaving,240
+2628,Tamil Nadu,2008,Bag making,600
+2629,Tamil Nadu,2008,Catering,52
+2630,Tamil Nadu,2008,Drawing,32
+2631,Tamil Nadu,2008,Embroidery,80
+2632,Tamil Nadu,2008,Flower vase making,300
+2633,Tamil Nadu,2008,Hollow block bricks,210
+2634,Tamil Nadu,2008,Mat work,300
+2635,Tamil Nadu,2008,Paper binding,125
+2636,Tamil Nadu,2008,Plumbing,252
+2637,Tamil Nadu,2008,Printing,60
+2638,Tamil Nadu,2008,Purse making,350
+2639,Tamil Nadu,2008,Tailoring,127
+2640,Tamil Nadu,2008,Toy making / basket making,32
+2641,Tamil Nadu,2008,Weaving,242
+2642,Tamil Nadu,2008,Woolen articles making,361
+2643,Tamil Nadu,2009,Embroidery,10
+2644,Tamil Nadu,2009,Carpentary,18
+2645,Tamil Nadu,2009,Areca plates,36
+2646,Tamil Nadu,2009,Rope,15
+2647,Tamil Nadu,2009,Insulator box,9
+2648,Tamil Nadu,2009,Plumbing,435
+2649,Tamil Nadu,2009,Wiring,10
+2650,Tamil Nadu,2009,Computer,14
+2651,Tamil Nadu,2009,Soap oil/automobile cleaning/deionised,20
+2652,Tamil Nadu,2009,Toy making / basket making,45
+2653,Tamil Nadu,2009,Napkin making,10
+2654,Tamil Nadu,2009,Agriculture (mushroom cultivating),15
+2655,Tamil Nadu,2009,Block printing,4
+2656,Tamil Nadu,2009,Greeting / muffler making,80
+2657,Tamil Nadu,2009,Screen printing,75
+2658,Tamil Nadu,2009,Poly bags,50
+2659,Tamil Nadu,2009,Automobile mechanism,25
+2660,Tamil Nadu,2010,Areca plates,36
+2661,Tamil Nadu,2010,Automobile cleaning /soap oil/deionised,20
+2662,Tamil Nadu,2010,Readymade garments,25
+2663,Tamil Nadu,2010,Soap & washing powder,50
+2664,Tamil Nadu,2010,Carpentry,16
+2665,Tamil Nadu,2010,Computer,14
+2666,Tamil Nadu,2010,Greeting card / muffler making,80
+2667,Tamil Nadu,2010,Insulator box,9
+2668,Tamil Nadu,2010,Napkin making,10
+2669,Tamil Nadu,2010,Plumbing,165
+2670,Tamil Nadu,2010,Poly bags,50
+2671,Tamil Nadu,2010,Rope making,15
+2672,Tamil Nadu,2010,Screen printing,75
+2673,Tamil Nadu,2010,Tailoring,10
+2674,Tamil Nadu,2011,Bakery unit,52
+2675,Tamil Nadu,2011,Four wheeler mechanism,20
+2676,Tamil Nadu,2011,Diploma in house electrician,26
+2677,Tamil Nadu,2011,Plumbing work,119
+2678,Tamil Nadu,2011,Embroidery,82
+2679,Tamil Nadu,2011,Toy making basket making,112
+2680,Tamil Nadu,2011,Other (hand made paper industry),24
+2681,Tamil Nadu,2011,Weaving,742
+2682,Tamil Nadu,2011,Areca plates,4
+2683,Tamil Nadu,2011,Beautician course,8
+2684,Tamil Nadu,2011,Sambrani making,24
+2685,Tamil Nadu,2011,Kundankal making in sarees,15
+2686,Tamil Nadu,2011,Soap (washing powder making),54
+2687,Tamil Nadu,2011,Zarthoshi,20
+2688,Tamil Nadu,2011,Jewell making,20
+2689,Tamil Nadu,2011,Palm flower making,9
+2690,Tamil Nadu,2011,Other (candle making),29
+2691,Tamil Nadu,2011,Screen printing,20
+2692,Tamil Nadu,2011,Book making,3288
+2693,Tamil Nadu,2012,Bakery unit,58
+2694,Tamil Nadu,2012,Computer training,619
+2695,Tamil Nadu,2012,Prison ministry india (pmi) musical trg,85
+2696,Tamil Nadu,2012,Mahathma gandhi community college,2649
+2697,Tamil Nadu,2012,Four wheeler mechanism,24
+2698,Tamil Nadu,2012,Agricultural training,105
+2699,Tamil Nadu,2012,Led lamp training,25
+2700,Tamil Nadu,2012,Embroidering (women prisoner),360
+2701,Tamil Nadu,2012,Garden,222
+2702,Tamil Nadu,2012,Plumbing training,137
+2703,Tamil Nadu,2012,Basic welding (arc),20
+2704,Tamil Nadu,2012,Industrial security guard,20
+2705,Tamil Nadu,2012,Weaving,65
+2706,Tamil Nadu,2012,Book binding,313
+2707,Tamil Nadu,2012,Diploma in beautician course,20
+2708,Tamil Nadu,2012,Diploma in fashing designing and garment,18
+2709,Tamil Nadu,2012,Toys and basket making,380
+2710,Tamil Nadu,2012,Greeting & muffler making,100
+2711,Tamil Nadu,2012,Textile making/training,94
+2712,Tamil Nadu,2012,Wax making training,11
+2713,Tamil Nadu,2012,Soap making,8
+2714,Tamil Nadu,2012,Steel utensils manufacturing training,7
+2715,Tamil Nadu,2012,Carpentry workshop/training,16
+2716,Tamil Nadu,2012,Paper making unit/training,619
+2717,Tamil Nadu,2012,File pad making/training,80
+2718,Tamil Nadu,2012,Shoe making industry/training,52
+2719,Tripura,2001,Press,0
+2720,Tripura,2001,Tailoring,0
+2721,Tripura,2001,Weaving,0
+2722,Tripura,2001,Piggery firm,0
+2723,Tripura,2001,Poultry,0
+2724,Tripura,2001,Vegetable,0
+2725,Tripura,2001,Agriculture,0
+2726,Tripura,2001,Computer,210
+2727,Tripura,2003,Others,265
+2728,Tripura,2004,Others,265
+2729,Tripura,2006,Printing press,7
+2730,Tripura,2006,Tailoring,22
+2731,Tripura,2006,Weaving,30
+2732,Tripura,2006,Basketry,21
+2733,Tripura,2006,Mushroom cultivation,5
+2734,Tripura,2006,Piggery farming,12
+2735,Tripura,2006,Laundry,10
+2736,Tripura,2006,Duckery farming,10
+2737,Tripura,2006,Poultry farming,5
+2738,Tripura,2006,Fishery,12
+2739,Tripura,2006,Agriculture,160
+2740,Tripura,2006,Computer application,5
+2741,Tripura,2006,Rabbit farming,4
+2742,Tripura,2006,Book binding,15
+2743,Tripura,2007,Agriculture,334
+2744,Tripura,2007,Basketry,18
+2745,Tripura,2007,Weaving,25
+2746,Tripura,2007,Printing,6
+2747,Tripura,2007,Book binding,9
+2748,Tripura,2007,Laundry,10
+2749,Tripura,2007,Tailoring,18
+2750,Tripura,2007,Piggery,3
+2751,Tripura,2007,Computer training,15
+2752,Tripura,2007,Fishery,12
+2753,Tripura,2008,Weaving section,31
+2754,Tripura,2008,Book binding,5
+2755,Tripura,2008,Press,6
+2756,Tripura,2008,Canning & bamboo,11
+2757,Tripura,2008,Tailoring,13
+2758,Tripura,2008,Agriculture,334
+2759,Tripura,2008,Fishery,19
+2760,Tripura,2008,Computer,5
+2761,Tripura,2009,Laundry,10
+2762,Tripura,2009,Canning & bamboo,50
+2763,Tripura,2009,Tailoring,25
+2764,Tripura,2009,Book binding,35
+2765,Tripura,2009,Press unit,10
+2766,Tripura,2009,Weaving unit,30
+2767,Tripura,2009,Agriculture,164
+2768,Tripura,2009,Computer unit,13
+2769,Tripura,2009,Pisciculture unit,50
+2770,Tripura,2010,Lendry,10
+2771,Tripura,2010,Canning & bamboo,50
+2772,Tripura,2010,Tailoring,25
+2773,Tripura,2010,Book binding,35
+2774,Tripura,2010,Press unit,10
+2775,Tripura,2010,Agriculture,174
+2776,Tripura,2010,Weaving unit,30
+2777,Tripura,2010,Computer,13
+2778,Tripura,2010,Pisciculture unit,50
+2779,Tripura,2011,Laundry,10
+2780,Tripura,2011,Can and bamboo,50
+2781,Tripura,2011,Tailoring,25
+2782,Tripura,2011,Book binding,35
+2783,Tripura,2011,Press unit,10
+2784,Tripura,2011,Agriculture unit,174
+2785,Tripura,2011,Weaving unit,30
+2786,Tripura,2011,Computer,13
+2787,Tripura,2011,Pisciculture unit,50
+2788,Tripura,2012,Laundry,10
+2789,Tripura,2012,Can and bamboo,50
+2790,Tripura,2012,Tailoring,25
+2791,Tripura,2012,Book binding,35
+2792,Tripura,2012,Press unit,10
+2793,Tripura,2012,Agriculture unit,174
+2794,Tripura,2012,Weaving unit,30
+2795,Tripura,2012,Pisciculture unit,50
+2796,Uttar Pradesh,2001,Blanket factory,140
+2797,Uttar Pradesh,2001,Carpentry,75
+2798,Uttar Pradesh,2001,Dari industry,55
+2799,Uttar Pradesh,2001,Data entry & typing,15
+2800,Uttar Pradesh,2001,Durri industry,450
+2801,Uttar Pradesh,2001,Literacy programme,268
+2802,Uttar Pradesh,2002,Atta chakki,76
+2803,Uttar Pradesh,2002,Automobile,15
+2804,Uttar Pradesh,2002,Blanket industry,586
+2805,Uttar Pradesh,2002,Education,470
+2806,Uttar Pradesh,2002,Iron industry,166
+2807,Uttar Pradesh,2002,Tailoring industry,67
+2808,Uttar Pradesh,2002,Others,3486
+2809,Uttar Pradesh,2003,Academic,462
+2810,Uttar Pradesh,2003,Embriodary,260
+2811,Uttar Pradesh,2003,Motor binding,70
+2812,Uttar Pradesh,2003,Agarbatti,45
+2813,Uttar Pradesh,2003,Bakery,73
+2814,Uttar Pradesh,2003,Atta training,73
+2815,Uttar Pradesh,2003,Counselling,2172
+2816,Uttar Pradesh,2004,Bakery,46
+2817,Uttar Pradesh,2004,Dari,31
+2818,Uttar Pradesh,2004,Masson,16
+2819,Uttar Pradesh,2004,Painting,10
+2820,Uttar Pradesh,2004,Academic,336
+2821,Uttar Pradesh,2005,Bakery,34
+2822,Uttar Pradesh,2005,Chess,50
+2823,Uttar Pradesh,2005,Computer training,120
+2824,Uttar Pradesh,2005,Jute,30
+2825,Uttar Pradesh,2005,Motor binding,25
+2826,Uttar Pradesh,2005,Screen training,25
+2827,Uttar Pradesh,2005,Agricultural,448
+2828,Uttar Pradesh,2005,Blanket,46
+2829,Uttar Pradesh,2005,Others,217
+2830,Uttar Pradesh,2005,Powerloom,91
+2831,Uttar Pradesh,2005,Sewing,78
+2832,Uttar Pradesh,2005,Soap phenyle,54
+2833,Uttar Pradesh,2005,Steel,2
+2834,Uttar Pradesh,2005,Tent,138
+2835,Uttar Pradesh,2006,Computer training,130
+2836,Uttar Pradesh,2006,Motor training,25
+2837,Uttar Pradesh,2006,Tailoring,11
+2838,Uttar Pradesh,2006,Woman tailoring,25
+2839,Uttar Pradesh,2007,Blanket training,282
+2840,Uttar Pradesh,2007,Computer training,78
+2841,Uttar Pradesh,2007,Dari weaving,80
+2842,Uttar Pradesh,2007,Carpentry,39
+2843,Uttar Pradesh,2007,Tailoring,19
+2844,Uttar Pradesh,2008,Computer training,69
+2845,Uttar Pradesh,2009,Nil,0
+2846,Uttar Pradesh,2009,Computer training,505
+2847,Uttar Pradesh,2009,"Tailoring, sewing & embriodry",180
+2848,Uttar Pradesh,2009,Wireman electric,64
+2849,Uttar Pradesh,2009,Cycle rikshaw repairing,81
+2850,Uttar Pradesh,2009,Plumbing,42
+2851,Uttar Pradesh,2010,Computer training,398
+2852,Uttar Pradesh,2010,Tailoring sewing & embroidery,103
+2853,Uttar Pradesh,2010,Wireman electric,127
+2854,Uttar Pradesh,2010,Plumbing,93
+2855,Uttar Pradesh,2011,Computer training,417
+2856,Uttar Pradesh,2011,Cycle repairing,1764
+2857,Uttar Pradesh,2011,Gardening,842
+2858,Uttar Pradesh,2011,Bakery product (band),2285
+2859,Uttar Pradesh,2011,Hosiery,325
+2860,Uttar Pradesh,2011,Readymade garments,204
+2861,Uttar Pradesh,2011,Football making,104
+2862,Uttar Pradesh,2011,Packeting of grane,216
+2863,Uttar Pradesh,2012,Computer training,417
+2864,Uttar Pradesh,2012,Cycle repairing,1822
+2865,Uttar Pradesh,2012,Gardening,957
+2866,Uttar Pradesh,2012,Bakery product (band),2326
+2867,Uttar Pradesh,2012,Hosiery,321
+2868,Uttar Pradesh,2012,Readymade garments,364
+2869,Uttar Pradesh,2012,Football making,134
+2870,Uttar Pradesh,2012,Packeting of grane,235
+2871,Uttar Pradesh,2012,Automobile repairing,234
+2872,Uttar Pradesh,2012,Tailoring (sewing),312
+2873,Uttar Pradesh,2012,Weaving (blanket weaving),572
+2874,Uttar Pradesh,2012,Soap phenyle making,164
+2875,Uttar Pradesh,2012,Boot/shoe making,184
+2876,Uttar Pradesh,2012,Others (handmade paper making),64
+2877,Uttar Pradesh,2012,Printing press operation,34
+2878,Uttarakhand,2002,House wiring/motor wiring,40
+2879,Uttarakhand,2003,Yoga,350
+2880,Uttarakhand,2003,Computer training,20
+2881,Uttarakhand,2003,House/motor wiring,16
+2882,Uttarakhand,2004,Yoga,380
+2883,Uttarakhand,2004,Computer training,20
+2884,Uttarakhand,2004,House wiring and moter winding,20
+2885,Uttarakhand,2005,Computer training,60
+2886,Uttarakhand,2005,House wiring,72
+2887,Uttarakhand,2006,Computer training,40
+2888,Uttarakhand,2006,House wiring / motor binding,339
+2889,Uttarakhand,2006,Literacy programme,120
+2890,Uttarakhand,2007,Tailoring,21
+2891,Uttarakhand,2007,Coupler training,45
+2892,Uttarakhand,2007,Motor winding,60
+2893,Uttarakhand,2007,Literacy programme,140
+2894,Uttarakhand,2007,Electric fitting,60
+2895,Uttarakhand,2007,Tailoring,15
+2896,Uttarakhand,2008,Sewing,130
+2897,Uttarakhand,2008,Computer,291
+2898,Uttarakhand,2009,Computer training by sterlite foundation,20
+2899,Uttarakhand,2009,"Cutting, knitting training for females",75
+2900,Uttarakhand,2009,Spinning-knitting by ua kvic,28
+2901,Uttarakhand,2009,"Carpentry, furniture making, wood work",15
+2902,Uttarakhand,2009,Iron fabrication & other work,9
+2903,Uttarakhand,2009,Garment making,13
+2904,Uttarakhand,2009,Others (hand craft),25
+2905,Uttarakhand,2009,Handloom (resham spooling / threading),10
+2906,Uttarakhand,2009,Agarbatti making,10
+2907,Uttarakhand,2009,Art & painting,11
+2908,Uttarakhand,2009,Luggage assembly job work,32
+2909,Uttarakhand,2010,Computer training by sterlite foundation,10
+2910,Uttarakhand,2010,Tailoring training for females,80
+2911,Uttarakhand,2010,"Cutting, knitting training for females",12
+2912,Uttarakhand,2010,Spinning-knitting by ua kvic,5
+2913,Uttarakhand,2010,Luggage assembly job work,18
+2914,Uttarakhand,2011,Computer training by sterlite foundation,20
+2915,Uttarakhand,2011,Tailoring training for females,70
+2916,Uttarakhand,2011,"Cutting, knitting training for females",12
+2917,Uttarakhand,2012,Computer training,12
+2918,Uttarakhand,2012,Weaving training,20
+2919,Uttarakhand,2012,Weaving (carpet weaving),15
+2920,West Bengal,2001,Weaving,43
+2921,West Bengal,2001,Tailoring,71
+2922,West Bengal,2001,Smithy,36
+2923,West Bengal,2001,Carpentry,29
+2924,West Bengal,2001,Book binding,46
+2925,West Bengal,2001,Motor driving,36
+2926,West Bengal,2001,Motor mechanic,17
+2927,West Bengal,2001,Electrical fittings,22
+2928,West Bengal,2001,"Painting, sculpture & handicrafts",8
+2929,West Bengal,2001,Doll making,11
+2930,West Bengal,2001,Candle making,39
+2931,West Bengal,2001,Sewing & embroidary,31
+2932,West Bengal,2001,Typing,5
+2933,West Bengal,2001,Computer,15
+2934,West Bengal,2001,Agriculture,40
+2935,West Bengal,2001,Cane works,10
+2936,West Bengal,2001,Tv repairing & servicing,10
+2937,West Bengal,2001,Umbrella assembly,8
+2938,West Bengal,2001,Phenyl production,9
+2939,West Bengal,2001,Oil mill,24
+2940,West Bengal,2001,Printing works,20
+2941,West Bengal,2001,Papad preparation,7
+2942,West Bengal,2002,Computer,15
+2943,West Bengal,2002,Tv mechanism,10
+2944,West Bengal,2002,Type writing,4
+2945,West Bengal,2002,Phenyle making,20
+2946,West Bengal,2002,Embroidery,6
+2947,West Bengal,2002,Tailoring,94
+2948,West Bengal,2002,Sheet metal,32
+2949,West Bengal,2002,Oil mill,22
+2950,West Bengal,2002,Carpentry,23
+2951,West Bengal,2002,Ari school,4
+2952,West Bengal,2002,Weaving,57
+2953,West Bengal,2002,Press & forms,84
+2954,West Bengal,2002,Smithy,3
+2955,West Bengal,2002,Book binding,32
+2956,West Bengal,2002,Wheat grinding,3
+2957,West Bengal,2002,Agriculture,28
+2958,West Bengal,2002,Fan reparing,225
+2959,West Bengal,2002,Motor driving,8
+2960,West Bengal,2003,Oil mill,1
+2961,West Bengal,2003,Tin,23
+2962,West Bengal,2003,Weilding,3
+2963,West Bengal,2003,Aluminium,4
+2964,West Bengal,2003,Candle making,4
+2965,West Bengal,2003,Umbrella,5
+2966,West Bengal,2003,Phenyl,3
+2967,West Bengal,2003,Tailoring,69
+2968,West Bengal,2003,Carpentry,63
+2969,West Bengal,2003,Book binding,5
+2970,West Bengal,2003,Electronic lab,3
+2971,West Bengal,2003,Weaving,56
+2972,West Bengal,2003,Laundry,8
+2973,West Bengal,2003,Motor driving,1
+2974,West Bengal,2003,Vegitable plant cultivation,6
+2975,West Bengal,2004,Tailoring,175
+2976,West Bengal,2004,Carpentry,106
+2977,West Bengal,2004,Weaving,279
+2978,West Bengal,2004,Phenyl,25
+2979,West Bengal,2004,Detergent,60
+2980,West Bengal,2004,Oil mill,10
+2981,West Bengal,2004,Tin section,17
+2982,West Bengal,2004,Utensil making,12
+2983,West Bengal,2004,Candle making,5
+2984,West Bengal,2004,Wheat grinding,3
+2985,West Bengal,2004,Laundry,8
+2986,West Bengal,2004,Envelop making,2
+2987,West Bengal,2004,Motor driving,45
+2988,West Bengal,2004,Book binding,24
+2989,West Bengal,2004,House wiring,16
+2990,West Bengal,2005,Weaving,316
+2991,West Bengal,2005,Carpentry,62
+2992,West Bengal,2005,Tanning,64
+2993,West Bengal,2005,Candle making,28
+2994,West Bengal,2005,Printing,75
+2995,West Bengal,2005,Clay modelling,10
+2996,West Bengal,2005,Handi crafts,10
+2997,West Bengal,2005,Silk screen printing,10
+2998,West Bengal,2005,Computer,15
+2999,West Bengal,2005,Phenyl,79
+3000,West Bengal,2005,Umbrella,4
+3001,West Bengal,2005,Tailoring,124
+3002,West Bengal,2005,All utencil making,11
+3003,West Bengal,2005,Welding,9
+3004,West Bengal,2005,Fabrication,23
+3005,West Bengal,2005,Motor driving,48
+3006,West Bengal,2005,Soap,84
+3007,West Bengal,2005,Book binding,3
+3008,West Bengal,2006,Oil mill section,12
+3009,West Bengal,2006,Fabrication work,92
+3010,West Bengal,2006,Repairing & welding,26
+3011,West Bengal,2006,Utensils making,13
+3012,West Bengal,2006,Candle making,30
+3013,West Bengal,2006,Umbrella making,4
+3014,West Bengal,2006,Phenyle making,61
+3015,West Bengal,2006,Tailoring,425
+3016,West Bengal,2006,Carpentary,72
+3017,West Bengal,2006,Dhobi section,38
+3018,West Bengal,2006,Bread making,13
+3019,West Bengal,2006,Weaving,337
+3020,West Bengal,2006,Book binding,104
+3021,West Bengal,2006,Art & crafts,15
+3022,West Bengal,2006,Printing (press),75
+3023,West Bengal,2006,Incense making,35
+3024,West Bengal,2006,Agriculture,55
+3025,West Bengal,2006,Detergent making,90
+3026,West Bengal,2006,Motor driving,50
+3027,West Bengal,2007,Weaving,334
+3028,West Bengal,2007,Tailoring,363
+3029,West Bengal,2007,Book binding,143
+3030,West Bengal,2007,Utensils making,5
+3031,West Bengal,2007,Dhobi section,6
+3032,West Bengal,2007,Carpentry,59
+3033,West Bengal,2007,Soap,110
+3034,West Bengal,2007,Art & crafts,12
+3035,West Bengal,2007,Motor driving,80
+3036,West Bengal,2007,Electrical,24
+3037,West Bengal,2007,Phenyl,44
+3038,West Bengal,2007,Gardening,27
+3039,West Bengal,2007,Repairing & welding,86
+3040,West Bengal,2007,Making candles,32
+3041,West Bengal,2007,Bread making,5
+3042,West Bengal,2007,Umbrella making,2
+3043,West Bengal,2007,Oil mill section,9
+3044,West Bengal,2008,Weaving,752
+3045,West Bengal,2008,Tailoring,445
+3046,West Bengal,2008,Book binding,147
+3047,West Bengal,2008,Utensils making,30
+3048,West Bengal,2008,Dhobi section,9
+3049,West Bengal,2008,Carpentry,113
+3050,West Bengal,2008,Soap (detergent making),110
+3051,West Bengal,2008,Art & crafts,14
+3052,West Bengal,2008,Motor driving,40
+3053,West Bengal,2008,Electrical,25
+3054,West Bengal,2008,Soap & phenyle,65
+3055,West Bengal,2008,Printing,76
+3056,West Bengal,2008,Repairing & welding,49
+3057,West Bengal,2008,Others (candle making),27
+3058,West Bengal,2008,Dari making,47
+3059,West Bengal,2008,Umbrella making,4
+3060,West Bengal,2008,Oil mill section,11
+3061,West Bengal,2009,Weaving,377
+3062,West Bengal,2009,Book,52
+3063,West Bengal,2009,Dhobi,4
+3064,West Bengal,2009,Carpentary,68
+3065,West Bengal,2009,Soap & detergent,120
+3066,West Bengal,2009,Art & crafts,22
+3067,West Bengal,2009,Motor driving,40
+3068,West Bengal,2009,Electrical,25
+3069,West Bengal,2009,Soap & phenyle,47
+3070,West Bengal,2009,Printing,85
+3071,West Bengal,2009,Repairing & welding,20
+3072,West Bengal,2009,Other (candle making),4
+3073,West Bengal,2009,Umbrella making,2
+3074,West Bengal,2010,Weaving (dari weaving),64
+3075,West Bengal,2010,Tailoring,348
+3076,West Bengal,2010,Book binding,88
+3077,West Bengal,2010,Dhobi,5
+3078,West Bengal,2010,Carpentry,72
+3079,West Bengal,2010,Soap (detergent making),98
+3080,West Bengal,2010,Art & crafts,93
+3081,West Bengal,2010,Motor driving,58
+3082,West Bengal,2010,Electrical,17
+3083,West Bengal,2010,Soap & phenyl making,39
+3084,West Bengal,2010,Printing,2
+3085,West Bengal,2010,Repairing & welding,67
+3086,West Bengal,2010,Others (candle making),2
+3087,West Bengal,2010,Umbrella making,2
+3088,West Bengal,2010,Wiring,299
+3089,West Bengal,2011,Knitting/stitching/tailoring/jorrimaking,245
+3090,West Bengal,2011,Book binding,70
+3091,West Bengal,2011,Carpentry,54
+3092,West Bengal,2011,Computers,67
+3093,West Bengal,2011,Motor driving/motor training/repairing,76
+3094,West Bengal,2011,Soap & phenyle/detergent making,34
+3095,West Bengal,2011,Repairing & welding,23
+3096,West Bengal,2011,Art & crafts,7
+3097,West Bengal,2011,Printing,8
+3098,West Bengal,2011,Other (candle / umbrella making),4
+3099,West Bengal,2011,Weaving,49
+3100,West Bengal,2011,Gardening,24
+3101,West Bengal,2011,Fishing,24
+3102,West Bengal,2011,Wheat grinding,5
+3103,West Bengal,2011,Electrical wiring,59
+3104,West Bengal,2011,Dhobi,2
+3105,West Bengal,2011,Vermi compost fertilizer,15
+3106,West Bengal,2011,Jute slipper/bag making,12
+3107,West Bengal,2011,Garment making,6
+3108,West Bengal,2011,Mason work,22
+3109,West Bengal,2011,Music,19
+3110,West Bengal,2011,Bread making,4
+3111,West Bengal,2011,Tin fabrication section,10
+3112,West Bengal,2011,Aluminium utensil/oil mill section,7
+3113,West Bengal,2011,Miscellaneous articles,4
+3114,West Bengal,2012,Dtp advance skill development,55
+3115,West Bengal,2012,Watch repairing and assembling,5
+3116,West Bengal,2012,Dance workshop,16
+3117,West Bengal,2012,Yatra workshop (drama),21
+3118,West Bengal,2012,Weaving section,38
+3119,West Bengal,2012,Tailoring,219
+3120,West Bengal,2012,Soap (phenyle manufacturing),5
+3121,West Bengal,2012,Carpentry,77
+3122,West Bengal,2012,Tin section,10
+3123,West Bengal,2012,Book binding,12
+3124,West Bengal,2012,Wheat grinding,5
+3125,West Bengal,2012,Motor driving,68
+3126,West Bengal,2012,Motor mechanic,30
+3127,West Bengal,2012,Anti electrical training,30
+3128,West Bengal,2012,Computer course/spoken english,154
+3129,West Bengal,2012,Electrical wiring & motor winding,81
+3130,West Bengal,2012,Garment making,65
+3131,West Bengal,2012,Jute handicrafts/kantha stitch,129
+3132,West Bengal,2012,Umbrella section,4
+3133,West Bengal,2012,Welding section,23
+3134,West Bengal,2012,Wooden work,2
+3135,West Bengal,2012,Mustard oil section,8
+3136,West Bengal,2012,Utensils section,2
+3137,West Bengal,2012,Cultural therapy,30
+3138,West Bengal,2012,Bread section,3
+3139,West Bengal,2012,Horticulture,55
+3140,West Bengal,2012,Kitchen & gardening,220
+3141,West Bengal,2012,Vermi compost production,50
+3142,West Bengal,2012,Barbar training,10
+3143,West Bengal,2012,Organisation for livelihood,39
+3144,West Bengal,2012,Advancement with financial aid,39
+3145,West Bengal,2012,Motor cycle repairing,36
+3146,West Bengal,2012,Deep tubewell sinking,25
+3147,West Bengal,2012,Embroidery making,90
+3148,West Bengal,2012,Sanitary napkin making,25
+3149,West Bengal,2012,Food processing,25
+3150,Andaman & Nicobar Islands,2013,Carpentary (wood work),26
+3151,Andaman & Nicobar Islands,2013,Canning (cane work),22
+3152,Andaman & Nicobar Islands,2013,Others (bamboo work),4
+3153,Andaman & Nicobar Islands,2013,Tailoring,2
+3154,Andaman & Nicobar Islands,2013,Embroidery,2
+3155,Andaman & Nicobar Islands,2013,Weaving,5
+3156,Andaman & Nicobar Islands,2013,Cooking,41
+3157,Andaman & Nicobar Islands,2013,Agriculture (gardening),59
+3158,Andaman & Nicobar Islands,2012,Wood work,13
+3159,Andaman & Nicobar Islands,2012,Cane work,12
+3160,Andaman & Nicobar Islands,2012,Bamboo work,6
+3161,Andaman & Nicobar Islands,2012,Tailoring,1
+3162,Andaman & Nicobar Islands,2012,Weaving,6
+3163,Andaman & Nicobar Islands,2012,Cooking,53
+3164,Andaman & Nicobar Islands,2012,Gardening,66
+3165,Andaman & Nicobar Islands,2011,Wood work,13
+3166,Andaman & Nicobar Islands,2011,Cane work,12
+3167,Andaman & Nicobar Islands,2011,Bamboo work,5
+3168,Andaman & Nicobar Islands,2011,Tailoring,2
+3169,Andaman & Nicobar Islands,2011,Embroidery,3
+3170,Andaman & Nicobar Islands,2011,Weaving,7
+3171,Andaman & Nicobar Islands,2011,Cooking,54
+3172,Andaman & Nicobar Islands,2011,Gardening,45
+3173,Andaman & Nicobar Islands,2010,Wood work,19
+3174,Andaman & Nicobar Islands,2010,Canning work,12
+3175,Andaman & Nicobar Islands,2010,Bamboo work,5
+3176,Andaman & Nicobar Islands,2010,Tailoring,1
+3177,Andaman & Nicobar Islands,2010,Embroidery,1
+3178,Andaman & Nicobar Islands,2010,Weaving,4
+3179,Andaman & Nicobar Islands,2010,Cooking,30
+3180,Andaman & Nicobar Islands,2010,Gardening,32
+3181,Andaman & Nicobar Islands,2010,Book binding,4
+3182,Andaman & Nicobar Islands,2009,Wood work,8
+3183,Andaman & Nicobar Islands,2009,Canning work,7
+3184,Andaman & Nicobar Islands,2009,Bamboo work,5
+3185,Andaman & Nicobar Islands,2009,Tailoring,1
+3186,Andaman & Nicobar Islands,2009,Embroidery,1
+3187,Andaman & Nicobar Islands,2009,Weaving,4
+3188,Andaman & Nicobar Islands,2009,Cooking,19
+3189,Andaman & Nicobar Islands,2009,Gardening,26
+3190,Andaman & Nicobar Islands,2008,Wood work,10
+3191,Andaman & Nicobar Islands,2008,Canning & bamboo,16
+3192,Andaman & Nicobar Islands,2008,Bamboo work,9
+3193,Andaman & Nicobar Islands,2008,Tailoring,3
+3194,Andaman & Nicobar Islands,2008,Embroidery,7
+3195,Andaman & Nicobar Islands,2008,Weaving,10
+3196,Andaman & Nicobar Islands,2008,Cooking,22
+3197,Andaman & Nicobar Islands,2008,Gardening,25
+3198,Andaman & Nicobar Islands,2007,Wood work,19
+3199,Andaman & Nicobar Islands,2007,Canning,14
+3200,Andaman & Nicobar Islands,2007,Bamboo work,6
+3201,Andaman & Nicobar Islands,2007,Tailoring,4
+3202,Andaman & Nicobar Islands,2007,Embroidery,1
+3203,Andaman & Nicobar Islands,2007,Weaving,7
+3204,Andaman & Nicobar Islands,2007,Cooking,29
+3205,Andaman & Nicobar Islands,2007,Gardening,21
+3206,Andaman & Nicobar Islands,2006,Wood work,26
+3207,Andaman & Nicobar Islands,2006,Cane work,12
+3208,Andaman & Nicobar Islands,2006,Bamboo work,9
+3209,Andaman & Nicobar Islands,2006,Tailoring,1
+3210,Andaman & Nicobar Islands,2006,Embroidery,1
+3211,Andaman & Nicobar Islands,2006,Weaving,3
+3212,Andaman & Nicobar Islands,2006,Cooking,22
+3213,Andaman & Nicobar Islands,2006,Gardening,32
+3214,Andaman & Nicobar Islands,2005,Wood work,26
+3215,Andaman & Nicobar Islands,2005,Cane work,12
+3216,Andaman & Nicobar Islands,2005,Bamboo work,9
+3217,Andaman & Nicobar Islands,2005,Tailoring,1
+3218,Andaman & Nicobar Islands,2005,Embroidery,1
+3219,Andaman & Nicobar Islands,2005,Weaving,3
+3220,Andaman & Nicobar Islands,2005,Cooking,22
+3221,Andaman & Nicobar Islands,2005,Gardening,32
+3222,Andaman & Nicobar Islands,2004,Wood work,35
+3223,Andaman & Nicobar Islands,2004,Cane work,28
+3224,Andaman & Nicobar Islands,2004,Bamboo work,32
+3225,Andaman & Nicobar Islands,2004,Tailoring,28
+3226,Andaman & Nicobar Islands,2004,Embroidery,16
+3227,Andaman & Nicobar Islands,2004,Weaving,34
+3228,Andaman & Nicobar Islands,2004,Cooking,29
+3229,Andaman & Nicobar Islands,2004,Gardening,24
+3230,Andaman & Nicobar Islands,2003,Wood work,30
+3231,Andaman & Nicobar Islands,2003,Cane work,25
+3232,Andaman & Nicobar Islands,2003,Bamboo work,20
+3233,Andaman & Nicobar Islands,2003,Tailoring,25
+3234,Andaman & Nicobar Islands,2003,Embroidery,15
+3235,Andaman & Nicobar Islands,2003,Weaving,20
+3236,Andaman & Nicobar Islands,2003,Cooking,25
+3237,Andaman & Nicobar Islands,2003,Gardening,30
+3238,Andaman & Nicobar Islands,2002,Wood work,15
+3239,Andaman & Nicobar Islands,2002,Cane work,20
+3240,Andaman & Nicobar Islands,2002,Bamboo work,7
+3241,Andaman & Nicobar Islands,2002,Tailoring,3
+3242,Andaman & Nicobar Islands,2002,Embroidery,3
+3243,Andaman & Nicobar Islands,2002,Weaving,9
+3244,Andaman & Nicobar Islands,2002,Cooking,23
+3245,Andaman & Nicobar Islands,2002,Gardening,45
+3246,Chandigarh,2001,Refrigration repair,58
+3247,Chandigarh,2001,Scooter repair,44
+3248,Chandigarh,2002,Tailoring,12
+3249,Chandigarh,2002,Scooter repair,37
+3250,Chandigarh,2002,Refrigration,26
+3251,Chandigarh,2003,Adult education,26
+3252,Chandigarh,2003,Tailoring,14
+3253,Chandigarh,2003,Scooter repair,32
+3254,Chandigarh,2003,Regrigeration,22
+3255,Chandigarh,2003,Ignou study,42
+3256,Chandigarh,2004,Tailoring,6
+3257,Chandigarh,2005,Adult education,22
+3258,Chandigarh,2005,Tailoring,13
+3259,Chandigarh,2006,Adult education,18
+3260,Chandigarh,2006,Tailoring,24
+3261,Chandigarh,2006,Ignou study,14
+3262,Chandigarh,2006,Family counselling,36
+3263,Chandigarh,2007,Adult education,35
+3264,Chandigarh,2007,Tailoring,8
+3265,Chandigarh,2007,Scooter repair,42
+3266,Chandigarh,2007,Refregeration,46
+3267,Chandigarh,2007,Ignou study,36
+3268,Chandigarh,2008,Tailoring,12
+3269,Chandigarh,2008,Scooter repair,35
+3270,Chandigarh,2008,Refregeration,26
+3271,Chandigarh,2009,Tailoring,19
+3272,Chandigarh,2009,Scooter repair,26
+3273,Chandigarh,2010,Tailoring,32
+3274,Chandigarh,2010,Scooter repair,28
+3275,Chandigarh,2010,Refregeration,39
+3276,Chandigarh,2011,Tailoring,18
+3277,Chandigarh,2011,Scooter repair,25
+3278,Chandigarh,2011,Refregeration,25
+3279,Chandigarh,2011,Plumbing,50
+3280,Chandigarh,2011,Cooking,50
+3281,Chandigarh,2012,Tailoring,27
+3282,Chandigarh,2012,Scooter repair,50
+3283,Chandigarh,2012,Refrigration,25
+3284,Chandigarh,2012,Plumbing,50
+3285,Chandigarh,2012,Cooking,60
+3286,Chandigarh,2012,Carpentry,170
+3287,Chandigarh,2012,Welding,115
+3288,Chandigarh,2012,Canning,84
+3289,Chandigarh,2012,Farming,36
+3290,Dadra & Nagar Haveli,2009,Nil,0
+3291,Dadra & Nagar Haveli,2010,Nil,0
+3292,Dadra & Nagar Haveli,2012,Nil,0
+3293,Daman & Diu,2009,Nil,0
+3294,Daman & Diu,2010,Nil,0
+3295,Daman & Diu,2012,Nil,0
+3296,Delhi,2001,Carpentry,251
+3297,Delhi,2001,Weaving,128
+3298,Delhi,2001,Tailoring,39
+3299,Delhi,2001,Paper unit,90
+3300,Delhi,2001,Chemical,29
+3301,Delhi,2001,Bakery,28
+3302,Delhi,2002,Carpentry,410
+3303,Delhi,2002,Weaving,160
+3304,Delhi,2002,Tailoring,39
+3305,Delhi,2002,Paper unit,75
+3306,Delhi,2002,Chemical,30
+3307,Delhi,2002,Bakery,40
+3308,Delhi,2003,Carpentry,386
+3309,Delhi,2003,Weaving,186
+3310,Delhi,2003,Tailoring,47
+3311,Delhi,2003,Paper unit,152
+3312,Delhi,2003,Chemical,34
+3313,Delhi,2003,Bakery,39
+3314,Delhi,2004,Carpentry,242
+3315,Delhi,2004,Weaving,257
+3316,Delhi,2004,Tailoring,44
+3317,Delhi,2004,Paper unit,167
+3318,Delhi,2004,Chemical,67
+3319,Delhi,2004,Bakery,74
+3320,Delhi,2004,Pottery,12
+3321,Delhi,2005,Plubming,26
+3322,Delhi,2005,Envelope making,126
+3323,Delhi,2005,Typing,25
+3324,Delhi,2005,Tailoring,89
+3325,Delhi,2005,Carpentry,106
+3326,Delhi,2005,Weaving,98
+3327,Delhi,2005,Commercial arts,32
+3328,Delhi,2005,Computer,87
+3329,Delhi,2005,Atta chakki,10
+3330,Delhi,2005,Creche training,30
+3331,Delhi,2005,Beauty culture,3
+3332,Delhi,2005,Screen printing,25
+3333,Delhi,2005,Painting,22
+3334,Delhi,2005,Dhoop making,6
+3335,Delhi,2005,Bakery,36
+3336,Delhi,2005,Chemical,25
+3337,Delhi,2005,Pottery,8
+3338,Delhi,2005,Embroidary,16
+3339,Delhi,2005,Others,3
+3340,Delhi,2006,Plumbing,27
+3341,Delhi,2006,Envelope making / paper unit,117
+3342,Delhi,2006,Typing,26
+3343,Delhi,2006,Tailoring,93
+3344,Delhi,2006,Carpentry,147
+3345,Delhi,2006,Weaving,102
+3346,Delhi,2006,Commercial arts,27
+3347,Delhi,2006,Computer,99
+3348,Delhi,2006,Atta & masala chakki,9
+3349,Delhi,2006,Creche training,10
+3350,Delhi,2006,Beauty culture,5
+3351,Delhi,2006,Screen printing,20
+3352,Delhi,2006,Painting,18
+3353,Delhi,2006,Dhoop batti making,4
+3354,Delhi,2006,Bakery,34
+3355,Delhi,2006,Chemical,23
+3356,Delhi,2006,Pottery,21
+3357,Delhi,2006,Embroidary,61
+3358,Delhi,2006,Sculpture making,8
+3359,Delhi,2006,Herbal packs,7
+3360,Delhi,2006,Others (shoe making etc.),20
+3361,Delhi,2007,Plumbing,15
+3362,Delhi,2007,Envelope making,67
+3363,Delhi,2007,Typing,2
+3364,Delhi,2007,Tailoring,95
+3365,Delhi,2007,Carpentry,307
+3366,Delhi,2007,Weaving,116
+3367,Delhi,2007,Commercial arts,4
+3368,Delhi,2007,Computer training,71
+3369,Delhi,2007,Creche training,10
+3370,Delhi,2007,Beauty culture,2
+3371,Delhi,2007,Painting,16
+3372,Delhi,2007,Atta,9
+3373,Delhi,2007,Dhoop batti making,5
+3374,Delhi,2007,Bakery,34
+3375,Delhi,2007,Chemical,22
+3376,Delhi,2007,Pottery,17
+3377,Delhi,2007,Embroidery,37
+3378,Delhi,2007,Sculpture making,2
+3379,Delhi,2007,Electrical,28
+3380,Delhi,2007,Making candles,5
+3381,Delhi,2007,Shoe making,2
+3382,Delhi,2007,Bag making,10
+3383,Delhi,2007,Others,67
+3384,Delhi,2008,Plumbing,33
+3385,Delhi,2008,Envelope making / paper unit,34
+3386,Delhi,2008,Typing,39
+3387,Delhi,2008,Tailoring,62
+3388,Delhi,2008,Carpentry,139
+3389,Delhi,2008,Weaving,117
+3390,Delhi,2008,Computer,188
+3391,Delhi,2008,Creche training,10
+3392,Delhi,2008,Beauty culture,10
+3393,Delhi,2008,Painting,27
+3394,Delhi,2008,Atta,2
+3395,Delhi,2008,Masala chakki,1
+3396,Delhi,2008,Bakery,40
+3397,Delhi,2008,Chemical,16
+3398,Delhi,2008,Pottery,3
+3399,Delhi,2008,Embroidery,4
+3400,Delhi,2008,Sculpture making,2
+3401,Delhi,2008,Electrical,27
+3402,Delhi,2008,Shoe making,2
+3403,Delhi,2008,Bag making,10
+3404,Delhi,2008,Others,92
+3405,Delhi,2009,Plumbing,47
+3406,Delhi,2009,Envelope making/paper unit,38
+3407,Delhi,2009,Typing,0
+3408,Delhi,2009,Tailoring,102
+3409,Delhi,2009,Carpentry,135
+3410,Delhi,2009,Weaving,145
+3411,Delhi,2009,Commercial arts,0
+3412,Delhi,2009,Computer,218
+3413,Delhi,2009,Creche training,10
+3414,Delhi,2009,Beauty culture,10
+3415,Delhi,2009,Screen printing,0
+3416,Delhi,2009,Painting,41
+3417,Delhi,2009,Atta chakki,0
+3418,Delhi,2009,Masala chakki,2
+3419,Delhi,2009,Dhoop batti making,0
+3420,Delhi,2009,Bakery,56
+3421,Delhi,2009,Chemical,15
+3422,Delhi,2009,Porrery,8
+3423,Delhi,2009,Embroidery,10
+3424,Delhi,2009,Sculpture making,4
+3425,Delhi,2009,Herbal packs,0
+3426,Delhi,2009,Electrical,22
+3427,Delhi,2009,Electronics,28
+3428,Delhi,2009,Spoken english,0
+3429,Delhi,2009,Other (candle making),0
+3430,Delhi,2009,Shoe making,15
+3431,Delhi,2009,Pickle,0
+3432,Delhi,2009,Bag making,17
+3433,Delhi,2009,Stores,0
+3434,Delhi,2009,Others,92
+3435,Delhi,2009,Automotive repair,13
+3436,Delhi,2009,Beauty culture/hair dressing,12
+3437,Delhi,2009,Other (carpet),13
+3438,Delhi,2009,Fabrication,30
+3439,Delhi,2009,Garments,17
+3440,Delhi,2009,Printing,17
+3441,Delhi,2009,Refrigeration & air condition,19
+3442,Delhi,2009,Hospitality,24
+3443,Delhi,2010,Plumbing,171
+3444,Delhi,2010,Envelope making/paper unit,224
+3445,Delhi,2010,Typing,15
+3446,Delhi,2010,Tailoring,665
+3447,Delhi,2010,Carpentry,732
+3448,Delhi,2010,Weaving/embroidary,612
+3449,Delhi,2010,Computer,1513
+3450,Delhi,2010,Atta & masala chakki,38
+3451,Delhi,2010,Creche training,8
+3452,Delhi,2010,Beauty culture,23
+3453,Delhi,2010,Screen printing,37
+3454,Delhi,2010,Painting,172
+3455,Delhi,2010,Dhoop batti making,4
+3456,Delhi,2010,Bag making,105
+3457,Delhi,2010,Bakery,133
+3458,Delhi,2010,Chemical/oil extraction,54
+3459,Delhi,2010,Pickle project,5
+3460,Delhi,2010,Pottery,2
+3461,Delhi,2010,Shoe making,102
+3462,Delhi,2010,Electrical (house wiring),20
+3463,Delhi,2010,Refrigeration & air condition,27
+3464,Delhi,2010,Auto repair,19
+3465,Delhi,2010,Hospitality,41
+3466,Delhi,2010,Herbal packs,10
+3467,Delhi,2010,Gardening,9
+3468,Delhi,2010,Java/papad,12
+3469,Delhi,2010,Automotive repair,38
+3470,Delhi,2010,Beauty culture & hair dressing,31
+3471,Delhi,2010,Others (carpet),36
+3472,Delhi,2010,Fabrication,100
+3473,Delhi,2010,Garments making,130
+3474,Delhi,2010,Printing,46
+3475,Delhi,2010,Refrigeration & air condition,76
+3476,Delhi,2010,Hospitality,120
+3477,Delhi,2010,Electrical,20
+3478,Delhi,2010,Construction,22
+3479,Delhi,2010,Wood work,16
+3480,Delhi,2011,Plumbing,6
+3481,Delhi,2011,Envelope making/paper unit,175
+3482,Delhi,2011,Typing,195
+3483,Delhi,2011,Tailoring,590
+3484,Delhi,2011,Carpentry,252
+3485,Delhi,2011,Weaving / embroidary,188
+3486,Delhi,2011,Computer,730
+3487,Delhi,2011,Atta & masala chakki,19
+3488,Delhi,2011,Creche training,26
+3489,Delhi,2011,Beauty culture,37
+3490,Delhi,2011,Commercial arts,62
+3491,Delhi,2011,Painting,194
+3492,Delhi,2011,Dhoop batti making,36
+3493,Delhi,2011,Bag making,93
+3494,Delhi,2011,Bakery,82
+3495,Delhi,2011,Chemical / oil extraction,27
+3496,Delhi,2011,Pickle project,23
+3497,Delhi,2011,Pottery,14
+3498,Delhi,2011,Shoe making,165
+3499,Delhi,2011,Computer hardware course,37
+3500,Delhi,2011,Flag making,12
+3501,Delhi,2011,Puppet making,7
+3502,Delhi,2011,Artificial jewellery,3
+3503,Delhi,2011,Barbar training,16
+3504,Delhi,2011,Nursery training,14
+3505,Delhi,2011,Java/papad,24
+3506,Delhi,2011,Beauty culture and hair dressing,21
+3507,Delhi,2011,Other (carpet),10
+3508,Delhi,2011,Fabrication,54
+3509,Delhi,2011,Garments making,36
+3510,Delhi,2011,Printing,31
+3511,Delhi,2011,Refrigeration & air condition,32
+3512,Delhi,2011,Electrical,20
+3513,Delhi,2011,Wood work,25
+3514,Delhi,2012,Plumbing,66
+3515,Delhi,2012,Envelope making/paper unit,106
+3516,Delhi,2012,Typing,309
+3517,Delhi,2012,Tailoring,986
+3518,Delhi,2012,Carpentry,340
+3519,Delhi,2012,Weaving/embroidary,262
+3520,Delhi,2012,Computer,1015
+3521,Delhi,2012,Atta & masala chakki,43
+3522,Delhi,2012,Creche training,30
+3523,Delhi,2012,Beauty culture,5
+3524,Delhi,2012,Commercial arts,51
+3525,Delhi,2012,Painting,217
+3526,Delhi,2012,Dhoop batti making,48
+3527,Delhi,2012,Bag making,86
+3528,Delhi,2012,Bakery,85
+3529,Delhi,2012,Chemical/oil extraction,22
+3530,Delhi,2012,Pickle project,28
+3531,Delhi,2012,Pottery,22
+3532,Delhi,2012,Shoe making,212
+3533,Delhi,2012,Stenography classes,10
+3534,Delhi,2012,Poultry training,41
+3535,Delhi,2012,Herbal packs,8
+3536,Delhi,2012,Electrical mechanic,622
+3537,Delhi,2012,Barbar training,46
+3538,Delhi,2012,Fashion designing,35
+3539,Delhi,2012,Flower making,162
+3540,Delhi,2012,Nursery training,71
+3541,Delhi,2012,Puppet making,15
+3542,Delhi,2012,Electrical welding,12
+3543,Delhi,2012,Others (candle making),10
+3544,Delhi,2012,Jute,116
+3545,Delhi,2012,Screen printing,3
+3546,Lakshadweep,2009,Nil,0
+3547,Lakshadweep,2010,Nil,0
+3548,Lakshadweep,2012,Nil,0
+3549,Puducherry,2001,Mat weaving,25
+3550,Puducherry,2001,Book binding,6
+3551,Puducherry,2001,Tailoring,6
+3552,Puducherry,2001,Carpentry,4
+3553,Puducherry,2002,Mat weaving,30
+3554,Puducherry,2002,Book binding,13
+3555,Puducherry,2002,Tailoring,10
+3556,Puducherry,2002,Carpentry,6
+3557,Puducherry,2003,Mat weaving,33
+3558,Puducherry,2003,Book binding,16
+3559,Puducherry,2003,Tailoring,15
+3560,Puducherry,2003,Carpentry,6
+3561,Puducherry,2004,Mat weaving,30
+3562,Puducherry,2004,Book binding,14
+3563,Puducherry,2004,Tailoring,18
+3564,Puducherry,2004,Carpentry,6
+3565,Puducherry,2005,Mat weaving,12
+3566,Puducherry,2005,Book binding,5
+3567,Puducherry,2005,Tailoring,6
+3568,Puducherry,2005,Carpentry,2
+3569,Puducherry,2006,Mat weaving,23
+3570,Puducherry,2006,Book binding,9
+3571,Puducherry,2006,Tailoring,6
+3572,Puducherry,2007,Weaving,13
+3573,Puducherry,2007,Book binding,3
+3574,Puducherry,2007,Tailoring,9
+3575,Puducherry,2007,Carpentry,0
+3576,Puducherry,2008,Book binding,1
+3577,Puducherry,2008,Tailoring,2
+3578,Puducherry,2009,Book binding,2
+3579,Puducherry,2009,Tailoring,2
+3580,Puducherry,2009,Spinning unit,8
+3581,Puducherry,2010,Weaving (mat weaving),5
+3582,Puducherry,2010,Book binding,3
+3583,Puducherry,2010,Tailoring,3
+3584,Puducherry,2010,Carpentry,0
+3585,Puducherry,2010,Spinning unit,11
+3586,Puducherry,2011,Weaving (mat weaving),3
+3587,Puducherry,2011,Book binding,3
+3588,Puducherry,2011,Tailoring,2
+3589,Puducherry,2011,Spinning unit,30
+3590,Puducherry,2012,Weaving (mat weaving),3
+3591,Puducherry,2012,Book binding,3
+3592,Puducherry,2012,Tailoring,2
+3593,Puducherry,2012,Powerloom (spinning unit),25
+3594,Andhra Pradesh,2013,Plumbing/sanitation,141
+3595,Andhra Pradesh,2013,Masonry,224
+3596,Andhra Pradesh,2013,Bookbinding,3
+3597,Andhra Pradesh,2013,Weaving (durry making),59
+3598,Andhra Pradesh,2013,Soap (dying),31
+3599,Andhra Pradesh,2013,Soap making,13
+3600,Andhra Pradesh,2013,Steel mfg,270
+3601,Andhra Pradesh,2013,Others (embroidary),80
+3602,Andhra Pradesh,2013,Weaving,116
+3603,Andhra Pradesh,2013,Paper plate making,75
+3604,Andhra Pradesh,2013,Others (painting/decoration),128
+3605,Andhra Pradesh,2013,Electrical house/motor wiring,58
+3606,Andhra Pradesh,2013,Other (coir making unit),102
+3607,Andhra Pradesh,2013,Cover making unit,12
+3608,Andhra Pradesh,2013,Others (bakery unit),52
+3609,Andhra Pradesh,2013,Nc,28
+3610,Andhra Pradesh,2013,Tooth powder making,30
+3611,Andhra Pradesh,2013,Other (candle making unit),50
+3612,Andhra Pradesh,2013,Carpentary (wooden unit),22
+3613,Arunachal Pradesh,2013,Other,5
+3614,Arunachal Pradesh,2013,Mora makin,3
+3615,Assam,2013,Weaving,100
+3616,Assam,2013,Other (can & bamboo/carpenter),80
+3617,Assam,2013,Tailoring,3
+3618,Assam,2013,Others (black smith),3
+3619,Assam,2013,Electrical training,48
+3620,Assam,2013,Soap,12
+3621,Assam,2013,Stick making,19
+3622,Assam,2013,Other (handicraft),70
+3623,Bihar,2013,Computer training,562
+3624,Bihar,2013,Music,301
+3625,Bihar,2013,Steaching and tailoring,104
+3626,Bihar,2013,Tent and tamboo making,36
+3627,Bihar,2013,Tailoring,96
+3628,Bihar,2013,Weaving (cotton ; carpet and kalin),13
+3629,Bihar,2013,Carpentary,7
+3630,Bihar,2013,Others (black smith),2
+3631,Bihar,2013,Soap(phenyl and soap making),4
+3632,Bihar,2013,Weaving (woolen weaving),5
+3633,Bihar,2013,Soap (caustic soap production training),32
+3634,Bihar,2013,Soap (phenyle production training),12
+3635,Bihar,2013,Handlooms cloths,55
+3636,Bihar,2013,Weaving (charkha suta katai),30
+3637,Bihar,2013,Tailoring (sewing centre),21
+3638,Bihar,2013,Others (atta chaki milling),12
+3639,Bihar,2013,Embroidary training,41
+3640,Bihar,2013,Agriculture (masroom training),150
+3641,Bihar,2013,Typing training,143
+3642,Bihar,2013,Educational programme prerna,573
+3643,Bihar,2013,Krech kendra for children,2
+3644,Bihar,2013,Practical training in jail industry,227
+3645,Bihar,2013,Educational,160
+3646,Bihar,2013,Other (computer and technology training),5
+3647,Bihar,2013,Wax candle,12
+3648,Bihar,2013,Soap (white phenyle),15
+3649,Bihar,2013,Others (atta),14
+3650,Bihar,2013,Soap (detergent powder),13
+3651,Bihar,2013,Neel,15
+3652,Bihar,2013,Mithila painting,16
+3653,Chhattisgarh,2013,Weaving ( work),380
+3654,Chhattisgarh,2013,Offset and screen printing,149
+3655,Chhattisgarh,2013,Carpentary,347
+3656,Chhattisgarh,2013,Embroidery,49
+3657,Chhattisgarh,2013,Others (bamboo craft),11
+3658,Chhattisgarh,2013,Steelwork,31
+3659,Chhattisgarh,2013,Tailoring,223
+3660,Chhattisgarh,2013,Carpentary (wooden corbing),11
+3661,Chhattisgarh,2013,Soap and phenyl making and washing powde,44
+3662,Chhattisgarh,2013,Nylon dori,31
+3663,Chhattisgarh,2013,Others (black smith),68
+3664,Chhattisgarh,2013,Kekti work,8
+3665,Chhattisgarh,2013,Agriculture (moshroom training),51
+3666,Chhattisgarh,2013,Agriculture training,50
+3667,Chhattisgarh,2013,Other (chalk),5
+3668,Chhattisgarh,2013,Powerloom,3
+3669,Chhattisgarh,2013,Was candle,2
+3670,Goa,2013,Plumbing course,25
+3671,Goa,2013,Other (computer),37
+3672,Goa,2013,Others (art industry),14
+3673,Goa,2013,Others (bakery),8
+3674,Goa,2013,Carpentary,10
+3675,Goa,2013,Tailoring,6
+3676,Gujarat,2013,Tailoring (training for women),22
+3677,Gujarat,2013,Tailoring,814
+3678,Gujarat,2013,Hair cutting,52
+3679,Gujarat,2013,Electrical,148
+3680,Gujarat,2013,Othres (painting),28
+3681,Gujarat,2013,Other (computer),377
+3682,Gujarat,2013,Others (bakery),140
+3683,Gujarat,2013,Weaving,1358
+3684,Gujarat,2013,Carpentary,610
+3685,Gujarat,2013,Washing/ironer work,152
+3686,Gujarat,2013,Printing,529
+3687,Gujarat,2013,Other (canteen),103
+3688,Gujarat,2013,Agriculture,51
+3689,Gujarat,2013,Others (amber charkha sec.),22
+3690,Gujarat,2013,Soap (chemical section),116
+3691,Gujarat,2013,Cooking,17
+3692,Gujarat,2013,Weaving (hand),60
+3693,Gujarat,2013,Others (basic computing),18
+3694,Gujarat,2013,Electrical technician,17
+3695,Gujarat,2013,Vocational training electrical (male),30
+3696,Gujarat,2013,Welding,50
+3697,Haryana,2013,Training for making of soft toys,12
+3698,Haryana,2013,Beauty parlour course,6
+3699,Haryana,2013,Programme of magician inderjaal,56
+3700,Haryana,2013,Tent/tirpolion,44
+3701,Haryana,2013,Carpentary,4
+3702,Haryana,2013,Tailoring,6
+3703,Haryana,2013,Welding,2
+3704,Haryana,2013,Misc./cleaner,9
+3705,Haryana,2013,Other (certification in library science),11
+3706,Haryana,2013,Electrical technician,12
+3707,Haryana,2013,Tailoring (cutting & dress making),13
+3708,Haryana,2013,Carpentary,5
+3709,Haryana,2013,Others (bakery and confectionary),14
+3710,Haryana,2013,Welding technology,7
+3711,Haryana,2013,Publishing,12
+3712,Haryana,2013,Beauty culture,10
+3713,Haryana,2013,Welding technology,9
+3714,Haryana,2013,Library science,2
+3715,Haryana,2013,Tv repairing,5
+3716,Haryana,2013,Tailoring (cutting and tailoring),12
+3717,Haryana,2013,Plumbing,5
+3718,Haryana,2013,Other (computerand office application),13
+3719,Haryana,2013,Data entry operator,4
+3720,Haryana,2013,Housing wiring,11
+3721,Haryana,2013,Agriculture,124
+3722,Haryana,2013,Carpentary,12
+3723,Haryana,2013,Tailoring,3
+3724,Haryana,2013,Soap (phenyle),8
+3725,Haryana,2013,Handloom,12
+3726,Haryana,2013,Niwar making,15
+3727,Haryana,2013,Canning etc.,5
+3728,Haryana,2013,Tailoring (knitting weaving of soft t),12
+3729,Haryana,2013,Others (aloe-vera products juice ; gel),7
+3730,Haryana,2013,Tailoring (cutting and tailoring),10
+3731,Haryana,2013,Electric motor winding assembling,4
+3732,Haryana,2013,Carpentary and canning,12
+3733,Haryana,2013,Plumbing welding,3
+3734,Haryana,2013,Weaving (cloth weaving & spining yarn),5
+3735,Haryana,2013,Bee keeping,3
+3736,Haryana,2013,Vermi compost making,8
+3737,Himachal Pradesh,2013,Carpentary (training carpentary section),54
+3738,Himachal Pradesh,2013,Tailoring (trainig in tailoring section),25
+3739,Himachal Pradesh,2013,Weaving (training in weaving section),16
+3740,Himachal Pradesh,2013,Training in dairy farming,30
+3741,Himachal Pradesh,2013,Trained inmates in barbar section,2
+3742,Jammu & Kashmir,2002,Radio tv mechanic,39
+3743,Jammu & Kashmir,2002,Motor mechanic,15
+3744,Jammu & Kashmir,2002,Motor winding,5
+3745,Jammu & Kashmir,2002,House wiring,28
+3746,Jammu & Kashmir,2002,Plumber,68
+3747,Jammu & Kashmir,2002,Type writing,19
+3748,Jammu & Kashmir,2002,Tailoring,99
+3749,Jammu & Kashmir,2002,Fan winding,3
+3750,Jammu & Kashmir,2002,Painting,3
+3751,Jammu & Kashmir,2002,Candle making,3
+3752,Jammu & Kashmir,2001,Carpentry,28
+3753,Jammu & Kashmir,2001,Electrician,73
+3754,Jammu & Kashmir,2001,Radio tv mechanic,27
+3755,Jammu & Kashmir,2001,Motor mechanic,16
+3756,Jammu & Kashmir,2001,Motor winding,22
+3757,Jammu & Kashmir,2001,House wiring,13
+3758,Jammu & Kashmir,2001,Plumber,10
+3759,Jammu & Kashmir,2001,Type writing,69
+3760,Jammu & Kashmir,2001,Tailoring,77
+3761,Jharkhand,2013,Computer training,182
+3762,Jharkhand,2013,Handloom weaving training,255
+3763,Jharkhand,2013,Weaving (clothes sewing training),105
+3764,Jharkhand,2013,Soap making trainng,35
+3765,Jharkhand,2013,Soap (phenyle making training),40
+3766,Jharkhand,2013,Gunny bag door mat/pooja asni making trg,29
+3767,Jharkhand,2013,Reshum or cocoon katai training,42
+3768,Jharkhand,2013,Handloom (cotton cloth weaving),311
+3769,Jharkhand,2013,Soap (phenyl making),42
+3770,Jharkhand,2013,Soap making,60
+3771,Jharkhand,2013,Carpentary,50
+3772,Jharkhand,2013,Others (black smith),12
+3773,Jharkhand,2013,Off-set printing press and hand paper mi,125
+3774,Jharkhand,2013,Tailoring,221
+3775,Jharkhand,2013,Agriculture (gardening),424
+3776,Jharkhand,2013,Handloom (jute mat power loom),45
+3777,Jharkhand,2013,Weaving (cotton cloth (powerloom),22
+3778,Jharkhand,2013,Embroidery (female prisoners),10
+3779,Jharkhand,2013,Screen printing,87
+3780,Jharkhand,2013,Weaving (saree weaving (female pris),20
+3781,Jharkhand,2013,Fly leaf making (female prisoners),10
+3782,Jharkhand,2013,Calendaring and dry wash of cloths,15
+3783,Jharkhand,2013,Soap (phenyl and soap making),40
+3784,Jharkhand,2013,Carpentary (frame making),25
+3785,Jharkhand,2013,Beautician and jewellery making,44
+3786,Jharkhand,2013,Handloom (jute craft),44
+3787,Jharkhand,2013,Weaving,370
+3788,Jharkhand,2013,Soap making,7
+3789,Jharkhand,2013,Soap (phenyl making),8
+3790,Jharkhand,2013,Screen printing/offset printing,6
+3791,Jharkhand,2013,Carpentary (wood craft/carpentry),11
+3792,Jharkhand,2013,Electrician training,82
+3793,Jharkhand,2013,Weaving,19
+3794,Jharkhand,2013,Handloom training,6
+3795,Jharkhand,2013,Others (basic computer course),85
+3796,Jharkhand,2013,Fly leaf making,26
+3797,Jharkhand,2013,Tv fan cfl bulb repairing,52
+3798,Jharkhand,2013,Handloom (weaving),27
+3799,Jharkhand,2013,Tailoring (sewing),59
+3800,Jharkhand,2013,Basic electronics,41
+3801,Jharkhand,2013,Ligal camp,115
+3802,Jharkhand,2013,Tailoring (and cloth cutting),38
+3803,Jharkhand,2013,Electric repairing work,22
+3804,Jharkhand,2013,Radio and t v repairing,20
+3805,Jharkhand,2013,Silk yarn production through ambar chark,12
+3806,Jharkhand,2013,Agriculture (malberry plantatin),9
+3807,Jharkhand,2013,White washing/painting,15
+3808,Karnataka,2013,Carpentary section,3
+3809,Karnataka,2013,Tailoring (section),4
+3810,Karnataka,2013,Embroidery section,9
+3811,Karnataka,2013,Handloom,19
+3812,Karnataka,2013,Other (carpet section),21
+3813,Karnataka,2013,Pipe band section,24
+3814,Karnataka,2013,Weaving of cloth,15
+3815,Karnataka,2013,Tailoring(cutting & tailoring),17
+3816,Karnataka,2013,Tv/fan repairing,13
+3817,Karnataka,2013,Transformer making,14
+3818,Karnataka,2013,Carpentary trade,11
+3819,Karnataka,2013,Tailoring ( cutting and tailoring),4
+3820,Karnataka,2013,Carpentary trade,6
+3821,Karnataka,2013,Handloom,45
+3822,Karnataka,2013,Power loom,1
+3823,Karnataka,2013,Winder,15
+3824,Karnataka,2013,Tana making,4
+3825,Karnataka,2013,Gushi making,2
+3826,Karnataka,2013,Weaving (dari making),20
+3827,Karnataka,2013,Carpentary,2
+3828,Karnataka,2013,Electrician,3
+3829,Karnataka,2013,Tailoring,8
+3830,Karnataka,2013,Other ( candle making),12
+3831,Karnataka,2013,Embroidery,25
+3832,Karnataka,2013,Typing/computer,28
+3833,Karnataka,2013,Electrician,17
+3834,Karnataka,2013,Tailoring (cutting/tailoring),14
+3835,Karnataka,2013,Carpentary,5
+3836,Karnataka,2013,Tailoring (cutting and tailoring),7
+3837,Karnataka,2013,Weaving (knitting),8
+3838,Karnataka,2013,Electration trade,7
+3839,Karnataka,2013,Tailoring (cutting/tailorng),2
+3840,Karnataka,2013,Carpentary,3
+3841,Karnataka,2013,Other (computer),6
+3842,Karnataka,2013,Other (candle making),9
+3843,Karnataka,2013,Tailoring (cutting & tailoring),3
+3844,Karnataka,2013,Typing,10
+3845,Karnataka,2013,Handloom (weaving powerloom ;handloom),71
+3846,Karnataka,2013,Tailoring,141
+3847,Karnataka,2013,Carpentary,41
+3848,Karnataka,2013,Other (carpet making),31
+3849,Karnataka,2013,Printing,41
+3850,Karnataka,2013,Foot wear making,9
+3851,Karnataka,2013,Tent making,32
+3852,Karnataka,2013,Soap and phenyl making,39
+3853,Karnataka,2013,Others (black smith steel furnitur),19
+3854,Karnataka,2013,Weaving (knitting),14
+3855,Karnataka,2013,Embroidary,5
+3856,Karnataka,2013,Other (candle making),22
+3857,Karnataka,2013,Others (agarbatti making),88
+3858,Karnataka,2013,Others (bakery and confectionary),249
+3859,Karnataka,2013,Tailoring (garmet industry),69
+3860,Karnataka,2013,Wheel chair refurbishing,19
+3861,Karnataka,2013,Laundry,66
+3862,Karnataka,2013,Soft toy and decorative items making,14
+3863,Kerala,2013,Weaving,56
+3864,Kerala,2013,Computer training,91
+3865,Kerala,2013,Tailoring,110
+3866,Kerala,2013,Fabric painting,15
+3867,Kerala,2013,Stone cutting,90
+3868,Kerala,2013,Others (aluminium fabrication course),30
+3869,Kerala,2013,Carpentary,88
+3870,Kerala,2013,Book binding,7
+3871,Kerala,2013,Handloom,15
+3872,Kerala,2013,Powerloom,27
+3873,Kerala,2013,Soap (dying),6
+3874,Kerala,2013,Other (cement concrete),30
+3875,Kerala,2013,Soap making,64
+3876,Kerala,2013,Smithy,55
+3877,Kerala,2013,Jewellery making,25
+3878,Kerala,2013,Rubber tapping,14
+3879,Madhya Pradesh,2013,Agriculture,1773
+3880,Madhya Pradesh,2013,Carpentary,923
+3881,Madhya Pradesh,2013,Canning,117
+3882,Madhya Pradesh,2013,Tailoring,1239
+3883,Madhya Pradesh,2013,Weaving,1640
+3884,Madhya Pradesh,2013,Soap and phenyle,238
+3885,Madhya Pradesh,2013,Handloom,217
+3886,Madhya Pradesh,2013,Spices factory,37
+3887,Madhya Pradesh,2013,Power loom,988
+3888,Madhya Pradesh,2013,Printing press and screen printing,500
+3889,Madhya Pradesh,2013,Others (black smith),85
+3890,Madhya Pradesh,2013,Blanket,697
+3891,Madhya Pradesh,2013,Leather,143
+3892,Madhya Pradesh,2013,Others (agarbatti industries),1012
+3893,Madhya Pradesh,2013,Othres (painting),42
+3894,Madhya Pradesh,2013,Tiles and block industries,120
+3895,Madhya Pradesh,2013,Computer ; hindi and english typing,173
+3896,Maharashtra,2013,Textile,633
+3897,Maharashtra,2013,Others (black smith),199
+3898,Maharashtra,2013,Carpentary,545
+3899,Maharashtra,2013,Tailoring,607
+3900,Maharashtra,2013,Iron dept,3
+3901,Maharashtra,2013,Others( bakery),145
+3902,Maharashtra,2013,Laundry,128
+3903,Maharashtra,2013,Motor mechanic,26
+3904,Maharashtra,2013,Nursery,2
+3905,Maharashtra,2013,Wireman,138
+3906,Maharashtra,2013,Agriculture (mashroom),1
+3907,Maharashtra,2013,Beauty parlour,153
+3908,Maharashtra,2013,Electrician,31
+3909,Maharashtra,2013,Computer training,580
+3910,Maharashtra,2013,Plumber,22
+3911,Maharashtra,2013,Other,245
+3912,Manipur,2013,Embroidery,15
+3913,Manipur,2013,Tailoring,15
+3914,Meghalaya,2013,Canning (handicraft ; cane ; bamboo work),62
+3915,Meghalaya,2013,Carpentary,44
+3916,Mizoram,2013,Carpentary section,35
+3917,Mizoram,2013,Handloom,15
+3918,Mizoram,2013,Tailoring,12
+3919,Nagaland,2013,Tailoring,9
+3920,Odisha,2013,Weaving (durry weaving durry making),349
+3921,Odisha,2013,Other (carpet),32
+3922,Odisha,2013,Soap (phenyle),45
+3923,Odisha,2013,Tailoring,193
+3924,Odisha,2013,Carpentary,67
+3925,Odisha,2013,Binding ; type and computer,163
+3926,Punjab,2013,Carpentary,710
+3927,Punjab,2013,Weaving,2183
+3928,Punjab,2013,Rassa/dori,30
+3929,Punjab,2013,Niwar,46
+3930,Punjab,2013,Rangat,52
+3931,Punjab,2013,Tent,38
+3932,Punjab,2013,Soap (phenyle),39
+3933,Punjab,2013,Soap,669
+3934,Punjab,2013,Tailoring,271
+3935,Punjab,2013,Weaving (daries),496
+3936,Punjab,2013,Floor mill,404
+3937,Punjab,2013,Agriculture,1673
+3938,Punjab,2013,Pipe,149
+3939,Punjab,2013,Printing press,88
+3940,Punjab,2013,Weaving (knitting),18
+3941,Punjab,2013,Misc,3486
+3942,Rajasthan,2013,Weaving (cloth),1527
+3943,Rajasthan,2013,Handloom (dari),1138
+3944,Rajasthan,2013,Tailoring,536
+3945,Rajasthan,2013,Niwar,1722
+3946,Rajasthan,2013,Other (carpet),911
+3947,Rajasthan,2013,Carpentary (furniture),241
+3948,Rajasthan,2013,Mechanical diesel,7
+3949,Rajasthan,2013,Fitter,26
+3950,Rajasthan,2013,Wireman,12
+3951,Rajasthan,2013,Others (black smith),342
+3952,Rajasthan,2013,Other,13
+3953,Sikkim,2013,Canning (cane and bamboo)),18
+3954,Sikkim,2013,Piggery,1
+3955,Sikkim,2013,Tailoring,1
+3956,Sikkim,2013,Dairy farming,4
+3957,Sikkim,2013,Carpentary,10
+3958,Sikkim,2013,Agriculture,4
+3959,Sikkim,2013,Weaving (knitting ; needle thread work),1
+3960,Sikkim,2013,Printing/envelope making,6
+3961,Sikkim,2013,Prison bakery,2
+3962,Tamil Nadu,2013,Agriculture training,152
+3963,Tamil Nadu,2013,Electrical training,112
+3964,Tamil Nadu,2013,Computer training programme,515
+3965,Tamil Nadu,2013,Other (computer hardware programme),29
+3966,Tamil Nadu,2013,Handloom (iti in handloom),12
+3967,Tamil Nadu,2013,Weaving,197
+3968,Tamil Nadu,2013,Iti in book binding,30
+3969,Tamil Nadu,2013,Carpentary (training),16
+3970,Tamil Nadu,2013,Others (basic assistant),15
+3971,Tamil Nadu,2013,Diploma in fashion and garment making,8
+3972,Tamil Nadu,2013,Other (hand made paper making),476
+3973,Tamil Nadu,2013,Others (bakery unit),65
+3974,Tamil Nadu,2013,Prison ministry india musical training,35
+3975,Tamil Nadu,2013,Four wheeler mechansim,25
+3976,Tamil Nadu,2013,Led lamp,40
+3977,Tamil Nadu,2013,Iti sdi mes,140
+3978,Tamil Nadu,2013,Others (black smith basic welding),20
+3979,Tamil Nadu,2013,Industrial security guard,20
+3980,Tamil Nadu,2013,Other (diploma in beautician),25
+3981,Tamil Nadu,2013,Diploma in fashion and designing technol,20
+3982,Tamil Nadu,2013,Block printing,25
+3983,Tamil Nadu,2013,Sanitary napkin,30
+3984,Tamil Nadu,2013,Other (hand embroidery),15
+3985,Tamil Nadu,2013,Beautician course,10
+3986,Tamil Nadu,2013,Tailoring,40
+3987,Tamil Nadu,2013,Bed side assistance,20
+3988,Tamil Nadu,2013,Gem cutting trich cii,13
+3989,Tamil Nadu,2013,Canning (iob resti pickles and serials),20
+3990,Tamil Nadu,2013,Embroidery,360
+3991,Tamil Nadu,2013,Greeting and muffler making,100
+3992,Tamil Nadu,2013,Toys and basket making,280
+3993,Tamil Nadu,2013,Other (diploma in catering),25
+3994,Tamil Nadu,2013,Others (assistant cook),20
+3995,Tamil Nadu,2013,Hospitality assistant,20
+3996,Tamil Nadu,2013,Agriculture (cultivation cereal crops),20
+3997,Tamil Nadu,2013,Garment packing training,20
+3998,Tamil Nadu,2013,Other (beside assistnat),20
+3999,Tamil Nadu,2013,Basic training beautician and hair dr,20
+4000,Tripura,2013,Laundry,20
+4001,Tripura,2013,Canning (cane and bamboo),41
+4002,Tripura,2013,Tailoring,32
+4003,Tripura,2013,Bookbinding,13
+4004,Tripura,2013,Press unit,10
+4005,Tripura,2013,Agriculture unit,138
+4006,Tripura,2013,Weaving unit,15
+4007,Tripura,2013,Pisciculture unit,60
+4008,Uttar Pradesh,2013,Powerloom trianing,133
+4009,Uttar Pradesh,2013,Computer litrecy,115
+4010,Uttar Pradesh,2013,Agriculture (masala industry),225
+4011,Uttar Pradesh,2013,Performance management system,117
+4012,Uttar Pradesh,2013,Plumbing,130
+4013,Uttar Pradesh,2013,Weaving industry,228
+4014,Uttar Pradesh,2013,Blanket industry,132
+4015,Uttar Pradesh,2013,Carpentary (fabrication & carpentary),167
+4016,Uttar Pradesh,2013,Soap (sangam soap & phenyl industry),195
+4017,Uttar Pradesh,2013,Soap (detergent industry),128
+4018,Uttar Pradesh,2013,Weaving (dari and cloth industr),159
+4019,Uttar Pradesh,2013,Tailoring (female sewing),16
+4020,Uttar Pradesh,2013,Fan widing industry,24
+4021,Uttar Pradesh,2013,Dairy,19
+4022,Uttar Pradesh,2013,Others (bakery industry),1313
+4023,Uttar Pradesh,2013,Blanket industry,132
+4024,Uttar Pradesh,2013,Making agarbatti trg by canara bank,33
+4025,Uttar Pradesh,2013,Other (handicraft),20
+4026,Uttar Pradesh,2013,Embroidery,20
+4027,Uttar Pradesh,2013,Weaving (kneating),20
+4028,Uttar Pradesh,2013,Weaving,20
+4029,Uttarakhand,2013,Tailoring (sewing training),150
+4030,Uttarakhand,2013,Computer training,125
+4031,Uttarakhand,2013,Job work for vip luggage and wipro,80
+4032,Uttarakhand,2013,Weaving,25
+4033,West Bengal,2013,Others (basic computer course),10
+4034,West Bengal,2013,Dtp course,7
+4035,West Bengal,2013,Watch repairing,4
+4036,West Bengal,2013,Tailoring,451
+4037,West Bengal,2013,Others (auto mobiling),83
+4038,West Bengal,2013,Other (computer and spoken english),371
+4039,West Bengal,2013,Electrical,92
+4040,West Bengal,2013,Handloom (jute handicraft khanta stitch),75
+4041,West Bengal,2013,Umbrella making,6
+4042,West Bengal,2013,Welding section,25
+4043,West Bengal,2013,Carpentary (wood work),2
+4044,West Bengal,2013,Mustard oil section,10
+4045,West Bengal,2013,Soap (phenyl section),3
+4046,West Bengal,2013,Tin (smith) section,10
+4047,West Bengal,2013,Bread section,3
+4048,West Bengal,2013,Wheat grinding section,2
+4049,West Bengal,2013,Utensils section,2
+4050,West Bengal,2013,Cultural therapy,52
+4051,West Bengal,2013,Embroidery,9
+4052,West Bengal,2013,Tailoring (knitting cutting handicraft),37
+4053,West Bengal,2013,Beautician training course,30
+4054,West Bengal,2013,Agriculture (gardening),30
+4055,West Bengal,2013,Agriculture (floriculture),63
+4056,West Bengal,2013,Kitchen,179
+4057,West Bengal,2013,Carpentary,242
+4058,West Bengal,2013,Vermicompost,15
+4059,West Bengal,2013,Others (barber),23
+4060,West Bengal,2013,Making of traditional side bag of cotton,5
+4061,West Bengal,2013,Incense stick making and liquid hand was,15
+4062,West Bengal,2013,Book binding,37
+4063,West Bengal,2013,Others (paper packet),20
+4064,West Bengal,2013,Handloom (jute bag),25
+4065,Andaman & Nicobar Islands,2001,Wood work,12
+4066,Andaman & Nicobar Islands,2001,Cane work,24
+4067,Andaman & Nicobar Islands,2001,Bamboo work,7
+4068,Andaman & Nicobar Islands,2001,Tailoring,3
+4069,Andaman & Nicobar Islands,2001,Embroidery,3
+4070,Andaman & Nicobar Islands,2001,Weaving,9
+4071,Andaman & Nicobar Islands,2001,Cooking,23
+4072,Andaman & Nicobar Islands,2001,Gardening,49
+4073,Chandigarh,2013,Tailoring,17
+4074,Chandigarh,2013,Carpentary,225
+4075,Chandigarh,2013,Welding,132
+4076,Chandigarh,2013,Canning,107
+4077,Chandigarh,2013,Agriculture (farming),44
+4078,Dadra & Nagar Haveli,2013,Others,0
+4079,Daman & Diu,2013,Nil,
+4080,Delhi,2013,Plumbing,258
+4081,Delhi,2013,Envelope making (paper unit),164
+4082,Delhi,2013,Typing,156
+4083,Delhi,2013,Tailoring,497
+4084,Delhi,2013,Carpentary,648
+4085,Delhi,2013,Weaving (embroidary),383
+4086,Delhi,2013,Other (computer),534
+4087,Delhi,2013,Others (atta and masala chakki),22
+4088,Delhi,2013,Creche training,9
+4089,Delhi,2013,Beauty culture,2
+4090,Delhi,2013,Othres ( painting),219
+4091,Delhi,2013,Othres (dhoop batti making),42
+4092,Delhi,2013,Others (bag making),16
+4093,Delhi,2013,Others (bakery),192
+4094,Delhi,2013,Soap(chemical/oil extraction),58
+4095,Delhi,2013,Canning (pickle project),4
+4096,Delhi,2013,Pottery,16
+4097,Delhi,2013,Shoe making,360
+4098,Delhi,2013,Stenography classes,10
+4099,Delhi,2013,Music,495
+4100,Delhi,2013,Poultry training,62
+4101,Delhi,2013,Canning (herbal pack),28
+4102,Delhi,2013,Electrical mechanic,227
+4103,Delhi,2013,Others (barber training),117
+4104,Delhi,2013,Fashion designing,23
+4105,Delhi,2013,Flower making,192
+4106,Delhi,2013,Nursery training,330
+4107,Delhi,2013,Puppet making,94
+4108,Delhi,2013,Electrical welding,34
+4109,Delhi,2013,Other (candle making),17
+4110,Delhi,2013,Handloom (jute),324
+4111,Delhi,2013,Grass carpet,8
+4112,Delhi,2013,Manure proeject,8
+4113,Delhi,2013,Factory trade,10
+4114,Delhi,2013,Charkha unit,15
+4115,Delhi,2013,Statue making,12
+4116,Delhi,2013,Screen printing,80
+4117,Delhi,2013,Beauty culture and hair dressing,
+4118,Lakshadweep,2013,Nil,
+4119,Puducherry,2013,Mat weaving,3
+4120,Puducherry,2013,Book binding,3
+4121,Puducherry,2013,Tailoring,2
+4122,Puducherry,2013,Spinning unit,12
+4123,Puducherry,2013,Computer training,10

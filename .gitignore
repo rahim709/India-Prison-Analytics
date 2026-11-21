@@ -41,3 +41,12 @@ Thumbs.db
 # Large datasets (optional)
 # data/raw/
 slides/
+question.txt
+
+# Kaggle credentials and local configuration
+.kaggle/
+kaggle.json
+access_token
+
+# Local LaTeX source and build products; retain the final report PDF.
+/report/.latex/

@@ -1,0 +1,14 @@
+file,source_record,disposition,retained_record
+IPC_crime_inmates_convicted.csv,424,duplicate_removed,423
+IPC_crime_inmates_convicted.csv,7397,duplicate_removed,7396
+IPC_crime_inmates_convicted.csv,422,quarantined_key_conflict,
+IPC_crime_inmates_convicted.csv,423,quarantined_key_conflict,
+IPC_crime_inmates_convicted.csv,7943,quarantined_key_conflict,
+IPC_crime_inmates_convicted.csv,7944,quarantined_key_conflict,
+IPC_crime_inmates_under_trial.csv,2663,duplicate_removed,2662
+IPC_crime_inmates_under_trial.csv,1157,quarantined_key_conflict,
+IPC_crime_inmates_under_trial.csv,1158,quarantined_key_conflict,
+IPC_crime_inmates_under_trial.csv,2712,quarantined_key_conflict,
+IPC_crime_inmates_under_trial.csv,2713,quarantined_key_conflict,
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2668,quarantined_key_conflict,
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2669,quarantined_key_conflict,

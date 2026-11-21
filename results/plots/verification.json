@@ -1,0 +1,13 @@
+{
+  "plots": 26,
+  "original_plot_types": 10,
+  "dpi": 300,
+  "executed_notebook_cells": 28,
+  "tests_passed": 50,
+  "image_decode_passed": true,
+  "unchanged_input_files_verified": 85,
+  "raw_cleaned_selected_transformed_unchanged": true,
+  "course_coverage": "Seven explicit lecture types plus three supplementary types; strict requirement unresolved",
+  "inline_generated_figures": 26,
+  "notebook_loads_saved_images": false
+}

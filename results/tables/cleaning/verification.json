@@ -1,0 +1,27 @@
+{
+  "phase": 1,
+  "automated_tests": 14,
+  "tests_passed": true,
+  "executed_notebook_code_cells": 7,
+  "notebook_summary_matches_pipeline": true,
+  "raw_files_verified": 37,
+  "cleaned_files_verified": 37,
+  "determinism": {
+    "files_compared": 56,
+    "all_identical": true
+  },
+  "document_links_valid": true,
+  "submission_files_not_ignored": true,
+  "dependency_check_passed": true,
+  "compile_passed": true,
+  "diff_check_passed": true,
+  "later_phases_started": false,
+  "independent_recheck": {
+    "source_records_accounted_for": 159032,
+    "nonmissing_numeric_cells_preserved_exactly": 1114813,
+    "only_numeric_repairs": 2,
+    "outlier_cells_retained": 56018,
+    "canonical_program_labels_stable": true,
+    "fixed_issue": "Canonical trade aliases now map to themselves and cannot split into case variants."
+  }
+}

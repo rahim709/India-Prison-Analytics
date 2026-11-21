@@ -1,0 +1,576 @@
+[
+  {
+    "file": "Age_group.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "category",
+      "type",
+      "gender",
+      "year",
+      "age_16_18",
+      "age_18_30",
+      "age_30_50",
+      "age_50_above"
+    ],
+    "native_keys": [
+      "state",
+      "category",
+      "type",
+      "gender",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Caste.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "gender",
+      "caste",
+      "year",
+      "convicts",
+      "under_trial",
+      "detenues",
+      "others"
+    ],
+    "native_keys": [
+      "state",
+      "gender",
+      "caste",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Death_sentence.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "year",
+      "no_capital_punishment",
+      "no_life_imprisonment",
+      "no_executed"
+    ],
+    "native_keys": [
+      "state",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Domicile.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "gender",
+      "domicile",
+      "year",
+      "convicts",
+      "under_trial",
+      "detenues",
+      "others"
+    ],
+    "native_keys": [
+      "state",
+      "gender",
+      "domicile",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Education.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "gender",
+      "education",
+      "year",
+      "convicts",
+      "under_trial",
+      "detenues",
+      "others"
+    ],
+    "native_keys": [
+      "state",
+      "gender",
+      "education",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Education_facilities.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "year",
+      "elementary_education",
+      "adult_education",
+      "higher_education",
+      "computer_course"
+    ],
+    "native_keys": [
+      "state",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "IPC_crime_inmates_convicted.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "CRIME HEAD",
+      "YEAR",
+      "Male 16-18 years",
+      "Female 16-18 years",
+      "Male 18-30 years",
+      "Female 18-30 years",
+      "Male 30-50 years",
+      "Female 30-50 years",
+      "Male Above 50 years",
+      "Female Above 50 years"
+    ],
+    "native_keys": [
+      "state",
+      "CRIME HEAD",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "IPC_crime_inmates_under_trial.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "CRIME HEAD",
+      "YEAR",
+      "Male 16-18 years",
+      "Female 16-18 years",
+      "Male 18-30 years",
+      "Female 18-30 years",
+      "Male 30-50 years",
+      "Female 30-50 years",
+      "Male Above 50 years",
+      "Female Above 50 years"
+    ],
+    "native_keys": [
+      "state",
+      "CRIME HEAD",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Inmates_death.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "details",
+      "year",
+      "Male",
+      "Female"
+    ],
+    "native_keys": [
+      "state",
+      "details",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Inmates_escapee.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "detail",
+      "year",
+      "male",
+      "female"
+    ],
+    "native_keys": [
+      "state",
+      "detail",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Jail wise population of prison inmates.csv",
+    "columns": [
+      "source_record",
+      "State_UT_name",
+      "Jail_Type",
+      "Year",
+      "Male Convicts",
+      "Female_Convicts",
+      "Male_Under_trial",
+      "Female_Under_trial",
+      "Male_Detenues",
+      "Female_Detenues",
+      "Male_Others",
+      "Female_Others"
+    ],
+    "native_keys": [
+      "state",
+      "Jail_Type",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/Details_of_inmates_parole_during_the_year.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "DETAILS",
+      "YEAR",
+      "Male",
+      "Female"
+    ],
+    "native_keys": [
+      "state",
+      "DETAILS",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/Inmates_released.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "details",
+      "year",
+      "male",
+      "female"
+    ],
+    "native_keys": [
+      "state",
+      "details",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/Inmates_suffering_from_mental_ilness.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "YEAR",
+      "Male Convicts",
+      "Female Convicts",
+      "Male Under trial",
+      "Female Under trial",
+      "Male Detenues",
+      "Female Detenues",
+      "Male Others",
+      "Female Others"
+    ],
+    "native_keys": [
+      "state",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/Number_of_women_prisoners_with_children.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "YEAR",
+      "No. of Convict Women Prisoners with Children",
+      "No. of Children of Convict Women Prisoners",
+      "No. of Under trial Women Prisoners with Children",
+      "No. of children of Under trial Women Prisoners",
+      "No. of Detenues Women Prisoners with Children",
+      "No. of children of Detenues Women Prisoners",
+      "No. of Other Women Prisoners with Children",
+      "No. of children of  Other Women Prisoners"
+    ],
+    "native_keys": [
+      "state",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/Period_of_detention_of_undertrials.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "PERIOD OF DETENTION",
+      "YEAR",
+      "Male",
+      "Female"
+    ],
+    "native_keys": [
+      "state",
+      "PERIOD OF DETENTION",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/Population_and_capacity_of_jails.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "TYPE OF JAIL",
+      "Year",
+      "Number of Central Jails",
+      "Total Capacity of Inmates",
+      "Total Inmate population"
+    ],
+    "native_keys": [
+      "state",
+      "TYPE OF JAIL",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "CRIME HEAD",
+      "YEAR",
+      "Male 16-18 years",
+      "Female 16-18 years",
+      "Male 18-30 years",
+      "Female 18-30 years",
+      "Male 30-50 years",
+      "Female 30-50 years",
+      "Male Above 50 years",
+      "Female Above 50 years"
+    ],
+    "native_keys": [
+      "state",
+      "CRIME HEAD",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv",
+    "columns": [
+      "source_record",
+      "STATE/UT",
+      "CRIME HEAD",
+      "Year",
+      "Male 16-18 years",
+      "Female 16-18 years",
+      "Male 18-30 years",
+      "Female 18-30 years",
+      "Male 30-50 years",
+      "Female 30-50 years",
+      "Male Above 50 years",
+      "Female Above 50 years"
+    ],
+    "native_keys": [
+      "state",
+      "CRIME HEAD",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Other Prison data/Value_of_goods_produced_by_inmates.csv",
+    "columns": [
+      "source_record",
+      "State/UT",
+      "Vocation/Activity",
+      "YEAR",
+      "Gross Value of Sale Proceeds / Earning (In Rs.)"
+    ],
+    "native_keys": [
+      "state",
+      "Vocation/Activity",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Recidivism.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "year",
+      "convicts_admitted",
+      "habitual_offenders"
+    ],
+    "native_keys": [
+      "state",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Rehabilitation.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "year",
+      "financial_assistance_provided",
+      "rehabilitated",
+      "legal_aid_provided"
+    ],
+    "native_keys": [
+      "state",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Religion.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "gender",
+      "religion",
+      "year",
+      "convicts",
+      "under_trial",
+      "detenues",
+      "others"
+    ],
+    "native_keys": [
+      "state",
+      "gender",
+      "religion",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Sentence_period.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "gender",
+      "sentence_period",
+      "year",
+      "age_16_18_years",
+      "age_18_30_years",
+      "age_30_50_years",
+      "age_50_above"
+    ],
+    "native_keys": [
+      "state",
+      "gender",
+      "sentence_period",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Tranquillity.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "type",
+      "year",
+      "incidence",
+      "inmate_injured",
+      "jail_personnel_injured",
+      "inmate_killed",
+      "jail_personnel_killed"
+    ],
+    "native_keys": [
+      "state",
+      "type",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Vocational_training.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "vocational_trainings_program",
+      "year",
+      "inmates_trained"
+    ],
+    "native_keys": [
+      "state",
+      "vocational_trainings_program",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  },
+  {
+    "file": "Wages.csv",
+    "columns": [
+      "source_record",
+      "state_name",
+      "year",
+      "wages_skilled_convicts",
+      "wages_semi_skilled_convicts",
+      "wages_unskilled_convicts"
+    ],
+    "native_keys": [
+      "state",
+      "year"
+    ],
+    "scope": "detail",
+    "row_rule": "analysis_eligible: detail scope, complete group quality/category grid, and population-compatible marginals",
+    "warning": "Selection metadata does not make indicators additive. Preserve groups, units and overlapping-population limits."
+  }
+]

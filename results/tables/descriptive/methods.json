@@ -1,0 +1,12 @@
+{
+  "sample_variance_ddof": 1,
+  "quartiles": "linear interpolation",
+  "skewness": "unbiased Fisher-Pearson sample skewness; n>=3 and nonconstant",
+  "kurtosis": "unbiased Fisher excess kurtosis (normal reference=0); n>=4 and nonconstant",
+  "mode_rule": "all tied modes recorded; all-unique series explicitly marked and not listed as informative modes",
+  "correlation": "Pearson and Spearman; pairwise complete observations; no significance or causality claim",
+  "national_ratios": "ratio of matching population sums, not an unweighted mean of state ratios",
+  "units": "counts are source-specific annual reported observations; do not sum stocks across years as distinct prisoners",
+  "recidivism": "habitual/admissions share is undefined for zero admissions or numerator>denominator; not longitudinal reoffending probability",
+  "plots_or_mining_run": false
+}

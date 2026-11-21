@@ -1,0 +1,12 @@
+{
+  "files": 37,
+  "rows_before": 159032,
+  "rows_after": 159019,
+  "duplicates_removed": 3,
+  "quarantined_rows": 10,
+  "missing_cells_before": 2232,
+  "missing_cells_after": 2230,
+  "counts_recovered": 2,
+  "outlier_cells_flagged": 56018,
+  "raw_hashes_unchanged": true
+}

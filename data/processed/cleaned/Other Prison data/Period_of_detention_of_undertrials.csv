@@ -1,0 +1,3577 @@
+source_record,STATE/UT,YEAR,PERIOD OF DETENTION,Male,Female,Total
+2,Andhra Pradesh,2001,Upto 3 months,5545,361,5906
+3,Andhra Pradesh,2001,3-6 months,1630,78,1708
+4,Andhra Pradesh,2001,6-12 months,823,20,843
+5,Andhra Pradesh,2001,1-2 Years,289,21,310
+6,Andhra Pradesh,2001,2-3 Years,52,2,54
+7,Andhra Pradesh,2001,3-5 Years,21,0,21
+8,Andhra Pradesh,2001,Above 5 Years,0,0,0
+9,Andhra Pradesh,2001,Total,8360,482,8842
+10,Andhra Pradesh,2002,Upto 3 months,5099,445,5544
+11,Andhra Pradesh,2002,3-6 months,1607,55,1662
+12,Andhra Pradesh,2002,6-12 months,892,35,927
+13,Andhra Pradesh,2002,1-2 Years,269,14,283
+14,Andhra Pradesh,2002,2-3 Years,101,7,108
+15,Andhra Pradesh,2002,3-5 Years,15,1,16
+16,Andhra Pradesh,2002,Above 5 Years,9,0,9
+17,Andhra Pradesh,2002,Total,7992,557,8549
+18,Andhra Pradesh,2003,Upto 3 months,5505,388,5893
+19,Andhra Pradesh,2003,3-6 months,1890,99,1989
+20,Andhra Pradesh,2003,6-12 months,722,39,761
+21,Andhra Pradesh,2003,1-2 Years,226,14,240
+22,Andhra Pradesh,2003,2-3 Years,32,1,33
+23,Andhra Pradesh,2003,3-5 Years,2,0,2
+24,Andhra Pradesh,2003,Above 5 Years,1,0,1
+25,Andhra Pradesh,2003,Total,8378,541,8919
+26,Andhra Pradesh,2004,Upto 3 months,5915,452,6367
+27,Andhra Pradesh,2004,3-6 months,1912,94,2006
+28,Andhra Pradesh,2004,6-12 months,472,21,493
+29,Andhra Pradesh,2004,1-2 Years,162,10,172
+30,Andhra Pradesh,2004,2-3 Years,29,1,30
+31,Andhra Pradesh,2004,3-5 Years,9,1,10
+32,Andhra Pradesh,2004,Above 5 Years,0,0,0
+33,Andhra Pradesh,2004,Total,8499,579,9078
+34,Andhra Pradesh,2005,Upto 3 months,5716,562,6278
+35,Andhra Pradesh,2005,3-6 months,2361,84,2445
+36,Andhra Pradesh,2005,6-12 months,633,29,662
+37,Andhra Pradesh,2005,1-2 Years,167,6,173
+38,Andhra Pradesh,2005,2-3 Years,29,3,32
+39,Andhra Pradesh,2005,3-5 Years,0,2,2
+40,Andhra Pradesh,2005,Above 5 Years,0,0,0
+41,Andhra Pradesh,2005,Total,8906,686,9592
+42,Andhra Pradesh,2006,Upto 3 months,6705,519,7224
+43,Andhra Pradesh,2006,3-6 months,1929,105,2034
+44,Andhra Pradesh,2006,6-12 months,590,11,601
+45,Andhra Pradesh,2006,1-2 Years,174,2,176
+46,Andhra Pradesh,2006,2-3 Years,39,0,39
+47,Andhra Pradesh,2006,3-5 Years,7,0,7
+48,Andhra Pradesh,2006,Above 5 Years,1,0,1
+49,Andhra Pradesh,2006,Total,9445,637,10082
+50,Andhra Pradesh,2007,Upto 3 months,6082,462,6544
+51,Andhra Pradesh,2007,3-6 months,1868,133,2001
+52,Andhra Pradesh,2007,6-12 months,654,35,689
+53,Andhra Pradesh,2007,1-2 Years,157,5,162
+54,Andhra Pradesh,2007,2-3 Years,35,0,35
+55,Andhra Pradesh,2007,3-5 Years,14,0,14
+56,Andhra Pradesh,2007,Above 5 Years,0,0,0
+57,Andhra Pradesh,2007,Total,8810,635,9445
+58,Andhra Pradesh,2008,Upto 3 months,5632,487,6119
+59,Andhra Pradesh,2008,3-6 months,1558,117,1675
+60,Andhra Pradesh,2008,6-12 months,603,28,631
+61,Andhra Pradesh,2008,1-2 Years,178,17,195
+62,Andhra Pradesh,2008,2-3 Years,36,2,38
+63,Andhra Pradesh,2008,3-5 Years,11,0,11
+64,Andhra Pradesh,2008,Above 5 Years,0,0,0
+65,Andhra Pradesh,2008,Total,8018,651,8669
+66,Andhra Pradesh,2009,Upto 3 months,5391,483,5874
+67,Andhra Pradesh,2009,3-6 months,1494,64,1558
+68,Andhra Pradesh,2009,6-12 months,541,20,561
+69,Andhra Pradesh,2009,1-2 Years,168,7,175
+70,Andhra Pradesh,2009,2-3 Years,24,3,27
+71,Andhra Pradesh,2009,3-5 Years,22,0,22
+72,Andhra Pradesh,2009,Above 5 Years,0,0,0
+73,Andhra Pradesh,2009,Total,7640,577,8217
+74,Andhra Pradesh,2010,Upto 3 months,4645,458,5103
+75,Andhra Pradesh,2010,3-6 months,1844,67,1911
+76,Andhra Pradesh,2010,6-12 months,506,12,518
+77,Andhra Pradesh,2010,1-2 Years,87,8,95
+78,Andhra Pradesh,2010,2-3 Years,12,0,12
+79,Andhra Pradesh,2010,3-5 Years,5,1,6
+80,Andhra Pradesh,2010,Above 5 Years,4,0,4
+81,Andhra Pradesh,2010,Total,7103,546,7649
+82,Andhra Pradesh,2011,Upto 3 months,7357,559,7916
+83,Andhra Pradesh,2011,3-6 months,405,10,415
+84,Andhra Pradesh,2011,6-12 months,159,6,165
+85,Andhra Pradesh,2011,1-2 Years,31,4,35
+86,Andhra Pradesh,2011,2-3 Years,7,1,8
+87,Andhra Pradesh,2011,3-5 Years,3,0,3
+88,Andhra Pradesh,2011,Above 5 Years,2,0,2
+89,Andhra Pradesh,2011,Total,7964,580,8544
+90,Andhra Pradesh,2012,Upto 3 months,7307,594,7901
+91,Andhra Pradesh,2012,3-6 months,405,32,437
+92,Andhra Pradesh,2012,6-12 months,159,6,165
+93,Andhra Pradesh,2012,1-2 Years,31,4,35
+94,Andhra Pradesh,2012,2-3 Years,7,1,8
+95,Andhra Pradesh,2012,3-5 Years,3,0,3
+96,Andhra Pradesh,2012,Above 5 Years,2,0,2
+97,Andhra Pradesh,2012,Total,7914,637,8551
+98,Arunachal Pradesh,2009,Upto 3 months,26,2,28
+99,Arunachal Pradesh,2009,3-6 months,13,1,14
+100,Arunachal Pradesh,2009,6-12 months,13,0,13
+101,Arunachal Pradesh,2009,1-2 Years,4,1,5
+102,Arunachal Pradesh,2009,2-3 Years,0,0,0
+103,Arunachal Pradesh,2009,3-5 Years,0,0,0
+104,Arunachal Pradesh,2009,Above 5 Years,0,0,0
+105,Arunachal Pradesh,2009,Total,56,4,60
+106,Arunachal Pradesh,2010,Upto 3 months,20,2,22
+107,Arunachal Pradesh,2010,3-6 months,9,0,9
+108,Arunachal Pradesh,2010,6-12 months,13,0,13
+109,Arunachal Pradesh,2010,1-2 Years,4,2,6
+110,Arunachal Pradesh,2010,2-3 Years,2,0,2
+111,Arunachal Pradesh,2010,3-5 Years,0,0,0
+112,Arunachal Pradesh,2010,Above 5 Years,0,0,0
+113,Arunachal Pradesh,2010,Total,48,4,52
+114,Arunachal Pradesh,2011,Upto 3 months,16,0,16
+115,Arunachal Pradesh,2011,3-6 months,12,0,12
+116,Arunachal Pradesh,2011,6-12 months,4,2,6
+117,Arunachal Pradesh,2011,1-2 Years,8,1,9
+118,Arunachal Pradesh,2011,2-3 Years,3,2,5
+119,Arunachal Pradesh,2011,3-5 Years,1,0,1
+120,Arunachal Pradesh,2011,Above 5 Years,0,0,0
+121,Arunachal Pradesh,2011,Total,44,5,49
+122,Arunachal Pradesh,2012,Upto 3 months,30,0,30
+123,Arunachal Pradesh,2012,3-6 months,13,0,13
+124,Arunachal Pradesh,2012,6-12 months,12,1,13
+125,Arunachal Pradesh,2012,1-2 Years,5,1,6
+126,Arunachal Pradesh,2012,2-3 Years,2,1,3
+127,Arunachal Pradesh,2012,3-5 Years,1,1,2
+128,Arunachal Pradesh,2012,Above 5 Years,0,0,0
+129,Arunachal Pradesh,2012,Total,63,4,67
+130,Assam,2001,Upto 3 months,2606,93,2699
+131,Assam,2001,3-6 months,620,16,636
+132,Assam,2001,6-12 months,406,6,412
+133,Assam,2001,1-2 Years,217,9,226
+134,Assam,2001,2-3 Years,52,2,54
+135,Assam,2001,3-5 Years,32,1,33
+136,Assam,2001,Above 5 Years,5,0,5
+137,Assam,2001,Total,3938,127,4065
+138,Assam,2002,Upto 3 months,2706,64,2770
+139,Assam,2002,3-6 months,641,16,657
+140,Assam,2002,6-12 months,397,16,413
+141,Assam,2002,1-2 Years,314,16,330
+142,Assam,2002,2-3 Years,91,1,92
+143,Assam,2002,3-5 Years,48,0,48
+144,Assam,2002,Above 5 Years,9,0,9
+145,Assam,2002,Total,4206,113,4319
+146,Assam,2003,Upto 3 months,3048,102,3150
+147,Assam,2003,3-6 months,543,16,559
+148,Assam,2003,6-12 months,358,13,371
+149,Assam,2003,1-2 Years,255,5,260
+150,Assam,2003,2-3 Years,123,0,123
+151,Assam,2003,3-5 Years,51,1,52
+152,Assam,2003,Above 5 Years,8,0,8
+153,Assam,2003,Total,4386,137,4523
+154,Assam,2004,Upto 3 months,2749,70,2819
+155,Assam,2004,3-6 months,532,29,561
+156,Assam,2004,6-12 months,525,21,546
+157,Assam,2004,1-2 Years,206,13,219
+158,Assam,2004,2-3 Years,86,1,87
+159,Assam,2004,3-5 Years,64,0,64
+160,Assam,2004,Above 5 Years,2,0,2
+161,Assam,2004,Total,4164,134,4298
+162,Assam,2005,Upto 3 months,3165,76,3241
+163,Assam,2005,3-6 months,600,19,619
+164,Assam,2005,6-12 months,540,12,552
+165,Assam,2005,1-2 Years,424,16,440
+166,Assam,2005,2-3 Years,82,10,92
+167,Assam,2005,3-5 Years,37,0,37
+168,Assam,2005,Above 5 Years,19,0,19
+169,Assam,2005,Total,4867,133,5000
+170,Assam,2006,Upto 3 months,3097,99,3196
+171,Assam,2006,3-6 months,782,33,815
+172,Assam,2006,6-12 months,442,11,453
+173,Assam,2006,1-2 Years,283,12,295
+174,Assam,2006,2-3 Years,119,1,120
+175,Assam,2006,3-5 Years,50,3,53
+176,Assam,2006,Above 5 Years,28,0,28
+177,Assam,2006,Total,4801,159,4960
+178,Assam,2007,Upto 3 months,2932,72,3004
+179,Assam,2007,3-6 months,852,32,884
+180,Assam,2007,6-12 months,594,20,614
+181,Assam,2007,1-2 Years,323,14,337
+182,Assam,2007,2-3 Years,138,6,144
+183,Assam,2007,3-5 Years,71,2,73
+184,Assam,2007,Above 5 Years,34,0,34
+185,Assam,2007,Total,4944,146,5090
+186,Assam,2008,Upto 3 months,3122,115,3237
+187,Assam,2008,3-6 months,647,35,682
+188,Assam,2008,6-12 months,539,25,564
+189,Assam,2008,1-2 Years,377,16,393
+190,Assam,2008,2-3 Years,214,15,229
+191,Assam,2008,3-5 Years,85,9,94
+192,Assam,2008,Above 5 Years,39,0,39
+193,Assam,2008,Total,5023,215,5238
+194,Assam,2009,Upto 3 months,2960,110,3070
+195,Assam,2009,3-6 months,692,32,724
+196,Assam,2009,6-12 months,469,25,494
+197,Assam,2009,1-2 Years,328,18,346
+198,Assam,2009,2-3 Years,85,12,97
+199,Assam,2009,3-5 Years,56,8,64
+200,Assam,2009,Above 5 Years,29,0,29
+201,Assam,2009,Total,4619,205,4824
+202,Assam,2010,Upto 3 months,2995,93,3088
+203,Assam,2010,3-6 months,681,24,705
+204,Assam,2010,6-12 months,336,31,367
+205,Assam,2010,1-2 Years,240,20,260
+206,Assam,2010,2-3 Years,138,7,145
+207,Assam,2010,3-5 Years,63,0,63
+208,Assam,2010,Above 5 Years,27,0,27
+209,Assam,2010,Total,4480,175,4655
+210,Assam,2011,Upto 3 months,3174,112,3286
+211,Assam,2011,3-6 months,731,30,761
+212,Assam,2011,6-12 months,386,33,419
+213,Assam,2011,1-2 Years,260,24,284
+214,Assam,2011,2-3 Years,158,8,166
+215,Assam,2011,3-5 Years,93,0,93
+216,Assam,2011,Above 5 Years,57,0,57
+217,Assam,2011,Total,4859,207,5066
+218,Assam,2012,Upto 3 months,3245,113,3358
+219,Assam,2012,3-6 months,741,21,762
+220,Assam,2012,6-12 months,392,22,414
+221,Assam,2012,1-2 Years,250,20,270
+222,Assam,2012,2-3 Years,156,7,163
+223,Assam,2012,3-5 Years,92,0,92
+224,Assam,2012,Above 5 Years,39,0,39
+225,Assam,2012,Total,4915,183,5098
+226,Bihar,2001,Upto 3 months,9084,228,9312
+227,Bihar,2001,3-6 months,4805,147,4952
+228,Bihar,2001,6-12 months,7745,210,7955
+229,Bihar,2001,1-2 Years,4546,125,4671
+230,Bihar,2001,2-3 Years,2338,53,2391
+231,Bihar,2001,3-5 Years,1017,19,1036
+232,Bihar,2001,Above 5 Years,465,11,476
+233,Bihar,2001,Total,30000,793,30793
+234,Bihar,2002,Upto 3 months,9802,327,10129
+235,Bihar,2002,3-6 months,6826,233,7059
+236,Bihar,2002,6-12 months,6775,183,6958
+237,Bihar,2002,1-2 Years,4142,115,4257
+238,Bihar,2002,2-3 Years,2326,47,2373
+239,Bihar,2002,3-5 Years,1040,36,1076
+240,Bihar,2002,Above 5 Years,248,1,249
+241,Bihar,2002,Total,31159,942,32101
+242,Bihar,2003,Upto 3 months,9633,331,9964
+243,Bihar,2003,3-6 months,7497,255,7752
+244,Bihar,2003,6-12 months,6379,175,6554
+245,Bihar,2003,1-2 Years,3935,108,4043
+246,Bihar,2003,2-3 Years,2121,46,2167
+247,Bihar,2003,3-5 Years,1120,23,1143
+248,Bihar,2003,Above 5 Years,504,7,511
+249,Bihar,2003,Total,31189,945,32134
+250,Bihar,2004,Upto 3 months,6322,268,6590
+251,Bihar,2004,3-6 months,5352,175,5527
+252,Bihar,2004,6-12 months,5500,149,5649
+253,Bihar,2004,1-2 Years,5634,72,5706
+254,Bihar,2004,2-3 Years,2187,45,2232
+255,Bihar,2004,3-5 Years,1024,19,1043
+256,Bihar,2004,Above 5 Years,613,15,628
+257,Bihar,2004,Total,26632,743,27375
+258,Bihar,2005,Upto 3 months,8000,300,8300
+259,Bihar,2005,3-6 months,9500,304,9804
+260,Bihar,2005,6-12 months,10510,312,10822
+261,Bihar,2005,1-2 Years,5545,158,5703
+262,Bihar,2005,2-3 Years,3019,87,3106
+263,Bihar,2005,3-5 Years,1700,20,1720
+264,Bihar,2005,Above 5 Years,547,17,564
+265,Bihar,2005,Total,38821,1198,40019
+266,Bihar,2006,Upto 3 months,10342,362,10704
+267,Bihar,2006,3-6 months,9301,356,9657
+268,Bihar,2006,6-12 months,7795,281,8076
+269,Bihar,2006,1-2 Years,4593,165,4758
+270,Bihar,2006,2-3 Years,2492,73,2565
+271,Bihar,2006,3-5 Years,1232,27,1259
+272,Bihar,2006,Above 5 Years,351,5,356
+273,Bihar,2006,Total,36106,1269,37375
+274,Bihar,2007,Upto 3 months,8311,316,8627
+275,Bihar,2007,3-6 months,6233,263,6496
+276,Bihar,2007,6-12 months,9126,315,9441
+277,Bihar,2007,1-2 Years,4649,181,4830
+278,Bihar,2007,2-3 Years,2485,51,2536
+279,Bihar,2007,3-5 Years,1147,26,1173
+280,Bihar,2007,Above 5 Years,209,4,213
+281,Bihar,2007,Total,32160,1156,33316
+282,Bihar,2008,Upto 3 months,6231,267,6498
+283,Bihar,2008,3-6 months,7662,290,7952
+284,Bihar,2008,6-12 months,8626,318,8944
+285,Bihar,2008,1-2 Years,4370,137,4507
+286,Bihar,2008,2-3 Years,2278,54,2332
+287,Bihar,2008,3-5 Years,883,21,904
+288,Bihar,2008,Above 5 Years,499,11,510
+289,Bihar,2008,Total,30549,1098,31647
+290,Bihar,2009,Upto 3 months,5521,224,5745
+291,Bihar,2009,3-6 months,6913,238,7151
+292,Bihar,2009,6-12 months,7520,269,7789
+293,Bihar,2009,1-2 Years,4016,122,4138
+294,Bihar,2009,2-3 Years,2098,46,2144
+295,Bihar,2009,3-5 Years,736,13,749
+296,Bihar,2009,Above 5 Years,442,5,447
+297,Bihar,2009,Total,27246,917,28163
+298,Bihar,2010,Upto 3 months,4872,189,5061
+299,Bihar,2010,3-6 months,6084,223,6307
+300,Bihar,2010,6-12 months,6163,178,6341
+301,Bihar,2010,1-2 Years,3570,109,3679
+302,Bihar,2010,2-3 Years,1879,50,1929
+303,Bihar,2010,3-5 Years,680,17,697
+304,Bihar,2010,Above 5 Years,341,7,348
+305,Bihar,2010,Total,23589,773,24362
+306,Bihar,2011,Upto 3 months,7021,273,7294
+307,Bihar,2011,3-6 months,5276,182,5458
+308,Bihar,2011,6-12 months,4880,208,5088
+309,Bihar,2011,1-2 Years,2894,81,2975
+310,Bihar,2011,2-3 Years,1489,31,1520
+311,Bihar,2011,3-5 Years,816,14,830
+312,Bihar,2011,Above 5 Years,246,6,252
+313,Bihar,2011,Total,22622,795,23417
+314,Bihar,2012,Upto 3 months,7131,301,7432
+315,Bihar,2012,3-6 months,5758,217,5975
+316,Bihar,2012,6-12 months,5210,166,5376
+317,Bihar,2012,1-2 Years,2876,84,2960
+318,Bihar,2012,2-3 Years,1532,39,1571
+319,Bihar,2012,3-5 Years,812,14,826
+320,Bihar,2012,Above 5 Years,244,5,249
+321,Bihar,2012,Total,23563,826,24389
+322,Chhattisgarh,2012,Upto 3 months,2657,101,2758
+323,Chhattisgarh,2012,3-6 months,1611,96,1707
+324,Chhattisgarh,2012,6-12 months,1735,121,1856
+325,Chhattisgarh,2012,1-2 Years,1490,78,1568
+326,Chhattisgarh,2012,2-3 Years,601,45,646
+327,Chhattisgarh,2012,3-5 Years,226,9,235
+328,Chhattisgarh,2012,Above 5 Years,24,5,29
+329,Chhattisgarh,2012,Total,8344,455,8799
+330,Chhattisgarh,2001,Upto 3 months,1821,59,1880
+331,Chhattisgarh,2001,3-6 months,1308,61,1369
+332,Chhattisgarh,2001,6-12 months,1077,46,1123
+333,Chhattisgarh,2001,1-2 Years,440,34,474
+334,Chhattisgarh,2001,2-3 Years,51,4,55
+335,Chhattisgarh,2001,3-5 Years,16,0,16
+336,Chhattisgarh,2001,Above 5 Years,4,0,4
+337,Chhattisgarh,2001,Total,4717,204,4921
+338,Chhattisgarh,2002,Upto 3 months,1877,83,1960
+339,Chhattisgarh,2002,3-6 months,1070,62,1132
+340,Chhattisgarh,2002,6-12 months,1143,55,1198
+341,Chhattisgarh,2002,1-2 Years,548,20,568
+342,Chhattisgarh,2002,2-3 Years,77,4,81
+343,Chhattisgarh,2002,3-5 Years,15,1,16
+344,Chhattisgarh,2002,Above 5 Years,6,0,6
+345,Chhattisgarh,2002,Total,4736,225,4961
+346,Chhattisgarh,2003,Upto 3 months,1729,74,1803
+347,Chhattisgarh,2003,3-6 months,1174,56,1230
+348,Chhattisgarh,2003,6-12 months,657,17,674
+349,Chhattisgarh,2003,1-2 Years,327,8,335
+350,Chhattisgarh,2003,2-3 Years,60,5,65
+351,Chhattisgarh,2003,3-5 Years,19,0,19
+352,Chhattisgarh,2003,Above 5 Years,2,0,2
+353,Chhattisgarh,2003,Total,3968,160,4128
+354,Chhattisgarh,2004,Upto 3 months,1573,79,1652
+355,Chhattisgarh,2004,3-6 months,982,54,1036
+356,Chhattisgarh,2004,6-12 months,974,41,1015
+357,Chhattisgarh,2004,1-2 Years,412,14,426
+358,Chhattisgarh,2004,2-3 Years,95,3,98
+359,Chhattisgarh,2004,3-5 Years,79,3,82
+360,Chhattisgarh,2004,Above 5 Years,28,0,28
+361,Chhattisgarh,2004,Total,4143,194,4337
+362,Chhattisgarh,2005,Upto 3 months,2411,101,2512
+363,Chhattisgarh,2005,3-6 months,1497,67,1564
+364,Chhattisgarh,2005,6-12 months,903,38,941
+365,Chhattisgarh,2005,1-2 Years,406,24,430
+366,Chhattisgarh,2005,2-3 Years,50,2,52
+367,Chhattisgarh,2005,3-5 Years,8,0,8
+368,Chhattisgarh,2005,Above 5 Years,2,0,2
+369,Chhattisgarh,2005,Total,5277,232,5509
+370,Chhattisgarh,2006,Upto 3 months,2234,123,2357
+371,Chhattisgarh,2006,3-6 months,1536,79,1615
+372,Chhattisgarh,2006,6-12 months,1220,47,1267
+373,Chhattisgarh,2006,1-2 Years,681,31,712
+374,Chhattisgarh,2006,2-3 Years,87,3,90
+375,Chhattisgarh,2006,3-5 Years,23,1,24
+376,Chhattisgarh,2006,Above 5 Years,8,0,8
+377,Chhattisgarh,2006,Total,5789,284,6073
+378,Chhattisgarh,2007,Upto 3 months,2071,65,2136
+379,Chhattisgarh,2007,3-6 months,1663,66,1729
+380,Chhattisgarh,2007,6-12 months,1134,59,1193
+381,Chhattisgarh,2007,1-2 Years,595,51,646
+382,Chhattisgarh,2007,2-3 Years,155,10,165
+383,Chhattisgarh,2007,3-5 Years,24,2,26
+384,Chhattisgarh,2007,Above 5 Years,4,0,4
+385,Chhattisgarh,2007,Total,5646,253,5899
+386,Chhattisgarh,2008,Upto 3 months,2261,115,2376
+387,Chhattisgarh,2008,3-6 months,1622,58,1680
+388,Chhattisgarh,2008,6-12 months,1450,70,1520
+389,Chhattisgarh,2008,1-2 Years,595,27,622
+390,Chhattisgarh,2008,2-3 Years,183,31,214
+391,Chhattisgarh,2008,3-5 Years,39,1,40
+392,Chhattisgarh,2008,Above 5 Years,5,0,5
+393,Chhattisgarh,2008,Total,6155,302,6457
+394,Chhattisgarh,2009,Upto 3 months,2269,81,2350
+395,Chhattisgarh,2009,3-6 months,2069,133,2202
+396,Chhattisgarh,2009,6-12 months,1742,95,1837
+397,Chhattisgarh,2009,1-2 Years,640,40,680
+398,Chhattisgarh,2009,2-3 Years,137,6,143
+399,Chhattisgarh,2009,3-5 Years,52,4,56
+400,Chhattisgarh,2009,Above 5 Years,1,0,1
+401,Chhattisgarh,2009,Total,6910,359,7269
+402,Chhattisgarh,2010,Upto 3 months,2222,110,2332
+403,Chhattisgarh,2010,3-6 months,1533,99,1632
+404,Chhattisgarh,2010,6-12 months,1679,61,1740
+405,Chhattisgarh,2010,1-2 Years,1454,82,1536
+406,Chhattisgarh,2010,2-3 Years,348,19,367
+407,Chhattisgarh,2010,3-5 Years,84,4,88
+408,Chhattisgarh,2010,Above 5 Years,4,0,4
+409,Chhattisgarh,2010,Total,7324,375,7699
+410,Chhattisgarh,2011,Upto 3 months,2542,118,2660
+411,Chhattisgarh,2011,3-6 months,1538,83,1621
+412,Chhattisgarh,2011,6-12 months,1825,78,1903
+413,Chhattisgarh,2011,1-2 Years,1314,59,1373
+414,Chhattisgarh,2011,2-3 Years,439,36,475
+415,Chhattisgarh,2011,3-5 Years,219,13,232
+416,Chhattisgarh,2011,Above 5 Years,6,5,11
+417,Chhattisgarh,2011,Total,7883,392,8275
+418,Goa,2001,Upto 3 months,92,3,95
+419,Goa,2001,3-6 months,87,1,88
+420,Goa,2001,6-12 months,58,0,58
+421,Goa,2001,1-2 Years,33,3,36
+422,Goa,2001,2-3 Years,17,0,17
+423,Goa,2001,3-5 Years,0,0,0
+424,Goa,2001,Above 5 Years,0,0,0
+425,Goa,2001,Total,287,7,294
+426,Goa,2002,Upto 3 months,45,0,45
+427,Goa,2002,3-6 months,34,2,36
+428,Goa,2002,6-12 months,28,3,31
+429,Goa,2002,1-2 Years,41,0,41
+430,Goa,2002,2-3 Years,42,0,42
+431,Goa,2002,3-5 Years,8,0,8
+432,Goa,2002,Above 5 Years,0,0,0
+433,Goa,2002,Total,198,5,203
+434,Goa,2003,Upto 3 months,191,3,194
+435,Goa,2003,3-6 months,73,3,76
+436,Goa,2003,6-12 months,61,2,63
+437,Goa,2003,1-2 Years,39,1,40
+438,Goa,2003,2-3 Years,10,0,10
+439,Goa,2003,3-5 Years,5,0,5
+440,Goa,2003,Above 5 Years,0,0,0
+441,Goa,2003,Total,379,9,388
+442,Goa,2004,Upto 3 months,74,0,74
+443,Goa,2004,3-6 months,60,0,60
+444,Goa,2004,6-12 months,75,6,81
+445,Goa,2004,1-2 Years,32,3,35
+446,Goa,2004,2-3 Years,20,0,20
+447,Goa,2004,3-5 Years,7,0,7
+448,Goa,2004,Above 5 Years,0,0,0
+449,Goa,2004,Total,268,9,277
+450,Goa,2005,Upto 3 months,94,2,96
+451,Goa,2005,3-6 months,47,13,60
+452,Goa,2005,6-12 months,43,1,44
+453,Goa,2005,1-2 Years,31,1,32
+454,Goa,2005,2-3 Years,14,0,14
+455,Goa,2005,3-5 Years,0,0,0
+456,Goa,2005,Above 5 Years,0,0,0
+457,Goa,2005,Total,229,17,246
+458,Goa,2006,Upto 3 months,33,4,37
+459,Goa,2006,3-6 months,35,10,45
+460,Goa,2006,6-12 months,92,2,94
+461,Goa,2006,1-2 Years,51,1,52
+462,Goa,2006,2-3 Years,6,1,7
+463,Goa,2006,3-5 Years,1,0,1
+464,Goa,2006,Above 5 Years,0,0,0
+465,Goa,2006,Total,218,18,236
+466,Goa,2007,Upto 3 months,56,6,62
+467,Goa,2007,3-6 months,56,8,64
+468,Goa,2007,6-12 months,40,3,43
+469,Goa,2007,1-2 Years,35,1,36
+470,Goa,2007,2-3 Years,14,0,14
+471,Goa,2007,3-5 Years,0,0,0
+472,Goa,2007,Above 5 Years,0,0,0
+473,Goa,2007,Total,201,18,219
+474,Goa,2008,Upto 3 months,79,4,83
+475,Goa,2008,3-6 months,67,8,75
+476,Goa,2008,6-12 months,46,2,48
+477,Goa,2008,1-2 Years,45,2,47
+478,Goa,2008,2-3 Years,0,0,0
+479,Goa,2008,3-5 Years,0,0,0
+480,Goa,2008,Above 5 Years,0,0,0
+481,Goa,2008,Total,237,16,253
+482,Goa,2009,Upto 3 months,76,1,77
+483,Goa,2009,3-6 months,44,1,45
+484,Goa,2009,6-12 months,63,18,81
+485,Goa,2009,1-2 Years,26,2,28
+486,Goa,2009,2-3 Years,7,2,9
+487,Goa,2009,3-5 Years,4,0,4
+488,Goa,2009,Above 5 Years,0,0,0
+489,Goa,2009,Total,220,24,244
+490,Goa,2010,Upto 3 months,88,2,90
+491,Goa,2010,3-6 months,72,2,74
+492,Goa,2010,6-12 months,55,18,73
+493,Goa,2010,1-2 Years,23,2,25
+494,Goa,2010,2-3 Years,10,2,12
+495,Goa,2010,3-5 Years,4,0,4
+496,Goa,2010,Above 5 Years,0,1,1
+497,Goa,2010,Total,252,27,279
+498,Goa,2011,Upto 3 months,48,2,50
+499,Goa,2011,3-6 months,55,4,59
+500,Goa,2011,6-12 months,76,11,87
+501,Goa,2011,1-2 Years,74,7,81
+502,Goa,2011,2-3 Years,41,3,44
+503,Goa,2011,3-5 Years,18,1,19
+504,Goa,2011,Above 5 Years,5,0,5
+505,Goa,2011,Total,317,28,345
+506,Goa,2012,Upto 3 months,38,2,40
+507,Goa,2012,3-6 months,61,5,66
+508,Goa,2012,6-12 months,84,8,92
+509,Goa,2012,1-2 Years,74,6,80
+510,Goa,2012,2-3 Years,33,2,35
+511,Goa,2012,3-5 Years,18,1,19
+512,Goa,2012,Above 5 Years,4,0,4
+513,Goa,2012,Total,312,24,336
+514,Gujarat,2001,Upto 3 months,1532,44,1576
+515,Gujarat,2001,3-6 months,1249,46,1295
+516,Gujarat,2001,6-12 months,1091,27,1118
+517,Gujarat,2001,1-2 Years,840,17,857
+518,Gujarat,2001,2-3 Years,453,5,458
+519,Gujarat,2001,3-5 Years,199,0,199
+520,Gujarat,2001,Above 5 Years,54,0,54
+521,Gujarat,2001,Total,5418,139,5557
+522,Gujarat,2002,Upto 3 months,1677,80,1757
+523,Gujarat,2002,3-6 months,1508,41,1549
+524,Gujarat,2002,6-12 months,1284,42,1326
+525,Gujarat,2002,1-2 Years,1047,17,1064
+526,Gujarat,2002,2-3 Years,566,3,569
+527,Gujarat,2002,3-5 Years,69,4,73
+528,Gujarat,2002,Above 5 Years,31,0,31
+529,Gujarat,2002,Total,6182,187,6369
+530,Gujarat,2003,Upto 3 months,2102,98,2200
+531,Gujarat,2003,3-6 months,1407,58,1465
+532,Gujarat,2003,6-12 months,1146,49,1195
+533,Gujarat,2003,1-2 Years,950,18,968
+534,Gujarat,2003,2-3 Years,405,7,412
+535,Gujarat,2003,3-5 Years,137,3,140
+536,Gujarat,2003,Above 5 Years,40,1,41
+537,Gujarat,2003,Total,6187,234,6421
+538,Gujarat,2004,Upto 3 months,2236,129,2365
+539,Gujarat,2004,3-6 months,1380,89,1469
+540,Gujarat,2004,6-12 months,1417,40,1457
+541,Gujarat,2004,1-2 Years,1104,27,1131
+542,Gujarat,2004,2-3 Years,503,6,509
+543,Gujarat,2004,3-5 Years,194,5,199
+544,Gujarat,2004,Above 5 Years,71,1,72
+545,Gujarat,2004,Total,6905,297,7202
+546,Gujarat,2005,Upto 3 months,2106,120,2226
+547,Gujarat,2005,3-6 months,1252,62,1314
+548,Gujarat,2005,6-12 months,1335,37,1372
+549,Gujarat,2005,1-2 Years,930,19,949
+550,Gujarat,2005,2-3 Years,320,3,323
+551,Gujarat,2005,3-5 Years,204,4,208
+552,Gujarat,2005,Above 5 Years,58,1,59
+553,Gujarat,2005,Total,6205,246,6451
+554,Gujarat,2006,Upto 3 months,2328,157,2485
+555,Gujarat,2006,3-6 months,1285,63,1348
+556,Gujarat,2006,6-12 months,1177,41,1218
+557,Gujarat,2006,1-2 Years,764,16,780
+558,Gujarat,2006,2-3 Years,323,9,332
+559,Gujarat,2006,3-5 Years,168,2,170
+560,Gujarat,2006,Above 5 Years,53,1,54
+561,Gujarat,2006,Total,6098,289,6387
+562,Gujarat,2007,Upto 3 months,1936,126,2062
+563,Gujarat,2007,3-6 months,1213,61,1274
+564,Gujarat,2007,6-12 months,1127,71,1198
+565,Gujarat,2007,1-2 Years,710,31,741
+566,Gujarat,2007,2-3 Years,246,8,254
+567,Gujarat,2007,3-5 Years,228,0,228
+568,Gujarat,2007,Above 5 Years,129,0,129
+569,Gujarat,2007,Total,5589,297,5886
+570,Gujarat,2008,Upto 3 months,2332,108,2440
+571,Gujarat,2008,3-6 months,1513,91,1604
+572,Gujarat,2008,6-12 months,1461,50,1511
+573,Gujarat,2008,1-2 Years,914,23,937
+574,Gujarat,2008,2-3 Years,293,13,306
+575,Gujarat,2008,3-5 Years,118,5,123
+576,Gujarat,2008,Above 5 Years,49,1,50
+577,Gujarat,2008,Total,6680,291,6971
+578,Gujarat,2009,Upto 3 months,2244,122,2366
+579,Gujarat,2009,3-6 months,1744,77,1821
+580,Gujarat,2009,6-12 months,1329,65,1394
+581,Gujarat,2009,1-2 Years,945,55,1000
+582,Gujarat,2009,2-3 Years,312,16,328
+583,Gujarat,2009,3-5 Years,157,5,162
+584,Gujarat,2009,Above 5 Years,134,1,135
+585,Gujarat,2009,Total,6865,341,7206
+586,Gujarat,2010,Upto 3 months,2082,136,2218
+587,Gujarat,2010,3-6 months,1463,62,1525
+588,Gujarat,2010,6-12 months,1254,66,1320
+589,Gujarat,2010,1-2 Years,985,53,1038
+590,Gujarat,2010,2-3 Years,443,25,468
+591,Gujarat,2010,3-5 Years,208,8,216
+592,Gujarat,2010,Above 5 Years,124,1,125
+593,Gujarat,2010,Total,6559,351,6910
+594,Gujarat,2011,Upto 3 months,1367,77,1444
+595,Gujarat,2011,3-6 months,1924,98,2022
+596,Gujarat,2011,6-12 months,1085,61,1146
+597,Gujarat,2011,1-2 Years,1084,60,1144
+598,Gujarat,2011,2-3 Years,508,15,523
+599,Gujarat,2011,3-5 Years,358,15,373
+600,Gujarat,2011,Above 5 Years,42,2,44
+601,Gujarat,2011,Total,6368,328,6696
+602,Gujarat,2012,Upto 3 months,1130,69,1199
+603,Gujarat,2012,3-6 months,1596,72,1668
+604,Gujarat,2012,6-12 months,1353,80,1433
+605,Gujarat,2012,1-2 Years,1220,53,1273
+606,Gujarat,2012,2-3 Years,642,34,676
+607,Gujarat,2012,3-5 Years,291,17,308
+608,Gujarat,2012,Above 5 Years,54,2,56
+609,Gujarat,2012,Total,6286,327,6613
+610,Haryana,2001,Upto 3 months,3094,119,3213
+611,Haryana,2001,3-6 months,2069,96,2165
+612,Haryana,2001,6-12 months,1393,52,1445
+613,Haryana,2001,1-2 Years,907,39,946
+614,Haryana,2001,2-3 Years,342,13,355
+615,Haryana,2001,3-5 Years,81,4,85
+616,Haryana,2001,Above 5 Years,3,0,3
+617,Haryana,2001,Total,7889,323,8212
+618,Haryana,2002,Upto 3 months,2475,101,2576
+619,Haryana,2002,3-6 months,1668,75,1743
+620,Haryana,2002,6-12 months,1734,89,1823
+621,Haryana,2002,1-2 Years,1167,36,1203
+622,Haryana,2002,2-3 Years,276,15,291
+623,Haryana,2002,3-5 Years,76,5,81
+624,Haryana,2002,Above 5 Years,0,0,0
+625,Haryana,2002,Total,7396,321,7717
+626,Haryana,2003,Upto 3 months,2159,100,2259
+627,Haryana,2003,3-6 months,1863,99,1962
+628,Haryana,2003,6-12 months,1600,74,1674
+629,Haryana,2003,1-2 Years,1010,47,1057
+630,Haryana,2003,2-3 Years,457,16,473
+631,Haryana,2003,3-5 Years,70,1,71
+632,Haryana,2003,Above 5 Years,8,0,8
+633,Haryana,2003,Total,7167,337,7504
+634,Haryana,2004,Upto 3 months,2453,97,2550
+635,Haryana,2004,3-6 months,1533,49,1582
+636,Haryana,2004,6-12 months,1776,108,1884
+637,Haryana,2004,1-2 Years,844,40,884
+638,Haryana,2004,2-3 Years,320,11,331
+639,Haryana,2004,3-5 Years,145,1,146
+640,Haryana,2004,Above 5 Years,19,0,19
+641,Haryana,2004,Total,7090,306,7396
+642,Haryana,2005,Upto 3 months,2137,85,2222
+643,Haryana,2005,3-6 months,1643,77,1720
+644,Haryana,2005,6-12 months,1853,73,1926
+645,Haryana,2005,1-2 Years,1183,58,1241
+646,Haryana,2005,2-3 Years,292,20,312
+647,Haryana,2005,3-5 Years,154,13,167
+648,Haryana,2005,Above 5 Years,129,0,129
+649,Haryana,2005,Total,7391,326,7717
+650,Haryana,2006,Upto 3 months,2597,133,2730
+651,Haryana,2006,3-6 months,1788,87,1875
+652,Haryana,2006,6-12 months,1672,61,1733
+653,Haryana,2006,1-2 Years,867,33,900
+654,Haryana,2006,2-3 Years,284,15,299
+655,Haryana,2006,3-5 Years,145,4,149
+656,Haryana,2006,Above 5 Years,0,0,0
+657,Haryana,2006,Total,7353,333,7686
+658,Haryana,2007,Upto 3 months,2395,99,2494
+659,Haryana,2007,3-6 months,1760,80,1840
+660,Haryana,2007,6-12 months,1908,88,1996
+661,Haryana,2007,1-2 Years,1093,66,1159
+662,Haryana,2007,2-3 Years,441,21,462
+663,Haryana,2007,3-5 Years,155,6,161
+664,Haryana,2007,Above 5 Years,5,0,5
+665,Haryana,2007,Total,7757,360,8117
+666,Haryana,2008,Upto 3 months,2350,136,2486
+667,Haryana,2008,3-6 months,2512,131,2643
+668,Haryana,2008,6-12 months,2025,85,2110
+669,Haryana,2008,1-2 Years,1076,41,1117
+670,Haryana,2008,2-3 Years,243,9,252
+671,Haryana,2008,3-5 Years,51,0,51
+672,Haryana,2008,Above 5 Years,3,0,3
+673,Haryana,2008,Total,8260,402,8662
+674,Haryana,2009,Upto 3 months,2465,103,2568
+675,Haryana,2009,3-6 months,1827,112,1939
+676,Haryana,2009,6-12 months,1909,99,2008
+677,Haryana,2009,1-2 Years,1109,38,1147
+678,Haryana,2009,2-3 Years,311,2,313
+679,Haryana,2009,3-5 Years,64,0,64
+680,Haryana,2009,Above 5 Years,2,0,2
+681,Haryana,2009,Total,7687,354,8041
+682,Haryana,2010,Upto 3 months,2865,120,2985
+683,Haryana,2010,3-6 months,1874,96,1970
+684,Haryana,2010,6-12 months,1583,74,1657
+685,Haryana,2010,1-2 Years,1000,55,1055
+686,Haryana,2010,2-3 Years,273,5,278
+687,Haryana,2010,3-5 Years,57,0,57
+688,Haryana,2010,Above 5 Years,6,0,6
+689,Haryana,2010,Total,7658,350,8008
+690,Haryana,2011,Upto 3 months,2923,108,3031
+691,Haryana,2011,3-6 months,2148,101,2249
+692,Haryana,2011,6-12 months,1642,87,1729
+693,Haryana,2011,1-2 Years,1047,68,1115
+694,Haryana,2011,2-3 Years,279,21,300
+695,Haryana,2011,3-5 Years,73,0,73
+696,Haryana,2011,Above 5 Years,6,0,6
+697,Haryana,2011,Total,8118,385,8503
+698,Haryana,2012,Upto 3 months,2809,164,2973
+699,Haryana,2012,3-6 months,2529,98,2627
+700,Haryana,2012,6-12 months,2428,97,2525
+701,Haryana,2012,1-2 Years,1400,87,1487
+702,Haryana,2012,2-3 Years,500,10,510
+703,Haryana,2012,3-5 Years,112,4,116
+704,Haryana,2012,Above 5 Years,13,0,13
+705,Haryana,2012,Total,9791,460,10251
+706,Himachal Pradesh,2001,Upto 3 months,266,10,276
+707,Himachal Pradesh,2001,3-6 months,141,3,144
+708,Himachal Pradesh,2001,6-12 months,90,2,92
+709,Himachal Pradesh,2001,1-2 Years,0,0,0
+710,Himachal Pradesh,2001,2-3 Years,0,0,0
+711,Himachal Pradesh,2001,3-5 Years,0,0,0
+712,Himachal Pradesh,2001,Above 5 Years,0,0,0
+713,Himachal Pradesh,2001,Total,497,15,512
+714,Himachal Pradesh,2002,Upto 3 months,162,4,166
+715,Himachal Pradesh,2002,3-6 months,105,8,113
+716,Himachal Pradesh,2002,6-12 months,137,8,145
+717,Himachal Pradesh,2002,1-2 Years,44,0,44
+718,Himachal Pradesh,2002,2-3 Years,10,0,10
+719,Himachal Pradesh,2002,3-5 Years,0,0,0
+720,Himachal Pradesh,2002,Above 5 Years,0,0,0
+721,Himachal Pradesh,2002,Total,458,20,478
+722,Himachal Pradesh,2003,Upto 3 months,202,8,210
+723,Himachal Pradesh,2003,3-6 months,108,2,110
+724,Himachal Pradesh,2003,6-12 months,125,7,132
+725,Himachal Pradesh,2003,1-2 Years,46,2,48
+726,Himachal Pradesh,2003,2-3 Years,2,0,2
+727,Himachal Pradesh,2003,3-5 Years,0,0,0
+728,Himachal Pradesh,2003,Above 5 Years,0,0,0
+729,Himachal Pradesh,2003,Total,483,19,502
+730,Himachal Pradesh,2004,Upto 3 months,153,6,159
+731,Himachal Pradesh,2004,3-6 months,82,3,85
+732,Himachal Pradesh,2004,6-12 months,159,7,166
+733,Himachal Pradesh,2004,1-2 Years,64,3,67
+734,Himachal Pradesh,2004,2-3 Years,10,0,10
+735,Himachal Pradesh,2004,3-5 Years,0,0,0
+736,Himachal Pradesh,2004,Above 5 Years,0,0,0
+737,Himachal Pradesh,2004,Total,468,19,487
+738,Himachal Pradesh,2005,Upto 3 months,145,6,151
+739,Himachal Pradesh,2005,3-6 months,110,4,114
+740,Himachal Pradesh,2005,6-12 months,170,4,174
+741,Himachal Pradesh,2005,1-2 Years,84,1,85
+742,Himachal Pradesh,2005,2-3 Years,11,1,12
+743,Himachal Pradesh,2005,3-5 Years,0,0,0
+744,Himachal Pradesh,2005,Above 5 Years,0,0,0
+745,Himachal Pradesh,2005,Total,520,16,536
+746,Himachal Pradesh,2006,Upto 3 months,173,4,177
+747,Himachal Pradesh,2006,3-6 months,136,6,142
+748,Himachal Pradesh,2006,6-12 months,162,9,171
+749,Himachal Pradesh,2006,1-2 Years,67,2,69
+750,Himachal Pradesh,2006,2-3 Years,13,0,13
+751,Himachal Pradesh,2006,3-5 Years,0,0,0
+752,Himachal Pradesh,2006,Above 5 Years,0,0,0
+753,Himachal Pradesh,2006,Total,551,21,572
+754,Himachal Pradesh,2007,Upto 3 months,208,12,220
+755,Himachal Pradesh,2007,3-6 months,94,6,100
+756,Himachal Pradesh,2007,6-12 months,148,4,152
+757,Himachal Pradesh,2007,1-2 Years,60,2,62
+758,Himachal Pradesh,2007,2-3 Years,21,0,21
+759,Himachal Pradesh,2007,3-5 Years,5,0,5
+760,Himachal Pradesh,2007,Above 5 Years,0,0,0
+761,Himachal Pradesh,2007,Total,536,24,560
+762,Himachal Pradesh,2008,Upto 3 months,226,13,239
+763,Himachal Pradesh,2008,3-6 months,118,5,123
+764,Himachal Pradesh,2008,6-12 months,107,3,110
+765,Himachal Pradesh,2008,1-2 Years,63,4,67
+766,Himachal Pradesh,2008,2-3 Years,24,1,25
+767,Himachal Pradesh,2008,3-5 Years,14,0,14
+768,Himachal Pradesh,2008,Above 5 Years,0,0,0
+769,Himachal Pradesh,2008,Total,552,26,578
+770,Himachal Pradesh,2009,Upto 3 months,245,6,251
+771,Himachal Pradesh,2009,3-6 months,155,5,160
+772,Himachal Pradesh,2009,6-12 months,160,4,164
+773,Himachal Pradesh,2009,1-2 Years,104,1,105
+774,Himachal Pradesh,2009,2-3 Years,21,1,22
+775,Himachal Pradesh,2009,3-5 Years,5,0,5
+776,Himachal Pradesh,2009,Above 5 Years,5,0,5
+777,Himachal Pradesh,2009,Total,695,17,712
+778,Himachal Pradesh,2010,Upto 3 months,183,6,189
+779,Himachal Pradesh,2010,3-6 months,105,9,114
+780,Himachal Pradesh,2010,6-12 months,149,7,156
+781,Himachal Pradesh,2010,1-2 Years,132,1,133
+782,Himachal Pradesh,2010,2-3 Years,21,0,21
+783,Himachal Pradesh,2010,3-5 Years,6,0,6
+784,Himachal Pradesh,2010,Above 5 Years,4,0,4
+785,Himachal Pradesh,2010,Total,600,23,623
+786,Himachal Pradesh,2011,Upto 3 months,211,20,231
+787,Himachal Pradesh,2011,3-6 months,134,4,138
+788,Himachal Pradesh,2011,6-12 months,165,5,170
+789,Himachal Pradesh,2011,1-2 Years,87,4,91
+790,Himachal Pradesh,2011,2-3 Years,30,0,30
+791,Himachal Pradesh,2011,3-5 Years,5,0,5
+792,Himachal Pradesh,2011,Above 5 Years,0,0,0
+793,Himachal Pradesh,2011,Total,632,33,665
+794,Himachal Pradesh,2012,Upto 3 months,254,15,269
+795,Himachal Pradesh,2012,3-6 months,166,10,176
+796,Himachal Pradesh,2012,6-12 months,181,8,189
+797,Himachal Pradesh,2012,1-2 Years,121,4,125
+798,Himachal Pradesh,2012,2-3 Years,5,0,5
+799,Himachal Pradesh,2012,3-5 Years,0,0,0
+800,Himachal Pradesh,2012,Above 5 Years,0,0,0
+801,Himachal Pradesh,2012,Total,727,37,764
+802,Jammu & Kashmir,2001,Upto 3 months,226,0,226
+803,Jammu & Kashmir,2001,3-6 months,187,3,190
+804,Jammu & Kashmir,2001,6-12 months,178,8,186
+805,Jammu & Kashmir,2001,1-2 Years,163,16,179
+806,Jammu & Kashmir,2001,2-3 Years,174,2,176
+807,Jammu & Kashmir,2001,3-5 Years,116,3,119
+808,Jammu & Kashmir,2001,Above 5 Years,28,1,29
+809,Jammu & Kashmir,2001,Total,1072,33,1105
+810,Jammu & Kashmir,2002,Upto 3 months,310,7,317
+811,Jammu & Kashmir,2002,3-6 months,157,11,168
+812,Jammu & Kashmir,2002,6-12 months,181,13,194
+813,Jammu & Kashmir,2002,1-2 Years,259,6,265
+814,Jammu & Kashmir,2002,2-3 Years,134,6,140
+815,Jammu & Kashmir,2002,3-5 Years,95,2,97
+816,Jammu & Kashmir,2002,Above 5 Years,47,1,48
+817,Jammu & Kashmir,2002,Total,1183,46,1229
+818,Jammu & Kashmir,2003,Upto 3 months,80,0,80
+819,Jammu & Kashmir,2003,3-6 months,41,0,41
+820,Jammu & Kashmir,2003,6-12 months,67,3,70
+821,Jammu & Kashmir,2003,1-2 Years,55,5,60
+822,Jammu & Kashmir,2003,2-3 Years,428,6,434
+823,Jammu & Kashmir,2003,3-5 Years,300,8,308
+824,Jammu & Kashmir,2003,Above 5 Years,295,42,337
+825,Jammu & Kashmir,2003,Total,1266,64,1330
+826,Jammu & Kashmir,2004,Upto 3 months,295,7,302
+827,Jammu & Kashmir,2004,3-6 months,227,8,235
+828,Jammu & Kashmir,2004,6-12 months,207,7,214
+829,Jammu & Kashmir,2004,1-2 Years,268,10,278
+830,Jammu & Kashmir,2004,2-3 Years,165,18,183
+831,Jammu & Kashmir,2004,3-5 Years,130,2,132
+832,Jammu & Kashmir,2004,Above 5 Years,42,1,43
+833,Jammu & Kashmir,2004,Total,1334,53,1387
+834,Jammu & Kashmir,2005,Upto 3 months,374,20,394
+835,Jammu & Kashmir,2005,3-6 months,270,6,276
+836,Jammu & Kashmir,2005,6-12 months,229,4,233
+837,Jammu & Kashmir,2005,1-2 Years,277,9,286
+838,Jammu & Kashmir,2005,2-3 Years,154,9,163
+839,Jammu & Kashmir,2005,3-5 Years,128,7,135
+840,Jammu & Kashmir,2005,Above 5 Years,50,2,52
+841,Jammu & Kashmir,2005,Total,1482,57,1539
+842,Jammu & Kashmir,2006,Upto 3 months,628,22,650
+843,Jammu & Kashmir,2006,3-6 months,415,16,431
+844,Jammu & Kashmir,2006,6-12 months,298,11,309
+845,Jammu & Kashmir,2006,1-2 Years,149,0,149
+846,Jammu & Kashmir,2006,2-3 Years,60,0,60
+847,Jammu & Kashmir,2006,3-5 Years,35,0,35
+848,Jammu & Kashmir,2006,Above 5 Years,0,0,0
+849,Jammu & Kashmir,2006,Total,1585,49,1634
+850,Jammu & Kashmir,2007,Upto 3 months,413,30,443
+851,Jammu & Kashmir,2007,3-6 months,256,3,259
+852,Jammu & Kashmir,2007,6-12 months,220,12,232
+853,Jammu & Kashmir,2007,1-2 Years,325,12,337
+854,Jammu & Kashmir,2007,2-3 Years,187,13,200
+855,Jammu & Kashmir,2007,3-5 Years,156,1,157
+856,Jammu & Kashmir,2007,Above 5 Years,103,1,104
+857,Jammu & Kashmir,2007,Total,1660,72,1732
+858,Jammu & Kashmir,2008,Upto 3 months,321,20,341
+859,Jammu & Kashmir,2008,3-6 months,176,4,180
+860,Jammu & Kashmir,2008,6-12 months,251,10,261
+861,Jammu & Kashmir,2008,1-2 Years,387,16,403
+862,Jammu & Kashmir,2008,2-3 Years,182,17,199
+863,Jammu & Kashmir,2008,3-5 Years,220,6,226
+864,Jammu & Kashmir,2008,Above 5 Years,94,2,96
+865,Jammu & Kashmir,2008,Total,1631,75,1706
+866,Jammu & Kashmir,2009,Upto 3 months,445,24,469
+867,Jammu & Kashmir,2009,3-6 months,252,10,262
+868,Jammu & Kashmir,2009,6-12 months,238,12,250
+869,Jammu & Kashmir,2009,1-2 Years,360,16,376
+870,Jammu & Kashmir,2009,2-3 Years,237,17,254
+871,Jammu & Kashmir,2009,3-5 Years,139,4,143
+872,Jammu & Kashmir,2009,Above 5 Years,65,2,67
+873,Jammu & Kashmir,2009,Total,1736,85,1821
+874,Jammu & Kashmir,2010,Upto 3 months,449,17,466
+875,Jammu & Kashmir,2010,3-6 months,236,19,255
+876,Jammu & Kashmir,2010,6-12 months,420,9,429
+877,Jammu & Kashmir,2010,1-2 Years,342,16,358
+878,Jammu & Kashmir,2010,2-3 Years,152,9,161
+879,Jammu & Kashmir,2010,3-5 Years,140,11,151
+880,Jammu & Kashmir,2010,Above 5 Years,84,3,87
+881,Jammu & Kashmir,2010,Total,1823,84,1907
+882,Jammu & Kashmir,2011,Upto 3 months,463,18,481
+883,Jammu & Kashmir,2011,3-6 months,293,11,304
+884,Jammu & Kashmir,2011,6-12 months,284,4,288
+885,Jammu & Kashmir,2011,1-2 Years,417,13,430
+886,Jammu & Kashmir,2011,2-3 Years,275,14,289
+887,Jammu & Kashmir,2011,3-5 Years,223,22,245
+888,Jammu & Kashmir,2011,Above 5 Years,70,6,76
+889,Jammu & Kashmir,2011,Total,2025,88,2113
+890,Jammu & Kashmir,2012,Upto 3 months,493,14,507
+891,Jammu & Kashmir,2012,3-6 months,279,23,302
+892,Jammu & Kashmir,2012,6-12 months,257,10,267
+893,Jammu & Kashmir,2012,1-2 Years,409,14,423
+894,Jammu & Kashmir,2012,2-3 Years,210,7,217
+895,Jammu & Kashmir,2012,3-5 Years,211,8,219
+896,Jammu & Kashmir,2012,Above 5 Years,68,4,72
+897,Jammu & Kashmir,2012,Total,1927,80,2007
+898,Jharkhand,2001,Upto 3 months,3357,85,3442
+899,Jharkhand,2001,3-6 months,3150,96,3246
+900,Jharkhand,2001,6-12 months,2847,84,2931
+901,Jharkhand,2001,1-2 Years,2215,83,2298
+902,Jharkhand,2001,2-3 Years,1234,19,1253
+903,Jharkhand,2001,3-5 Years,711,19,730
+904,Jharkhand,2001,Above 5 Years,172,6,178
+905,Jharkhand,2001,Total,13686,392,14078
+906,Jharkhand,2002,Upto 3 months,2412,182,2594
+907,Jharkhand,2002,3-6 months,1848,80,1928
+908,Jharkhand,2002,6-12 months,1199,31,1230
+909,Jharkhand,2002,1-2 Years,3028,80,3108
+910,Jharkhand,2002,2-3 Years,2386,18,2404
+911,Jharkhand,2002,3-5 Years,648,11,659
+912,Jharkhand,2002,Above 5 Years,168,3,171
+913,Jharkhand,2002,Total,11689,405,12094
+914,Jharkhand,2003,Upto 3 months,3178,93,3271
+915,Jharkhand,2003,3-6 months,2801,111,2912
+916,Jharkhand,2003,6-12 months,2601,91,2692
+917,Jharkhand,2003,1-2 Years,1632,73,1705
+918,Jharkhand,2003,2-3 Years,956,34,990
+919,Jharkhand,2003,3-5 Years,462,10,472
+920,Jharkhand,2003,Above 5 Years,90,2,92
+921,Jharkhand,2003,Total,11720,414,12134
+922,Jharkhand,2004,Upto 3 months,4041,146,4187
+923,Jharkhand,2004,3-6 months,2342,127,2469
+924,Jharkhand,2004,6-12 months,2814,109,2923
+925,Jharkhand,2004,1-2 Years,1609,74,1683
+926,Jharkhand,2004,2-3 Years,791,26,817
+927,Jharkhand,2004,3-5 Years,309,11,320
+928,Jharkhand,2004,Above 5 Years,48,0,48
+929,Jharkhand,2004,Total,11954,493,12447
+930,Jharkhand,2005,Upto 3 months,4648,188,4836
+931,Jharkhand,2005,3-6 months,3335,166,3501
+932,Jharkhand,2005,6-12 months,2491,93,2584
+933,Jharkhand,2005,1-2 Years,1672,67,1739
+934,Jharkhand,2005,2-3 Years,802,25,827
+935,Jharkhand,2005,3-5 Years,402,7,409
+936,Jharkhand,2005,Above 5 Years,43,0,43
+937,Jharkhand,2005,Total,13393,546,13939
+938,Jharkhand,2006,Upto 3 months,4026,178,4204
+939,Jharkhand,2006,3-6 months,2958,111,3069
+940,Jharkhand,2006,6-12 months,2522,108,2630
+941,Jharkhand,2006,1-2 Years,1946,82,2028
+942,Jharkhand,2006,2-3 Years,912,42,954
+943,Jharkhand,2006,3-5 Years,405,12,417
+944,Jharkhand,2006,Above 5 Years,37,0,37
+945,Jharkhand,2006,Total,12806,533,13339
+946,Jharkhand,2007,Upto 3 months,3653,135,3788
+947,Jharkhand,2007,3-6 months,2535,130,2665
+948,Jharkhand,2007,6-12 months,2163,122,2285
+949,Jharkhand,2007,1-2 Years,2028,54,2082
+950,Jharkhand,2007,2-3 Years,831,26,857
+951,Jharkhand,2007,3-5 Years,339,6,345
+952,Jharkhand,2007,Above 5 Years,41,0,41
+953,Jharkhand,2007,Total,11590,473,12063
+954,Jharkhand,2008,Upto 3 months,4178,131,4309
+955,Jharkhand,2008,3-6 months,2730,128,2858
+956,Jharkhand,2008,6-12 months,2539,112,2651
+957,Jharkhand,2008,1-2 Years,1515,74,1589
+958,Jharkhand,2008,2-3 Years,802,32,834
+959,Jharkhand,2008,3-5 Years,335,5,340
+960,Jharkhand,2008,Above 5 Years,29,0,29
+961,Jharkhand,2008,Total,12128,482,12610
+962,Jharkhand,2009,Upto 3 months,3891,136,4027
+963,Jharkhand,2009,3-6 months,2664,120,2784
+964,Jharkhand,2009,6-12 months,2155,128,2283
+965,Jharkhand,2009,1-2 Years,1444,62,1506
+966,Jharkhand,2009,2-3 Years,758,29,787
+967,Jharkhand,2009,3-5 Years,258,7,265
+968,Jharkhand,2009,Above 5 Years,28,2,30
+969,Jharkhand,2009,Total,11198,484,11682
+970,Jharkhand,2010,Upto 3 months,3778,152,3930
+971,Jharkhand,2010,3-6 months,2780,108,2888
+972,Jharkhand,2010,6-12 months,2414,125,2539
+973,Jharkhand,2010,1-2 Years,1874,90,1964
+974,Jharkhand,2010,2-3 Years,1010,46,1056
+975,Jharkhand,2010,3-5 Years,334,17,351
+976,Jharkhand,2010,Above 5 Years,36,1,37
+977,Jharkhand,2010,Total,12226,539,12765
+978,Jharkhand,2011,Upto 3 months,3728,177,3905
+979,Jharkhand,2011,3-6 months,2636,135,2771
+980,Jharkhand,2011,6-12 months,2336,133,2469
+981,Jharkhand,2011,1-2 Years,1619,87,1706
+982,Jharkhand,2011,2-3 Years,852,31,883
+983,Jharkhand,2011,3-5 Years,270,10,280
+984,Jharkhand,2011,Above 5 Years,54,5,59
+985,Jharkhand,2011,Total,11495,578,12073
+986,Jharkhand,2012,Upto 3 months,3944,169,4113
+987,Jharkhand,2012,3-6 months,3486,144,3630
+988,Jharkhand,2012,6-12 months,2016,108,2124
+989,Jharkhand,2012,1-2 Years,1584,104,1688
+990,Jharkhand,2012,2-3 Years,887,47,934
+991,Jharkhand,2012,3-5 Years,445,24,469
+992,Jharkhand,2012,Above 5 Years,73,4,77
+993,Jharkhand,2012,Total,12435,600,13035
+994,Karnataka,2001,Upto 3 months,3759,86,3845
+995,Karnataka,2001,3-6 months,1974,72,2046
+996,Karnataka,2001,6-12 months,887,33,920
+997,Karnataka,2001,1-2 Years,396,5,401
+998,Karnataka,2001,2-3 Years,293,3,296
+999,Karnataka,2001,3-5 Years,119,0,119
+1000,Karnataka,2001,Above 5 Years,89,0,89
+1001,Karnataka,2001,Total,7517,199,7716
+1002,Karnataka,2002,Upto 3 months,2646,77,2723
+1003,Karnataka,2002,3-6 months,1426,83,1509
+1004,Karnataka,2002,6-12 months,1629,61,1690
+1005,Karnataka,2002,1-2 Years,1144,27,1171
+1006,Karnataka,2002,2-3 Years,554,12,566
+1007,Karnataka,2002,3-5 Years,278,3,281
+1008,Karnataka,2002,Above 5 Years,32,0,32
+1009,Karnataka,2002,Total,7709,263,7972
+1010,Karnataka,2003,Upto 3 months,2818,88,2906
+1011,Karnataka,2003,3-6 months,1479,79,1558
+1012,Karnataka,2003,6-12 months,1840,68,1908
+1013,Karnataka,2003,1-2 Years,983,11,994
+1014,Karnataka,2003,2-3 Years,326,15,341
+1015,Karnataka,2003,3-5 Years,221,0,221
+1016,Karnataka,2003,Above 5 Years,47,0,47
+1017,Karnataka,2003,Total,7714,261,7975
+1018,Karnataka,2004,Upto 3 months,2523,113,2636
+1019,Karnataka,2004,3-6 months,1638,82,1720
+1020,Karnataka,2004,6-12 months,1901,62,1963
+1021,Karnataka,2004,1-2 Years,965,31,996
+1022,Karnataka,2004,2-3 Years,367,14,381
+1023,Karnataka,2004,3-5 Years,219,3,222
+1024,Karnataka,2004,Above 5 Years,42,2,44
+1025,Karnataka,2004,Total,7655,307,7962
+1026,Karnataka,2005,Upto 3 months,2811,92,2903
+1027,Karnataka,2005,3-6 months,1503,76,1579
+1028,Karnataka,2005,6-12 months,1802,93,1895
+1029,Karnataka,2005,1-2 Years,971,22,993
+1030,Karnataka,2005,2-3 Years,321,13,334
+1031,Karnataka,2005,3-5 Years,219,0,219
+1032,Karnataka,2005,Above 5 Years,56,0,56
+1033,Karnataka,2005,Total,7683,296,7979
+1034,Karnataka,2006,Upto 3 months,3606,114,3720
+1035,Karnataka,2006,3-6 months,1497,86,1583
+1036,Karnataka,2006,6-12 months,1693,82,1775
+1037,Karnataka,2006,1-2 Years,1092,17,1109
+1038,Karnataka,2006,2-3 Years,283,8,291
+1039,Karnataka,2006,3-5 Years,123,1,124
+1040,Karnataka,2006,Above 5 Years,44,3,47
+1041,Karnataka,2006,Total,8338,311,8649
+1042,Karnataka,2007,Upto 3 months,3822,153,3975
+1043,Karnataka,2007,3-6 months,1526,88,1614
+1044,Karnataka,2007,6-12 months,1725,81,1806
+1045,Karnataka,2007,1-2 Years,1127,18,1145
+1046,Karnataka,2007,2-3 Years,303,9,312
+1047,Karnataka,2007,3-5 Years,137,1,138
+1048,Karnataka,2007,Above 5 Years,54,2,56
+1049,Karnataka,2007,Total,8694,352,9046
+1050,Karnataka,2008,Upto 3 months,4004,151,4155
+1051,Karnataka,2008,3-6 months,1597,92,1689
+1052,Karnataka,2008,6-12 months,1769,81,1850
+1053,Karnataka,2008,1-2 Years,1173,18,1191
+1054,Karnataka,2008,2-3 Years,302,9,311
+1055,Karnataka,2008,3-5 Years,141,1,142
+1056,Karnataka,2008,Above 5 Years,68,2,70
+1057,Karnataka,2008,Total,9054,354,9408
+1058,Karnataka,2009,Upto 3 months,3285,161,3446
+1059,Karnataka,2009,3-6 months,2117,87,2204
+1060,Karnataka,2009,6-12 months,1740,43,1783
+1061,Karnataka,2009,1-2 Years,1057,41,1098
+1062,Karnataka,2009,2-3 Years,396,18,414
+1063,Karnataka,2009,3-5 Years,277,6,283
+1064,Karnataka,2009,Above 5 Years,88,5,93
+1065,Karnataka,2009,Total,8960,361,9321
+1066,Karnataka,2010,Upto 3 months,3244,154,3398
+1067,Karnataka,2010,3-6 months,2113,82,2195
+1068,Karnataka,2010,6-12 months,1469,27,1496
+1069,Karnataka,2010,1-2 Years,1037,22,1059
+1070,Karnataka,2010,2-3 Years,414,11,425
+1071,Karnataka,2010,3-5 Years,168,4,172
+1072,Karnataka,2010,Above 5 Years,31,0,31
+1073,Karnataka,2010,Total,8476,300,8776
+1074,Karnataka,2011,Upto 3 months,3118,172,3290
+1075,Karnataka,2011,3-6 months,2069,82,2151
+1076,Karnataka,2011,6-12 months,1214,29,1243
+1077,Karnataka,2011,1-2 Years,898,27,925
+1078,Karnataka,2011,2-3 Years,362,13,375
+1079,Karnataka,2011,3-5 Years,268,3,271
+1080,Karnataka,2011,Above 5 Years,31,0,31
+1081,Karnataka,2011,Total,7960,326,8286
+1082,Karnataka,2012,Upto 3 months,3124,162,3286
+1083,Karnataka,2012,3-6 months,2052,89,2141
+1084,Karnataka,2012,6-12 months,1773,72,1845
+1085,Karnataka,2012,1-2 Years,1041,20,1061
+1086,Karnataka,2012,2-3 Years,382,10,392
+1087,Karnataka,2012,3-5 Years,150,14,164
+1088,Karnataka,2012,Above 5 Years,50,1,51
+1089,Karnataka,2012,Total,8572,368,8940
+1090,Kerala,2001,Upto 3 months,2218,68,2286
+1091,Kerala,2001,3-6 months,909,38,947
+1092,Kerala,2001,6-12 months,185,4,189
+1093,Kerala,2001,1-2 Years,96,1,97
+1094,Kerala,2001,2-3 Years,7,0,7
+1095,Kerala,2001,3-5 Years,1,0,1
+1096,Kerala,2001,Above 5 Years,0,0,0
+1097,Kerala,2001,Total,3416,111,3527
+1098,Kerala,2002,Upto 3 months,2312,70,2382
+1099,Kerala,2002,3-6 months,890,40,930
+1100,Kerala,2002,6-12 months,99,15,114
+1101,Kerala,2002,1-2 Years,16,12,28
+1102,Kerala,2002,2-3 Years,4,0,4
+1103,Kerala,2002,3-5 Years,0,0,0
+1104,Kerala,2002,Above 5 Years,0,0,0
+1105,Kerala,2002,Total,3321,137,3458
+1106,Kerala,2003,Upto 3 months,2810,73,2883
+1107,Kerala,2003,3-6 months,1092,36,1128
+1108,Kerala,2003,6-12 months,174,17,191
+1109,Kerala,2003,1-2 Years,36,10,46
+1110,Kerala,2003,2-3 Years,10,0,10
+1111,Kerala,2003,3-5 Years,0,0,0
+1112,Kerala,2003,Above 5 Years,0,0,0
+1113,Kerala,2003,Total,4122,136,4258
+1114,Kerala,2004,Upto 3 months,2870,82,2952
+1115,Kerala,2004,3-6 months,1140,42,1182
+1116,Kerala,2004,6-12 months,184,19,203
+1117,Kerala,2004,1-2 Years,40,11,51
+1118,Kerala,2004,2-3 Years,12,0,12
+1119,Kerala,2004,3-5 Years,0,0,0
+1120,Kerala,2004,Above 5 Years,0,0,0
+1121,Kerala,2004,Total,4246,154,4400
+1122,Kerala,2005,Upto 3 months,2580,49,2629
+1123,Kerala,2005,3-6 months,1123,56,1179
+1124,Kerala,2005,6-12 months,160,12,172
+1125,Kerala,2005,1-2 Years,43,6,49
+1126,Kerala,2005,2-3 Years,3,0,3
+1127,Kerala,2005,3-5 Years,7,0,7
+1128,Kerala,2005,Above 5 Years,2,1,3
+1129,Kerala,2005,Total,3918,124,4042
+1130,Kerala,2006,Upto 3 months,2132,86,2218
+1131,Kerala,2006,3-6 months,710,33,743
+1132,Kerala,2006,6-12 months,318,5,323
+1133,Kerala,2006,1-2 Years,185,1,186
+1134,Kerala,2006,2-3 Years,146,0,146
+1135,Kerala,2006,3-5 Years,2,0,2
+1136,Kerala,2006,Above 5 Years,1,0,1
+1137,Kerala,2006,Total,3494,125,3619
+1138,Kerala,2007,Upto 3 months,2245,98,2343
+1139,Kerala,2007,3-6 months,864,15,879
+1140,Kerala,2007,6-12 months,302,11,313
+1141,Kerala,2007,1-2 Years,76,1,77
+1142,Kerala,2007,2-3 Years,36,0,36
+1143,Kerala,2007,3-5 Years,139,0,139
+1144,Kerala,2007,Above 5 Years,0,0,0
+1145,Kerala,2007,Total,3662,125,3787
+1146,Kerala,2008,Upto 3 months,2292,97,2389
+1147,Kerala,2008,3-6 months,990,18,1008
+1148,Kerala,2008,6-12 months,371,6,377
+1149,Kerala,2008,1-2 Years,97,4,101
+1150,Kerala,2008,2-3 Years,7,1,8
+1151,Kerala,2008,3-5 Years,1,1,2
+1152,Kerala,2008,Above 5 Years,48,1,49
+1153,Kerala,2008,Total,3806,128,3934
+1154,Kerala,2009,Upto 3 months,2610,111,2721
+1155,Kerala,2009,3-6 months,875,22,897
+1156,Kerala,2009,6-12 months,363,18,381
+1157,Kerala,2009,1-2 Years,61,2,63
+1158,Kerala,2009,2-3 Years,9,0,9
+1159,Kerala,2009,3-5 Years,5,0,5
+1160,Kerala,2009,Above 5 Years,2,0,2
+1161,Kerala,2009,Total,3925,153,4078
+1162,Kerala,2010,Upto 3 months,2457,113,2570
+1163,Kerala,2010,3-6 months,641,19,660
+1164,Kerala,2010,6-12 months,393,13,406
+1165,Kerala,2010,1-2 Years,165,5,170
+1166,Kerala,2010,2-3 Years,56,6,62
+1167,Kerala,2010,3-5 Years,23,6,29
+1168,Kerala,2010,Above 5 Years,2,0,2
+1169,Kerala,2010,Total,3737,162,3899
+1170,Kerala,2011,Upto 3 months,2516,87,2603
+1171,Kerala,2011,3-6 months,672,15,687
+1172,Kerala,2011,6-12 months,321,6,327
+1173,Kerala,2011,1-2 Years,106,5,111
+1174,Kerala,2011,2-3 Years,31,1,32
+1175,Kerala,2011,3-5 Years,14,1,15
+1176,Kerala,2011,Above 5 Years,0,0,0
+1177,Kerala,2011,Total,3660,115,3775
+1178,Kerala,2012,Upto 3 months,2649,95,2744
+1179,Kerala,2012,3-6 months,873,21,894
+1180,Kerala,2012,6-12 months,297,16,313
+1181,Kerala,2012,1-2 Years,143,9,152
+1182,Kerala,2012,2-3 Years,39,2,41
+1183,Kerala,2012,3-5 Years,19,2,21
+1184,Kerala,2012,Above 5 Years,0,0,0
+1185,Kerala,2012,Total,4020,145,4165
+1186,Madhya Pradesh,2001,Upto 3 months,8023,189,8212
+1187,Madhya Pradesh,2001,3-6 months,3829,138,3967
+1188,Madhya Pradesh,2001,6-12 months,2692,89,2781
+1189,Madhya Pradesh,2001,1-2 Years,1355,26,1381
+1190,Madhya Pradesh,2001,2-3 Years,347,11,358
+1191,Madhya Pradesh,2001,3-5 Years,108,2,110
+1192,Madhya Pradesh,2001,Above 5 Years,28,0,28
+1193,Madhya Pradesh,2001,Total,16382,455,16837
+1194,Madhya Pradesh,2002,Upto 3 months,6495,236,6731
+1195,Madhya Pradesh,2002,3-6 months,4909,124,5033
+1196,Madhya Pradesh,2002,6-12 months,2070,54,2124
+1197,Madhya Pradesh,2002,1-2 Years,1333,28,1361
+1198,Madhya Pradesh,2002,2-3 Years,225,11,236
+1199,Madhya Pradesh,2002,3-5 Years,115,6,121
+1200,Madhya Pradesh,2002,Above 5 Years,29,0,29
+1201,Madhya Pradesh,2002,Total,15176,459,15635
+1202,Madhya Pradesh,2003,Upto 3 months,6491,198,6689
+1203,Madhya Pradesh,2003,3-6 months,3657,150,3807
+1204,Madhya Pradesh,2003,6-12 months,2067,54,2121
+1205,Madhya Pradesh,2003,1-2 Years,1019,44,1063
+1206,Madhya Pradesh,2003,2-3 Years,213,9,222
+1207,Madhya Pradesh,2003,3-5 Years,70,0,70
+1208,Madhya Pradesh,2003,Above 5 Years,21,0,21
+1209,Madhya Pradesh,2003,Total,13538,455,13993
+1210,Madhya Pradesh,2004,Upto 3 months,7308,243,7551
+1211,Madhya Pradesh,2004,3-6 months,3147,78,3225
+1212,Madhya Pradesh,2004,6-12 months,3347,90,3437
+1213,Madhya Pradesh,2004,1-2 Years,1198,39,1237
+1214,Madhya Pradesh,2004,2-3 Years,188,6,194
+1215,Madhya Pradesh,2004,3-5 Years,79,2,81
+1216,Madhya Pradesh,2004,Above 5 Years,49,3,52
+1217,Madhya Pradesh,2004,Total,15316,461,15777
+1218,Madhya Pradesh,2005,Upto 3 months,8227,247,8474
+1219,Madhya Pradesh,2005,3-6 months,3771,101,3872
+1220,Madhya Pradesh,2005,6-12 months,2510,92,2602
+1221,Madhya Pradesh,2005,1-2 Years,1404,64,1468
+1222,Madhya Pradesh,2005,2-3 Years,361,12,373
+1223,Madhya Pradesh,2005,3-5 Years,180,4,184
+1224,Madhya Pradesh,2005,Above 5 Years,18,0,18
+1225,Madhya Pradesh,2005,Total,16471,520,16991
+1226,Madhya Pradesh,2006,Upto 3 months,7556,213,7769
+1227,Madhya Pradesh,2006,3-6 months,3960,94,4054
+1228,Madhya Pradesh,2006,6-12 months,2752,66,2818
+1229,Madhya Pradesh,2006,1-2 Years,1443,36,1479
+1230,Madhya Pradesh,2006,2-3 Years,384,13,397
+1231,Madhya Pradesh,2006,3-5 Years,145,5,150
+1232,Madhya Pradesh,2006,Above 5 Years,19,0,19
+1233,Madhya Pradesh,2006,Total,16259,427,16686
+1234,Madhya Pradesh,2007,Upto 3 months,7625,204,7829
+1235,Madhya Pradesh,2007,3-6 months,4043,126,4169
+1236,Madhya Pradesh,2007,6-12 months,2110,77,2187
+1237,Madhya Pradesh,2007,1-2 Years,1430,56,1486
+1238,Madhya Pradesh,2007,2-3 Years,418,18,436
+1239,Madhya Pradesh,2007,3-5 Years,166,0,166
+1240,Madhya Pradesh,2007,Above 5 Years,27,0,27
+1241,Madhya Pradesh,2007,Total,15819,481,16300
+1242,Madhya Pradesh,2008,Upto 3 months,8389,285,8674
+1243,Madhya Pradesh,2008,3-6 months,4411,133,4544
+1244,Madhya Pradesh,2008,6-12 months,2859,110,2969
+1245,Madhya Pradesh,2008,1-2 Years,1524,40,1564
+1246,Madhya Pradesh,2008,2-3 Years,500,15,515
+1247,Madhya Pradesh,2008,3-5 Years,202,3,205
+1248,Madhya Pradesh,2008,Above 5 Years,17,0,17
+1249,Madhya Pradesh,2008,Total,17902,586,18488
+1250,Madhya Pradesh,2009,Upto 3 months,8011,219,8230
+1251,Madhya Pradesh,2009,3-6 months,3890,143,4033
+1252,Madhya Pradesh,2009,6-12 months,2561,101,2662
+1253,Madhya Pradesh,2009,1-2 Years,1593,61,1654
+1254,Madhya Pradesh,2009,2-3 Years,509,7,516
+1255,Madhya Pradesh,2009,3-5 Years,186,0,186
+1256,Madhya Pradesh,2009,Above 5 Years,30,0,30
+1257,Madhya Pradesh,2009,Total,16780,531,17311
+1258,Madhya Pradesh,2010,Upto 3 months,7322,253,7575
+1259,Madhya Pradesh,2010,3-6 months,3879,148,4027
+1260,Madhya Pradesh,2010,6-12 months,2623,100,2723
+1261,Madhya Pradesh,2010,1-2 Years,1345,46,1391
+1262,Madhya Pradesh,2010,2-3 Years,507,21,528
+1263,Madhya Pradesh,2010,3-5 Years,247,6,253
+1264,Madhya Pradesh,2010,Above 5 Years,25,0,25
+1265,Madhya Pradesh,2010,Total,15948,574,16522
+1266,Madhya Pradesh,2011,Upto 3 months,8022,290,8312
+1267,Madhya Pradesh,2011,3-6 months,3248,142,3390
+1268,Madhya Pradesh,2011,6-12 months,2836,138,2974
+1269,Madhya Pradesh,2011,1-2 Years,1446,44,1490
+1270,Madhya Pradesh,2011,2-3 Years,377,12,389
+1271,Madhya Pradesh,2011,3-5 Years,127,4,131
+1272,Madhya Pradesh,2011,Above 5 Years,15,0,15
+1273,Madhya Pradesh,2011,Total,16071,630,16701
+1274,Madhya Pradesh,2012,Upto 3 months,7144,297,7441
+1275,Madhya Pradesh,2012,3-6 months,4019,177,4196
+1276,Madhya Pradesh,2012,6-12 months,3237,116,3353
+1277,Madhya Pradesh,2012,1-2 Years,1752,67,1819
+1278,Madhya Pradesh,2012,2-3 Years,558,23,581
+1279,Madhya Pradesh,2012,3-5 Years,200,4,204
+1280,Madhya Pradesh,2012,Above 5 Years,23,2,25
+1281,Madhya Pradesh,2012,Total,16933,686,17619
+1282,Maharashtra,2001,Upto 3 months,5609,291,5900
+1283,Maharashtra,2001,3-6 months,3523,119,3642
+1284,Maharashtra,2001,6-12 months,2272,90,2362
+1285,Maharashtra,2001,1-2 Years,2876,72,2948
+1286,Maharashtra,2001,2-3 Years,443,5,448
+1287,Maharashtra,2001,3-5 Years,127,4,131
+1288,Maharashtra,2001,Above 5 Years,13,2,15
+1289,Maharashtra,2001,Total,14863,583,15446
+1290,Maharashtra,2002,Upto 3 months,5647,368,6015
+1291,Maharashtra,2002,3-6 months,2837,112,2949
+1292,Maharashtra,2002,6-12 months,2284,82,2366
+1293,Maharashtra,2002,1-2 Years,2706,80,2786
+1294,Maharashtra,2002,2-3 Years,233,2,235
+1295,Maharashtra,2002,3-5 Years,100,1,101
+1296,Maharashtra,2002,Above 5 Years,62,3,65
+1297,Maharashtra,2002,Total,13869,648,14517
+1298,Maharashtra,2003,Upto 3 months,5564,530,6094
+1299,Maharashtra,2003,3-6 months,2735,85,2820
+1300,Maharashtra,2003,6-12 months,3286,59,3345
+1301,Maharashtra,2003,1-2 Years,2745,49,2794
+1302,Maharashtra,2003,2-3 Years,285,2,287
+1303,Maharashtra,2003,3-5 Years,113,1,114
+1304,Maharashtra,2003,Above 5 Years,48,2,50
+1305,Maharashtra,2003,Total,14776,728,15504
+1306,Maharashtra,2004,Upto 3 months,6323,377,6700
+1307,Maharashtra,2004,3-6 months,2615,210,2825
+1308,Maharashtra,2004,6-12 months,2934,134,3068
+1309,Maharashtra,2004,1-2 Years,2532,44,2576
+1310,Maharashtra,2004,2-3 Years,438,6,444
+1311,Maharashtra,2004,3-5 Years,121,1,122
+1312,Maharashtra,2004,Above 5 Years,49,0,49
+1313,Maharashtra,2004,Total,15012,772,15784
+1314,Maharashtra,2005,Upto 3 months,6391,530,6921
+1315,Maharashtra,2005,3-6 months,2893,123,3016
+1316,Maharashtra,2005,6-12 months,2445,76,2521
+1317,Maharashtra,2005,1-2 Years,2621,94,2715
+1318,Maharashtra,2005,2-3 Years,490,12,502
+1319,Maharashtra,2005,3-5 Years,179,26,205
+1320,Maharashtra,2005,Above 5 Years,65,1,66
+1321,Maharashtra,2005,Total,15084,862,15946
+1322,Maharashtra,2006,Upto 3 months,6863,378,7241
+1323,Maharashtra,2006,3-6 months,2776,288,3064
+1324,Maharashtra,2006,6-12 months,2460,111,2571
+1325,Maharashtra,2006,1-2 Years,2773,84,2857
+1326,Maharashtra,2006,2-3 Years,296,21,317
+1327,Maharashtra,2006,3-5 Years,203,29,232
+1328,Maharashtra,2006,Above 5 Years,83,0,83
+1329,Maharashtra,2006,Total,15454,911,16365
+1330,Maharashtra,2007,Upto 3 months,6977,522,7499
+1331,Maharashtra,2007,3-6 months,2852,108,2960
+1332,Maharashtra,2007,6-12 months,2177,89,2266
+1333,Maharashtra,2007,1-2 Years,2764,80,2844
+1334,Maharashtra,2007,2-3 Years,736,25,761
+1335,Maharashtra,2007,3-5 Years,147,17,164
+1336,Maharashtra,2007,Above 5 Years,43,0,43
+1337,Maharashtra,2007,Total,15696,841,16537
+1338,Maharashtra,2008,Upto 3 months,6319,519,6838
+1339,Maharashtra,2008,3-6 months,3051,183,3234
+1340,Maharashtra,2008,6-12 months,2351,107,2458
+1341,Maharashtra,2008,1-2 Years,2781,89,2870
+1342,Maharashtra,2008,2-3 Years,997,27,1024
+1343,Maharashtra,2008,3-5 Years,100,11,111
+1344,Maharashtra,2008,Above 5 Years,19,0,19
+1345,Maharashtra,2008,Total,15618,936,16554
+1346,Maharashtra,2009,Upto 3 months,6088,506,6594
+1347,Maharashtra,2009,3-6 months,2870,186,3056
+1348,Maharashtra,2009,6-12 months,2387,104,2491
+1349,Maharashtra,2009,1-2 Years,2721,113,2834
+1350,Maharashtra,2009,2-3 Years,816,30,846
+1351,Maharashtra,2009,3-5 Years,295,14,309
+1352,Maharashtra,2009,Above 5 Years,50,0,50
+1353,Maharashtra,2009,Total,15227,953,16180
+1354,Maharashtra,2010,Upto 3 months,6471,432,6903
+1355,Maharashtra,2010,3-6 months,2743,143,2886
+1356,Maharashtra,2010,6-12 months,2265,139,2404
+1357,Maharashtra,2010,1-2 Years,2561,79,2640
+1358,Maharashtra,2010,2-3 Years,813,31,844
+1359,Maharashtra,2010,3-5 Years,314,21,335
+1360,Maharashtra,2010,Above 5 Years,52,1,53
+1361,Maharashtra,2010,Total,15219,846,16065
+1362,Maharashtra,2011,Upto 3 months,6130,415,6545
+1363,Maharashtra,2011,3-6 months,2532,161,2693
+1364,Maharashtra,2011,6-12 months,2203,129,2332
+1365,Maharashtra,2011,1-2 Years,3168,157,3325
+1366,Maharashtra,2011,2-3 Years,826,36,862
+1367,Maharashtra,2011,3-5 Years,255,17,272
+1368,Maharashtra,2011,Above 5 Years,35,0,35
+1369,Maharashtra,2011,Total,15149,915,16064
+1370,Maharashtra,2012,Upto 3 months,6131,401,6532
+1371,Maharashtra,2012,3-6 months,3337,182,3519
+1372,Maharashtra,2012,6-12 months,2279,162,2441
+1373,Maharashtra,2012,1-2 Years,2388,103,2491
+1374,Maharashtra,2012,2-3 Years,783,20,803
+1375,Maharashtra,2012,3-5 Years,566,13,579
+1376,Maharashtra,2012,Above 5 Years,61,0,61
+1377,Maharashtra,2012,Total,15545,881,16426
+1378,Manipur,2001,Upto 3 months,151,6,157
+1379,Manipur,2001,3-6 months,101,5,106
+1380,Manipur,2001,6-12 months,54,1,55
+1381,Manipur,2001,1-2 Years,21,1,22
+1382,Manipur,2001,2-3 Years,1,0,1
+1383,Manipur,2001,3-5 Years,3,0,3
+1384,Manipur,2001,Above 5 Years,0,0,0
+1385,Manipur,2001,Total,331,13,344
+1386,Manipur,2002,Upto 3 months,129,10,139
+1387,Manipur,2002,3-6 months,75,5,80
+1388,Manipur,2002,6-12 months,65,3,68
+1389,Manipur,2002,1-2 Years,49,1,50
+1390,Manipur,2002,2-3 Years,14,1,15
+1391,Manipur,2002,3-5 Years,7,1,8
+1392,Manipur,2002,Above 5 Years,0,0,0
+1393,Manipur,2002,Total,339,21,360
+1394,Manipur,2003,Upto 3 months,110,2,112
+1395,Manipur,2003,3-6 months,109,5,114
+1396,Manipur,2003,6-12 months,63,5,68
+1397,Manipur,2003,1-2 Years,31,3,34
+1398,Manipur,2003,2-3 Years,18,1,19
+1399,Manipur,2003,3-5 Years,11,1,12
+1400,Manipur,2003,Above 5 Years,1,1,2
+1401,Manipur,2003,Total,343,18,361
+1402,Manipur,2004,Upto 3 months,124,8,132
+1403,Manipur,2004,3-6 months,106,6,112
+1404,Manipur,2004,6-12 months,43,1,44
+1405,Manipur,2004,1-2 Years,37,3,40
+1406,Manipur,2004,2-3 Years,14,1,15
+1407,Manipur,2004,3-5 Years,14,2,16
+1408,Manipur,2004,Above 5 Years,0,0,0
+1409,Manipur,2004,Total,338,21,359
+1410,Manipur,2005,Upto 3 months,182,16,198
+1411,Manipur,2005,3-6 months,53,1,54
+1412,Manipur,2005,6-12 months,61,0,61
+1413,Manipur,2005,1-2 Years,58,0,58
+1414,Manipur,2005,2-3 Years,9,1,10
+1415,Manipur,2005,3-5 Years,9,1,10
+1416,Manipur,2005,Above 5 Years,4,0,4
+1417,Manipur,2005,Total,376,19,395
+1418,Manipur,2006,Upto 3 months,128,10,138
+1419,Manipur,2006,3-6 months,84,1,85
+1420,Manipur,2006,6-12 months,54,1,55
+1421,Manipur,2006,1-2 Years,12,1,13
+1422,Manipur,2006,2-3 Years,19,0,19
+1423,Manipur,2006,3-5 Years,7,2,9
+1424,Manipur,2006,Above 5 Years,4,0,4
+1425,Manipur,2006,Total,308,15,323
+1426,Manipur,2007,Upto 3 months,82,1,83
+1427,Manipur,2007,3-6 months,67,1,68
+1428,Manipur,2007,6-12 months,43,1,44
+1429,Manipur,2007,1-2 Years,28,1,29
+1430,Manipur,2007,2-3 Years,10,0,10
+1431,Manipur,2007,3-5 Years,9,1,10
+1432,Manipur,2007,Above 5 Years,7,1,8
+1433,Manipur,2007,Total,246,6,252
+1434,Manipur,2008,Upto 3 months,118,7,125
+1435,Manipur,2008,3-6 months,70,3,73
+1436,Manipur,2008,6-12 months,21,4,25
+1437,Manipur,2008,1-2 Years,18,0,18
+1438,Manipur,2008,2-3 Years,5,1,6
+1439,Manipur,2008,3-5 Years,11,0,11
+1440,Manipur,2008,Above 5 Years,9,2,11
+1441,Manipur,2008,Total,252,17,269
+1442,Manipur,2009,Upto 3 months,137,15,152
+1443,Manipur,2009,3-6 months,73,13,86
+1444,Manipur,2009,6-12 months,60,2,62
+1445,Manipur,2009,1-2 Years,31,0,31
+1446,Manipur,2009,2-3 Years,6,0,6
+1447,Manipur,2009,3-5 Years,4,0,4
+1448,Manipur,2009,Above 5 Years,12,2,14
+1449,Manipur,2009,Total,323,32,355
+1450,Manipur,2010,Upto 3 months,143,2,145
+1451,Manipur,2010,3-6 months,76,3,79
+1452,Manipur,2010,6-12 months,62,2,64
+1453,Manipur,2010,1-2 Years,56,2,58
+1454,Manipur,2010,2-3 Years,13,0,13
+1455,Manipur,2010,3-5 Years,5,0,5
+1456,Manipur,2010,Above 5 Years,8,1,9
+1457,Manipur,2010,Total,363,10,373
+1458,Manipur,2011,Upto 3 months,173,16,189
+1459,Manipur,2011,3-6 months,105,5,110
+1460,Manipur,2011,6-12 months,73,4,77
+1461,Manipur,2011,1-2 Years,43,0,43
+1462,Manipur,2011,2-3 Years,14,0,14
+1463,Manipur,2011,3-5 Years,12,0,12
+1464,Manipur,2011,Above 5 Years,8,1,9
+1465,Manipur,2011,Total,428,26,454
+1466,Manipur,2012,Upto 3 months,205,11,216
+1467,Manipur,2012,3-6 months,142,6,148
+1468,Manipur,2012,6-12 months,83,3,86
+1469,Manipur,2012,1-2 Years,43,1,44
+1470,Manipur,2012,2-3 Years,14,0,14
+1471,Manipur,2012,3-5 Years,8,0,8
+1472,Manipur,2012,Above 5 Years,11,0,11
+1473,Manipur,2012,Total,506,21,527
+1474,Meghalaya,2001,Upto 3 months,174,2,176
+1475,Meghalaya,2001,3-6 months,141,1,142
+1476,Meghalaya,2001,6-12 months,87,2,89
+1477,Meghalaya,2001,1-2 Years,44,2,46
+1478,Meghalaya,2001,2-3 Years,27,0,27
+1479,Meghalaya,2001,3-5 Years,18,0,18
+1480,Meghalaya,2001,Above 5 Years,6,1,7
+1481,Meghalaya,2001,Total,497,8,505
+1482,Meghalaya,2002,Upto 3 months,146,2,148
+1483,Meghalaya,2002,3-6 months,117,1,118
+1484,Meghalaya,2002,6-12 months,107,3,110
+1485,Meghalaya,2002,1-2 Years,67,4,71
+1486,Meghalaya,2002,2-3 Years,30,0,30
+1487,Meghalaya,2002,3-5 Years,17,1,18
+1488,Meghalaya,2002,Above 5 Years,11,0,11
+1489,Meghalaya,2002,Total,495,11,506
+1490,Meghalaya,2003,Upto 3 months,104,2,106
+1491,Meghalaya,2003,3-6 months,164,2,166
+1492,Meghalaya,2003,6-12 months,78,0,78
+1493,Meghalaya,2003,1-2 Years,61,3,64
+1494,Meghalaya,2003,2-3 Years,53,1,54
+1495,Meghalaya,2003,3-5 Years,35,0,35
+1496,Meghalaya,2003,Above 5 Years,5,0,5
+1497,Meghalaya,2003,Total,500,8,508
+1498,Meghalaya,2004,Upto 3 months,160,0,160
+1499,Meghalaya,2004,3-6 months,43,0,43
+1500,Meghalaya,2004,6-12 months,62,9,71
+1501,Meghalaya,2004,1-2 Years,65,0,65
+1502,Meghalaya,2004,2-3 Years,44,0,44
+1503,Meghalaya,2004,3-5 Years,29,0,29
+1504,Meghalaya,2004,Above 5 Years,17,1,18
+1505,Meghalaya,2004,Total,420,10,430
+1506,Meghalaya,2005,Upto 3 months,208,0,208
+1507,Meghalaya,2005,3-6 months,75,0,75
+1508,Meghalaya,2005,6-12 months,71,4,75
+1509,Meghalaya,2005,1-2 Years,58,4,62
+1510,Meghalaya,2005,2-3 Years,28,0,28
+1511,Meghalaya,2005,3-5 Years,24,0,24
+1512,Meghalaya,2005,Above 5 Years,14,1,15
+1513,Meghalaya,2005,Total,478,9,487
+1514,Meghalaya,2006,Upto 3 months,171,1,172
+1515,Meghalaya,2006,3-6 months,69,2,71
+1516,Meghalaya,2006,6-12 months,85,3,88
+1517,Meghalaya,2006,1-2 Years,97,1,98
+1518,Meghalaya,2006,2-3 Years,52,0,52
+1519,Meghalaya,2006,3-5 Years,39,0,39
+1520,Meghalaya,2006,Above 5 Years,19,0,19
+1521,Meghalaya,2006,Total,532,7,539
+1522,Meghalaya,2007,Upto 3 months,207,0,207
+1523,Meghalaya,2007,3-6 months,89,1,90
+1524,Meghalaya,2007,6-12 months,82,3,85
+1525,Meghalaya,2007,1-2 Years,69,0,69
+1526,Meghalaya,2007,2-3 Years,43,0,43
+1527,Meghalaya,2007,3-5 Years,41,0,41
+1528,Meghalaya,2007,Above 5 Years,22,0,22
+1529,Meghalaya,2007,Total,553,4,557
+1530,Meghalaya,2008,Upto 3 months,189,0,189
+1531,Meghalaya,2008,3-6 months,91,1,92
+1532,Meghalaya,2008,6-12 months,74,2,76
+1533,Meghalaya,2008,1-2 Years,54,1,55
+1534,Meghalaya,2008,2-3 Years,38,0,38
+1535,Meghalaya,2008,3-5 Years,27,0,27
+1536,Meghalaya,2008,Above 5 Years,3,0,3
+1537,Meghalaya,2008,Total,476,4,480
+1538,Meghalaya,2009,Upto 3 months,118,3,121
+1539,Meghalaya,2009,3-6 months,105,0,105
+1540,Meghalaya,2009,6-12 months,135,2,137
+1541,Meghalaya,2009,1-2 Years,0,0,0
+1542,Meghalaya,2009,2-3 Years,114,2,116
+1543,Meghalaya,2009,3-5 Years,22,0,22
+1544,Meghalaya,2009,Above 5 Years,19,0,19
+1545,Meghalaya,2009,Total,513,7,520
+1546,Meghalaya,2010,Upto 3 months,146,2,148
+1547,Meghalaya,2010,3-6 months,89,1,90
+1548,Meghalaya,2010,6-12 months,93,2,95
+1549,Meghalaya,2010,1-2 Years,89,1,90
+1550,Meghalaya,2010,2-3 Years,52,0,52
+1551,Meghalaya,2010,3-5 Years,29,0,29
+1552,Meghalaya,2010,Above 5 Years,9,0,9
+1553,Meghalaya,2010,Total,507,6,513
+1554,Meghalaya,2011,Upto 3 months,136,6,142
+1555,Meghalaya,2011,3-6 months,126,3,129
+1556,Meghalaya,2011,6-12 months,105,1,106
+1557,Meghalaya,2011,1-2 Years,55,1,56
+1558,Meghalaya,2011,2-3 Years,20,1,21
+1559,Meghalaya,2011,3-5 Years,15,0,15
+1560,Meghalaya,2011,Above 5 Years,9,0,9
+1561,Meghalaya,2011,Total,466,12,478
+1562,Meghalaya,2012,Upto 3 months,242,6,248
+1563,Meghalaya,2012,3-6 months,108,3,111
+1564,Meghalaya,2012,6-12 months,106,0,106
+1565,Meghalaya,2012,1-2 Years,48,1,49
+1566,Meghalaya,2012,2-3 Years,46,2,48
+1567,Meghalaya,2012,3-5 Years,28,0,28
+1568,Meghalaya,2012,Above 5 Years,15,0,15
+1569,Meghalaya,2012,Total,593,12,605
+1570,Mizoram,2001,Upto 3 months,440,36,476
+1571,Mizoram,2001,3-6 months,154,20,174
+1572,Mizoram,2001,6-12 months,29,14,43
+1573,Mizoram,2001,1-2 Years,5,2,7
+1574,Mizoram,2001,2-3 Years,3,0,3
+1575,Mizoram,2001,3-5 Years,1,0,1
+1576,Mizoram,2001,Above 5 Years,0,0,0
+1577,Mizoram,2001,Total,632,72,704
+1578,Mizoram,2002,Upto 3 months,77,13,90
+1579,Mizoram,2002,3-6 months,250,39,289
+1580,Mizoram,2002,6-12 months,81,3,84
+1581,Mizoram,2002,1-2 Years,34,4,38
+1582,Mizoram,2002,2-3 Years,27,5,32
+1583,Mizoram,2002,3-5 Years,20,1,21
+1584,Mizoram,2002,Above 5 Years,27,0,27
+1585,Mizoram,2002,Total,516,65,581
+1586,Mizoram,2003,Upto 3 months,412,54,466
+1587,Mizoram,2003,3-6 months,79,11,90
+1588,Mizoram,2003,6-12 months,42,3,45
+1589,Mizoram,2003,1-2 Years,24,0,24
+1590,Mizoram,2003,2-3 Years,10,0,10
+1591,Mizoram,2003,3-5 Years,0,0,0
+1592,Mizoram,2003,Above 5 Years,0,0,0
+1593,Mizoram,2003,Total,567,68,635
+1594,Mizoram,2004,Upto 3 months,314,37,351
+1595,Mizoram,2004,3-6 months,127,24,151
+1596,Mizoram,2004,6-12 months,188,25,213
+1597,Mizoram,2004,1-2 Years,20,0,20
+1598,Mizoram,2004,2-3 Years,7,0,7
+1599,Mizoram,2004,3-5 Years,0,0,0
+1600,Mizoram,2004,Above 5 Years,0,0,0
+1601,Mizoram,2004,Total,656,86,742
+1602,Mizoram,2005,Upto 3 months,345,28,373
+1603,Mizoram,2005,3-6 months,58,18,76
+1604,Mizoram,2005,6-12 months,32,13,45
+1605,Mizoram,2005,1-2 Years,27,0,27
+1606,Mizoram,2005,2-3 Years,21,0,21
+1607,Mizoram,2005,3-5 Years,0,0,0
+1608,Mizoram,2005,Above 5 Years,0,0,0
+1609,Mizoram,2005,Total,483,59,542
+1610,Mizoram,2006,Upto 3 months,324,43,367
+1611,Mizoram,2006,3-6 months,60,10,70
+1612,Mizoram,2006,6-12 months,44,7,51
+1613,Mizoram,2006,1-2 Years,15,2,17
+1614,Mizoram,2006,2-3 Years,7,1,8
+1615,Mizoram,2006,3-5 Years,3,0,3
+1616,Mizoram,2006,Above 5 Years,0,0,0
+1617,Mizoram,2006,Total,453,63,516
+1618,Mizoram,2007,Upto 3 months,310,65,375
+1619,Mizoram,2007,3-6 months,120,5,125
+1620,Mizoram,2007,6-12 months,66,3,69
+1621,Mizoram,2007,1-2 Years,45,0,45
+1622,Mizoram,2007,2-3 Years,14,0,14
+1623,Mizoram,2007,3-5 Years,6,0,6
+1624,Mizoram,2007,Above 5 Years,1,0,1
+1625,Mizoram,2007,Total,562,73,635
+1626,Mizoram,2008,Upto 3 months,259,43,302
+1627,Mizoram,2008,3-6 months,70,4,74
+1628,Mizoram,2008,6-12 months,35,0,35
+1629,Mizoram,2008,1-2 Years,24,0,24
+1630,Mizoram,2008,2-3 Years,14,0,14
+1631,Mizoram,2008,3-5 Years,12,0,12
+1632,Mizoram,2008,Above 5 Years,0,0,0
+1633,Mizoram,2008,Total,414,47,461
+1634,Mizoram,2009,Upto 3 months,255,40,295
+1635,Mizoram,2009,3-6 months,51,3,54
+1636,Mizoram,2009,6-12 months,25,2,27
+1637,Mizoram,2009,1-2 Years,26,0,26
+1638,Mizoram,2009,2-3 Years,5,0,5
+1639,Mizoram,2009,3-5 Years,5,0,5
+1640,Mizoram,2009,Above 5 Years,0,0,0
+1641,Mizoram,2009,Total,367,45,412
+1642,Mizoram,2010,Upto 3 months,300,55,355
+1643,Mizoram,2010,3-6 months,87,0,87
+1644,Mizoram,2010,6-12 months,54,0,54
+1645,Mizoram,2010,1-2 Years,25,5,30
+1646,Mizoram,2010,2-3 Years,10,0,10
+1647,Mizoram,2010,3-5 Years,5,0,5
+1648,Mizoram,2010,Above 5 Years,0,0,0
+1649,Mizoram,2010,Total,481,60,541
+1650,Mizoram,2011,Upto 3 months,343,38,381
+1651,Mizoram,2011,3-6 months,61,10,71
+1652,Mizoram,2011,6-12 months,25,4,29
+1653,Mizoram,2011,1-2 Years,8,0,8
+1654,Mizoram,2011,2-3 Years,6,0,6
+1655,Mizoram,2011,3-5 Years,4,0,4
+1656,Mizoram,2011,Above 5 Years,0,0,0
+1657,Mizoram,2011,Total,447,52,499
+1658,Mizoram,2012,Upto 3 months,381,47,428
+1659,Mizoram,2012,3-6 months,52,2,54
+1660,Mizoram,2012,6-12 months,22,4,26
+1661,Mizoram,2012,1-2 Years,15,0,15
+1662,Mizoram,2012,2-3 Years,5,0,5
+1663,Mizoram,2012,3-5 Years,0,0,0
+1664,Mizoram,2012,Above 5 Years,0,0,0
+1665,Mizoram,2012,Total,475,53,528
+1666,Nagaland,2001,Upto 3 months,88,2,90
+1667,Nagaland,2001,3-6 months,107,5,112
+1668,Nagaland,2001,6-12 months,117,9,126
+1669,Nagaland,2001,1-2 Years,105,2,107
+1670,Nagaland,2001,2-3 Years,74,0,74
+1671,Nagaland,2001,3-5 Years,30,0,30
+1672,Nagaland,2001,Above 5 Years,6,0,6
+1673,Nagaland,2001,Total,527,18,545
+1674,Nagaland,2002,Upto 3 months,104,3,107
+1675,Nagaland,2002,3-6 months,140,5,145
+1676,Nagaland,2002,6-12 months,117,2,119
+1677,Nagaland,2002,1-2 Years,102,1,103
+1678,Nagaland,2002,2-3 Years,53,0,53
+1679,Nagaland,2002,3-5 Years,11,0,11
+1680,Nagaland,2002,Above 5 Years,6,0,6
+1681,Nagaland,2002,Total,533,11,544
+1682,Nagaland,2003,Upto 3 months,62,2,64
+1683,Nagaland,2003,3-6 months,117,7,124
+1684,Nagaland,2003,6-12 months,101,3,104
+1685,Nagaland,2003,1-2 Years,70,1,71
+1686,Nagaland,2003,2-3 Years,32,0,32
+1687,Nagaland,2003,3-5 Years,9,0,9
+1688,Nagaland,2003,Above 5 Years,3,0,3
+1689,Nagaland,2003,Total,394,13,407
+1690,Nagaland,2004,Upto 3 months,73,4,77
+1691,Nagaland,2004,3-6 months,140,7,147
+1692,Nagaland,2004,6-12 months,87,3,90
+1693,Nagaland,2004,1-2 Years,41,2,43
+1694,Nagaland,2004,2-3 Years,23,0,23
+1695,Nagaland,2004,3-5 Years,7,0,7
+1696,Nagaland,2004,Above 5 Years,3,0,3
+1697,Nagaland,2004,Total,374,16,390
+1698,Nagaland,2005,Upto 3 months,187,4,191
+1699,Nagaland,2005,3-6 months,154,7,161
+1700,Nagaland,2005,6-12 months,98,5,103
+1701,Nagaland,2005,1-2 Years,23,0,23
+1702,Nagaland,2005,2-3 Years,4,0,4
+1703,Nagaland,2005,3-5 Years,2,0,2
+1704,Nagaland,2005,Above 5 Years,0,0,0
+1705,Nagaland,2005,Total,468,16,484
+1706,Nagaland,2006,Upto 3 months,72,1,73
+1707,Nagaland,2006,3-6 months,174,7,181
+1708,Nagaland,2006,6-12 months,108,4,112
+1709,Nagaland,2006,1-2 Years,97,2,99
+1710,Nagaland,2006,2-3 Years,37,3,40
+1711,Nagaland,2006,3-5 Years,10,2,12
+1712,Nagaland,2006,Above 5 Years,0,0,0
+1713,Nagaland,2006,Total,498,19,517
+1714,Nagaland,2007,Upto 3 months,172,3,175
+1715,Nagaland,2007,3-6 months,109,5,114
+1716,Nagaland,2007,6-12 months,71,3,74
+1717,Nagaland,2007,1-2 Years,20,1,21
+1718,Nagaland,2007,2-3 Years,1,0,1
+1719,Nagaland,2007,3-5 Years,7,0,7
+1720,Nagaland,2007,Above 5 Years,2,0,2
+1721,Nagaland,2007,Total,382,12,394
+1722,Nagaland,2008,Upto 3 months,197,6,203
+1723,Nagaland,2008,3-6 months,78,3,81
+1724,Nagaland,2008,6-12 months,69,1,70
+1725,Nagaland,2008,1-2 Years,37,0,37
+1726,Nagaland,2008,2-3 Years,2,0,2
+1727,Nagaland,2008,3-5 Years,2,0,2
+1728,Nagaland,2008,Above 5 Years,1,0,1
+1729,Nagaland,2008,Total,386,10,396
+1730,Nagaland,2009,Upto 3 months,163,9,172
+1731,Nagaland,2009,3-6 months,132,1,133
+1732,Nagaland,2009,6-12 months,69,3,72
+1733,Nagaland,2009,1-2 Years,31,0,31
+1734,Nagaland,2009,2-3 Years,11,2,13
+1735,Nagaland,2009,3-5 Years,6,0,6
+1736,Nagaland,2009,Above 5 Years,0,0,0
+1737,Nagaland,2009,Total,412,15,427
+1738,Nagaland,2010,Upto 3 months,130,6,136
+1739,Nagaland,2010,3-6 months,100,3,103
+1740,Nagaland,2010,6-12 months,50,2,52
+1741,Nagaland,2010,1-2 Years,20,2,22
+1742,Nagaland,2010,2-3 Years,8,1,9
+1743,Nagaland,2010,3-5 Years,3,0,3
+1744,Nagaland,2010,Above 5 Years,0,0,0
+1745,Nagaland,2010,Total,311,14,325
+1746,Nagaland,2011,Upto 3 months,78,3,81
+1747,Nagaland,2011,3-6 months,82,2,84
+1748,Nagaland,2011,6-12 months,61,1,62
+1749,Nagaland,2011,1-2 Years,52,1,53
+1750,Nagaland,2011,2-3 Years,12,1,13
+1751,Nagaland,2011,3-5 Years,6,0,6
+1752,Nagaland,2011,Above 5 Years,0,0,0
+1753,Nagaland,2011,Total,291,8,299
+1754,Nagaland,2012,Upto 3 months,94,4,98
+1755,Nagaland,2012,3-6 months,61,3,64
+1756,Nagaland,2012,6-12 months,46,1,47
+1757,Nagaland,2012,1-2 Years,20,1,21
+1758,Nagaland,2012,2-3 Years,15,0,15
+1759,Nagaland,2012,3-5 Years,6,1,7
+1760,Nagaland,2012,Above 5 Years,1,0,1
+1761,Nagaland,2012,Total,243,10,253
+1762,Odisha,2001,Upto 3 months,2857,107,2964
+1763,Odisha,2001,3-6 months,2175,66,2241
+1764,Odisha,2001,6-12 months,1388,26,1414
+1765,Odisha,2001,1-2 Years,1270,28,1298
+1766,Odisha,2001,2-3 Years,511,13,524
+1767,Odisha,2001,3-5 Years,295,9,304
+1768,Odisha,2001,Above 5 Years,23,0,23
+1769,Odisha,2001,Total,8519,249,8768
+1770,Odisha,2002,Upto 3 months,3816,149,3965
+1771,Odisha,2002,3-6 months,2185,54,2239
+1772,Odisha,2002,6-12 months,1436,47,1483
+1773,Odisha,2002,1-2 Years,1044,29,1073
+1774,Odisha,2002,2-3 Years,517,13,530
+1775,Odisha,2002,3-5 Years,295,0,295
+1776,Odisha,2002,Above 5 Years,31,0,31
+1777,Odisha,2002,Total,9324,292,9616
+1778,Odisha,2003,Upto 3 months,4293,133,4426
+1779,Odisha,2003,3-6 months,2421,51,2472
+1780,Odisha,2003,6-12 months,1896,60,1956
+1781,Odisha,2003,1-2 Years,520,32,552
+1782,Odisha,2003,2-3 Years,189,14,203
+1783,Odisha,2003,3-5 Years,23,0,23
+1784,Odisha,2003,Above 5 Years,8,0,8
+1785,Odisha,2003,Total,9350,290,9640
+1786,Odisha,2004,Upto 3 months,2750,199,2949
+1787,Odisha,2004,3-6 months,1724,39,1763
+1788,Odisha,2004,6-12 months,1102,22,1124
+1789,Odisha,2004,1-2 Years,2958,19,2977
+1790,Odisha,2004,2-3 Years,391,12,403
+1791,Odisha,2004,3-5 Years,189,4,193
+1792,Odisha,2004,Above 5 Years,35,0,35
+1793,Odisha,2004,Total,9149,295,9444
+1794,Odisha,2005,Upto 3 months,4412,138,4550
+1795,Odisha,2005,3-6 months,1760,119,1879
+1796,Odisha,2005,6-12 months,1547,40,1587
+1797,Odisha,2005,1-2 Years,1073,31,1104
+1798,Odisha,2005,2-3 Years,349,6,355
+1799,Odisha,2005,3-5 Years,193,8,201
+1800,Odisha,2005,Above 5 Years,44,0,44
+1801,Odisha,2005,Total,9378,342,9720
+1802,Odisha,2006,Upto 3 months,4399,163,4562
+1803,Odisha,2006,3-6 months,2135,118,2253
+1804,Odisha,2006,6-12 months,1501,62,1563
+1805,Odisha,2006,1-2 Years,1234,19,1253
+1806,Odisha,2006,2-3 Years,361,19,380
+1807,Odisha,2006,3-5 Years,198,5,203
+1808,Odisha,2006,Above 5 Years,33,0,33
+1809,Odisha,2006,Total,9861,386,10247
+1810,Odisha,2007,Upto 3 months,5092,212,5304
+1811,Odisha,2007,3-6 months,2029,176,2205
+1812,Odisha,2007,6-12 months,1694,88,1782
+1813,Odisha,2007,1-2 Years,1020,29,1049
+1814,Odisha,2007,2-3 Years,419,8,427
+1815,Odisha,2007,3-5 Years,201,4,205
+1816,Odisha,2007,Above 5 Years,48,0,48
+1817,Odisha,2007,Total,10503,517,11020
+1818,Odisha,2008,Upto 3 months,4033,185,4218
+1819,Odisha,2008,3-6 months,2348,110,2458
+1820,Odisha,2008,6-12 months,1641,63,1704
+1821,Odisha,2008,1-2 Years,1025,31,1056
+1822,Odisha,2008,2-3 Years,331,10,341
+1823,Odisha,2008,3-5 Years,242,2,244
+1824,Odisha,2008,Above 5 Years,40,0,40
+1825,Odisha,2008,Total,9660,401,10061
+1826,Odisha,2009,Upto 3 months,3992,152,4144
+1827,Odisha,2009,3-6 months,2176,102,2278
+1828,Odisha,2009,6-12 months,1513,88,1601
+1829,Odisha,2009,1-2 Years,819,35,854
+1830,Odisha,2009,2-3 Years,321,12,333
+1831,Odisha,2009,3-5 Years,251,2,253
+1832,Odisha,2009,Above 5 Years,48,0,48
+1833,Odisha,2009,Total,9120,391,9511
+1834,Odisha,2010,Upto 3 months,3521,218,3739
+1835,Odisha,2010,3-6 months,2132,94,2226
+1836,Odisha,2010,6-12 months,1195,28,1223
+1837,Odisha,2010,1-2 Years,984,24,1008
+1838,Odisha,2010,2-3 Years,24,5,29
+1839,Odisha,2010,3-5 Years,193,7,200
+1840,Odisha,2010,Above 5 Years,53,0,53
+1841,Odisha,2010,Total,8102,376,8478
+1842,Odisha,2011,Upto 3 months,3313,201,3514
+1843,Odisha,2011,3-6 months,2713,50,2763
+1844,Odisha,2011,6-12 months,1298,47,1345
+1845,Odisha,2011,1-2 Years,909,25,934
+1846,Odisha,2011,2-3 Years,284,3,287
+1847,Odisha,2011,3-5 Years,163,5,168
+1848,Odisha,2011,Above 5 Years,41,0,41
+1849,Odisha,2011,Total,8721,331,9052
+1850,Odisha,2012,Upto 3 months,3821,210,4031
+1851,Odisha,2012,3-6 months,2223,64,2287
+1852,Odisha,2012,6-12 months,1244,40,1284
+1853,Odisha,2012,1-2 Years,1021,40,1061
+1854,Odisha,2012,2-3 Years,333,12,345
+1855,Odisha,2012,3-5 Years,182,3,185
+1856,Odisha,2012,Above 5 Years,42,2,44
+1857,Odisha,2012,Total,8866,371,9237
+1858,Punjab,2001,Upto 3 months,3068,179,3247
+1859,Punjab,2001,3-6 months,2240,118,2358
+1860,Punjab,2001,6-12 months,646,95,741
+1861,Punjab,2001,1-2 Years,829,48,877
+1862,Punjab,2001,2-3 Years,511,6,517
+1863,Punjab,2001,3-5 Years,433,7,440
+1864,Punjab,2001,Above 5 Years,28,0,28
+1865,Punjab,2001,Total,7755,453,8208
+1866,Punjab,2002,Upto 3 months,4021,220,4241
+1867,Punjab,2002,3-6 months,1540,120,1660
+1868,Punjab,2002,6-12 months,1120,70,1190
+1869,Punjab,2002,1-2 Years,640,31,671
+1870,Punjab,2002,2-3 Years,321,30,351
+1871,Punjab,2002,3-5 Years,0,0,0
+1872,Punjab,2002,Above 5 Years,0,0,0
+1873,Punjab,2002,Total,7642,471,8113
+1874,Punjab,2003,Upto 3 months,3913,203,4116
+1875,Punjab,2003,3-6 months,1465,130,1595
+1876,Punjab,2003,6-12 months,1148,90,1238
+1877,Punjab,2003,1-2 Years,748,75,823
+1878,Punjab,2003,2-3 Years,617,31,648
+1879,Punjab,2003,3-5 Years,353,9,362
+1880,Punjab,2003,Above 5 Years,0,0,0
+1881,Punjab,2003,Total,8244,538,8782
+1882,Punjab,2004,Upto 3 months,4125,181,4306
+1883,Punjab,2004,3-6 months,1502,115,1617
+1884,Punjab,2004,6-12 months,1460,88,1548
+1885,Punjab,2004,1-2 Years,895,82,977
+1886,Punjab,2004,2-3 Years,728,25,753
+1887,Punjab,2004,3-5 Years,460,6,466
+1888,Punjab,2004,Above 5 Years,330,4,334
+1889,Punjab,2004,Total,9500,501,10001
+1890,Punjab,2005,Upto 3 months,4036,175,4211
+1891,Punjab,2005,3-6 months,1625,156,1781
+1892,Punjab,2005,6-12 months,1220,98,1318
+1893,Punjab,2005,1-2 Years,648,63,711
+1894,Punjab,2005,2-3 Years,632,40,672
+1895,Punjab,2005,3-5 Years,523,4,527
+1896,Punjab,2005,Above 5 Years,345,7,352
+1897,Punjab,2005,Total,9029,543,9572
+1898,Punjab,2006,Upto 3 months,4119,173,4292
+1899,Punjab,2006,3-6 months,1678,155,1833
+1900,Punjab,2006,6-12 months,1233,97,1330
+1901,Punjab,2006,1-2 Years,657,55,712
+1902,Punjab,2006,2-3 Years,638,33,671
+1903,Punjab,2006,3-5 Years,535,1,536
+1904,Punjab,2006,Above 5 Years,372,5,377
+1905,Punjab,2006,Total,9232,519,9751
+1906,Punjab,2007,Upto 3 months,4295,187,4482
+1907,Punjab,2007,3-6 months,1852,170,2022
+1908,Punjab,2007,6-12 months,1408,111,1519
+1909,Punjab,2007,1-2 Years,832,70,902
+1910,Punjab,2007,2-3 Years,813,47,860
+1911,Punjab,2007,3-5 Years,614,16,630
+1912,Punjab,2007,Above 5 Years,546,20,566
+1913,Punjab,2007,Total,10360,621,10981
+1914,Punjab,2008,Upto 3 months,3760,156,3916
+1915,Punjab,2008,3-6 months,1893,160,2053
+1916,Punjab,2008,6-12 months,1449,102,1551
+1917,Punjab,2008,1-2 Years,873,68,941
+1918,Punjab,2008,2-3 Years,854,43,897
+1919,Punjab,2008,3-5 Years,655,13,668
+1920,Punjab,2008,Above 5 Years,587,16,603
+1921,Punjab,2008,Total,10071,558,10629
+1922,Punjab,2009,Upto 3 months,3879,176,4055
+1923,Punjab,2009,3-6 months,1996,181,2177
+1924,Punjab,2009,6-12 months,1548,114,1662
+1925,Punjab,2009,1-2 Years,977,71,1048
+1926,Punjab,2009,2-3 Years,952,46,998
+1927,Punjab,2009,3-5 Years,749,22,771
+1928,Punjab,2009,Above 5 Years,661,19,680
+1929,Punjab,2009,Total,10762,629,11391
+1930,Punjab,2010,Upto 3 months,4256,239,4495
+1931,Punjab,2010,3-6 months,2226,199,2425
+1932,Punjab,2010,6-12 months,1540,118,1658
+1933,Punjab,2010,1-2 Years,1278,65,1343
+1934,Punjab,2010,2-3 Years,903,29,932
+1935,Punjab,2010,3-5 Years,130,12,142
+1936,Punjab,2010,Above 5 Years,0,0,0
+1937,Punjab,2010,Total,10333,662,10995
+1938,Punjab,2011,Upto 3 months,4131,219,4350
+1939,Punjab,2011,3-6 months,2131,185,2316
+1940,Punjab,2011,6-12 months,1420,104,1524
+1941,Punjab,2011,1-2 Years,1168,51,1219
+1942,Punjab,2011,2-3 Years,793,18,811
+1943,Punjab,2011,3-5 Years,69,6,75
+1944,Punjab,2011,Above 5 Years,0,0,0
+1945,Punjab,2011,Total,9712,583,10295
+1946,Punjab,2012,Upto 3 months,3676,240,3916
+1947,Punjab,2012,3-6 months,3921,234,4155
+1948,Punjab,2012,6-12 months,2983,171,3154
+1949,Punjab,2012,1-2 Years,1791,119,1910
+1950,Punjab,2012,2-3 Years,1219,56,1275
+1951,Punjab,2012,3-5 Years,614,32,646
+1952,Punjab,2012,Above 5 Years,304,13,317
+1953,Punjab,2012,Total,14508,865,15373
+1954,Rajasthan,2001,Upto 3 months,3563,129,3692
+1955,Rajasthan,2001,3-6 months,1558,36,1594
+1956,Rajasthan,2001,6-12 months,1552,46,1598
+1957,Rajasthan,2001,1-2 Years,1205,45,1250
+1958,Rajasthan,2001,2-3 Years,471,11,482
+1959,Rajasthan,2001,3-5 Years,106,1,107
+1960,Rajasthan,2001,Above 5 Years,14,0,14
+1961,Rajasthan,2001,Total,8469,268,8737
+1962,Rajasthan,2002,Upto 3 months,2816,91,2907
+1963,Rajasthan,2002,3-6 months,1453,45,1498
+1964,Rajasthan,2002,6-12 months,1362,38,1400
+1965,Rajasthan,2002,1-2 Years,998,24,1022
+1966,Rajasthan,2002,2-3 Years,349,6,355
+1967,Rajasthan,2002,3-5 Years,112,3,115
+1968,Rajasthan,2002,Above 5 Years,25,0,25
+1969,Rajasthan,2002,Total,7115,207,7322
+1970,Rajasthan,2003,Upto 3 months,2543,96,2639
+1971,Rajasthan,2003,3-6 months,1399,43,1442
+1972,Rajasthan,2003,6-12 months,1330,45,1375
+1973,Rajasthan,2003,1-2 Years,726,28,754
+1974,Rajasthan,2003,2-3 Years,298,4,302
+1975,Rajasthan,2003,3-5 Years,62,2,64
+1976,Rajasthan,2003,Above 5 Years,8,0,8
+1977,Rajasthan,2003,Total,6366,218,6584
+1978,Rajasthan,2004,Upto 3 months,2696,109,2805
+1979,Rajasthan,2004,3-6 months,1757,83,1840
+1980,Rajasthan,2004,6-12 months,1485,40,1525
+1981,Rajasthan,2004,1-2 Years,736,18,754
+1982,Rajasthan,2004,2-3 Years,275,3,278
+1983,Rajasthan,2004,3-5 Years,69,0,69
+1984,Rajasthan,2004,Above 5 Years,10,2,12
+1985,Rajasthan,2004,Total,7028,255,7283
+1986,Rajasthan,2005,Upto 3 months,3070,109,3179
+1987,Rajasthan,2005,3-6 months,1464,58,1522
+1988,Rajasthan,2005,6-12 months,1364,49,1413
+1989,Rajasthan,2005,1-2 Years,777,15,792
+1990,Rajasthan,2005,2-3 Years,361,9,370
+1991,Rajasthan,2005,3-5 Years,71,6,77
+1992,Rajasthan,2005,Above 5 Years,9,1,10
+1993,Rajasthan,2005,Total,7116,247,7363
+1994,Rajasthan,2006,Upto 3 months,3683,136,3819
+1995,Rajasthan,2006,3-6 months,1591,69,1660
+1996,Rajasthan,2006,6-12 months,1370,37,1407
+1997,Rajasthan,2006,1-2 Years,1000,24,1024
+1998,Rajasthan,2006,2-3 Years,291,13,304
+1999,Rajasthan,2006,3-5 Years,59,5,64
+2000,Rajasthan,2006,Above 5 Years,10,0,10
+2001,Rajasthan,2006,Total,8004,284,8288
+2002,Rajasthan,2007,Upto 3 months,3332,143,3475
+2003,Rajasthan,2007,3-6 months,1674,99,1773
+2004,Rajasthan,2007,6-12 months,1738,62,1800
+2005,Rajasthan,2007,1-2 Years,1106,29,1135
+2006,Rajasthan,2007,2-3 Years,449,5,454
+2007,Rajasthan,2007,3-5 Years,110,4,114
+2008,Rajasthan,2007,Above 5 Years,14,0,14
+2009,Rajasthan,2007,Total,8423,342,8765
+2010,Rajasthan,2008,Upto 3 months,3331,110,3441
+2011,Rajasthan,2008,3-6 months,1934,75,2009
+2012,Rajasthan,2008,6-12 months,1735,74,1809
+2013,Rajasthan,2008,1-2 Years,1221,52,1273
+2014,Rajasthan,2008,2-3 Years,406,17,423
+2015,Rajasthan,2008,3-5 Years,139,1,140
+2016,Rajasthan,2008,Above 5 Years,24,1,25
+2017,Rajasthan,2008,Total,8790,330,9120
+2018,Rajasthan,2009,Upto 3 months,3963,107,4070
+2019,Rajasthan,2009,3-6 months,2311,88,2399
+2020,Rajasthan,2009,6-12 months,2311,104,2415
+2021,Rajasthan,2009,1-2 Years,1470,79,1549
+2022,Rajasthan,2009,2-3 Years,583,29,612
+2023,Rajasthan,2009,3-5 Years,216,0,216
+2024,Rajasthan,2009,Above 5 Years,48,4,52
+2025,Rajasthan,2009,Total,10902,411,11313
+2026,Rajasthan,2010,Upto 3 months,3731,131,3862
+2027,Rajasthan,2010,3-6 months,2201,82,2283
+2028,Rajasthan,2010,6-12 months,2124,89,2213
+2029,Rajasthan,2010,1-2 Years,1523,66,1589
+2030,Rajasthan,2010,2-3 Years,668,10,678
+2031,Rajasthan,2010,3-5 Years,247,3,250
+2032,Rajasthan,2010,Above 5 Years,49,4,53
+2033,Rajasthan,2010,Total,10543,385,10928
+2034,Rajasthan,2011,Upto 3 months,3886,148,4034
+2035,Rajasthan,2011,3-6 months,2230,81,2311
+2036,Rajasthan,2011,6-12 months,2281,81,2362
+2037,Rajasthan,2011,1-2 Years,1825,68,1893
+2038,Rajasthan,2011,2-3 Years,816,25,841
+2039,Rajasthan,2011,3-5 Years,404,12,416
+2040,Rajasthan,2011,Above 5 Years,38,4,42
+2041,Rajasthan,2011,Total,11480,419,11899
+2042,Rajasthan,2012,Upto 3 months,4246,154,4400
+2043,Rajasthan,2012,3-6 months,2651,79,2730
+2044,Rajasthan,2012,6-12 months,2391,96,2487
+2045,Rajasthan,2012,1-2 Years,1901,61,1962
+2046,Rajasthan,2012,2-3 Years,987,34,1021
+2047,Rajasthan,2012,3-5 Years,435,18,453
+2048,Rajasthan,2012,Above 5 Years,104,13,117
+2049,Rajasthan,2012,Total,12715,455,13170
+2050,Sikkim,2001,Upto 3 months,3,0,3
+2051,Sikkim,2001,3-6 months,8,0,8
+2052,Sikkim,2001,6-12 months,6,0,6
+2053,Sikkim,2001,1-2 Years,52,0,52
+2054,Sikkim,2001,2-3 Years,35,0,35
+2055,Sikkim,2001,3-5 Years,5,0,5
+2056,Sikkim,2001,Above 5 Years,0,0,0
+2057,Sikkim,2001,Total,109,0,109
+2058,Sikkim,2002,Upto 3 months,18,0,18
+2059,Sikkim,2002,3-6 months,21,1,22
+2060,Sikkim,2002,6-12 months,32,0,32
+2061,Sikkim,2002,1-2 Years,12,1,13
+2062,Sikkim,2002,2-3 Years,6,0,6
+2063,Sikkim,2002,3-5 Years,0,0,0
+2064,Sikkim,2002,Above 5 Years,0,0,0
+2065,Sikkim,2002,Total,89,2,91
+2066,Sikkim,2003,Upto 3 months,17,0,17
+2067,Sikkim,2003,3-6 months,21,0,21
+2068,Sikkim,2003,6-12 months,33,2,35
+2069,Sikkim,2003,1-2 Years,12,0,12
+2070,Sikkim,2003,2-3 Years,4,0,4
+2071,Sikkim,2003,3-5 Years,0,0,0
+2072,Sikkim,2003,Above 5 Years,0,0,0
+2073,Sikkim,2003,Total,87,2,89
+2074,Sikkim,2004,Upto 3 months,49,0,49
+2075,Sikkim,2004,3-6 months,14,0,14
+2076,Sikkim,2004,6-12 months,18,0,18
+2077,Sikkim,2004,1-2 Years,16,0,16
+2078,Sikkim,2004,2-3 Years,2,0,2
+2079,Sikkim,2004,3-5 Years,0,0,0
+2080,Sikkim,2004,Above 5 Years,0,0,0
+2081,Sikkim,2004,Total,99,0,99
+2082,Sikkim,2005,Upto 3 months,54,1,55
+2083,Sikkim,2005,3-6 months,20,4,24
+2084,Sikkim,2005,6-12 months,22,0,22
+2085,Sikkim,2005,1-2 Years,19,0,19
+2086,Sikkim,2005,2-3 Years,2,0,2
+2087,Sikkim,2005,3-5 Years,0,0,0
+2088,Sikkim,2005,Above 5 Years,0,0,0
+2089,Sikkim,2005,Total,117,5,122
+2090,Sikkim,2006,Upto 3 months,39,0,39
+2091,Sikkim,2006,3-6 months,29,0,29
+2092,Sikkim,2006,6-12 months,26,0,26
+2093,Sikkim,2006,1-2 Years,27,0,27
+2094,Sikkim,2006,2-3 Years,7,2,9
+2095,Sikkim,2006,3-5 Years,4,0,4
+2096,Sikkim,2006,Above 5 Years,0,0,0
+2097,Sikkim,2006,Total,132,2,134
+2098,Sikkim,2007,Upto 3 months,25,1,26
+2099,Sikkim,2007,3-6 months,39,1,40
+2100,Sikkim,2007,6-12 months,22,0,22
+2101,Sikkim,2007,1-2 Years,29,0,29
+2102,Sikkim,2007,2-3 Years,14,0,14
+2103,Sikkim,2007,3-5 Years,12,1,13
+2104,Sikkim,2007,Above 5 Years,0,0,0
+2105,Sikkim,2007,Total,141,3,144
+2106,Sikkim,2008,Upto 3 months,50,3,53
+2107,Sikkim,2008,3-6 months,48,1,49
+2108,Sikkim,2008,6-12 months,38,2,40
+2109,Sikkim,2008,1-2 Years,13,1,14
+2110,Sikkim,2008,2-3 Years,21,0,21
+2111,Sikkim,2008,3-5 Years,9,1,10
+2112,Sikkim,2008,Above 5 Years,5,0,5
+2113,Sikkim,2008,Total,184,8,192
+2114,Sikkim,2009,Upto 3 months,34,4,38
+2115,Sikkim,2009,3-6 months,27,0,27
+2116,Sikkim,2009,6-12 months,16,0,16
+2117,Sikkim,2009,1-2 Years,18,1,19
+2118,Sikkim,2009,2-3 Years,7,0,7
+2119,Sikkim,2009,3-5 Years,12,0,12
+2120,Sikkim,2009,Above 5 Years,4,1,5
+2121,Sikkim,2009,Total,118,6,124
+2122,Sikkim,2010,Upto 3 months,46,0,46
+2123,Sikkim,2010,3-6 months,19,4,23
+2124,Sikkim,2010,6-12 months,22,1,23
+2125,Sikkim,2010,1-2 Years,19,0,19
+2126,Sikkim,2010,2-3 Years,9,0,9
+2127,Sikkim,2010,3-5 Years,6,0,6
+2128,Sikkim,2010,Above 5 Years,5,0,5
+2129,Sikkim,2010,Total,126,5,131
+2130,Sikkim,2011,Upto 3 months,46,1,47
+2131,Sikkim,2011,3-6 months,26,0,26
+2132,Sikkim,2011,6-12 months,26,0,26
+2133,Sikkim,2011,1-2 Years,10,0,10
+2134,Sikkim,2011,2-3 Years,8,0,8
+2135,Sikkim,2011,3-5 Years,3,0,3
+2136,Sikkim,2011,Above 5 Years,0,0,0
+2137,Sikkim,2011,Total,119,1,120
+2138,Sikkim,2012,Upto 3 months,49,0,49
+2139,Sikkim,2012,3-6 months,45,3,48
+2140,Sikkim,2012,6-12 months,22,2,24
+2141,Sikkim,2012,1-2 Years,17,0,17
+2142,Sikkim,2012,2-3 Years,8,0,8
+2143,Sikkim,2012,3-5 Years,2,0,2
+2144,Sikkim,2012,Above 5 Years,0,0,0
+2145,Sikkim,2012,Total,143,5,148
+2146,Tamil Nadu,2001,Upto 3 months,973,99,1072
+2147,Tamil Nadu,2001,3-6 months,581,24,605
+2148,Tamil Nadu,2001,6-12 months,361,8,369
+2149,Tamil Nadu,2001,1-2 Years,162,8,170
+2150,Tamil Nadu,2001,2-3 Years,69,1,70
+2151,Tamil Nadu,2001,3-5 Years,48,0,48
+2152,Tamil Nadu,2001,Above 5 Years,30,1,31
+2153,Tamil Nadu,2001,Total,2224,141,2365
+2154,Tamil Nadu,2002,Upto 3 months,1086,37,1123
+2155,Tamil Nadu,2002,3-6 months,632,10,642
+2156,Tamil Nadu,2002,6-12 months,472,5,477
+2157,Tamil Nadu,2002,1-2 Years,206,6,212
+2158,Tamil Nadu,2002,2-3 Years,62,0,62
+2159,Tamil Nadu,2002,3-5 Years,26,0,26
+2160,Tamil Nadu,2002,Above 5 Years,24,1,25
+2161,Tamil Nadu,2002,Total,2508,59,2567
+2162,Tamil Nadu,2003,Upto 3 months,1333,24,1357
+2163,Tamil Nadu,2003,3-6 months,832,12,844
+2164,Tamil Nadu,2003,6-12 months,492,8,500
+2165,Tamil Nadu,2003,1-2 Years,216,8,224
+2166,Tamil Nadu,2003,2-3 Years,72,0,72
+2167,Tamil Nadu,2003,3-5 Years,36,0,36
+2168,Tamil Nadu,2003,Above 5 Years,34,2,36
+2169,Tamil Nadu,2003,Total,3015,54,3069
+2170,Tamil Nadu,2004,Upto 3 months,1216,33,1249
+2171,Tamil Nadu,2004,3-6 months,437,8,445
+2172,Tamil Nadu,2004,6-12 months,618,10,628
+2173,Tamil Nadu,2004,1-2 Years,218,3,221
+2174,Tamil Nadu,2004,2-3 Years,140,2,142
+2175,Tamil Nadu,2004,3-5 Years,230,3,233
+2176,Tamil Nadu,2004,Above 5 Years,0,0,0
+2177,Tamil Nadu,2004,Total,2859,59,2918
+2178,Tamil Nadu,2005,Upto 3 months,1108,11,1119
+2179,Tamil Nadu,2005,3-6 months,762,27,789
+2180,Tamil Nadu,2005,6-12 months,638,16,654
+2181,Tamil Nadu,2005,1-2 Years,316,6,322
+2182,Tamil Nadu,2005,2-3 Years,82,0,82
+2183,Tamil Nadu,2005,3-5 Years,42,0,42
+2184,Tamil Nadu,2005,Above 5 Years,0,0,0
+2185,Tamil Nadu,2005,Total,2948,60,3008
+2186,Tamil Nadu,2006,Upto 3 months,1089,12,1101
+2187,Tamil Nadu,2006,3-6 months,717,19,736
+2188,Tamil Nadu,2006,6-12 months,604,14,618
+2189,Tamil Nadu,2006,1-2 Years,307,5,312
+2190,Tamil Nadu,2006,2-3 Years,87,0,87
+2191,Tamil Nadu,2006,3-5 Years,31,0,31
+2192,Tamil Nadu,2006,Above 5 Years,0,0,0
+2193,Tamil Nadu,2006,Total,2835,50,2885
+2194,Tamil Nadu,2007,Upto 3 months,5380,927,6307
+2195,Tamil Nadu,2007,3-6 months,2492,51,2543
+2196,Tamil Nadu,2007,6-12 months,307,8,315
+2197,Tamil Nadu,2007,1-2 Years,147,4,151
+2198,Tamil Nadu,2007,2-3 Years,102,3,105
+2199,Tamil Nadu,2007,3-5 Years,89,1,90
+2200,Tamil Nadu,2007,Above 5 Years,31,0,31
+2201,Tamil Nadu,2007,Total,8548,994,9542
+2202,Tamil Nadu,2008,Upto 3 months,4055,239,4294
+2203,Tamil Nadu,2008,3-6 months,2618,449,3067
+2204,Tamil Nadu,2008,6-12 months,1602,161,1763
+2205,Tamil Nadu,2008,1-2 Years,430,9,439
+2206,Tamil Nadu,2008,2-3 Years,142,6,148
+2207,Tamil Nadu,2008,3-5 Years,25,1,26
+2208,Tamil Nadu,2008,Above 5 Years,9,0,9
+2209,Tamil Nadu,2008,Total,8881,865,9746
+2210,Tamil Nadu,2009,Upto 3 months,3940,394,4334
+2211,Tamil Nadu,2009,3-6 months,1877,117,1994
+2212,Tamil Nadu,2009,6-12 months,1172,29,1201
+2213,Tamil Nadu,2009,1-2 Years,306,22,328
+2214,Tamil Nadu,2009,2-3 Years,160,6,166
+2215,Tamil Nadu,2009,3-5 Years,75,3,78
+2216,Tamil Nadu,2009,Above 5 Years,54,4,58
+2217,Tamil Nadu,2009,Total,7584,575,8159
+2218,Tamil Nadu,2010,Upto 3 months,3349,396,3745
+2219,Tamil Nadu,2010,3-6 months,1817,98,1915
+2220,Tamil Nadu,2010,6-12 months,1481,35,1516
+2221,Tamil Nadu,2010,1-2 Years,295,2,297
+2222,Tamil Nadu,2010,2-3 Years,94,4,98
+2223,Tamil Nadu,2010,3-5 Years,60,8,68
+2224,Tamil Nadu,2010,Above 5 Years,58,0,58
+2225,Tamil Nadu,2010,Total,7154,543,7697
+2226,Tamil Nadu,2011,Upto 3 months,2829,428,3257
+2227,Tamil Nadu,2011,3-6 months,1794,87,1881
+2228,Tamil Nadu,2011,6-12 months,1454,36,1490
+2229,Tamil Nadu,2011,1-2 Years,545,13,558
+2230,Tamil Nadu,2011,2-3 Years,262,8,270
+2231,Tamil Nadu,2011,3-5 Years,141,2,143
+2232,Tamil Nadu,2011,Above 5 Years,83,0,83
+2233,Tamil Nadu,2011,Total,7108,574,7682
+2234,Tamil Nadu,2012,Upto 3 months,3102,320,3422
+2235,Tamil Nadu,2012,3-6 months,2363,167,2530
+2236,Tamil Nadu,2012,6-12 months,1074,54,1128
+2237,Tamil Nadu,2012,1-2 Years,419,13,432
+2238,Tamil Nadu,2012,2-3 Years,215,0,215
+2239,Tamil Nadu,2012,3-5 Years,127,1,128
+2240,Tamil Nadu,2012,Above 5 Years,136,3,139
+2241,Tamil Nadu,2012,Total,7436,558,7994
+2242,Tripura,2001,Upto 3 months,323,11,334
+2243,Tripura,2001,3-6 months,152,0,152
+2244,Tripura,2001,6-12 months,126,0,126
+2245,Tripura,2001,1-2 Years,41,1,42
+2246,Tripura,2001,2-3 Years,19,0,19
+2247,Tripura,2001,3-5 Years,0,0,0
+2248,Tripura,2001,Above 5 Years,3,0,3
+2249,Tripura,2001,Total,664,12,676
+2250,Tripura,2002,Upto 3 months,260,4,264
+2251,Tripura,2002,3-6 months,115,2,117
+2252,Tripura,2002,6-12 months,129,2,131
+2253,Tripura,2002,1-2 Years,29,0,29
+2254,Tripura,2002,2-3 Years,9,0,9
+2255,Tripura,2002,3-5 Years,1,0,1
+2256,Tripura,2002,Above 5 Years,0,0,0
+2257,Tripura,2002,Total,543,8,551
+2258,Tripura,2003,Upto 3 months,405,6,411
+2259,Tripura,2003,3-6 months,221,3,224
+2260,Tripura,2003,6-12 months,195,2,197
+2261,Tripura,2003,1-2 Years,50,0,50
+2262,Tripura,2003,2-3 Years,11,0,11
+2263,Tripura,2003,3-5 Years,3,0,3
+2264,Tripura,2003,Above 5 Years,2,0,2
+2265,Tripura,2003,Total,887,11,898
+2266,Tripura,2004,Upto 3 months,353,4,357
+2267,Tripura,2004,3-6 months,124,3,127
+2268,Tripura,2004,6-12 months,100,2,102
+2269,Tripura,2004,1-2 Years,76,1,77
+2270,Tripura,2004,2-3 Years,39,0,39
+2271,Tripura,2004,3-5 Years,6,0,6
+2272,Tripura,2004,Above 5 Years,0,0,0
+2273,Tripura,2004,Total,698,10,708
+2274,Tripura,2005,Upto 3 months,329,15,344
+2275,Tripura,2005,3-6 months,143,5,148
+2276,Tripura,2005,6-12 months,86,1,87
+2277,Tripura,2005,1-2 Years,39,0,39
+2278,Tripura,2005,2-3 Years,32,0,32
+2279,Tripura,2005,3-5 Years,5,0,5
+2280,Tripura,2005,Above 5 Years,1,0,1
+2281,Tripura,2005,Total,635,21,656
+2282,Tripura,2006,Upto 3 months,273,9,282
+2283,Tripura,2006,3-6 months,86,4,90
+2284,Tripura,2006,6-12 months,83,0,83
+2285,Tripura,2006,1-2 Years,62,2,64
+2286,Tripura,2006,2-3 Years,33,0,33
+2287,Tripura,2006,3-5 Years,24,0,24
+2288,Tripura,2006,Above 5 Years,5,0,5
+2289,Tripura,2006,Total,566,15,581
+2290,Tripura,2007,Upto 3 months,309,12,321
+2291,Tripura,2007,3-6 months,72,2,74
+2292,Tripura,2007,6-12 months,56,0,56
+2293,Tripura,2007,1-2 Years,38,0,38
+2294,Tripura,2007,2-3 Years,12,0,12
+2295,Tripura,2007,3-5 Years,1,0,1
+2296,Tripura,2007,Above 5 Years,1,0,1
+2297,Tripura,2007,Total,489,14,503
+2298,Tripura,2008,Upto 3 months,252,5,257
+2299,Tripura,2008,3-6 months,74,3,77
+2300,Tripura,2008,6-12 months,60,0,60
+2301,Tripura,2008,1-2 Years,32,0,32
+2302,Tripura,2008,2-3 Years,17,0,17
+2303,Tripura,2008,3-5 Years,5,0,5
+2304,Tripura,2008,Above 5 Years,3,0,3
+2305,Tripura,2008,Total,443,8,451
+2306,Tripura,2009,Upto 3 months,248,14,262
+2307,Tripura,2009,3-6 months,35,2,37
+2308,Tripura,2009,6-12 months,10,0,10
+2309,Tripura,2009,1-2 Years,5,0,5
+2310,Tripura,2009,2-3 Years,16,0,16
+2311,Tripura,2009,3-5 Years,3,0,3
+2312,Tripura,2009,Above 5 Years,2,0,2
+2313,Tripura,2009,Total,319,16,335
+2314,Tripura,2010,Upto 3 months,200,1,201
+2315,Tripura,2010,3-6 months,77,6,83
+2316,Tripura,2010,6-12 months,34,3,37
+2317,Tripura,2010,1-2 Years,17,0,17
+2318,Tripura,2010,2-3 Years,8,0,8
+2319,Tripura,2010,3-5 Years,1,0,1
+2320,Tripura,2010,Above 5 Years,1,0,1
+2321,Tripura,2010,Total,338,10,348
+2322,Tripura,2011,Upto 3 months,223,14,237
+2323,Tripura,2011,3-6 months,55,4,59
+2324,Tripura,2011,6-12 months,17,0,17
+2325,Tripura,2011,1-2 Years,8,2,10
+2326,Tripura,2011,2-3 Years,1,0,1
+2327,Tripura,2011,3-5 Years,5,0,5
+2328,Tripura,2011,Above 5 Years,1,0,1
+2329,Tripura,2011,Total,310,20,330
+2330,Tripura,2012,Upto 3 months,245,13,258
+2331,Tripura,2012,3-6 months,43,0,43
+2332,Tripura,2012,6-12 months,27,0,27
+2333,Tripura,2012,1-2 Years,16,1,17
+2334,Tripura,2012,2-3 Years,3,0,3
+2335,Tripura,2012,3-5 Years,3,0,3
+2336,Tripura,2012,Above 5 Years,1,0,1
+2337,Tripura,2012,Total,338,14,352
+2338,Uttar Pradesh,2001,Upto 3 months,17006,422,17428
+2339,Uttar Pradesh,2001,3-6 months,10539,313,10852
+2340,Uttar Pradesh,2001,6-12 months,9505,260,9765
+2341,Uttar Pradesh,2001,1-2 Years,4688,104,4792
+2342,Uttar Pradesh,2001,2-3 Years,2935,63,2998
+2343,Uttar Pradesh,2001,3-5 Years,866,9,875
+2344,Uttar Pradesh,2001,Above 5 Years,159,6,165
+2345,Uttar Pradesh,2001,Total,45698,1177,46875
+2346,Uttar Pradesh,2002,Upto 3 months,17507,499,18006
+2347,Uttar Pradesh,2002,3-6 months,9480,269,9749
+2348,Uttar Pradesh,2002,6-12 months,8730,195,8925
+2349,Uttar Pradesh,2002,1-2 Years,4428,77,4505
+2350,Uttar Pradesh,2002,2-3 Years,2309,47,2356
+2351,Uttar Pradesh,2002,3-5 Years,1257,12,1269
+2352,Uttar Pradesh,2002,Above 5 Years,140,1,141
+2353,Uttar Pradesh,2002,Total,43851,1100,44951
+2354,Uttar Pradesh,2003,Upto 3 months,17873,306,18179
+2355,Uttar Pradesh,2003,3-6 months,8302,193,8495
+2356,Uttar Pradesh,2003,6-12 months,6473,162,6635
+2357,Uttar Pradesh,2003,1-2 Years,4407,230,4637
+2358,Uttar Pradesh,2003,2-3 Years,2494,23,2517
+2359,Uttar Pradesh,2003,3-5 Years,1041,8,1049
+2360,Uttar Pradesh,2003,Above 5 Years,194,4,198
+2361,Uttar Pradesh,2003,Total,40784,926,41710
+2362,Uttar Pradesh,2004,Upto 3 months,16590,419,17009
+2363,Uttar Pradesh,2004,3-6 months,7896,202,8098
+2364,Uttar Pradesh,2004,6-12 months,7202,139,7341
+2365,Uttar Pradesh,2004,1-2 Years,4440,89,4529
+2366,Uttar Pradesh,2004,2-3 Years,2567,21,2588
+2367,Uttar Pradesh,2004,3-5 Years,1437,10,1447
+2368,Uttar Pradesh,2004,Above 5 Years,211,1,212
+2369,Uttar Pradesh,2004,Total,40343,881,41224
+2370,Uttar Pradesh,2005,Upto 3 months,16632,430,17062
+2371,Uttar Pradesh,2005,3-6 months,8497,271,8768
+2372,Uttar Pradesh,2005,6-12 months,7975,223,8198
+2373,Uttar Pradesh,2005,1-2 Years,4807,89,4896
+2374,Uttar Pradesh,2005,2-3 Years,2690,29,2719
+2375,Uttar Pradesh,2005,3-5 Years,1174,6,1180
+2376,Uttar Pradesh,2005,Above 5 Years,254,1,255
+2377,Uttar Pradesh,2005,Total,42029,1049,43078
+2378,Uttar Pradesh,2006,Upto 3 months,19480,642,20122
+2379,Uttar Pradesh,2006,3-6 months,10349,437,10786
+2380,Uttar Pradesh,2006,6-12 months,8647,239,8886
+2381,Uttar Pradesh,2006,1-2 Years,5465,109,5574
+2382,Uttar Pradesh,2006,2-3 Years,3074,27,3101
+2383,Uttar Pradesh,2006,3-5 Years,1360,13,1373
+2384,Uttar Pradesh,2006,Above 5 Years,319,2,321
+2385,Uttar Pradesh,2006,Total,48694,1469,50163
+2386,Uttar Pradesh,2007,Upto 3 months,18836,637,19473
+2387,Uttar Pradesh,2007,3-6 months,11309,454,11763
+2388,Uttar Pradesh,2007,6-12 months,8866,317,9183
+2389,Uttar Pradesh,2007,1-2 Years,6812,200,7012
+2390,Uttar Pradesh,2007,2-3 Years,4118,66,4184
+2391,Uttar Pradesh,2007,3-5 Years,2041,19,2060
+2392,Uttar Pradesh,2007,Above 5 Years,314,3,317
+2393,Uttar Pradesh,2007,Total,52296,1696,53992
+2394,Uttar Pradesh,2008,Upto 3 months,19655,850,20505
+2395,Uttar Pradesh,2008,3-6 months,11027,488,11515
+2396,Uttar Pradesh,2008,6-12 months,10357,314,10671
+2397,Uttar Pradesh,2008,1-2 Years,7723,256,7979
+2398,Uttar Pradesh,2008,2-3 Years,5087,76,5163
+2399,Uttar Pradesh,2008,3-5 Years,2313,25,2338
+2400,Uttar Pradesh,2008,Above 5 Years,316,11,327
+2401,Uttar Pradesh,2008,Total,56478,2020,58498
+2402,Uttar Pradesh,2009,Upto 3 months,19099,720,19819
+2403,Uttar Pradesh,2009,3-6 months,12165,511,12676
+2404,Uttar Pradesh,2009,6-12 months,10661,409,11070
+2405,Uttar Pradesh,2009,1-2 Years,8114,266,8380
+2406,Uttar Pradesh,2009,2-3 Years,4585,103,4688
+2407,Uttar Pradesh,2009,3-5 Years,1999,27,2026
+2408,Uttar Pradesh,2009,Above 5 Years,394,5,399
+2409,Uttar Pradesh,2009,Total,57017,2041,59058
+2410,Uttar Pradesh,2010,Upto 3 months,17233,525,17758
+2411,Uttar Pradesh,2010,3-6 months,11281,498,11779
+2412,Uttar Pradesh,2010,6-12 months,10145,396,10541
+2413,Uttar Pradesh,2010,1-2 Years,7668,236,7904
+2414,Uttar Pradesh,2010,2-3 Years,4382,113,4495
+2415,Uttar Pradesh,2010,3-5 Years,2943,57,3000
+2416,Uttar Pradesh,2010,Above 5 Years,388,7,395
+2417,Uttar Pradesh,2010,Total,54040,1832,55872
+2418,Uttar Pradesh,2011,Upto 3 months,16834,615,17449
+2419,Uttar Pradesh,2011,3-6 months,10882,559,11441
+2420,Uttar Pradesh,2011,6-12 months,9746,486,10232
+2421,Uttar Pradesh,2011,1-2 Years,7269,325,7594
+2422,Uttar Pradesh,2011,2-3 Years,3983,144,4127
+2423,Uttar Pradesh,2011,3-5 Years,2793,86,2879
+2424,Uttar Pradesh,2011,Above 5 Years,321,19,340
+2425,Uttar Pradesh,2011,Total,51828,2234,54062
+2426,Uttar Pradesh,2012,Upto 3 months,16783,642,17425
+2427,Uttar Pradesh,2012,3-6 months,10826,574,11400
+2428,Uttar Pradesh,2012,6-12 months,9702,501,10203
+2429,Uttar Pradesh,2012,1-2 Years,7221,345,7566
+2430,Uttar Pradesh,2012,2-3 Years,3925,144,4069
+2431,Uttar Pradesh,2012,3-5 Years,2743,91,2834
+2432,Uttar Pradesh,2012,Above 5 Years,302,22,324
+2433,Uttar Pradesh,2012,Total,51502,2319,53821
+2434,Uttarakhand,2001,Upto 3 months,600,20,620
+2435,Uttarakhand,2001,3-6 months,296,12,308
+2436,Uttarakhand,2001,6-12 months,318,22,340
+2437,Uttarakhand,2001,1-2 Years,297,9,306
+2438,Uttarakhand,2001,2-3 Years,169,0,169
+2439,Uttarakhand,2001,3-5 Years,38,0,38
+2440,Uttarakhand,2001,Above 5 Years,0,0,0
+2441,Uttarakhand,2001,Total,1718,63,1781
+2442,Uttarakhand,2002,Upto 3 months,945,30,975
+2443,Uttarakhand,2002,3-6 months,402,10,412
+2444,Uttarakhand,2002,6-12 months,200,6,206
+2445,Uttarakhand,2002,1-2 Years,90,4,94
+2446,Uttarakhand,2002,2-3 Years,10,0,10
+2447,Uttarakhand,2002,3-5 Years,5,0,5
+2448,Uttarakhand,2002,Above 5 Years,0,0,0
+2449,Uttarakhand,2002,Total,1652,50,1702
+2450,Uttarakhand,2003,Upto 3 months,749,22,771
+2451,Uttarakhand,2003,3-6 months,433,12,445
+2452,Uttarakhand,2003,6-12 months,257,8,265
+2453,Uttarakhand,2003,1-2 Years,127,3,130
+2454,Uttarakhand,2003,2-3 Years,66,2,68
+2455,Uttarakhand,2003,3-5 Years,38,0,38
+2456,Uttarakhand,2003,Above 5 Years,2,0,2
+2457,Uttarakhand,2003,Total,1672,47,1719
+2458,Uttarakhand,2004,Upto 3 months,164,18,182
+2459,Uttarakhand,2004,3-6 months,212,18,230
+2460,Uttarakhand,2004,6-12 months,316,12,328
+2461,Uttarakhand,2004,1-2 Years,378,17,395
+2462,Uttarakhand,2004,2-3 Years,327,12,339
+2463,Uttarakhand,2004,3-5 Years,114,6,120
+2464,Uttarakhand,2004,Above 5 Years,16,0,16
+2465,Uttarakhand,2004,Total,1527,83,1610
+2466,Uttarakhand,2005,Upto 3 months,503,13,516
+2467,Uttarakhand,2005,3-6 months,445,8,453
+2468,Uttarakhand,2005,6-12 months,315,5,320
+2469,Uttarakhand,2005,1-2 Years,141,7,148
+2470,Uttarakhand,2005,2-3 Years,109,1,110
+2471,Uttarakhand,2005,3-5 Years,26,0,26
+2472,Uttarakhand,2005,Above 5 Years,5,0,5
+2473,Uttarakhand,2005,Total,1544,34,1578
+2474,Uttarakhand,2006,Upto 3 months,636,20,656
+2475,Uttarakhand,2006,3-6 months,396,15,411
+2476,Uttarakhand,2006,6-12 months,275,10,285
+2477,Uttarakhand,2006,1-2 Years,195,3,198
+2478,Uttarakhand,2006,2-3 Years,120,3,123
+2479,Uttarakhand,2006,3-5 Years,63,1,64
+2480,Uttarakhand,2006,Above 5 Years,0,0,0
+2481,Uttarakhand,2006,Total,1685,52,1737
+2482,Uttarakhand,2007,Upto 3 months,484,3,487
+2483,Uttarakhand,2007,3-6 months,416,28,444
+2484,Uttarakhand,2007,6-12 months,349,14,363
+2485,Uttarakhand,2007,1-2 Years,206,8,214
+2486,Uttarakhand,2007,2-3 Years,111,1,112
+2487,Uttarakhand,2007,3-5 Years,38,0,38
+2488,Uttarakhand,2007,Above 5 Years,3,0,3
+2489,Uttarakhand,2007,Total,1607,54,1661
+2490,Uttarakhand,2008,Upto 3 months,423,31,454
+2491,Uttarakhand,2008,3-6 months,560,21,581
+2492,Uttarakhand,2008,6-12 months,450,17,467
+2493,Uttarakhand,2008,1-2 Years,380,12,392
+2494,Uttarakhand,2008,2-3 Years,65,4,69
+2495,Uttarakhand,2008,3-5 Years,40,0,40
+2496,Uttarakhand,2008,Above 5 Years,9,0,9
+2497,Uttarakhand,2008,Total,1927,85,2012
+2498,Uttarakhand,2009,Upto 3 months,791,32,823
+2499,Uttarakhand,2009,3-6 months,674,20,694
+2500,Uttarakhand,2009,6-12 months,293,15,308
+2501,Uttarakhand,2009,1-2 Years,221,4,225
+2502,Uttarakhand,2009,2-3 Years,105,4,109
+2503,Uttarakhand,2009,3-5 Years,58,1,59
+2504,Uttarakhand,2009,Above 5 Years,6,0,6
+2505,Uttarakhand,2009,Total,2148,76,2224
+2506,Uttarakhand,2010,Upto 3 months,770,27,797
+2507,Uttarakhand,2010,3-6 months,469,12,481
+2508,Uttarakhand,2010,6-12 months,375,12,387
+2509,Uttarakhand,2010,1-2 Years,199,5,204
+2510,Uttarakhand,2010,2-3 Years,156,1,157
+2511,Uttarakhand,2010,3-5 Years,56,1,57
+2512,Uttarakhand,2010,Above 5 Years,4,0,4
+2513,Uttarakhand,2010,Total,2029,58,2087
+2514,Uttarakhand,2011,Upto 3 months,389,20,409
+2515,Uttarakhand,2011,3-6 months,312,18,330
+2516,Uttarakhand,2011,6-12 months,479,18,497
+2517,Uttarakhand,2011,1-2 Years,210,8,218
+2518,Uttarakhand,2011,2-3 Years,175,2,177
+2519,Uttarakhand,2011,3-5 Years,70,2,72
+2520,Uttarakhand,2011,Above 5 Years,5,0,5
+2521,Uttarakhand,2011,Total,1640,68,1708
+2522,Uttarakhand,2012,Upto 3 months,430,30,460
+2523,Uttarakhand,2012,3-6 months,324,20,344
+2524,Uttarakhand,2012,6-12 months,531,19,550
+2525,Uttarakhand,2012,1-2 Years,223,9,232
+2526,Uttarakhand,2012,2-3 Years,197,3,200
+2527,Uttarakhand,2012,3-5 Years,74,0,74
+2528,Uttarakhand,2012,Above 5 Years,2,0,2
+2529,Uttarakhand,2012,Total,1781,81,1862
+2530,West Bengal,2001,Upto 3 months,6182,317,6499
+2531,West Bengal,2001,3-6 months,1459,55,1514
+2532,West Bengal,2001,6-12 months,840,32,872
+2533,West Bengal,2001,1-2 Years,513,10,523
+2534,West Bengal,2001,2-3 Years,158,7,165
+2535,West Bengal,2001,3-5 Years,103,7,110
+2536,West Bengal,2001,Above 5 Years,38,1,39
+2537,West Bengal,2001,Total,9293,429,9722
+2538,West Bengal,2002,Upto 3 months,10243,543,10786
+2539,West Bengal,2002,3-6 months,3031,82,3113
+2540,West Bengal,2002,6-12 months,1177,59,1236
+2541,West Bengal,2002,1-2 Years,534,26,560
+2542,West Bengal,2002,2-3 Years,180,5,185
+2543,West Bengal,2002,3-5 Years,118,6,124
+2544,West Bengal,2002,Above 5 Years,31,1,32
+2545,West Bengal,2002,Total,15314,722,16036
+2546,West Bengal,2003,Upto 3 months,7130,454,7584
+2547,West Bengal,2003,3-6 months,2583,92,2675
+2548,West Bengal,2003,6-12 months,1508,35,1543
+2549,West Bengal,2003,1-2 Years,632,27,659
+2550,West Bengal,2003,2-3 Years,226,12,238
+2551,West Bengal,2003,3-5 Years,53,3,56
+2552,West Bengal,2003,Above 5 Years,2,0,2
+2553,West Bengal,2003,Total,12134,623,12757
+2554,West Bengal,2004,Upto 3 months,7112,469,7581
+2555,West Bengal,2004,3-6 months,2012,101,2113
+2556,West Bengal,2004,6-12 months,1299,79,1378
+2557,West Bengal,2004,1-2 Years,834,22,856
+2558,West Bengal,2004,2-3 Years,468,12,480
+2559,West Bengal,2004,3-5 Years,278,0,278
+2560,West Bengal,2004,Above 5 Years,99,5,104
+2561,West Bengal,2004,Total,12102,688,12790
+2562,West Bengal,2005,Upto 3 months,7386,661,8047
+2563,West Bengal,2005,3-6 months,1984,190,2174
+2564,West Bengal,2005,6-12 months,1808,96,1904
+2565,West Bengal,2005,1-2 Years,961,52,1013
+2566,West Bengal,2005,2-3 Years,464,9,473
+2567,West Bengal,2005,3-5 Years,297,1,298
+2568,West Bengal,2005,Above 5 Years,105,3,108
+2569,West Bengal,2005,Total,13005,1012,14017
+2570,West Bengal,2006,Upto 3 months,7098,467,7565
+2571,West Bengal,2006,3-6 months,2115,180,2295
+2572,West Bengal,2006,6-12 months,2003,76,2079
+2573,West Bengal,2006,1-2 Years,964,56,1020
+2574,West Bengal,2006,2-3 Years,563,14,577
+2575,West Bengal,2006,3-5 Years,462,7,469
+2576,West Bengal,2006,Above 5 Years,84,3,87
+2577,West Bengal,2006,Total,13289,803,14092
+2578,West Bengal,2007,Upto 3 months,6467,483,6950
+2579,West Bengal,2007,3-6 months,2316,152,2468
+2580,West Bengal,2007,6-12 months,2268,93,2361
+2581,West Bengal,2007,1-2 Years,900,121,1021
+2582,West Bengal,2007,2-3 Years,601,128,729
+2583,West Bengal,2007,3-5 Years,332,22,354
+2584,West Bengal,2007,Above 5 Years,75,3,78
+2585,West Bengal,2007,Total,12959,1002,13961
+2586,West Bengal,2008,Upto 3 months,6222,538,6760
+2587,West Bengal,2008,3-6 months,2719,226,2945
+2588,West Bengal,2008,6-12 months,2132,138,2270
+2589,West Bengal,2008,1-2 Years,1018,60,1078
+2590,West Bengal,2008,2-3 Years,461,56,517
+2591,West Bengal,2008,3-5 Years,415,28,443
+2592,West Bengal,2008,Above 5 Years,92,6,98
+2593,West Bengal,2008,Total,13059,1052,14111
+2594,West Bengal,2009,Upto 3 months,5128,371,5499
+2595,West Bengal,2009,3-6 months,1865,87,1952
+2596,West Bengal,2009,6-12 months,1739,83,1822
+2597,West Bengal,2009,1-2 Years,962,70,1032
+2598,West Bengal,2009,2-3 Years,625,49,674
+2599,West Bengal,2009,3-5 Years,361,22,383
+2600,West Bengal,2009,Above 5 Years,94,9,103
+2601,West Bengal,2009,Total,10774,691,11465
+2602,West Bengal,2010,Upto 3 months,5600,394,5994
+2603,West Bengal,2010,3-6 months,2291,120,2411
+2604,West Bengal,2010,6-12 months,1768,92,1860
+2605,West Bengal,2010,1-2 Years,878,62,940
+2606,West Bengal,2010,2-3 Years,570,39,609
+2607,West Bengal,2010,3-5 Years,284,19,303
+2608,West Bengal,2010,Above 5 Years,234,10,244
+2609,West Bengal,2010,Total,11625,736,12361
+2610,West Bengal,2011,Upto 3 months,6990,486,7476
+2611,West Bengal,2011,3-6 months,1919,125,2044
+2612,West Bengal,2011,6-12 months,1544,56,1600
+2613,West Bengal,2011,1-2 Years,1050,52,1102
+2614,West Bengal,2011,2-3 Years,618,26,644
+2615,West Bengal,2011,3-5 Years,481,16,497
+2616,West Bengal,2011,Above 5 Years,202,2,204
+2617,West Bengal,2011,Total,12804,763,13567
+2618,West Bengal,2012,Upto 3 months,6342,488,6830
+2619,West Bengal,2012,3-6 months,2301,120,2421
+2620,West Bengal,2012,6-12 months,1781,118,1899
+2621,West Bengal,2012,1-2 Years,1282,72,1354
+2622,West Bengal,2012,2-3 Years,657,28,685
+2623,West Bengal,2012,3-5 Years,556,35,591
+2624,West Bengal,2012,Above 5 Years,187,10,197
+2625,West Bengal,2012,Total,13106,871,13977
+2626,Andaman & Nicobar Islands,2001,Upto 3 months,58,1,59
+2627,Andaman & Nicobar Islands,2001,3-6 months,92,0,92
+2628,Andaman & Nicobar Islands,2001,6-12 months,11,0,11
+2629,Andaman & Nicobar Islands,2001,1-2 Years,3,0,3
+2630,Andaman & Nicobar Islands,2001,2-3 Years,1,0,1
+2631,Andaman & Nicobar Islands,2001,3-5 Years,0,0,0
+2632,Andaman & Nicobar Islands,2001,Above 5 Years,0,0,0
+2633,Andaman & Nicobar Islands,2001,Total,165,1,166
+2634,Andaman & Nicobar Islands,2002,Upto 3 months,111,4,115
+2635,Andaman & Nicobar Islands,2002,3-6 months,59,0,59
+2636,Andaman & Nicobar Islands,2002,6-12 months,11,0,11
+2637,Andaman & Nicobar Islands,2002,1-2 Years,6,0,6
+2638,Andaman & Nicobar Islands,2002,2-3 Years,2,0,2
+2639,Andaman & Nicobar Islands,2002,3-5 Years,1,0,1
+2640,Andaman & Nicobar Islands,2002,Above 5 Years,0,0,0
+2641,Andaman & Nicobar Islands,2002,Total,190,4,194
+2642,Andaman & Nicobar Islands,2003,Upto 3 months,165,1,166
+2643,Andaman & Nicobar Islands,2003,3-6 months,18,0,18
+2644,Andaman & Nicobar Islands,2003,6-12 months,12,0,12
+2645,Andaman & Nicobar Islands,2003,1-2 Years,7,0,7
+2646,Andaman & Nicobar Islands,2003,2-3 Years,1,0,1
+2647,Andaman & Nicobar Islands,2003,3-5 Years,0,0,0
+2648,Andaman & Nicobar Islands,2003,Above 5 Years,0,0,0
+2649,Andaman & Nicobar Islands,2003,Total,203,1,204
+2650,Andaman & Nicobar Islands,2004,Upto 3 months,119,0,119
+2651,Andaman & Nicobar Islands,2004,3-6 months,13,0,13
+2652,Andaman & Nicobar Islands,2004,6-12 months,13,1,14
+2653,Andaman & Nicobar Islands,2004,1-2 Years,16,0,16
+2654,Andaman & Nicobar Islands,2004,2-3 Years,3,0,3
+2655,Andaman & Nicobar Islands,2004,3-5 Years,0,0,0
+2656,Andaman & Nicobar Islands,2004,Above 5 Years,0,0,0
+2657,Andaman & Nicobar Islands,2004,Total,164,1,165
+2658,Andaman & Nicobar Islands,2005,Upto 3 months,117,2,119
+2659,Andaman & Nicobar Islands,2005,3-6 months,7,0,7
+2660,Andaman & Nicobar Islands,2005,6-12 months,7,0,7
+2661,Andaman & Nicobar Islands,2005,1-2 Years,11,1,12
+2662,Andaman & Nicobar Islands,2005,2-3 Years,10,0,10
+2663,Andaman & Nicobar Islands,2005,3-5 Years,3,0,3
+2664,Andaman & Nicobar Islands,2005,Above 5 Years,0,0,0
+2665,Andaman & Nicobar Islands,2005,Total,155,3,158
+2666,Andaman & Nicobar Islands,2006,Upto 3 months,142,0,142
+2667,Andaman & Nicobar Islands,2006,3-6 months,79,0,79
+2668,Andaman & Nicobar Islands,2006,6-12 months,18,0,18
+2669,Andaman & Nicobar Islands,2006,1-2 Years,7,1,8
+2670,Andaman & Nicobar Islands,2006,2-3 Years,10,0,10
+2671,Andaman & Nicobar Islands,2006,3-5 Years,8,0,8
+2672,Andaman & Nicobar Islands,2006,Above 5 Years,0,0,0
+2673,Andaman & Nicobar Islands,2006,Total,264,1,265
+2674,Andaman & Nicobar Islands,2007,Upto 3 months,151,1,152
+2675,Andaman & Nicobar Islands,2007,3-6 months,119,0,119
+2676,Andaman & Nicobar Islands,2007,6-12 months,28,0,28
+2677,Andaman & Nicobar Islands,2007,1-2 Years,10,0,10
+2678,Andaman & Nicobar Islands,2007,2-3 Years,8,0,8
+2679,Andaman & Nicobar Islands,2007,3-5 Years,6,0,6
+2680,Andaman & Nicobar Islands,2007,Above 5 Years,2,0,2
+2681,Andaman & Nicobar Islands,2007,Total,324,1,325
+2682,Andaman & Nicobar Islands,2008,Upto 3 months,83,0,83
+2683,Andaman & Nicobar Islands,2008,3-6 months,29,0,29
+2684,Andaman & Nicobar Islands,2008,6-12 months,21,0,21
+2685,Andaman & Nicobar Islands,2008,1-2 Years,8,0,8
+2686,Andaman & Nicobar Islands,2008,2-3 Years,6,0,6
+2687,Andaman & Nicobar Islands,2008,3-5 Years,5,0,5
+2688,Andaman & Nicobar Islands,2008,Above 5 Years,1,0,1
+2689,Andaman & Nicobar Islands,2008,Total,153,0,153
+2690,Andaman & Nicobar Islands,2009,Upto 3 months,123,0,123
+2691,Andaman & Nicobar Islands,2009,3-6 months,25,0,25
+2692,Andaman & Nicobar Islands,2009,6-12 months,19,0,19
+2693,Andaman & Nicobar Islands,2009,1-2 Years,5,0,5
+2694,Andaman & Nicobar Islands,2009,2-3 Years,4,0,4
+2695,Andaman & Nicobar Islands,2009,3-5 Years,3,0,3
+2696,Andaman & Nicobar Islands,2009,Above 5 Years,1,0,1
+2697,Andaman & Nicobar Islands,2009,Total,180,0,180
+2698,Andaman & Nicobar Islands,2010,Upto 3 months,53,0,53
+2699,Andaman & Nicobar Islands,2010,3-6 months,401,2,403
+2700,Andaman & Nicobar Islands,2010,6-12 months,66,0,66
+2701,Andaman & Nicobar Islands,2010,1-2 Years,28,0,28
+2702,Andaman & Nicobar Islands,2010,2-3 Years,5,0,5
+2703,Andaman & Nicobar Islands,2010,3-5 Years,4,0,4
+2704,Andaman & Nicobar Islands,2010,Above 5 Years,0,0,0
+2705,Andaman & Nicobar Islands,2010,Total,557,2,559
+2706,Andaman & Nicobar Islands,2011,Upto 3 months,75,0,75
+2707,Andaman & Nicobar Islands,2011,3-6 months,210,0,210
+2708,Andaman & Nicobar Islands,2011,6-12 months,155,0,155
+2709,Andaman & Nicobar Islands,2011,1-2 Years,235,2,237
+2710,Andaman & Nicobar Islands,2011,2-3 Years,15,5,20
+2711,Andaman & Nicobar Islands,2011,3-5 Years,4,0,4
+2712,Andaman & Nicobar Islands,2011,Above 5 Years,3,0,3
+2713,Andaman & Nicobar Islands,2011,Total,697,7,704
+2714,Andaman & Nicobar Islands,2012,Upto 3 months,3,2,5
+2715,Andaman & Nicobar Islands,2012,3-6 months,33,0,33
+2716,Andaman & Nicobar Islands,2012,6-12 months,4,0,4
+2717,Andaman & Nicobar Islands,2012,1-2 Years,215,5,220
+2718,Andaman & Nicobar Islands,2012,2-3 Years,95,2,97
+2719,Andaman & Nicobar Islands,2012,3-5 Years,7,0,7
+2720,Andaman & Nicobar Islands,2012,Above 5 Years,0,0,0
+2721,Andaman & Nicobar Islands,2012,Total,357,9,366
+2722,Chandigarh,2001,Upto 3 months,135,6,141
+2723,Chandigarh,2001,3-6 months,70,3,73
+2724,Chandigarh,2001,6-12 months,40,4,44
+2725,Chandigarh,2001,1-2 Years,35,5,40
+2726,Chandigarh,2001,2-3 Years,15,0,15
+2727,Chandigarh,2001,3-5 Years,3,0,3
+2728,Chandigarh,2001,Above 5 Years,8,0,8
+2729,Chandigarh,2001,Total,306,18,324
+2730,Chandigarh,2002,Upto 3 months,112,7,119
+2731,Chandigarh,2002,3-6 months,50,2,52
+2732,Chandigarh,2002,6-12 months,42,2,44
+2733,Chandigarh,2002,1-2 Years,29,1,30
+2734,Chandigarh,2002,2-3 Years,69,2,71
+2735,Chandigarh,2002,3-5 Years,16,2,18
+2736,Chandigarh,2002,Above 5 Years,11,0,11
+2737,Chandigarh,2002,Total,329,16,345
+2738,Chandigarh,2003,Upto 3 months,110,6,116
+2739,Chandigarh,2003,3-6 months,80,2,82
+2740,Chandigarh,2003,6-12 months,60,4,64
+2741,Chandigarh,2003,1-2 Years,46,3,49
+2742,Chandigarh,2003,2-3 Years,32,2,34
+2743,Chandigarh,2003,3-5 Years,26,1,27
+2744,Chandigarh,2003,Above 5 Years,9,0,9
+2745,Chandigarh,2003,Total,363,18,381
+2746,Chandigarh,2004,Upto 3 months,176,8,184
+2747,Chandigarh,2004,3-6 months,52,4,56
+2748,Chandigarh,2004,6-12 months,65,5,70
+2749,Chandigarh,2004,1-2 Years,49,2,51
+2750,Chandigarh,2004,2-3 Years,35,3,38
+2751,Chandigarh,2004,3-5 Years,22,2,24
+2752,Chandigarh,2004,Above 5 Years,6,0,6
+2753,Chandigarh,2004,Total,405,24,429
+2754,Chandigarh,2005,Upto 3 months,152,8,160
+2755,Chandigarh,2005,3-6 months,85,3,88
+2756,Chandigarh,2005,6-12 months,48,4,52
+2757,Chandigarh,2005,1-2 Years,26,3,29
+2758,Chandigarh,2005,2-3 Years,21,2,23
+2759,Chandigarh,2005,3-5 Years,9,0,9
+2760,Chandigarh,2005,Above 5 Years,10,0,10
+2761,Chandigarh,2005,Total,351,20,371
+2762,Chandigarh,2006,Upto 3 months,164,11,175
+2763,Chandigarh,2006,3-6 months,52,4,56
+2764,Chandigarh,2006,6-12 months,35,1,36
+2765,Chandigarh,2006,1-2 Years,22,2,24
+2766,Chandigarh,2006,2-3 Years,16,1,17
+2767,Chandigarh,2006,3-5 Years,12,0,12
+2768,Chandigarh,2006,Above 5 Years,11,0,11
+2769,Chandigarh,2006,Total,312,19,331
+2770,Chandigarh,2007,Upto 3 months,118,6,124
+2771,Chandigarh,2007,3-6 months,86,2,88
+2772,Chandigarh,2007,6-12 months,56,2,58
+2773,Chandigarh,2007,1-2 Years,42,2,44
+2774,Chandigarh,2007,2-3 Years,26,1,27
+2775,Chandigarh,2007,3-5 Years,11,0,11
+2776,Chandigarh,2007,Above 5 Years,3,0,3
+2777,Chandigarh,2007,Total,342,13,355
+2778,Chandigarh,2008,Upto 3 months,142,5,147
+2779,Chandigarh,2008,3-6 months,82,3,85
+2780,Chandigarh,2008,6-12 months,47,2,49
+2781,Chandigarh,2008,1-2 Years,33,0,33
+2782,Chandigarh,2008,2-3 Years,13,2,15
+2783,Chandigarh,2008,3-5 Years,8,0,8
+2784,Chandigarh,2008,Above 5 Years,1,0,1
+2785,Chandigarh,2008,Total,326,12,338
+2786,Chandigarh,2009,Upto 3 months,158,10,168
+2787,Chandigarh,2009,3-6 months,96,4,100
+2788,Chandigarh,2009,6-12 months,54,3,57
+2789,Chandigarh,2009,1-2 Years,42,1,43
+2790,Chandigarh,2009,2-3 Years,22,2,24
+2791,Chandigarh,2009,3-5 Years,6,0,6
+2792,Chandigarh,2009,Above 5 Years,1,0,1
+2793,Chandigarh,2009,Total,379,20,399
+2794,Chandigarh,2010,Upto 3 months,170,12,182
+2795,Chandigarh,2010,3-6 months,85,3,88
+2796,Chandigarh,2010,6-12 months,66,1,67
+2797,Chandigarh,2010,1-2 Years,51,2,53
+2798,Chandigarh,2010,2-3 Years,18,1,19
+2799,Chandigarh,2010,3-5 Years,7,0,7
+2800,Chandigarh,2010,Above 5 Years,3,0,3
+2801,Chandigarh,2010,Total,400,19,419
+2802,Chandigarh,2011,Upto 3 months,179,9,188
+2803,Chandigarh,2011,3-6 months,68,2,70
+2804,Chandigarh,2011,6-12 months,49,1,50
+2805,Chandigarh,2011,1-2 Years,42,3,45
+2806,Chandigarh,2011,2-3 Years,28,1,29
+2807,Chandigarh,2011,3-5 Years,2,0,2
+2808,Chandigarh,2011,Above 5 Years,0,0,0
+2809,Chandigarh,2011,Total,368,16,384
+2810,Chandigarh,2012,Upto 3 months,207,13,220
+2811,Chandigarh,2012,3-6 months,112,6,118
+2812,Chandigarh,2012,6-12 months,73,3,76
+2813,Chandigarh,2012,1-2 Years,38,3,41
+2814,Chandigarh,2012,2-3 Years,14,1,15
+2815,Chandigarh,2012,3-5 Years,1,0,1
+2816,Chandigarh,2012,Above 5 Years,2,0,2
+2817,Chandigarh,2012,Total,447,26,473
+2818,Dadra & Nagar Haveli,2001,Upto 3 months,131,4,135
+2819,Dadra & Nagar Haveli,2001,3-6 months,20,0,20
+2820,Dadra & Nagar Haveli,2001,6-12 months,2,1,3
+2821,Dadra & Nagar Haveli,2001,1-2 Years,0,0,0
+2822,Dadra & Nagar Haveli,2001,2-3 Years,0,0,0
+2823,Dadra & Nagar Haveli,2001,3-5 Years,0,0,0
+2824,Dadra & Nagar Haveli,2001,Above 5 Years,0,0,0
+2825,Dadra & Nagar Haveli,2001,Total,153,5,158
+2826,Dadra & Nagar Haveli,2002,Upto 3 months,131,1,132
+2827,Dadra & Nagar Haveli,2002,3-6 months,20,0,20
+2828,Dadra & Nagar Haveli,2002,6-12 months,3,0,3
+2829,Dadra & Nagar Haveli,2002,1-2 Years,0,0,0
+2830,Dadra & Nagar Haveli,2002,2-3 Years,0,0,0
+2831,Dadra & Nagar Haveli,2002,3-5 Years,0,0,0
+2832,Dadra & Nagar Haveli,2002,Above 5 Years,0,0,0
+2833,Dadra & Nagar Haveli,2002,Total,154,1,155
+2834,Dadra & Nagar Haveli,2003,Upto 3 months,150,0,150
+2835,Dadra & Nagar Haveli,2003,3-6 months,20,0,20
+2836,Dadra & Nagar Haveli,2003,6-12 months,2,0,2
+2837,Dadra & Nagar Haveli,2003,1-2 Years,0,0,0
+2838,Dadra & Nagar Haveli,2003,2-3 Years,0,0,0
+2839,Dadra & Nagar Haveli,2003,3-5 Years,0,0,0
+2840,Dadra & Nagar Haveli,2003,Above 5 Years,0,0,0
+2841,Dadra & Nagar Haveli,2003,Total,172,0,172
+2842,Dadra & Nagar Haveli,2004,Upto 3 months,8,0,8
+2843,Dadra & Nagar Haveli,2004,3-6 months,3,0,3
+2844,Dadra & Nagar Haveli,2004,6-12 months,12,0,12
+2845,Dadra & Nagar Haveli,2004,1-2 Years,10,0,10
+2846,Dadra & Nagar Haveli,2004,2-3 Years,0,0,0
+2847,Dadra & Nagar Haveli,2004,3-5 Years,0,0,0
+2848,Dadra & Nagar Haveli,2004,Above 5 Years,0,0,0
+2849,Dadra & Nagar Haveli,2004,Total,33,0,33
+2850,Dadra & Nagar Haveli,2005,Upto 3 months,5,0,5
+2851,Dadra & Nagar Haveli,2005,3-6 months,5,0,5
+2852,Dadra & Nagar Haveli,2005,6-12 months,10,0,10
+2853,Dadra & Nagar Haveli,2005,1-2 Years,7,0,7
+2854,Dadra & Nagar Haveli,2005,2-3 Years,1,0,1
+2855,Dadra & Nagar Haveli,2005,3-5 Years,1,0,1
+2856,Dadra & Nagar Haveli,2005,Above 5 Years,0,0,0
+2857,Dadra & Nagar Haveli,2005,Total,29,0,29
+2858,Dadra & Nagar Haveli,2006,Upto 3 months,13,0,13
+2859,Dadra & Nagar Haveli,2006,3-6 months,7,0,7
+2860,Dadra & Nagar Haveli,2006,6-12 months,10,0,10
+2861,Dadra & Nagar Haveli,2006,1-2 Years,2,0,2
+2862,Dadra & Nagar Haveli,2006,2-3 Years,1,0,1
+2863,Dadra & Nagar Haveli,2006,3-5 Years,0,0,0
+2864,Dadra & Nagar Haveli,2006,Above 5 Years,0,0,0
+2865,Dadra & Nagar Haveli,2006,Total,33,0,33
+2866,Dadra & Nagar Haveli,2007,Upto 3 months,13,0,13
+2867,Dadra & Nagar Haveli,2007,3-6 months,2,0,2
+2868,Dadra & Nagar Haveli,2007,6-12 months,2,0,2
+2869,Dadra & Nagar Haveli,2007,1-2 Years,11,0,11
+2870,Dadra & Nagar Haveli,2007,2-3 Years,0,0,0
+2871,Dadra & Nagar Haveli,2007,3-5 Years,0,0,0
+2872,Dadra & Nagar Haveli,2007,Above 5 Years,0,0,0
+2873,Dadra & Nagar Haveli,2007,Total,28,0,28
+2874,Dadra & Nagar Haveli,2008,Upto 3 months,24,0,24
+2875,Dadra & Nagar Haveli,2008,3-6 months,7,0,7
+2876,Dadra & Nagar Haveli,2008,6-12 months,1,3,4
+2877,Dadra & Nagar Haveli,2008,1-2 Years,0,0,0
+2878,Dadra & Nagar Haveli,2008,2-3 Years,0,0,0
+2879,Dadra & Nagar Haveli,2008,3-5 Years,0,0,0
+2880,Dadra & Nagar Haveli,2008,Above 5 Years,0,0,0
+2881,Dadra & Nagar Haveli,2008,Total,32,3,35
+2882,Dadra & Nagar Haveli,2009,Upto 3 months,23,0,23
+2883,Dadra & Nagar Haveli,2009,3-6 months,11,0,11
+2884,Dadra & Nagar Haveli,2009,6-12 months,18,2,20
+2885,Dadra & Nagar Haveli,2009,1-2 Years,0,0,0
+2886,Dadra & Nagar Haveli,2009,2-3 Years,0,0,0
+2887,Dadra & Nagar Haveli,2009,3-5 Years,0,0,0
+2888,Dadra & Nagar Haveli,2009,Above 5 Years,0,0,0
+2889,Dadra & Nagar Haveli,2009,Total,52,2,54
+2890,Dadra & Nagar Haveli,2010,Upto 3 months,4,0,4
+2891,Dadra & Nagar Haveli,2010,3-6 months,23,0,23
+2892,Dadra & Nagar Haveli,2010,6-12 months,11,0,11
+2893,Dadra & Nagar Haveli,2010,1-2 Years,4,0,4
+2894,Dadra & Nagar Haveli,2010,2-3 Years,0,0,0
+2895,Dadra & Nagar Haveli,2010,3-5 Years,0,0,0
+2896,Dadra & Nagar Haveli,2010,Above 5 Years,0,0,0
+2897,Dadra & Nagar Haveli,2010,Total,42,0,42
+2898,Dadra & Nagar Haveli,2011,Upto 3 months,12,1,13
+2899,Dadra & Nagar Haveli,2011,3-6 months,3,1,4
+2900,Dadra & Nagar Haveli,2011,6-12 months,4,0,4
+2901,Dadra & Nagar Haveli,2011,1-2 Years,4,0,4
+2902,Dadra & Nagar Haveli,2011,2-3 Years,0,0,0
+2903,Dadra & Nagar Haveli,2011,3-5 Years,0,0,0
+2904,Dadra & Nagar Haveli,2011,Above 5 Years,0,0,0
+2905,Dadra & Nagar Haveli,2011,Total,23,2,25
+2906,Dadra & Nagar Haveli,2012,Upto 3 months,15,0,15
+2907,Dadra & Nagar Haveli,2012,3-6 months,7,0,7
+2908,Dadra & Nagar Haveli,2012,6-12 months,6,0,6
+2909,Dadra & Nagar Haveli,2012,1-2 Years,7,2,9
+2910,Dadra & Nagar Haveli,2012,2-3 Years,0,0,0
+2911,Dadra & Nagar Haveli,2012,3-5 Years,0,0,0
+2912,Dadra & Nagar Haveli,2012,Above 5 Years,0,0,0
+2913,Dadra & Nagar Haveli,2012,Total,35,2,37
+2914,Daman & Diu,2001,Upto 3 months,5,0,5
+2915,Daman & Diu,2001,3-6 months,12,0,12
+2916,Daman & Diu,2001,6-12 months,0,0,0
+2917,Daman & Diu,2001,1-2 Years,0,1,1
+2918,Daman & Diu,2001,2-3 Years,0,0,0
+2919,Daman & Diu,2001,3-5 Years,0,0,0
+2920,Daman & Diu,2001,Above 5 Years,0,0,0
+2921,Daman & Diu,2001,Total,17,1,18
+2922,Daman & Diu,2002,Upto 3 months,8,0,8
+2923,Daman & Diu,2002,3-6 months,4,0,4
+2924,Daman & Diu,2002,6-12 months,2,0,2
+2925,Daman & Diu,2002,1-2 Years,6,0,6
+2926,Daman & Diu,2002,2-3 Years,0,0,0
+2927,Daman & Diu,2002,3-5 Years,0,0,0
+2928,Daman & Diu,2002,Above 5 Years,0,0,0
+2929,Daman & Diu,2002,Total,20,0,20
+2930,Daman & Diu,2003,Upto 3 months,8,0,8
+2931,Daman & Diu,2003,3-6 months,7,0,7
+2932,Daman & Diu,2003,6-12 months,5,0,5
+2933,Daman & Diu,2003,1-2 Years,0,0,0
+2934,Daman & Diu,2003,2-3 Years,0,0,0
+2935,Daman & Diu,2003,3-5 Years,0,0,0
+2936,Daman & Diu,2003,Above 5 Years,0,0,0
+2937,Daman & Diu,2003,Total,20,0,20
+2938,Daman & Diu,2004,Upto 3 months,7,0,7
+2939,Daman & Diu,2004,3-6 months,5,1,6
+2940,Daman & Diu,2004,6-12 months,6,0,6
+2941,Daman & Diu,2004,1-2 Years,0,0,0
+2942,Daman & Diu,2004,2-3 Years,0,0,0
+2943,Daman & Diu,2004,3-5 Years,0,0,0
+2944,Daman & Diu,2004,Above 5 Years,0,0,0
+2945,Daman & Diu,2004,Total,18,1,19
+2946,Daman & Diu,2005,Upto 3 months,7,0,7
+2947,Daman & Diu,2005,3-6 months,8,0,8
+2948,Daman & Diu,2005,6-12 months,2,0,2
+2949,Daman & Diu,2005,1-2 Years,0,1,1
+2950,Daman & Diu,2005,2-3 Years,6,0,6
+2951,Daman & Diu,2005,3-5 Years,0,0,0
+2952,Daman & Diu,2005,Above 5 Years,0,0,0
+2953,Daman & Diu,2005,Total,23,1,24
+2954,Daman & Diu,2006,Upto 3 months,18,1,19
+2955,Daman & Diu,2006,3-6 months,14,0,14
+2956,Daman & Diu,2006,6-12 months,6,0,6
+2957,Daman & Diu,2006,1-2 Years,3,0,3
+2958,Daman & Diu,2006,2-3 Years,0,0,0
+2959,Daman & Diu,2006,3-5 Years,0,0,0
+2960,Daman & Diu,2006,Above 5 Years,0,0,0
+2961,Daman & Diu,2006,Total,41,1,42
+2962,Daman & Diu,2007,Upto 3 months,8,3,11
+2963,Daman & Diu,2007,3-6 months,33,1,34
+2964,Daman & Diu,2007,6-12 months,7,0,7
+2965,Daman & Diu,2007,1-2 Years,4,0,4
+2966,Daman & Diu,2007,2-3 Years,0,0,0
+2967,Daman & Diu,2007,3-5 Years,0,0,0
+2968,Daman & Diu,2007,Above 5 Years,0,0,0
+2969,Daman & Diu,2007,Total,52,4,56
+2970,Daman & Diu,2008,Upto 3 months,0,0,0
+2971,Daman & Diu,2008,3-6 months,3,0,3
+2972,Daman & Diu,2008,6-12 months,4,0,4
+2973,Daman & Diu,2008,1-2 Years,12,0,12
+2974,Daman & Diu,2008,2-3 Years,7,1,8
+2975,Daman & Diu,2008,3-5 Years,0,0,0
+2976,Daman & Diu,2008,Above 5 Years,0,0,0
+2977,Daman & Diu,2008,Total,26,1,27
+2978,Daman & Diu,2009,Upto 3 months,0,0,0
+2979,Daman & Diu,2009,3-6 months,7,0,7
+2980,Daman & Diu,2009,6-12 months,9,0,9
+2981,Daman & Diu,2009,1-2 Years,5,0,5
+2982,Daman & Diu,2009,2-3 Years,3,0,3
+2983,Daman & Diu,2009,3-5 Years,0,0,0
+2984,Daman & Diu,2009,Above 5 Years,0,0,0
+2985,Daman & Diu,2009,Total,24,0,24
+2986,Daman & Diu,2010,Upto 3 months,9,0,9
+2987,Daman & Diu,2010,3-6 months,4,0,4
+2988,Daman & Diu,2010,6-12 months,1,0,1
+2989,Daman & Diu,2010,1-2 Years,1,0,1
+2990,Daman & Diu,2010,2-3 Years,1,0,1
+2991,Daman & Diu,2010,3-5 Years,0,0,0
+2992,Daman & Diu,2010,Above 5 Years,0,0,0
+2993,Daman & Diu,2010,Total,16,0,16
+2994,Daman & Diu,2011,Upto 3 months,2,0,2
+2995,Daman & Diu,2011,3-6 months,9,0,9
+2996,Daman & Diu,2011,6-12 months,6,0,6
+2997,Daman & Diu,2011,1-2 Years,0,0,0
+2998,Daman & Diu,2011,2-3 Years,0,0,0
+2999,Daman & Diu,2011,3-5 Years,0,0,0
+3000,Daman & Diu,2011,Above 5 Years,0,0,0
+3001,Daman & Diu,2011,Total,17,0,17
+3002,Daman & Diu,2012,Upto 3 months,0,0,0
+3003,Daman & Diu,2012,3-6 months,8,1,9
+3004,Daman & Diu,2012,6-12 months,2,0,2
+3005,Daman & Diu,2012,1-2 Years,0,0,0
+3006,Daman & Diu,2012,2-3 Years,0,0,0
+3007,Daman & Diu,2012,3-5 Years,0,0,0
+3008,Daman & Diu,2012,Above 5 Years,0,0,0
+3009,Daman & Diu,2012,Total,10,1,11
+3010,Delhi,2001,Upto 3 months,3347,66,3413
+3011,Delhi,2001,3-6 months,1419,94,1513
+3012,Delhi,2001,6-12 months,1439,127,1566
+3013,Delhi,2001,1-2 Years,1232,44,1276
+3014,Delhi,2001,2-3 Years,546,29,575
+3015,Delhi,2001,3-5 Years,326,24,350
+3016,Delhi,2001,Above 5 Years,57,2,59
+3017,Delhi,2001,Total,8366,386,8752
+3018,Delhi,2002,Upto 3 months,3650,51,3701
+3019,Delhi,2002,3-6 months,1911,96,2007
+3020,Delhi,2002,6-12 months,1462,121,1583
+3021,Delhi,2002,1-2 Years,1285,41,1326
+3022,Delhi,2002,2-3 Years,634,46,680
+3023,Delhi,2002,3-5 Years,267,24,291
+3024,Delhi,2002,Above 5 Years,66,2,68
+3025,Delhi,2002,Total,9275,381,9656
+3026,Delhi,2003,Upto 3 months,3452,98,3550
+3027,Delhi,2003,3-6 months,1885,77,1962
+3028,Delhi,2003,6-12 months,1734,133,1867
+3029,Delhi,2003,1-2 Years,1219,43,1262
+3030,Delhi,2003,2-3 Years,599,47,646
+3031,Delhi,2003,3-5 Years,456,35,491
+3032,Delhi,2003,Above 5 Years,86,2,88
+3033,Delhi,2003,Total,9431,435,9866
+3034,Delhi,2004,Upto 3 months,3314,129,3443
+3035,Delhi,2004,3-6 months,1542,77,1619
+3036,Delhi,2004,6-12 months,1938,68,2006
+3037,Delhi,2004,1-2 Years,1441,73,1514
+3038,Delhi,2004,2-3 Years,736,34,770
+3039,Delhi,2004,3-5 Years,378,13,391
+3040,Delhi,2004,Above 5 Years,339,5,344
+3041,Delhi,2004,Total,9688,399,10087
+3042,Delhi,2005,Upto 3 months,6110,116,6226
+3043,Delhi,2005,3-6 months,1188,73,1261
+3044,Delhi,2005,6-12 months,1160,62,1222
+3045,Delhi,2005,1-2 Years,404,51,455
+3046,Delhi,2005,2-3 Years,250,43,293
+3047,Delhi,2005,3-5 Years,243,22,265
+3048,Delhi,2005,Above 5 Years,66,3,69
+3049,Delhi,2005,Total,9421,370,9791
+3050,Delhi,2006,Upto 3 months,5324,172,5496
+3051,Delhi,2006,3-6 months,1838,47,1885
+3052,Delhi,2006,6-12 months,1917,51,1968
+3053,Delhi,2006,1-2 Years,922,59,981
+3054,Delhi,2006,2-3 Years,244,37,281
+3055,Delhi,2006,3-5 Years,240,15,255
+3056,Delhi,2006,Above 5 Years,66,2,68
+3057,Delhi,2006,Total,10551,383,10934
+3058,Delhi,2007,Upto 3 months,4286,181,4467
+3059,Delhi,2007,3-6 months,1486,39,1525
+3060,Delhi,2007,6-12 months,1164,56,1220
+3061,Delhi,2007,1-2 Years,980,76,1056
+3062,Delhi,2007,2-3 Years,458,36,494
+3063,Delhi,2007,3-5 Years,386,27,413
+3064,Delhi,2007,Above 5 Years,132,7,139
+3065,Delhi,2007,Total,8892,422,9314
+3066,Delhi,2008,Upto 3 months,4262,160,4422
+3067,Delhi,2008,3-6 months,1117,27,1144
+3068,Delhi,2008,6-12 months,1140,59,1199
+3069,Delhi,2008,1-2 Years,1283,75,1358
+3070,Delhi,2008,2-3 Years,736,37,773
+3071,Delhi,2008,3-5 Years,500,49,549
+3072,Delhi,2008,Above 5 Years,100,7,107
+3073,Delhi,2008,Total,9138,414,9552
+3074,Delhi,2009,Upto 3 months,2746,146,2892
+3075,Delhi,2009,3-6 months,1340,23,1363
+3076,Delhi,2009,6-12 months,1445,41,1486
+3077,Delhi,2009,1-2 Years,1537,58,1595
+3078,Delhi,2009,2-3 Years,712,33,745
+3079,Delhi,2009,3-5 Years,656,51,707
+3080,Delhi,2009,Above 5 Years,131,12,143
+3081,Delhi,2009,Total,8567,364,8931
+3082,Delhi,2010,Upto 3 months,3181,123,3304
+3083,Delhi,2010,3-6 months,1174,45,1219
+3084,Delhi,2010,6-12 months,1413,65,1478
+3085,Delhi,2010,1-2 Years,985,35,1020
+3086,Delhi,2010,2-3 Years,447,64,511
+3087,Delhi,2010,3-5 Years,425,59,484
+3088,Delhi,2010,Above 5 Years,61,10,71
+3089,Delhi,2010,Total,7686,401,8087
+3090,Delhi,2011,Upto 3 months,3583,97,3680
+3091,Delhi,2011,3-6 months,1415,81,1496
+3092,Delhi,2011,6-12 months,1420,86,1506
+3093,Delhi,2011,1-2 Years,1103,77,1180
+3094,Delhi,2011,2-3 Years,401,21,422
+3095,Delhi,2011,3-5 Years,435,36,471
+3096,Delhi,2011,Above 5 Years,144,12,156
+3097,Delhi,2011,Total,8501,410,8911
+3098,Delhi,2012,Upto 3 months,3415,96,3511
+3099,Delhi,2012,3-6 months,1542,83,1625
+3100,Delhi,2012,6-12 months,1343,78,1421
+3101,Delhi,2012,1-2 Years,1090,86,1176
+3102,Delhi,2012,2-3 Years,466,26,492
+3103,Delhi,2012,3-5 Years,452,30,482
+3104,Delhi,2012,Above 5 Years,164,16,180
+3105,Delhi,2012,Total,8472,415,8887
+3106,Lakshadweep,2001,Upto 3 months,0,0,0
+3107,Lakshadweep,2001,3-6 months,1,0,1
+3108,Lakshadweep,2001,6-12 months,0,0,0
+3109,Lakshadweep,2001,1-2 Years,0,0,0
+3110,Lakshadweep,2001,2-3 Years,0,0,0
+3111,Lakshadweep,2001,3-5 Years,0,0,0
+3112,Lakshadweep,2001,Above 5 Years,0,0,0
+3113,Lakshadweep,2001,Total,1,0,1
+3114,Lakshadweep,2002,Upto 3 months,14,0,14
+3115,Lakshadweep,2002,3-6 months,0,0,0
+3116,Lakshadweep,2002,6-12 months,0,0,0
+3117,Lakshadweep,2002,1-2 Years,0,0,0
+3118,Lakshadweep,2002,2-3 Years,0,0,0
+3119,Lakshadweep,2002,3-5 Years,0,0,0
+3120,Lakshadweep,2002,Above 5 Years,0,0,0
+3121,Lakshadweep,2002,Total,14,0,14
+3122,Lakshadweep,2003,Upto 3 months,4,0,4
+3123,Lakshadweep,2003,3-6 months,0,0,0
+3124,Lakshadweep,2003,6-12 months,0,0,0
+3125,Lakshadweep,2003,1-2 Years,0,0,0
+3126,Lakshadweep,2003,2-3 Years,0,0,0
+3127,Lakshadweep,2003,3-5 Years,0,0,0
+3128,Lakshadweep,2003,Above 5 Years,0,0,0
+3129,Lakshadweep,2003,Total,4,0,4
+3130,Lakshadweep,2004,Upto 3 months,0,0,0
+3131,Lakshadweep,2004,3-6 months,0,0,0
+3132,Lakshadweep,2004,6-12 months,0,0,0
+3133,Lakshadweep,2004,1-2 Years,0,0,0
+3134,Lakshadweep,2004,2-3 Years,0,0,0
+3135,Lakshadweep,2004,3-5 Years,0,0,0
+3136,Lakshadweep,2004,Above 5 Years,0,0,0
+3137,Lakshadweep,2004,Total,0,0,0
+3138,Lakshadweep,2005,Upto 3 months,6,0,6
+3139,Lakshadweep,2005,3-6 months,0,0,0
+3140,Lakshadweep,2005,6-12 months,0,0,0
+3141,Lakshadweep,2005,1-2 Years,0,0,0
+3142,Lakshadweep,2005,2-3 Years,0,0,0
+3143,Lakshadweep,2005,3-5 Years,0,0,0
+3144,Lakshadweep,2005,Above 5 Years,0,0,0
+3145,Lakshadweep,2005,Total,6,0,6
+3146,Lakshadweep,2006,Upto 3 months,0,0,0
+3147,Lakshadweep,2006,3-6 months,0,0,0
+3148,Lakshadweep,2006,6-12 months,0,0,0
+3149,Lakshadweep,2006,1-2 Years,0,0,0
+3150,Lakshadweep,2006,2-3 Years,0,0,0
+3151,Lakshadweep,2006,3-5 Years,0,0,0
+3152,Lakshadweep,2006,Above 5 Years,0,0,0
+3153,Lakshadweep,2006,Total,0,0,0
+3154,Lakshadweep,2007,Upto 3 months,10,0,10
+3155,Lakshadweep,2007,3-6 months,0,0,0
+3156,Lakshadweep,2007,6-12 months,1,0,1
+3157,Lakshadweep,2007,1-2 Years,0,0,0
+3158,Lakshadweep,2007,2-3 Years,0,0,0
+3159,Lakshadweep,2007,3-5 Years,0,0,0
+3160,Lakshadweep,2007,Above 5 Years,0,0,0
+3161,Lakshadweep,2007,Total,11,0,11
+3162,Lakshadweep,2008,Upto 3 months,17,0,17
+3163,Lakshadweep,2008,3-6 months,1,0,1
+3164,Lakshadweep,2008,6-12 months,1,0,1
+3165,Lakshadweep,2008,1-2 Years,0,0,0
+3166,Lakshadweep,2008,2-3 Years,0,0,0
+3167,Lakshadweep,2008,3-5 Years,0,0,0
+3168,Lakshadweep,2008,Above 5 Years,0,0,0
+3169,Lakshadweep,2008,Total,19,0,19
+3170,Lakshadweep,2009,Upto 3 months,42,0,42
+3171,Lakshadweep,2009,3-6 months,0,0,0
+3172,Lakshadweep,2009,6-12 months,0,0,0
+3173,Lakshadweep,2009,1-2 Years,1,0,1
+3174,Lakshadweep,2009,2-3 Years,0,0,0
+3175,Lakshadweep,2009,3-5 Years,0,0,0
+3176,Lakshadweep,2009,Above 5 Years,0,0,0
+3177,Lakshadweep,2009,Total,43,0,43
+3178,Lakshadweep,2010,Upto 3 months,5,0,5
+3179,Lakshadweep,2010,3-6 months,19,0,19
+3180,Lakshadweep,2010,6-12 months,3,0,3
+3181,Lakshadweep,2010,1-2 Years,0,0,0
+3182,Lakshadweep,2010,2-3 Years,0,0,0
+3183,Lakshadweep,2010,3-5 Years,0,0,0
+3184,Lakshadweep,2010,Above 5 Years,0,0,0
+3185,Lakshadweep,2010,Total,27,0,27
+3186,Lakshadweep,2011,Upto 3 months,7,1,8
+3187,Lakshadweep,2011,3-6 months,0,0,0
+3188,Lakshadweep,2011,6-12 months,19,0,19
+3189,Lakshadweep,2011,1-2 Years,3,0,3
+3190,Lakshadweep,2011,2-3 Years,0,0,0
+3191,Lakshadweep,2011,3-5 Years,0,0,0
+3192,Lakshadweep,2011,Above 5 Years,0,0,0
+3193,Lakshadweep,2011,Total,29,1,30
+3194,Lakshadweep,2012,Upto 3 months,0,0,0
+3195,Lakshadweep,2012,3-6 months,0,0,0
+3196,Lakshadweep,2012,6-12 months,0,0,0
+3197,Lakshadweep,2012,1-2 Years,0,0,0
+3198,Lakshadweep,2012,2-3 Years,0,0,0
+3199,Lakshadweep,2012,3-5 Years,0,0,0
+3200,Lakshadweep,2012,Above 5 Years,0,0,0
+3201,Lakshadweep,2012,Total,0,0,0
+3202,Puducherry,2001,Upto 3 months,116,5,121
+3203,Puducherry,2001,3-6 months,22,0,22
+3204,Puducherry,2001,6-12 months,9,0,9
+3205,Puducherry,2001,1-2 Years,2,0,2
+3206,Puducherry,2001,2-3 Years,0,0,0
+3207,Puducherry,2001,3-5 Years,0,0,0
+3208,Puducherry,2001,Above 5 Years,0,0,0
+3209,Puducherry,2001,Total,149,5,154
+3210,Puducherry,2002,Upto 3 months,85,12,97
+3211,Puducherry,2002,3-6 months,12,0,12
+3212,Puducherry,2002,6-12 months,2,0,2
+3213,Puducherry,2002,1-2 Years,1,0,1
+3214,Puducherry,2002,2-3 Years,0,0,0
+3215,Puducherry,2002,3-5 Years,0,0,0
+3216,Puducherry,2002,Above 5 Years,0,0,0
+3217,Puducherry,2002,Total,100,12,112
+3218,Puducherry,2003,Upto 3 months,113,4,117
+3219,Puducherry,2003,3-6 months,17,0,17
+3220,Puducherry,2003,6-12 months,4,0,4
+3221,Puducherry,2003,1-2 Years,1,0,1
+3222,Puducherry,2003,2-3 Years,0,0,0
+3223,Puducherry,2003,3-5 Years,0,0,0
+3224,Puducherry,2003,Above 5 Years,0,0,0
+3225,Puducherry,2003,Total,135,4,139
+3226,Puducherry,2004,Upto 3 months,134,1,135
+3227,Puducherry,2004,3-6 months,24,0,24
+3228,Puducherry,2004,6-12 months,32,0,32
+3229,Puducherry,2004,1-2 Years,1,0,1
+3230,Puducherry,2004,2-3 Years,0,0,0
+3231,Puducherry,2004,3-5 Years,0,0,0
+3232,Puducherry,2004,Above 5 Years,0,0,0
+3233,Puducherry,2004,Total,191,1,192
+3234,Puducherry,2005,Upto 3 months,143,1,144
+3235,Puducherry,2005,3-6 months,8,0,8
+3236,Puducherry,2005,6-12 months,0,0,0
+3237,Puducherry,2005,1-2 Years,4,0,4
+3238,Puducherry,2005,2-3 Years,13,0,13
+3239,Puducherry,2005,3-5 Years,0,0,0
+3240,Puducherry,2005,Above 5 Years,0,0,0
+3241,Puducherry,2005,Total,168,1,169
+3242,Puducherry,2006,Upto 3 months,123,1,124
+3243,Puducherry,2006,3-6 months,52,0,52
+3244,Puducherry,2006,6-12 months,11,0,11
+3245,Puducherry,2006,1-2 Years,3,0,3
+3246,Puducherry,2006,2-3 Years,0,0,0
+3247,Puducherry,2006,3-5 Years,13,0,13
+3248,Puducherry,2006,Above 5 Years,0,0,0
+3249,Puducherry,2006,Total,202,1,203
+3250,Puducherry,2007,Upto 3 months,155,1,156
+3251,Puducherry,2007,3-6 months,45,0,45
+3252,Puducherry,2007,6-12 months,12,1,13
+3253,Puducherry,2007,1-2 Years,4,0,4
+3254,Puducherry,2007,2-3 Years,3,0,3
+3255,Puducherry,2007,3-5 Years,13,0,13
+3256,Puducherry,2007,Above 5 Years,0,0,0
+3257,Puducherry,2007,Total,232,2,234
+3258,Puducherry,2008,Upto 3 months,159,3,162
+3259,Puducherry,2008,3-6 months,18,0,18
+3260,Puducherry,2008,6-12 months,11,0,11
+3261,Puducherry,2008,1-2 Years,5,2,7
+3262,Puducherry,2008,2-3 Years,2,0,2
+3263,Puducherry,2008,3-5 Years,3,0,3
+3264,Puducherry,2008,Above 5 Years,0,0,0
+3265,Puducherry,2008,Total,198,5,203
+3266,Puducherry,2009,Upto 3 months,88,0,88
+3267,Puducherry,2009,3-6 months,34,1,35
+3268,Puducherry,2009,6-12 months,20,0,20
+3269,Puducherry,2009,1-2 Years,4,0,4
+3270,Puducherry,2009,2-3 Years,2,0,2
+3271,Puducherry,2009,3-5 Years,1,0,1
+3272,Puducherry,2009,Above 5 Years,0,0,0
+3273,Puducherry,2009,Total,149,1,150
+3274,Puducherry,2010,Upto 3 months,96,3,99
+3275,Puducherry,2010,3-6 months,18,0,18
+3276,Puducherry,2010,6-12 months,4,0,4
+3277,Puducherry,2010,1-2 Years,4,0,4
+3278,Puducherry,2010,2-3 Years,2,1,3
+3279,Puducherry,2010,3-5 Years,0,0,0
+3280,Puducherry,2010,Above 5 Years,0,0,0
+3281,Puducherry,2010,Total,124,4,128
+3282,Puducherry,2011,Upto 3 months,67,2,69
+3283,Puducherry,2011,3-6 months,41,0,41
+3284,Puducherry,2011,6-12 months,2,0,2
+3285,Puducherry,2011,1-2 Years,0,0,0
+3286,Puducherry,2011,2-3 Years,0,0,0
+3287,Puducherry,2011,3-5 Years,0,0,0
+3288,Puducherry,2011,Above 5 Years,0,0,0
+3289,Puducherry,2011,Total,110,2,112
+3290,Puducherry,2012,Upto 3 months,91,1,92
+3291,Puducherry,2012,3-6 months,66,0,66
+3292,Puducherry,2012,6-12 months,18,0,18
+3293,Puducherry,2012,1-2 Years,0,0,0
+3294,Puducherry,2012,2-3 Years,0,0,0
+3295,Puducherry,2012,3-5 Years,0,0,0
+3296,Puducherry,2012,Above 5 Years,0,0,0
+3297,Puducherry,2012,Total,175,1,176
+3298,Andhra Pradesh,2013,Upto 3 months,8125,529,8654
+3299,Andhra Pradesh,2013,3-6 months,645,63,708
+3300,Andhra Pradesh,2013,6-12 months,237,8,245
+3301,Andhra Pradesh,2013,1-2 Years,65,6,71
+3302,Andhra Pradesh,2013,2-3 Years,12,2,14
+3303,Andhra Pradesh,2013,3-5 Years,5,1,6
+3304,Andhra Pradesh,2013,Above 5 Years,3,0,3
+3305,Andhra Pradesh,2013,Total,9092,609,9701
+3306,Arunachal Pradesh,2013,Upto 3 months,32,0,32
+3307,Arunachal Pradesh,2013,3-6 months,15,0,15
+3308,Arunachal Pradesh,2013,6-12 months,17,0,17
+3309,Arunachal Pradesh,2013,1-2 Years,15,0,15
+3310,Arunachal Pradesh,2013,2-3 Years,0,0,0
+3311,Arunachal Pradesh,2013,3-5 Years,1,1,2
+3312,Arunachal Pradesh,2013,Above 5 Years,0,0,0
+3313,Arunachal Pradesh,2013,Total,80,1,81
+3314,Assam,2013,Upto 3 months,3145,130,3275
+3315,Assam,2013,3-6 months,765,40,805
+3316,Assam,2013,6-12 months,515,14,529
+3317,Assam,2013,1-2 Years,318,13,331
+3318,Assam,2013,2-3 Years,104,3,107
+3319,Assam,2013,3-5 Years,91,4,95
+3320,Assam,2013,Above 5 Years,20,1,21
+3321,Assam,2013,Total,4958,205,5163
+3322,Bihar,2013,Upto 3 months,7624,357,7981
+3323,Bihar,2013,3-6 months,6024,230,6254
+3324,Bihar,2013,6-12 months,5272,187,5459
+3325,Bihar,2013,1-2 Years,3213,97,3310
+3326,Bihar,2013,2-3 Years,1854,44,1898
+3327,Bihar,2013,3-5 Years,1208,35,1243
+3328,Bihar,2013,Above 5 Years,441,23,464
+3329,Bihar,2013,Total,25636,973,26609
+3330,Chhattisgarh,2013,Upto 3 months,2826,175,3001
+3331,Chhattisgarh,2013,3-6 months,1793,101,1894
+3332,Chhattisgarh,2013,6-12 months,1940,107,2047
+3333,Chhattisgarh,2013,1-2 Years,1358,85,1443
+3334,Chhattisgarh,2013,2-3 Years,439,27,466
+3335,Chhattisgarh,2013,3-5 Years,315,12,327
+3336,Chhattisgarh,2013,Above 5 Years,54,9,63
+3337,Chhattisgarh,2013,Total,8725,516,9241
+3338,Goa,2013,Upto 3 months,70,4,74
+3339,Goa,2013,3-6 months,65,2,67
+3340,Goa,2013,6-12 months,80,2,82
+3341,Goa,2013,1-2 Years,60,1,61
+3342,Goa,2013,2-3 Years,36,4,40
+3343,Goa,2013,3-5 Years,36,4,40
+3344,Goa,2013,Above 5 Years,28,4,32
+3345,Goa,2013,Total,375,21,396
+3346,Gujarat,2013,Upto 3 months,1843,115,1958
+3347,Gujarat,2013,3-6 months,1669,82,1751
+3348,Gujarat,2013,6-12 months,1355,51,1406
+3349,Gujarat,2013,1-2 Years,1353,74,1427
+3350,Gujarat,2013,2-3 Years,595,29,624
+3351,Gujarat,2013,3-5 Years,336,17,353
+3352,Gujarat,2013,Above 5 Years,74,11,85
+3353,Gujarat,2013,Total,7225,379,7604
+3354,Haryana,2013,Upto 3 months,3617,172,3789
+3355,Haryana,2013,3-6 months,2401,115,2516
+3356,Haryana,2013,6-12 months,2278,91,2369
+3357,Haryana,2013,1-2 Years,1353,89,1442
+3358,Haryana,2013,2-3 Years,405,5,410
+3359,Haryana,2013,3-5 Years,82,3,85
+3360,Haryana,2013,Above 5 Years,12,0,12
+3361,Haryana,2013,Total,10148,475,10623
+3362,Himachal Pradesh,2013,Upto 3 months,304,21,325
+3363,Himachal Pradesh,2013,3-6 months,230,11,241
+3364,Himachal Pradesh,2013,6-12 months,212,15,227
+3365,Himachal Pradesh,2013,1-2 Years,172,9,181
+3366,Himachal Pradesh,2013,2-3 Years,20,2,22
+3367,Himachal Pradesh,2013,3-5 Years,2,0,2
+3368,Himachal Pradesh,2013,Above 5 Years,0,0,0
+3369,Himachal Pradesh,2013,Total,940,58,998
+3370,Jammu & Kashmir,2013,Upto 3 months,318,12,330
+3371,Jammu & Kashmir,2013,3-6 months,272,8,280
+3372,Jammu & Kashmir,2013,6-12 months,281,13,294
+3373,Jammu & Kashmir,2013,1-2 Years,355,16,371
+3374,Jammu & Kashmir,2013,2-3 Years,262,12,274
+3375,Jammu & Kashmir,2013,3-5 Years,233,8,241
+3376,Jammu & Kashmir,2013,Above 5 Years,103,7,110
+3377,Jammu & Kashmir,2013,Total,1824,76,1900
+3378,Jharkhand,2013,Upto 3 months,4411,203,4614
+3379,Jharkhand,2013,3-6 months,3003,138,3141
+3380,Jharkhand,2013,6-12 months,2493,168,2661
+3381,Jharkhand,2013,1-2 Years,1835,95,1930
+3382,Jharkhand,2013,2-3 Years,968,55,1023
+3383,Jharkhand,2013,3-5 Years,535,29,564
+3384,Jharkhand,2013,Above 5 Years,111,4,115
+3385,Jharkhand,2013,Total,13356,692,14048
+3386,Karnataka,2013,Upto 3 months,3513,191,3704
+3387,Karnataka,2013,3-6 months,2189,72,2261
+3388,Karnataka,2013,6-12 months,1618,74,1692
+3389,Karnataka,2013,1-2 Years,1213,20,1233
+3390,Karnataka,2013,2-3 Years,373,9,382
+3391,Karnataka,2013,3-5 Years,179,7,186
+3392,Karnataka,2013,Above 5 Years,47,1,48
+3393,Karnataka,2013,Total,9132,374,9506
+3394,Kerala,2013,Upto 3 months,2900,105,3005
+3395,Kerala,2013,3-6 months,1105,20,1125
+3396,Kerala,2013,6-12 months,320,10,330
+3397,Kerala,2013,1-2 Years,125,5,130
+3398,Kerala,2013,2-3 Years,31,0,31
+3399,Kerala,2013,3-5 Years,0,0,0
+3400,Kerala,2013,Above 5 Years,0,0,0
+3401,Kerala,2013,Total,4481,140,4621
+3402,Madhya Pradesh,2013,Upto 3 months,7023,235,7258
+3403,Madhya Pradesh,2013,3-6 months,3533,153,3686
+3404,Madhya Pradesh,2013,6-12 months,3118,105,3223
+3405,Madhya Pradesh,2013,1-2 Years,2351,50,2401
+3406,Madhya Pradesh,2013,2-3 Years,720,17,737
+3407,Madhya Pradesh,2013,3-5 Years,213,6,219
+3408,Madhya Pradesh,2013,Above 5 Years,43,1,44
+3409,Madhya Pradesh,2013,Total,17001,567,17568
+3410,Maharashtra,2013,Upto 3 months,6911,550,7461
+3411,Maharashtra,2013,3-6 months,3677,254,3931
+3412,Maharashtra,2013,6-12 months,3283,161,3444
+3413,Maharashtra,2013,1-2 Years,2500,98,2598
+3414,Maharashtra,2013,2-3 Years,1143,46,1189
+3415,Maharashtra,2013,3-5 Years,555,11,566
+3416,Maharashtra,2013,Above 5 Years,141,1,142
+3417,Maharashtra,2013,Total,18210,1121,19331
+3418,Manipur,2013,Upto 3 months,221,21,242
+3419,Manipur,2013,3-6 months,111,4,115
+3420,Manipur,2013,6-12 months,86,3,89
+3421,Manipur,2013,1-2 Years,57,1,58
+3422,Manipur,2013,2-3 Years,15,1,16
+3423,Manipur,2013,3-5 Years,8,0,8
+3424,Manipur,2013,Above 5 Years,10,0,10
+3425,Manipur,2013,Total,508,30,538
+3426,Meghalaya,2013,Upto 3 months,257,1,258
+3427,Meghalaya,2013,3-6 months,164,2,166
+3428,Meghalaya,2013,6-12 months,103,4,107
+3429,Meghalaya,2013,1-2 Years,94,4,98
+3430,Meghalaya,2013,2-3 Years,60,0,60
+3431,Meghalaya,2013,3-5 Years,44,0,44
+3432,Meghalaya,2013,Above 5 Years,12,0,12
+3433,Meghalaya,2013,Total,734,11,745
+3434,Mizoram,2013,Upto 3 months,322,51,373
+3435,Mizoram,2013,3-6 months,57,5,62
+3436,Mizoram,2013,6-12 months,17,2,19
+3437,Mizoram,2013,1-2 Years,6,0,6
+3438,Mizoram,2013,2-3 Years,0,0,0
+3439,Mizoram,2013,3-5 Years,0,0,0
+3440,Mizoram,2013,Above 5 Years,0,0,0
+3441,Mizoram,2013,Total,402,58,460
+3442,Nagaland,2013,Upto 3 months,121,4,125
+3443,Nagaland,2013,3-6 months,72,2,74
+3444,Nagaland,2013,6-12 months,67,0,67
+3445,Nagaland,2013,1-2 Years,57,1,58
+3446,Nagaland,2013,2-3 Years,12,0,12
+3447,Nagaland,2013,3-5 Years,2,1,3
+3448,Nagaland,2013,Above 5 Years,2,0,2
+3449,Nagaland,2013,Total,333,8,341
+3450,Odisha,2013,Upto 3 months,4061,214,4275
+3451,Odisha,2013,3-6 months,2708,144,2852
+3452,Odisha,2013,6-12 months,1646,74,1720
+3453,Odisha,2013,1-2 Years,1226,55,1281
+3454,Odisha,2013,2-3 Years,495,23,518
+3455,Odisha,2013,3-5 Years,255,6,261
+3456,Odisha,2013,Above 5 Years,55,3,58
+3457,Odisha,2013,Total,10446,519,10965
+3458,Punjab,2013,Upto 3 months,4583,253,4836
+3459,Punjab,2013,3-6 months,4380,182,4562
+3460,Punjab,2013,6-12 months,3164,153,3317
+3461,Punjab,2013,1-2 Years,2407,126,2533
+3462,Punjab,2013,2-3 Years,1845,96,1941
+3463,Punjab,2013,3-5 Years,930,93,1023
+3464,Punjab,2013,Above 5 Years,221,73,294
+3465,Punjab,2013,Total,17530,976,18506
+3466,Rajasthan,2013,Upto 3 months,3998,89,4087
+3467,Rajasthan,2013,3-6 months,2347,101,2448
+3468,Rajasthan,2013,6-12 months,2692,91,2783
+3469,Rajasthan,2013,1-2 Years,1937,87,2024
+3470,Rajasthan,2013,2-3 Years,1157,47,1204
+3471,Rajasthan,2013,3-5 Years,576,23,599
+3472,Rajasthan,2013,Above 5 Years,96,5,101
+3473,Rajasthan,2013,Total,12803,443,13246
+3474,Sikkim,2013,Upto 3 months,49,3,52
+3475,Sikkim,2013,3-6 months,37,0,37
+3476,Sikkim,2013,6-12 months,25,0,25
+3477,Sikkim,2013,1-2 Years,7,3,10
+3478,Sikkim,2013,2-3 Years,2,0,2
+3479,Sikkim,2013,3-5 Years,0,0,0
+3480,Sikkim,2013,Above 5 Years,0,0,0
+3481,Sikkim,2013,Total,120,6,126
+3482,Tamil Nadu,2013,Upto 3 months,3121,299,3420
+3483,Tamil Nadu,2013,3-6 months,2327,126,2453
+3484,Tamil Nadu,2013,6-12 months,1664,52,1716
+3485,Tamil Nadu,2013,1-2 Years,247,19,266
+3486,Tamil Nadu,2013,2-3 Years,169,0,169
+3487,Tamil Nadu,2013,3-5 Years,206,1,207
+3488,Tamil Nadu,2013,Above 5 Years,61,0,61
+3489,Tamil Nadu,2013,Total,7795,497,8292
+3490,Tripura,2013,Upto 3 months,268,7,275
+3491,Tripura,2013,3-6 months,74,3,77
+3492,Tripura,2013,6-12 months,29,1,30
+3493,Tripura,2013,1-2 Years,7,0,7
+3494,Tripura,2013,2-3 Years,5,0,5
+3495,Tripura,2013,3-5 Years,4,0,4
+3496,Tripura,2013,Above 5 Years,1,0,1
+3497,Tripura,2013,Total,388,11,399
+3498,Uttar Pradesh,2013,Upto 3 months,18865,763,19628
+3499,Uttar Pradesh,2013,3-6 months,11770,514,12284
+3500,Uttar Pradesh,2013,6-12 months,9751,467,10218
+3501,Uttar Pradesh,2013,1-2 Years,7546,330,7876
+3502,Uttar Pradesh,2013,2-3 Years,4323,178,4501
+3503,Uttar Pradesh,2013,3-5 Years,2603,76,2679
+3504,Uttar Pradesh,2013,Above 5 Years,893,21,914
+3505,Uttar Pradesh,2013,Total,55751,2349,58100
+3506,Uttarakhand,2013,Upto 3 months,640,38,678
+3507,Uttarakhand,2013,3-6 months,365,11,376
+3508,Uttarakhand,2013,6-12 months,570,39,609
+3509,Uttarakhand,2013,1-2 Years,214,8,222
+3510,Uttarakhand,2013,2-3 Years,32,1,33
+3511,Uttarakhand,2013,3-5 Years,2,0,2
+3512,Uttarakhand,2013,Above 5 Years,4,0,4
+3513,Uttarakhand,2013,Total,1827,97,1924
+3514,West Bengal,2013,Upto 3 months,7082,466,7548
+3515,West Bengal,2013,3-6 months,3116,170,3286
+3516,West Bengal,2013,6-12 months,2493,181,2674
+3517,West Bengal,2013,1-2 Years,1339,76,1415
+3518,West Bengal,2013,2-3 Years,751,39,790
+3519,West Bengal,2013,3-5 Years,451,36,487
+3520,West Bengal,2013,Above 5 Years,261,10,271
+3521,West Bengal,2013,Total,15493,978,16471
+3522,Andaman & Nicobar Islands,2013,Upto 3 months,57,0,57
+3523,Andaman & Nicobar Islands,2013,3-6 months,28,0,28
+3524,Andaman & Nicobar Islands,2013,6-12 months,13,0,13
+3525,Andaman & Nicobar Islands,2013,1-2 Years,41,4,45
+3526,Andaman & Nicobar Islands,2013,2-3 Years,29,2,31
+3527,Andaman & Nicobar Islands,2013,3-5 Years,17,1,18
+3528,Andaman & Nicobar Islands,2013,Above 5 Years,1,0,1
+3529,Andaman & Nicobar Islands,2013,Total,186,7,193
+3530,Chandigarh,2013,Upto 3 months,196,4,200
+3531,Chandigarh,2013,3-6 months,86,6,92
+3532,Chandigarh,2013,6-12 months,47,1,48
+3533,Chandigarh,2013,1-2 Years,36,1,37
+3534,Chandigarh,2013,2-3 Years,12,0,12
+3535,Chandigarh,2013,3-5 Years,1,0,1
+3536,Chandigarh,2013,Above 5 Years,1,0,1
+3537,Chandigarh,2013,Total,379,12,391
+3538,Dadra & Nagar Haveli,2013,Upto 3 months,5,0,5
+3539,Dadra & Nagar Haveli,2013,3-6 months,12,0,12
+3540,Dadra & Nagar Haveli,2013,6-12 months,11,0,11
+3541,Dadra & Nagar Haveli,2013,1-2 Years,3,0,3
+3542,Dadra & Nagar Haveli,2013,2-3 Years,2,0,2
+3543,Dadra & Nagar Haveli,2013,3-5 Years,2,0,2
+3544,Dadra & Nagar Haveli,2013,Above 5 Years,0,0,0
+3545,Dadra & Nagar Haveli,2013,Total,35,0,35
+3546,Daman & Diu,2013,Upto 3 months,13,0,13
+3547,Daman & Diu,2013,3-6 months,10,0,10
+3548,Daman & Diu,2013,6-12 months,6,0,6
+3549,Daman & Diu,2013,1-2 Years,9,0,9
+3550,Daman & Diu,2013,2-3 Years,0,0,0
+3551,Daman & Diu,2013,3-5 Years,0,0,0
+3552,Daman & Diu,2013,Above 5 Years,0,0,0
+3553,Daman & Diu,2013,Total,38,0,38
+3554,Delhi,2013,Upto 3 months,3704,133,3837
+3555,Delhi,2013,3-6 months,1603,71,1674
+3556,Delhi,2013,6-12 months,1549,89,1638
+3557,Delhi,2013,1-2 Years,1460,95,1555
+3558,Delhi,2013,2-3 Years,657,40,697
+3559,Delhi,2013,3-5 Years,548,27,575
+3560,Delhi,2013,Above 5 Years,159,19,178
+3561,Delhi,2013,Total,9680,474,10154
+3562,Lakshadweep,2013,Upto 3 months,0,0,0
+3563,Lakshadweep,2013,3-6 months,0,0,0
+3564,Lakshadweep,2013,6-12 months,0,0,0
+3565,Lakshadweep,2013,1-2 Years,0,0,0
+3566,Lakshadweep,2013,2-3 Years,0,0,0
+3567,Lakshadweep,2013,3-5 Years,0,0,0
+3568,Lakshadweep,2013,Above 5 Years,0,0,0
+3569,Lakshadweep,2013,Total,0,0,0
+3570,Puducherry,2013,Upto 3 months,82,5,87
+3571,Puducherry,2013,3-6 months,61,0,61
+3572,Puducherry,2013,6-12 months,40,0,40
+3573,Puducherry,2013,1-2 Years,1,0,1
+3574,Puducherry,2013,2-3 Years,0,0,0
+3575,Puducherry,2013,3-5 Years,0,0,0
+3576,Puducherry,2013,Above 5 Years,0,0,0
+3577,Puducherry,2013,Total,184,5,189

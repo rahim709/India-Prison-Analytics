@@ -1,0 +1,349 @@
+file,column,descriptive_selected,role,profile_role,reason
+Age_group.csv,state_name,True,join_or_group_key,join_key_only,Metadata only; never an input to distance or association mining.
+Age_group.csv,is_state,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Age_group.csv,year,True,join_or_group_key,join_key_only,Metadata only; never an input to distance or association mining.
+Age_group.csv,category,True,join_or_group_key,group_dimension_only,Metadata only; never an input to distance or association mining.
+Age_group.csv,type,True,join_or_group_key,group_dimension_only,Metadata only; never an input to distance or association mining.
+Age_group.csv,gender,True,join_or_group_key,group_dimension_only,Metadata only; never an input to distance or association mining.
+Age_group.csv,age_16_18,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Age_group.csv,age_18_30,True,selected_measure,future_numerator,Atomic count or source-specific measure; preserve its population and unit.
+Age_group.csv,age_30_50,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Age_group.csv,age_50_above,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Age_group.csv,source_record,True,provenance_only,provenance_only,Metadata only; never an input to distance or association mining.
+Caste.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Caste.csv,is_state,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Caste.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Caste.csv,gender,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Caste.csv,caste,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Caste.csv,convicts,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Caste.csv,under_trial,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Caste.csv,detenues,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Caste.csv,others,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Caste.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Death_sentence.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Death_sentence.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Death_sentence.csv,no_capital_punishment,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Death_sentence.csv,no_life_imprisonment,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Death_sentence.csv,no_executed,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Death_sentence.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Domicile.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Domicile.csv,is_state,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Domicile.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Domicile.csv,gender,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Domicile.csv,domicile,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Domicile.csv,convicts,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Domicile.csv,under_trial,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Domicile.csv,detenues,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Domicile.csv,others,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Domicile.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Education.csv,state_name,True,join_or_group_key,join_key_only,Metadata only; never an input to distance or association mining.
+Education.csv,is_state,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Education.csv,year,True,join_or_group_key,join_key_only,Metadata only; never an input to distance or association mining.
+Education.csv,gender,True,join_or_group_key,group_dimension_only,Metadata only; never an input to distance or association mining.
+Education.csv,education,True,join_or_group_key,category_predicate_only,Metadata only; never an input to distance or association mining.
+Education.csv,convicts,True,selected_measure,future_numerator,Atomic count or source-specific measure; preserve its population and unit.
+Education.csv,under_trial,True,selected_measure,future_numerator,Atomic count or source-specific measure; preserve its population and unit.
+Education.csv,detenues,True,selected_measure,future_numerator,Atomic count or source-specific measure; preserve its population and unit.
+Education.csv,others,True,selected_measure,future_numerator,Atomic count or source-specific measure; preserve its population and unit.
+Education.csv,source_record,True,provenance_only,provenance_only,Metadata only; never an input to distance or association mining.
+Education_facilities.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Education_facilities.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Education_facilities.csv,elementary_education,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Education_facilities.csv,adult_education,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Education_facilities.csv,higher_education,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Education_facilities.csv,computer_course,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Education_facilities.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+IPC_crime_inmates_convicted.csv,STATE/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+IPC_crime_inmates_convicted.csv,YEAR,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+IPC_crime_inmates_convicted.csv,CRIME HEAD,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+IPC_crime_inmates_convicted.csv,Male 16-18 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_convicted.csv,Female 16-18 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_convicted.csv,Total 16-18 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_convicted.csv,Male 18-30 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_convicted.csv,Female 18-30 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_convicted.csv,Total 18-30 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_convicted.csv,Male 30-50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_convicted.csv,Female 30-50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_convicted.csv,Total 30-50 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_convicted.csv,Male Above 50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_convicted.csv,Female Above 50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_convicted.csv,Total Above 50 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_convicted.csv,Total Male,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_convicted.csv,Total Female,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_convicted.csv,Grand Total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_convicted.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+IPC_crime_inmates_under_trial.csv,STATE/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+IPC_crime_inmates_under_trial.csv,YEAR,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+IPC_crime_inmates_under_trial.csv,CRIME HEAD,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+IPC_crime_inmates_under_trial.csv,Male 16-18 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_under_trial.csv,Female 16-18 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_under_trial.csv,Total 16-18 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_under_trial.csv,Male 18-30 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_under_trial.csv,Female 18-30 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_under_trial.csv,Total 18-30 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_under_trial.csv,Male 30-50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_under_trial.csv,Female 30-50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_under_trial.csv,Total 30-50 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_under_trial.csv,Male Above 50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_under_trial.csv,Female Above 50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+IPC_crime_inmates_under_trial.csv,Total Above 50 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_under_trial.csv,Total Male,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_under_trial.csv,Total Female,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_under_trial.csv,Grand Total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+IPC_crime_inmates_under_trial.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Inmates_death.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Inmates_death.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Inmates_death.csv,details,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Inmates_death.csv,Male,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Inmates_death.csv,Female,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Inmates_death.csv,Total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Inmates_death.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Inmates_escapee.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Inmates_escapee.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Inmates_escapee.csv,detail,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Inmates_escapee.csv,male,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Inmates_escapee.csv,female,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Inmates_escapee.csv,total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Inmates_escapee.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Jail wise population of prison inmates.csv,State_UT_name,True,join_or_group_key,join_key_only,Metadata only; never an input to distance or association mining.
+Jail wise population of prison inmates.csv,Year,True,join_or_group_key,join_key_only,Metadata only; never an input to distance or association mining.
+Jail wise population of prison inmates.csv,Jail_Type,True,join_or_group_key,validation_only_or_excluded,Metadata only; never an input to distance or association mining.
+Jail wise population of prison inmates.csv,Male Convicts,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Jail wise population of prison inmates.csv,Female_Convicts,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Jail wise population of prison inmates.csv,Total_Convicts,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Jail wise population of prison inmates.csv,Male_Under_trial,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Jail wise population of prison inmates.csv,Female_Under_trial,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Jail wise population of prison inmates.csv,Total_Under_trial,False,excluded,future_numerator,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Jail wise population of prison inmates.csv,Male_Detenues,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Jail wise population of prison inmates.csv,Female_Detenues,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Jail wise population of prison inmates.csv,Total_Detenues,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Jail wise population of prison inmates.csv,Male_Others,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Jail wise population of prison inmates.csv,Female_Others,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Jail wise population of prison inmates.csv,Total_Others,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Jail wise population of prison inmates.csv,Total_Male,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Jail wise population of prison inmates.csv,Total_Female,False,excluded,future_numerator,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Jail wise population of prison inmates.csv,Grand_Total,False,excluded,future_denominator_and_occupancy_numerator,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Jail wise population of prison inmates.csv,source_record,True,provenance_only,provenance_only,Metadata only; never an input to distance or association mining.
+Other Prison data/Budget.CSV,TimePeriod,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Budget.CSV,Area_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Budget.CSV,Indicator_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Budget.CSV,Data_Value,False,excluded,excluded,"Administrative budget indicators cover only 2001–2010; outside the selected population/demographic scope, with units requiring verification."
+Other Prison data/Budget.CSV,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,TimePeriod,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,Area_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,Electronic_equipments_used,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,Data_Value,False,excluded,excluded,Equipment inventory is outside the selected prisoner-profile scope and has shorter temporal coverage.
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,STATE/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,YEAR,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,DETAILS,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,Male,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,Female,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,Total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Expenditure.CSV,TimePeriod,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Expenditure.CSV,Area_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Expenditure.CSV,Indicator_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Expenditure.CSV,Data_Value,False,excluded,excluded,"Administrative spending indicators cover only 2001–2010; outside the selected population/demographic scope, with units requiring verification."
+Other Prison data/Expenditure.CSV,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Expenditure_on_inmates.CSV,TimePeriod,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Expenditure_on_inmates.CSV,Area_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Expenditure_on_inmates.CSV,Indicator_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Expenditure_on_inmates.CSV,Data_Value,False,excluded,excluded,"Administrative spending indicators cover only 2001–2010; outside the selected population/demographic scope, with units requiring verification."
+Other Prison data/Expenditure_on_inmates.CSV,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Inmates_released.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Inmates_released.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Inmates_released.csv,details,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Inmates_released.csv,male,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_released.csv,female,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_released.csv,total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Inmates_released.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,STATE/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,YEAR,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Male Convicts,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Female Convicts,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Total Convicts,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Male Under trial,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Female Under trial,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Total Under trial,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Male Detenues,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Female Detenues,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Total Detenues,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Male Others,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Female Others,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Total Others,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Total Male,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Total Female,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,Grand Total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Movements_outside_jail_premises.CSV,TimePeriod,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Movements_outside_jail_premises.CSV,Area_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Movements_outside_jail_premises.CSV,Indicator_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Movements_outside_jail_premises.CSV,Data_Value,False,excluded,excluded,Movement indicators are flows rather than prisoner-profile attributes; shorter temporal coverage.
+Other Prison data/Movements_outside_jail_premises.CSV,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Number_of_vehicles_available.CSV,TimePeriod,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Number_of_vehicles_available.CSV,Area_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Number_of_vehicles_available.CSV,Number of Vehicles Available,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Number_of_vehicles_available.CSV,Data_Value,False,excluded,excluded,Vehicle inventory is outside the selected prisoner-profile scope and has shorter temporal coverage.
+Other Prison data/Number_of_vehicles_available.CSV,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Number_of_women_prisoners_with_children.csv,STATE/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Number_of_women_prisoners_with_children.csv,YEAR,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Number_of_women_prisoners_with_children.csv,No. of Convict Women Prisoners with Children,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Number_of_women_prisoners_with_children.csv,No. of Children of Convict Women Prisoners,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Number_of_women_prisoners_with_children.csv,No. of Under trial Women Prisoners with Children,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Number_of_women_prisoners_with_children.csv,No. of children of Under trial Women Prisoners,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Number_of_women_prisoners_with_children.csv,No. of Detenues Women Prisoners with Children,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Number_of_women_prisoners_with_children.csv,No. of children of Detenues Women Prisoners,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Number_of_women_prisoners_with_children.csv,No. of Other Women Prisoners with Children,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Number_of_women_prisoners_with_children.csv,No. of children of  Other Women Prisoners,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Number_of_women_prisoners_with_children.csv,Total No. of Women Prisoners with Children,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Number_of_women_prisoners_with_children.csv,Total No. of children of  Women Prisoners,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Number_of_women_prisoners_with_children.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Period_of_detention_of_undertrials.csv,STATE/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Period_of_detention_of_undertrials.csv,YEAR,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Period_of_detention_of_undertrials.csv,PERIOD OF DETENTION,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Period_of_detention_of_undertrials.csv,Male,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Period_of_detention_of_undertrials.csv,Female,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Period_of_detention_of_undertrials.csv,Total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Period_of_detention_of_undertrials.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Population_and_capacity_of_jails.csv,STATE/UT,True,join_or_group_key,join_key_only,Metadata only; never an input to distance or association mining.
+Other Prison data/Population_and_capacity_of_jails.csv,Year,True,join_or_group_key,join_key_only,Metadata only; never an input to distance or association mining.
+Other Prison data/Population_and_capacity_of_jails.csv,TYPE OF JAIL,True,join_or_group_key,validation_only_or_excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Population_and_capacity_of_jails.csv,Number of Central Jails,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Population_and_capacity_of_jails.csv,Total Capacity of male Inmates,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Population_and_capacity_of_jails.csv,Total Capacity of female Inmates,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Population_and_capacity_of_jails.csv,Total Capacity of Inmates,True,selected_measure,future_denominator,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Population_and_capacity_of_jails.csv,Male Inmate population,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Population_and_capacity_of_jails.csv,Female Inmate population,False,excluded,validation_only_or_excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/Population_and_capacity_of_jails.csv,Total Inmate population,True,selected_measure,validation_only_or_excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Population_and_capacity_of_jails.csv,source_record,True,provenance_only,provenance_only,Metadata only; never an input to distance or association mining.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,STATE/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,YEAR,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,CRIME HEAD,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Male 16-18 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Female 16-18 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Total 16-18 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Male 18-30 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Female 18-30 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Total 18-30 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Male 30-50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Female 30-50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Total 30-50 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Male Above 50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Female Above 50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Total Above 50 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Total Male,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Total Female,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,Grand Total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,STATE/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,CRIME HEAD,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Male 16-18 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Female 16-18 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Total 16-18 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Male 18-30 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Female 18-30 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Total 18-30 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Male 30-50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Female 30-50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Total 30-50 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Male Above 50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Female Above 50 years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Total Above 50 years,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Total Male,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Total Female,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,Grand Total,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Strength_of_officials.CSV,TimePeriod,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Strength_of_officials.CSV,Area_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Strength_of_officials.CSV,Indicator_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Strength_of_officials.CSV,Data_Value,False,excluded,excluded,Overlapping staff hierarchies require a separate resource study; not prisoner demographic observations.
+Other Prison data/Strength_of_officials.CSV,Subgroup_Val,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Strength_of_officials.CSV,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,S.No. (Col. No. 1),False,excluded,excluded,Separate 2015–2016 fiscal cross-section cannot join to 2001–2013 on state alone.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,State/UT (Col. No. 2),False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,Total Annual Budget - Plan (Col. No. 3),False,excluded,excluded,Separate 2015–2016 fiscal cross-section cannot join to 2001–2013 on state alone.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,Total Annual Budget - Non-Plan (Col. No. 4),False,excluded,excluded,Separate 2015–2016 fiscal cross-section cannot join to 2001–2013 on state alone.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,Total Annual Budget - Total (Col. No. 5),False,excluded,excluded,Separate 2015–2016 fiscal cross-section cannot join to 2001–2013 on state alone.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,Actual Expenditure - Plan (Col. No. 6),False,excluded,excluded,Separate 2015–2016 fiscal cross-section cannot join to 2001–2013 on state alone.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,Actual Expenditure - Non-Plan (Col. No. 7),False,excluded,excluded,Separate 2015–2016 fiscal cross-section cannot join to 2001–2013 on state alone.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,Actual Expenditure - Expenditure on Account of Funds made Available by Other Agencies (Col. No. 8),False,excluded,excluded,Separate 2015–2016 fiscal cross-section cannot join to 2001–2013 on state alone.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,Actual Expenditure - Total (Col. No. 9) = (Col.6+7+8),False,excluded,excluded,Separate 2015–2016 fiscal cross-section cannot join to 2001–2013 on state alone.
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Training_of_Jail_Officers.CSV,TimePeriod,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Training_of_Jail_Officers.CSV,Area_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Training_of_Jail_Officers.CSV,Indicator_Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Training_of_Jail_Officers.CSV,Data_Value,False,excluded,excluded,Officer training is a separate administrative population; not prisoner vocational training.
+Other Prison data/Training_of_Jail_Officers.CSV,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Value_of_goods_produced_by_inmates.csv,State/UT,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Value_of_goods_produced_by_inmates.csv,YEAR,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Value_of_goods_produced_by_inmates.csv,Vocation/Activity,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Other Prison data/Value_of_goods_produced_by_inmates.csv,Gross Value of Sale Proceeds / Earning (In Rs.),True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Other Prison data/Value_of_goods_produced_by_inmates.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Prison_details_2015.csv,Category,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,State / UT Name,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Prison_details_2015.csv,Jail Type Sl.No.,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,Jail Type,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Prison_details_2015.csv,Number of jails,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,Jail Sl.No.,False,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Prison_details_2015.csv,Jail Name,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,Contact No.,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,VC for Remand Purpose,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,VC for Trial Purpose,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,VC for Other Purpose,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,Location1,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,Location2,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,Email ID,False,excluded,excluded,Separate 2015 jail directory; contacts and jail identifiers are irrelevant to historical state-year profiles.
+Prison_details_2015.csv,source_record,False,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Recidivism.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Recidivism.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Recidivism.csv,convicts_admitted,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Recidivism.csv,habitual_offenders,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Recidivism.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Rehabilitation.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Rehabilitation.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Rehabilitation.csv,financial_assistance_provided,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Rehabilitation.csv,rehabilitated,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Rehabilitation.csv,legal_aid_provided,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Rehabilitation.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Religion.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Religion.csv,is_state,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Religion.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Religion.csv,gender,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Religion.csv,religion,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Religion.csv,convicts,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Religion.csv,under_trial,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Religion.csv,detenues,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Religion.csv,others,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Religion.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Sentence_period.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Sentence_period.csv,is_state,False,excluded,excluded,"Redundant total/component, numeric identifier or unused metadata; avoid double counting."
+Sentence_period.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Sentence_period.csv,gender,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Sentence_period.csv,sentence_period,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Sentence_period.csv,age_16_18_years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Sentence_period.csv,age_18_30_years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Sentence_period.csv,age_30_50_years,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Sentence_period.csv,age_50_above,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Sentence_period.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Tranquillity.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Tranquillity.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Tranquillity.csv,type,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Tranquillity.csv,incidence,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Tranquillity.csv,inmate_injured,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Tranquillity.csv,jail_personnel_injured,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Tranquillity.csv,inmate_killed,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Tranquillity.csv,jail_personnel_killed,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Tranquillity.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Vocational_training.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Vocational_training.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Vocational_training.csv,vocational_trainings_program,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Vocational_training.csv,inmates_trained,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Vocational_training.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.
+Wages.csv,state_name,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Wages.csv,year,True,join_or_group_key,excluded,Metadata only; never an input to distance or association mining.
+Wages.csv,wages_skilled_convicts,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Wages.csv,wages_semi_skilled_convicts,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Wages.csv,wages_unskilled_convicts,True,selected_measure,excluded,Atomic count or source-specific measure; preserve its population and unit.
+Wages.csv,source_record,True,provenance_only,excluded,Metadata only; never an input to distance or association mining.

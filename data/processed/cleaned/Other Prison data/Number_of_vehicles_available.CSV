@@ -1,0 +1,3052 @@
+source_record,TimePeriod,Area_Name,Number of Vehicles Available,Data_Value
+2,2002,Haryana,Ambulance,2
+3,2002,Delhi,Ambulance,10
+4,2002,Rajasthan,Ambulance,18
+5,2002,Uttar Pradesh,Ambulance,33
+6,2002,Bihar,Ambulance,4
+7,2002,Sikkim,Ambulance,0
+8,2002,Nagaland,Ambulance,1
+9,2002,Manipur,Ambulance,2
+10,2002,Mizoram,Ambulance,1
+11,2002,Tripura,Ambulance,1
+12,2002,Meghalaya,Ambulance,4
+13,2002,Assam,Ambulance,0
+14,2002,West Bengal,Ambulance,41
+15,2002,Jharkhand,Ambulance,3
+16,2002,Odisha,Ambulance,1
+17,2002,Chhattisgarh,Ambulance,7
+18,2002,Madhya Pradesh,Ambulance,8
+19,2002,Gujarat,Ambulance,18
+20,2002,Daman & Diu,Ambulance,0
+21,2002,Dadra & Nagar Haveli,Ambulance,0
+22,2002,Maharashtra,Ambulance,0
+23,2002,Andhra Pradesh,Ambulance,3
+24,2002,Karnataka,Ambulance,21
+25,2002,Goa,Ambulance,2
+26,2002,Lakshadweep,Ambulance,0
+27,2002,Kerala,Ambulance,4
+28,2002,Tamil Nadu,Ambulance,11
+29,2002,Puducherry,Ambulance,0
+30,2003,Jammu & Kashmir,Ambulance,4
+31,2003,Himachal Pradesh,Ambulance,1
+32,2003,Punjab,Ambulance,0
+33,2003,Chandigarh,Ambulance,0
+34,2003,Uttarakhand,Ambulance,9
+35,2003,Haryana,Ambulance,3
+36,2003,Delhi,Ambulance,8
+37,2003,Rajasthan,Ambulance,18
+38,2003,Uttar Pradesh,Ambulance,39
+39,2003,Bihar,Ambulance,6
+40,2003,Sikkim,Ambulance,0
+41,2003,Nagaland,Ambulance,1
+42,2003,Manipur,Ambulance,2
+43,2003,Mizoram,Ambulance,1
+44,2003,Tripura,Ambulance,1
+45,2003,Meghalaya,Ambulance,4
+46,2003,Assam,Ambulance,0
+47,2003,West Bengal,Ambulance,41
+48,2003,Jharkhand,Ambulance,8
+49,2003,Odisha,Ambulance,1
+50,2003,Chhattisgarh,Ambulance,6
+51,2003,Madhya Pradesh,Ambulance,8
+52,2003,Gujarat,Ambulance,18
+53,2003,Daman & Diu,Ambulance,0
+54,2003,Dadra & Nagar Haveli,Ambulance,0
+55,2003,Maharashtra,Ambulance,0
+56,2003,Andhra Pradesh,Ambulance,0
+57,2003,Karnataka,Ambulance,18
+58,2003,Goa,Ambulance,2
+59,2003,Lakshadweep,Ambulance,0
+60,2003,Kerala,Ambulance,7
+61,2003,Tamil Nadu,Ambulance,11
+62,2003,Puducherry,Ambulance,0
+63,2003,Andaman & Nicobar Islands,Ambulance,0
+64,2004,Jammu & Kashmir,Ambulance,3
+65,2004,Himachal Pradesh,Ambulance,1
+66,2004,Punjab,Ambulance,14
+67,2004,Chandigarh,Ambulance,0
+68,2004,Uttarakhand,Ambulance,9
+69,2004,Haryana,Ambulance,5
+70,2004,Delhi,Ambulance,10
+71,2004,Rajasthan,Ambulance,23
+72,2004,Uttar Pradesh,Ambulance,39
+73,2004,Bihar,Ambulance,2
+74,2004,Sikkim,Ambulance,0
+75,2004,Nagaland,Ambulance,1
+76,2004,Manipur,Ambulance,2
+77,2004,Mizoram,Ambulance,1
+78,2004,Tripura,Ambulance,1
+79,2004,Meghalaya,Ambulance,4
+80,2004,Assam,Ambulance,0
+81,2004,West Bengal,Ambulance,54
+82,2004,Jharkhand,Ambulance,8
+83,2004,Odisha,Ambulance,1
+84,2004,Chhattisgarh,Ambulance,5
+85,2004,Madhya Pradesh,Ambulance,8
+86,2004,Gujarat,Ambulance,10
+87,2004,Daman & Diu,Ambulance,0
+88,2004,Dadra & Nagar Haveli,Ambulance,0
+89,2004,Maharashtra,Ambulance,21
+90,2004,Andhra Pradesh,Ambulance,2
+91,2004,Karnataka,Ambulance,18
+92,2004,Goa,Ambulance,2
+93,2004,Lakshadweep,Ambulance,0
+94,2004,Kerala,Ambulance,7
+95,2004,Tamil Nadu,Ambulance,10
+96,2004,Puducherry,Ambulance,0
+97,2004,Andaman & Nicobar Islands,Ambulance,0
+98,2005,Jammu & Kashmir,Ambulance,3
+99,2005,Himachal Pradesh,Ambulance,1
+100,2005,Punjab,Ambulance,14
+101,2005,Chandigarh,Ambulance,0
+102,2005,Uttarakhand,Ambulance,8
+103,2005,Haryana,Ambulance,4
+104,2005,Delhi,Ambulance,12
+105,2005,Rajasthan,Ambulance,24
+106,2005,Uttar Pradesh,Ambulance,39
+107,2005,Bihar,Ambulance,5
+108,2005,Sikkim,Ambulance,0
+109,2005,Nagaland,Ambulance,1
+110,2005,Manipur,Ambulance,2
+111,2005,Mizoram,Ambulance,1
+112,2005,Tripura,Ambulance,2
+113,2005,Meghalaya,Ambulance,4
+114,2005,Assam,Ambulance,0
+115,2005,West Bengal,Ambulance,54
+116,2005,Jharkhand,Ambulance,12
+117,2005,Odisha,Ambulance,1
+118,2005,Chhattisgarh,Ambulance,7
+119,2005,Madhya Pradesh,Ambulance,9
+120,2005,Gujarat,Ambulance,11
+121,2005,Daman & Diu,Ambulance,0
+122,2005,Dadra & Nagar Haveli,Ambulance,0
+123,2005,Maharashtra,Ambulance,21
+124,2005,Andhra Pradesh,Ambulance,4
+125,2005,Karnataka,Ambulance,18
+126,2005,Goa,Ambulance,2
+127,2005,Lakshadweep,Ambulance,0
+128,2005,Kerala,Ambulance,7
+129,2005,Tamil Nadu,Ambulance,11
+130,2005,Puducherry,Ambulance,0
+131,2005,Andaman & Nicobar Islands,Ambulance,0
+132,2006,Jammu & Kashmir,Ambulance,2
+133,2006,Himachal Pradesh,Ambulance,1
+134,2006,Punjab,Ambulance,14
+135,2006,Chandigarh,Ambulance,0
+136,2006,Uttarakhand,Ambulance,9
+137,2006,Haryana,Ambulance,3
+138,2006,Delhi,Ambulance,7
+139,2006,Rajasthan,Ambulance,24
+140,2006,Uttar Pradesh,Ambulance,40
+141,2006,Bihar,Ambulance,5
+142,2006,Sikkim,Ambulance,0
+143,2006,Nagaland,Ambulance,1
+144,2006,Manipur,Ambulance,2
+145,2006,Mizoram,Ambulance,1
+146,2006,Tripura,Ambulance,2
+147,2006,Meghalaya,Ambulance,4
+148,2006,Assam,Ambulance,0
+149,2006,West Bengal,Ambulance,54
+150,2006,Jharkhand,Ambulance,23
+151,2006,Odisha,Ambulance,1
+152,2006,Chhattisgarh,Ambulance,11
+153,2006,Madhya Pradesh,Ambulance,10
+154,2006,Gujarat,Ambulance,4
+155,2006,Daman & Diu,Ambulance,0
+156,2006,Dadra & Nagar Haveli,Ambulance,0
+157,2006,Maharashtra,Ambulance,24
+158,2006,Andhra Pradesh,Ambulance,4
+159,2006,Karnataka,Ambulance,18
+160,2006,Goa,Ambulance,1
+161,2006,Lakshadweep,Ambulance,0
+162,2006,Kerala,Ambulance,5
+163,2006,Tamil Nadu,Ambulance,14
+164,2006,Puducherry,Ambulance,0
+165,2006,Andaman & Nicobar Islands,Ambulance,0
+166,2007,Jammu & Kashmir,Ambulance,2
+167,2007,Himachal Pradesh,Ambulance,1
+168,2007,Punjab,Ambulance,14
+169,2007,Chandigarh,Ambulance,0
+170,2007,Uttarakhand,Ambulance,5
+171,2007,Haryana,Ambulance,4
+172,2007,Delhi,Ambulance,9
+173,2007,Uttar Pradesh,Ambulance,50
+174,2007,Bihar,Ambulance,5
+175,2007,Sikkim,Ambulance,0
+176,2007,Nagaland,Ambulance,1
+177,2007,Manipur,Ambulance,2
+178,2007,Mizoram,Ambulance,1
+179,2007,Tripura,Ambulance,2
+180,2007,Meghalaya,Ambulance,3
+181,2007,Assam,Ambulance,0
+182,2007,West Bengal,Ambulance,51
+183,2007,Jharkhand,Ambulance,27
+184,2007,Odisha,Ambulance,1
+185,2007,Chhattisgarh,Ambulance,12
+186,2007,Madhya Pradesh,Ambulance,9
+187,2007,Gujarat,Ambulance,15
+188,2007,Daman & Diu,Ambulance,0
+189,2007,Dadra & Nagar Haveli,Ambulance,0
+190,2007,Maharashtra,Ambulance,24
+191,2007,Andhra Pradesh,Ambulance,4
+192,2007,Karnataka,Ambulance,19
+193,2007,Goa,Ambulance,2
+194,2007,Lakshadweep,Ambulance,0
+195,2007,Kerala,Ambulance,7
+196,2007,Tamil Nadu,Ambulance,29
+197,2007,Puducherry,Ambulance,0
+198,2007,Andaman & Nicobar Islands,Ambulance,0
+199,2001,Jammu & Kashmir,Car,2
+200,2001,Himachal Pradesh,Car,0
+201,2001,Punjab,Car,1
+202,2001,Chandigarh,Car,0
+203,2001,Uttarakhand,Car,0
+204,2001,Haryana,Car,3
+205,2001,Delhi,Car,4
+206,2001,Rajasthan,Car,2
+207,2001,Uttar Pradesh,Car,4
+208,2001,Bihar,Car,0
+209,2001,Sikkim,Car,0
+210,2001,Nagaland,Car,1
+211,2001,Manipur,Car,2
+212,2001,Mizoram,Car,0
+213,2001,Tripura,Car,3
+214,2001,Meghalaya,Car,0
+215,2001,Assam,Car,0
+216,2001,West Bengal,Car,0
+217,2001,Jharkhand,Car,0
+218,2001,Odisha,Car,3
+219,2001,Chhattisgarh,Car,1
+220,2001,Madhya Pradesh,Car,4
+221,2001,Gujarat,Car,34
+222,2001,Daman & Diu,Car,0
+223,2001,Dadra & Nagar Haveli,Car,0
+224,2001,Maharashtra,Car,5
+225,2001,Andhra Pradesh,Car,7
+226,2001,Karnataka,Car,3
+227,2001,Goa,Car,0
+228,2001,Lakshadweep,Car,0
+229,2001,Kerala,Car,2
+230,2001,Tamil Nadu,Car,15
+231,2001,Puducherry,Car,0
+232,2002,Jammu & Kashmir,Car,3
+233,2002,Himachal Pradesh,Car,2
+234,2002,Punjab,Car,3
+235,2002,Chandigarh,Car,0
+236,2002,Uttarakhand,Car,0
+237,2002,Haryana,Car,0
+238,2002,Delhi,Car,4
+239,2002,Rajasthan,Car,2
+240,2002,Uttar Pradesh,Car,2
+241,2002,Bihar,Car,0
+242,2002,Sikkim,Car,0
+243,2002,Nagaland,Car,1
+244,2002,Manipur,Car,2
+245,2002,Mizoram,Car,0
+246,2002,Tripura,Car,3
+247,2002,Meghalaya,Car,0
+248,2002,Assam,Car,0
+249,2002,West Bengal,Car,1
+250,2002,Jharkhand,Car,0
+251,2002,Odisha,Car,3
+252,2002,Chhattisgarh,Car,1
+253,2002,Madhya Pradesh,Car,3
+254,2002,Gujarat,Car,3
+255,2002,Daman & Diu,Car,0
+256,2002,Dadra & Nagar Haveli,Car,0
+257,2002,Maharashtra,Car,5
+258,2002,Andhra Pradesh,Car,7
+259,2002,Karnataka,Car,4
+260,2002,Goa,Car,0
+261,2002,Lakshadweep,Car,0
+262,2002,Kerala,Car,5
+263,2002,Tamil Nadu,Car,15
+264,2002,Puducherry,Car,0
+265,2003,Jammu & Kashmir,Car,3
+266,2003,Himachal Pradesh,Car,2
+267,2003,Punjab,Car,4
+268,2003,Chandigarh,Car,1
+269,2003,Uttarakhand,Car,0
+270,2003,Haryana,Car,0
+271,2003,Delhi,Car,4
+272,2003,Rajasthan,Car,2
+273,2003,Uttar Pradesh,Car,2
+274,2003,Bihar,Car,0
+275,2003,Sikkim,Car,0
+276,2003,Nagaland,Car,1
+277,2003,Manipur,Car,1
+278,2003,Mizoram,Car,0
+279,2003,Tripura,Car,3
+280,2003,Meghalaya,Car,0
+281,2003,Assam,Car,0
+282,2003,West Bengal,Car,1
+283,2003,Jharkhand,Car,0
+284,2003,Odisha,Car,3
+285,2003,Chhattisgarh,Car,1
+286,2003,Madhya Pradesh,Car,0
+287,2003,Gujarat,Car,3
+288,2003,Daman & Diu,Car,0
+289,2003,Dadra & Nagar Haveli,Car,0
+290,2003,Maharashtra,Car,4
+291,2003,Andhra Pradesh,Car,7
+292,2003,Karnataka,Car,4
+293,2003,Goa,Car,0
+294,2003,Lakshadweep,Car,0
+295,2003,Kerala,Car,6
+296,2003,Tamil Nadu,Car,15
+297,2003,Puducherry,Car,0
+298,2003,Andaman & Nicobar Islands,Car,0
+299,2004,Jammu & Kashmir,Car,4
+300,2004,Himachal Pradesh,Car,0
+301,2004,Punjab,Car,6
+302,2004,Chandigarh,Car,1
+303,2004,Uttarakhand,Car,0
+304,2004,Haryana,Car,0
+305,2004,Delhi,Car,4
+306,2004,Rajasthan,Car,2
+307,2004,Uttar Pradesh,Car,2
+308,2004,Bihar,Car,0
+309,2004,Sikkim,Car,0
+310,2004,Nagaland,Car,1
+311,2004,Manipur,Car,1
+312,2004,Mizoram,Car,0
+313,2004,Tripura,Car,3
+314,2004,Meghalaya,Car,0
+315,2004,Assam,Car,0
+316,2004,West Bengal,Car,0
+317,2004,Jharkhand,Car,0
+318,2004,Odisha,Car,3
+319,2004,Chhattisgarh,Car,1
+320,2004,Madhya Pradesh,Car,3
+321,2004,Gujarat,Car,1
+322,2004,Daman & Diu,Car,0
+323,2004,Dadra & Nagar Haveli,Car,0
+324,2004,Maharashtra,Car,0
+325,2004,Andhra Pradesh,Car,10
+326,2004,Karnataka,Car,4
+327,2004,Goa,Car,1
+328,2004,Lakshadweep,Car,0
+329,2004,Kerala,Car,6
+330,2004,Tamil Nadu,Car,10
+331,2004,Puducherry,Car,0
+332,2004,Andaman & Nicobar Islands,Car,0
+333,2005,Jammu & Kashmir,Car,4
+334,2005,Himachal Pradesh,Car,0
+335,2005,Punjab,Car,6
+336,2005,Chandigarh,Car,0
+337,2005,Uttarakhand,Car,0
+338,2005,Haryana,Car,0
+339,2005,Delhi,Car,5
+340,2005,Rajasthan,Car,2
+341,2005,Uttar Pradesh,Car,5
+342,2005,Bihar,Car,4
+343,2005,Sikkim,Car,0
+344,2005,Nagaland,Car,1
+345,2005,Manipur,Car,1
+346,2005,Mizoram,Car,0
+347,2005,Tripura,Car,3
+348,2005,Meghalaya,Car,0
+349,2005,Assam,Car,4
+350,2005,West Bengal,Car,2
+351,2005,Jharkhand,Car,0
+352,2005,Odisha,Car,4
+353,2005,Chhattisgarh,Car,1
+354,2005,Madhya Pradesh,Car,1
+355,2005,Gujarat,Car,1
+356,2005,Daman & Diu,Car,0
+357,2005,Dadra & Nagar Haveli,Car,0
+358,2005,Maharashtra,Car,2
+359,2005,Andhra Pradesh,Car,16
+360,2005,Karnataka,Car,4
+361,2005,Goa,Car,0
+362,2005,Lakshadweep,Car,0
+363,2005,Kerala,Car,6
+364,2005,Tamil Nadu,Car,10
+365,2005,Puducherry,Car,0
+366,2005,Andaman & Nicobar Islands,Car,0
+367,2006,Jammu & Kashmir,Car,4
+368,2006,Himachal Pradesh,Car,0
+369,2006,Punjab,Car,6
+370,2006,Chandigarh,Car,1
+371,2006,Uttarakhand,Car,0
+372,2006,Haryana,Car,0
+373,2006,Delhi,Car,4
+374,2006,Rajasthan,Car,2
+375,2006,Uttar Pradesh,Car,0
+376,2006,Bihar,Car,4
+377,2006,Sikkim,Car,0
+378,2006,Nagaland,Car,1
+379,2006,Manipur,Car,1
+380,2006,Mizoram,Car,1
+381,2006,Tripura,Car,3
+382,2006,Meghalaya,Car,0
+383,2006,Assam,Car,0
+384,2006,West Bengal,Car,4
+385,2006,Jharkhand,Car,0
+386,2006,Odisha,Car,4
+387,2006,Chhattisgarh,Car,2
+388,2006,Madhya Pradesh,Car,0
+389,2006,Gujarat,Car,1
+390,2006,Daman & Diu,Car,0
+391,2006,Dadra & Nagar Haveli,Car,0
+392,2006,Maharashtra,Car,9
+393,2006,Andhra Pradesh,Car,16
+394,2006,Karnataka,Car,4
+395,2006,Goa,Car,0
+396,2006,Lakshadweep,Car,0
+397,2006,Kerala,Car,6
+398,2006,Tamil Nadu,Car,19
+399,2006,Puducherry,Car,0
+400,2006,Andaman & Nicobar Islands,Car,0
+401,2007,Jammu & Kashmir,Car,3
+402,2007,Himachal Pradesh,Car,0
+403,2007,Punjab,Car,7
+404,2007,Chandigarh,Car,1
+405,2007,Uttarakhand,Car,1
+406,2007,Haryana,Car,1
+407,2007,Delhi,Car,5
+408,2007,Uttar Pradesh,Car,8
+409,2007,Bihar,Car,4
+410,2007,Sikkim,Car,0
+411,2007,Nagaland,Car,2
+412,2007,Manipur,Car,2
+413,2007,Mizoram,Car,1
+414,2007,Tripura,Car,3
+415,2007,Meghalaya,Car,0
+416,2007,Assam,Car,0
+417,2007,West Bengal,Car,3
+418,2007,Jharkhand,Car,0
+419,2007,Odisha,Car,4
+420,2007,Chhattisgarh,Car,2
+421,2007,Madhya Pradesh,Car,0
+422,2007,Gujarat,Car,1
+423,2007,Daman & Diu,Car,0
+424,2007,Dadra & Nagar Haveli,Car,0
+425,2007,Maharashtra,Car,3
+426,2007,Andhra Pradesh,Car,16
+427,2007,Karnataka,Car,5
+428,2007,Goa,Car,0
+429,2007,Lakshadweep,Car,0
+430,2007,Kerala,Car,14
+431,2007,Tamil Nadu,Car,16
+432,2007,Puducherry,Car,0
+433,2007,Andaman & Nicobar Islands,Car,0
+434,2001,Jammu & Kashmir,Jeep,11
+435,2001,Himachal Pradesh,Jeep,0
+436,2001,Punjab,Jeep,12
+437,2001,Chandigarh,Jeep,1
+438,2001,Uttarakhand,Jeep,5
+439,2001,Haryana,Jeep,2
+440,2001,Delhi,Jeep,6
+441,2001,Rajasthan,Jeep,2
+442,2001,Uttar Pradesh,Jeep,41
+443,2001,Bihar,Jeep,0
+444,2001,Sikkim,Jeep,2
+445,2001,Nagaland,Jeep,7
+446,2001,Manipur,Jeep,2
+447,2001,Mizoram,Jeep,6
+448,2001,Tripura,Jeep,2
+449,2001,Meghalaya,Jeep,2
+450,2001,Assam,Jeep,0
+451,2001,West Bengal,Jeep,3
+452,2001,Jharkhand,Jeep,3
+453,2001,Odisha,Jeep,5
+454,2001,Chhattisgarh,Jeep,6
+455,2001,Madhya Pradesh,Jeep,14
+456,2001,Gujarat,Jeep,13
+457,2001,Daman & Diu,Jeep,0
+458,2001,Dadra & Nagar Haveli,Jeep,0
+459,2001,Maharashtra,Jeep,3
+460,2001,Andhra Pradesh,Jeep,15
+461,2001,Karnataka,Jeep,5
+462,2001,Goa,Jeep,3
+463,2001,Lakshadweep,Jeep,0
+464,2001,Kerala,Jeep,15
+465,2001,Tamil Nadu,Jeep,10
+466,2001,Puducherry,Jeep,0
+467,2002,Jammu & Kashmir,Jeep,4
+468,2002,Himachal Pradesh,Jeep,1
+469,2002,Punjab,Jeep,17
+470,2002,Chandigarh,Jeep,1
+471,2002,Uttarakhand,Jeep,7
+472,2002,Haryana,Jeep,2
+473,2002,Delhi,Jeep,6
+474,2002,Rajasthan,Jeep,7
+475,2002,Uttar Pradesh,Jeep,50
+476,2002,Bihar,Jeep,17
+477,2002,Sikkim,Jeep,2
+478,2002,Nagaland,Jeep,7
+479,2002,Manipur,Jeep,2
+480,2002,Mizoram,Jeep,6
+481,2002,Tripura,Jeep,2
+482,2002,Meghalaya,Jeep,2
+483,2002,Assam,Jeep,0
+484,2002,West Bengal,Jeep,3
+485,2002,Jharkhand,Jeep,4
+486,2002,Odisha,Jeep,5
+487,2002,Chhattisgarh,Jeep,6
+488,2002,Madhya Pradesh,Jeep,16
+489,2002,Gujarat,Jeep,13
+490,2002,Daman & Diu,Jeep,0
+491,2002,Dadra & Nagar Haveli,Jeep,0
+492,2002,Maharashtra,Jeep,3
+493,2002,Andhra Pradesh,Jeep,23
+494,2002,Karnataka,Jeep,5
+495,2002,Goa,Jeep,1
+496,2002,Lakshadweep,Jeep,0
+497,2002,Kerala,Jeep,15
+498,2002,Tamil Nadu,Jeep,10
+499,2002,Puducherry,Jeep,0
+500,2003,Jammu & Kashmir,Jeep,4
+501,2003,Himachal Pradesh,Jeep,1
+502,2003,Punjab,Jeep,17
+503,2003,Chandigarh,Jeep,0
+504,2003,Uttarakhand,Jeep,9
+505,2003,Haryana,Jeep,0
+506,2003,Delhi,Jeep,6
+507,2003,Rajasthan,Jeep,7
+508,2003,Uttar Pradesh,Jeep,50
+509,2003,Bihar,Jeep,18
+510,2003,Sikkim,Jeep,2
+511,2003,Nagaland,Jeep,1
+512,2003,Manipur,Jeep,3
+513,2003,Mizoram,Jeep,4
+514,2003,Tripura,Jeep,2
+515,2003,Meghalaya,Jeep,2
+516,2003,Assam,Jeep,0
+517,2003,West Bengal,Jeep,3
+518,2003,Jharkhand,Jeep,7
+519,2003,Odisha,Jeep,5
+520,2003,Chhattisgarh,Jeep,6
+521,2003,Madhya Pradesh,Jeep,14
+522,2003,Gujarat,Jeep,13
+523,2003,Daman & Diu,Jeep,0
+524,2003,Dadra & Nagar Haveli,Jeep,0
+525,2003,Maharashtra,Jeep,3
+526,2003,Andhra Pradesh,Jeep,14
+527,2003,Karnataka,Jeep,5
+528,2003,Goa,Jeep,1
+529,2003,Lakshadweep,Jeep,0
+530,2003,Kerala,Jeep,33
+531,2003,Tamil Nadu,Jeep,18
+532,2003,Puducherry,Jeep,0
+533,2003,Andaman & Nicobar Islands,Jeep,1
+534,2004,Jammu & Kashmir,Jeep,0
+535,2004,Himachal Pradesh,Jeep,0
+536,2004,Punjab,Jeep,14
+537,2004,Chandigarh,Jeep,0
+538,2004,Uttarakhand,Jeep,9
+539,2004,Haryana,Jeep,1
+540,2004,Delhi,Jeep,5
+541,2004,Rajasthan,Jeep,7
+542,2004,Uttar Pradesh,Jeep,50
+543,2004,Bihar,Jeep,10
+544,2004,Sikkim,Jeep,2
+545,2004,Nagaland,Jeep,1
+546,2004,Manipur,Jeep,3
+547,2004,Mizoram,Jeep,4
+548,2004,Tripura,Jeep,2
+549,2004,Meghalaya,Jeep,2
+550,2004,Assam,Jeep,0
+551,2004,West Bengal,Jeep,2
+552,2004,Jharkhand,Jeep,7
+553,2004,Odisha,Jeep,5
+554,2004,Chhattisgarh,Jeep,5
+555,2004,Madhya Pradesh,Jeep,14
+556,2004,Gujarat,Jeep,16
+557,2004,Daman & Diu,Jeep,0
+558,2004,Dadra & Nagar Haveli,Jeep,0
+559,2004,Maharashtra,Jeep,4
+560,2004,Andhra Pradesh,Jeep,14
+561,2004,Karnataka,Jeep,5
+562,2004,Goa,Jeep,1
+563,2004,Lakshadweep,Jeep,0
+564,2004,Kerala,Jeep,33
+565,2004,Tamil Nadu,Jeep,8
+566,2004,Puducherry,Jeep,0
+567,2004,Andaman & Nicobar Islands,Jeep,1
+568,2005,Jammu & Kashmir,Jeep,0
+569,2005,Himachal Pradesh,Jeep,0
+570,2005,Punjab,Jeep,14
+571,2005,Chandigarh,Jeep,0
+572,2005,Uttarakhand,Jeep,9
+573,2005,Haryana,Jeep,3
+574,2005,Delhi,Jeep,8
+575,2005,Rajasthan,Jeep,7
+576,2005,Uttar Pradesh,Jeep,50
+577,2005,Bihar,Jeep,10
+578,2005,Sikkim,Jeep,2
+579,2005,Nagaland,Jeep,1
+580,2005,Manipur,Jeep,0
+581,2005,Mizoram,Jeep,4
+582,2005,Tripura,Jeep,2
+583,2005,Meghalaya,Jeep,1
+584,2005,Assam,Jeep,0
+585,2005,West Bengal,Jeep,2
+586,2005,Jharkhand,Jeep,7
+587,2005,Odisha,Jeep,5
+588,2005,Chhattisgarh,Jeep,4
+589,2005,Madhya Pradesh,Jeep,12
+590,2005,Gujarat,Jeep,16
+591,2005,Daman & Diu,Jeep,0
+592,2005,Dadra & Nagar Haveli,Jeep,0
+593,2005,Maharashtra,Jeep,5
+594,2005,Andhra Pradesh,Jeep,14
+595,2005,Karnataka,Jeep,5
+596,2005,Goa,Jeep,2
+597,2005,Lakshadweep,Jeep,0
+598,2005,Kerala,Jeep,33
+599,2005,Tamil Nadu,Jeep,9
+600,2005,Puducherry,Jeep,0
+601,2005,Andaman & Nicobar Islands,Jeep,0
+602,2006,Jammu & Kashmir,Jeep,10
+603,2006,Himachal Pradesh,Jeep,0
+604,2006,Punjab,Jeep,14
+605,2006,Chandigarh,Jeep,0
+606,2006,Uttarakhand,Jeep,7
+607,2006,Haryana,Jeep,3
+608,2006,Delhi,Jeep,9
+609,2006,Rajasthan,Jeep,7
+610,2006,Uttar Pradesh,Jeep,37
+611,2006,Bihar,Jeep,10
+612,2006,Sikkim,Jeep,2
+613,2006,Nagaland,Jeep,8
+614,2006,Manipur,Jeep,0
+615,2006,Mizoram,Jeep,1
+616,2006,Tripura,Jeep,1
+617,2006,Meghalaya,Jeep,2
+618,2006,Assam,Jeep,0
+619,2006,West Bengal,Jeep,2
+620,2006,Jharkhand,Jeep,9
+621,2006,Odisha,Jeep,5
+622,2006,Chhattisgarh,Jeep,3
+623,2006,Madhya Pradesh,Jeep,14
+624,2006,Gujarat,Jeep,12
+625,2006,Daman & Diu,Jeep,0
+626,2006,Dadra & Nagar Haveli,Jeep,0
+627,2006,Maharashtra,Jeep,2
+628,2006,Andhra Pradesh,Jeep,14
+629,2006,Karnataka,Jeep,5
+630,2006,Goa,Jeep,2
+631,2006,Lakshadweep,Jeep,0
+632,2006,Kerala,Jeep,29
+633,2006,Tamil Nadu,Jeep,13
+634,2006,Puducherry,Jeep,1
+635,2006,Andaman & Nicobar Islands,Jeep,1
+636,2007,Jammu & Kashmir,Jeep,0
+637,2007,Himachal Pradesh,Jeep,0
+638,2007,Punjab,Jeep,15
+639,2007,Chandigarh,Jeep,0
+640,2007,Uttarakhand,Jeep,8
+641,2007,Haryana,Jeep,2
+642,2007,Delhi,Jeep,8
+643,2007,Uttar Pradesh,Jeep,61
+644,2007,Bihar,Jeep,10
+645,2007,Sikkim,Jeep,5
+646,2007,Nagaland,Jeep,6
+647,2007,Manipur,Jeep,2
+648,2007,Mizoram,Jeep,1
+649,2007,Tripura,Jeep,1
+650,2007,Meghalaya,Jeep,1
+651,2007,Assam,Jeep,0
+652,2007,West Bengal,Jeep,2
+653,2007,Jharkhand,Jeep,14
+654,2007,Odisha,Jeep,4
+655,2007,Chhattisgarh,Jeep,3
+656,2007,Madhya Pradesh,Jeep,14
+657,2007,Gujarat,Jeep,11
+658,2007,Daman & Diu,Jeep,0
+659,2007,Dadra & Nagar Haveli,Jeep,0
+660,2007,Maharashtra,Jeep,1
+661,2007,Andhra Pradesh,Jeep,14
+662,2007,Karnataka,Jeep,5
+663,2007,Goa,Jeep,1
+664,2007,Lakshadweep,Jeep,0
+665,2007,Kerala,Jeep,49
+666,2007,Tamil Nadu,Jeep,14
+667,2007,Puducherry,Jeep,0
+668,2007,Andaman & Nicobar Islands,Jeep,1
+669,2001,Jammu & Kashmir,Lorry,2
+670,2001,Himachal Pradesh,Lorry,0
+671,2001,Punjab,Lorry,0
+672,2001,Chandigarh,Lorry,1
+673,2001,Uttarakhand,Lorry,0
+674,2001,Haryana,Lorry,0
+675,2001,Delhi,Lorry,4
+676,2001,Rajasthan,Lorry,0
+677,2001,Uttar Pradesh,Lorry,6
+678,2001,Bihar,Lorry,0
+679,2001,Sikkim,Lorry,0
+680,2001,Nagaland,Lorry,0
+681,2001,Manipur,Lorry,1
+682,2001,Mizoram,Lorry,0
+683,2001,Tripura,Lorry,0
+684,2001,Meghalaya,Lorry,0
+685,2001,Assam,Lorry,0
+686,2001,West Bengal,Lorry,0
+687,2001,Jharkhand,Lorry,0
+688,2001,Odisha,Lorry,1
+689,2001,Chhattisgarh,Lorry,16
+690,2001,Madhya Pradesh,Lorry,31
+691,2001,Gujarat,Lorry,5
+692,2001,Daman & Diu,Lorry,0
+693,2001,Dadra & Nagar Haveli,Lorry,0
+694,2001,Maharashtra,Lorry,6
+695,2001,Andhra Pradesh,Lorry,0
+696,2001,Karnataka,Lorry,0
+697,2001,Goa,Lorry,0
+698,2001,Lakshadweep,Lorry,0
+699,2001,Kerala,Lorry,0
+700,2001,Tamil Nadu,Lorry,5
+701,2001,Puducherry,Lorry,0
+702,2002,Jammu & Kashmir,Lorry,1
+703,2002,Himachal Pradesh,Lorry,0
+704,2002,Punjab,Lorry,15
+705,2002,Chandigarh,Lorry,1
+706,2002,Uttarakhand,Lorry,0
+707,2002,Haryana,Lorry,0
+708,2002,Delhi,Lorry,2
+709,2002,Rajasthan,Lorry,4
+710,2002,Uttar Pradesh,Lorry,7
+711,2002,Bihar,Lorry,0
+712,2002,Sikkim,Lorry,0
+713,2002,Nagaland,Lorry,0
+714,2002,Manipur,Lorry,1
+715,2002,Mizoram,Lorry,0
+716,2002,Tripura,Lorry,0
+717,2002,Meghalaya,Lorry,0
+718,2002,Assam,Lorry,0
+719,2002,West Bengal,Lorry,0
+720,2002,Jharkhand,Lorry,0
+721,2002,Odisha,Lorry,1
+722,2002,Chhattisgarh,Lorry,17
+723,2002,Madhya Pradesh,Lorry,32
+724,2002,Gujarat,Lorry,3
+725,2002,Daman & Diu,Lorry,0
+726,2002,Dadra & Nagar Haveli,Lorry,0
+727,2002,Maharashtra,Lorry,6
+728,2002,Andhra Pradesh,Lorry,0
+729,2002,Karnataka,Lorry,3
+730,2002,Goa,Lorry,0
+731,2002,Lakshadweep,Lorry,0
+732,2002,Kerala,Lorry,0
+733,2002,Tamil Nadu,Lorry,5
+734,2002,Puducherry,Lorry,0
+735,2003,Jammu & Kashmir,Lorry,1
+736,2003,Himachal Pradesh,Lorry,0
+737,2003,Punjab,Lorry,15
+738,2003,Chandigarh,Lorry,0
+739,2003,Uttarakhand,Lorry,0
+740,2003,Haryana,Lorry,0
+741,2003,Delhi,Lorry,3
+742,2003,Rajasthan,Lorry,4
+743,2003,Uttar Pradesh,Lorry,7
+744,2003,Bihar,Lorry,0
+745,2003,Sikkim,Lorry,0
+746,2003,Nagaland,Lorry,3
+747,2003,Manipur,Lorry,1
+748,2003,Mizoram,Lorry,0
+749,2003,Tripura,Lorry,0
+750,2003,Meghalaya,Lorry,0
+751,2003,Assam,Lorry,0
+752,2003,West Bengal,Lorry,0
+753,2003,Jharkhand,Lorry,0
+754,2003,Odisha,Lorry,1
+755,2003,Chhattisgarh,Lorry,13
+756,2003,Madhya Pradesh,Lorry,32
+757,2003,Gujarat,Lorry,3
+758,2003,Daman & Diu,Lorry,0
+759,2003,Dadra & Nagar Haveli,Lorry,0
+760,2003,Maharashtra,Lorry,15
+761,2003,Andhra Pradesh,Lorry,0
+762,2003,Karnataka,Lorry,3
+763,2003,Goa,Lorry,0
+764,2003,Lakshadweep,Lorry,0
+765,2003,Kerala,Lorry,0
+766,2003,Tamil Nadu,Lorry,5
+767,2003,Puducherry,Lorry,0
+768,2003,Andaman & Nicobar Islands,Lorry,1
+769,2004,Jammu & Kashmir,Lorry,2
+770,2004,Himachal Pradesh,Lorry,0
+771,2004,Punjab,Lorry,0
+772,2004,Chandigarh,Lorry,1
+773,2004,Uttarakhand,Lorry,0
+774,2004,Haryana,Lorry,0
+775,2004,Delhi,Lorry,1
+776,2004,Rajasthan,Lorry,4
+777,2004,Uttar Pradesh,Lorry,7
+778,2004,Bihar,Lorry,0
+779,2004,Sikkim,Lorry,0
+780,2004,Nagaland,Lorry,3
+781,2004,Manipur,Lorry,1
+782,2004,Mizoram,Lorry,0
+783,2004,Tripura,Lorry,0
+784,2004,Meghalaya,Lorry,0
+785,2004,Assam,Lorry,0
+786,2004,West Bengal,Lorry,0
+787,2004,Jharkhand,Lorry,0
+788,2004,Odisha,Lorry,1
+789,2004,Chhattisgarh,Lorry,12
+790,2004,Madhya Pradesh,Lorry,32
+791,2004,Gujarat,Lorry,3
+792,2004,Daman & Diu,Lorry,0
+793,2004,Dadra & Nagar Haveli,Lorry,0
+794,2004,Maharashtra,Lorry,10
+795,2004,Andhra Pradesh,Lorry,0
+796,2004,Karnataka,Lorry,3
+797,2004,Goa,Lorry,0
+798,2004,Lakshadweep,Lorry,0
+799,2004,Kerala,Lorry,0
+800,2004,Tamil Nadu,Lorry,4
+801,2004,Puducherry,Lorry,0
+802,2004,Andaman & Nicobar Islands,Lorry,1
+803,2005,Jammu & Kashmir,Lorry,2
+804,2005,Himachal Pradesh,Lorry,0
+805,2005,Punjab,Lorry,0
+806,2005,Chandigarh,Lorry,0
+807,2005,Uttarakhand,Lorry,0
+808,2005,Haryana,Lorry,1
+809,2005,Delhi,Lorry,4
+810,2005,Rajasthan,Lorry,2
+811,2005,Uttar Pradesh,Lorry,4
+812,2005,Bihar,Lorry,0
+813,2005,Sikkim,Lorry,0
+814,2005,Nagaland,Lorry,3
+815,2005,Manipur,Lorry,1
+816,2005,Mizoram,Lorry,0
+817,2005,Tripura,Lorry,0
+818,2005,Meghalaya,Lorry,0
+819,2005,Assam,Lorry,0
+820,2005,West Bengal,Lorry,0
+821,2005,Jharkhand,Lorry,0
+822,2005,Odisha,Lorry,1
+823,2005,Chhattisgarh,Lorry,9
+824,2005,Madhya Pradesh,Lorry,24
+825,2005,Gujarat,Lorry,3
+826,2005,Daman & Diu,Lorry,0
+827,2005,Dadra & Nagar Haveli,Lorry,0
+828,2005,Maharashtra,Lorry,8
+829,2005,Andhra Pradesh,Lorry,0
+830,2005,Karnataka,Lorry,3
+831,2005,Goa,Lorry,0
+832,2005,Lakshadweep,Lorry,0
+833,2005,Kerala,Lorry,0
+834,2005,Tamil Nadu,Lorry,5
+835,2005,Puducherry,Lorry,0
+836,2005,Andaman & Nicobar Islands,Lorry,0
+837,2006,Jammu & Kashmir,Lorry,2
+838,2006,Himachal Pradesh,Lorry,0
+839,2006,Punjab,Lorry,0
+840,2006,Chandigarh,Lorry,1
+841,2006,Uttarakhand,Lorry,0
+842,2006,Haryana,Lorry,0
+843,2006,Delhi,Lorry,5
+844,2006,Rajasthan,Lorry,2
+845,2006,Uttar Pradesh,Lorry,4
+846,2006,Bihar,Lorry,0
+847,2006,Sikkim,Lorry,0
+848,2006,Nagaland,Lorry,3
+849,2006,Manipur,Lorry,1
+850,2006,Mizoram,Lorry,1
+851,2006,Tripura,Lorry,0
+852,2006,Meghalaya,Lorry,0
+853,2006,Assam,Lorry,0
+854,2006,West Bengal,Lorry,0
+855,2006,Jharkhand,Lorry,0
+856,2006,Odisha,Lorry,1
+857,2006,Chhattisgarh,Lorry,5
+858,2006,Madhya Pradesh,Lorry,19
+859,2006,Gujarat,Lorry,0
+860,2006,Daman & Diu,Lorry,0
+861,2006,Dadra & Nagar Haveli,Lorry,0
+862,2006,Maharashtra,Lorry,8
+863,2006,Andhra Pradesh,Lorry,0
+864,2006,Karnataka,Lorry,3
+865,2006,Goa,Lorry,0
+866,2006,Lakshadweep,Lorry,0
+867,2006,Kerala,Lorry,0
+868,2006,Tamil Nadu,Lorry,2
+869,2006,Puducherry,Lorry,0
+870,2006,Andaman & Nicobar Islands,Lorry,1
+871,2007,Jammu & Kashmir,Lorry,0
+872,2007,Himachal Pradesh,Lorry,0
+873,2007,Punjab,Lorry,0
+874,2007,Chandigarh,Lorry,1
+875,2007,Uttarakhand,Lorry,4
+876,2007,Haryana,Lorry,0
+877,2007,Delhi,Lorry,6
+878,2007,Uttar Pradesh,Lorry,3
+879,2007,Bihar,Lorry,0
+880,2007,Sikkim,Lorry,0
+881,2007,Nagaland,Lorry,0
+882,2007,Manipur,Lorry,1
+883,2007,Mizoram,Lorry,1
+884,2007,Tripura,Lorry,0
+885,2007,Meghalaya,Lorry,0
+886,2007,Assam,Lorry,0
+887,2007,West Bengal,Lorry,0
+888,2007,Jharkhand,Lorry,6
+889,2007,Odisha,Lorry,0
+890,2007,Chhattisgarh,Lorry,5
+891,2007,Madhya Pradesh,Lorry,23
+892,2007,Gujarat,Lorry,3
+893,2007,Daman & Diu,Lorry,0
+894,2007,Dadra & Nagar Haveli,Lorry,0
+895,2007,Maharashtra,Lorry,8
+896,2007,Andhra Pradesh,Lorry,0
+897,2007,Karnataka,Lorry,1
+898,2007,Goa,Lorry,0
+899,2007,Lakshadweep,Lorry,0
+900,2007,Kerala,Lorry,1
+901,2007,Tamil Nadu,Lorry,4
+902,2007,Puducherry,Lorry,0
+903,2007,Andaman & Nicobar Islands,Lorry,1
+904,2001,Jammu & Kashmir,Motorcycle,0
+905,2001,Himachal Pradesh,Motorcycle,0
+906,2001,Punjab,Motorcycle,0
+907,2001,Chandigarh,Motorcycle,1
+908,2001,Uttarakhand,Motorcycle,6
+909,2001,Haryana,Motorcycle,1
+910,2001,Delhi,Motorcycle,9
+911,2001,Rajasthan,Motorcycle,2
+912,2001,Uttar Pradesh,Motorcycle,23
+913,2001,Bihar,Motorcycle,0
+914,2001,Sikkim,Motorcycle,0
+915,2001,Nagaland,Motorcycle,0
+916,2001,Manipur,Motorcycle,2
+917,2001,Mizoram,Motorcycle,6
+918,2001,Tripura,Motorcycle,7
+919,2001,Meghalaya,Motorcycle,0
+920,2001,Assam,Motorcycle,1
+921,2001,West Bengal,Motorcycle,0
+922,2001,Jharkhand,Motorcycle,0
+923,2001,Odisha,Motorcycle,5
+924,2001,Chhattisgarh,Motorcycle,5
+925,2001,Madhya Pradesh,Motorcycle,8
+926,2001,Gujarat,Motorcycle,23
+927,2001,Daman & Diu,Motorcycle,0
+928,2001,Dadra & Nagar Haveli,Motorcycle,0
+929,2001,Maharashtra,Motorcycle,0
+930,2001,Andhra Pradesh,Motorcycle,11
+931,2001,Karnataka,Motorcycle,43
+932,2001,Goa,Motorcycle,0
+933,2001,Lakshadweep,Motorcycle,0
+934,2001,Kerala,Motorcycle,5
+935,2001,Tamil Nadu,Motorcycle,11
+936,2001,Puducherry,Motorcycle,1
+937,2002,Jammu & Kashmir,Motorcycle,0
+938,2002,Himachal Pradesh,Motorcycle,8
+939,2002,Punjab,Motorcycle,0
+940,2002,Chandigarh,Motorcycle,1
+941,2002,Uttarakhand,Motorcycle,9
+942,2002,Haryana,Motorcycle,0
+943,2002,Delhi,Motorcycle,9
+944,2002,Rajasthan,Motorcycle,2
+945,2002,Uttar Pradesh,Motorcycle,27
+946,2002,Bihar,Motorcycle,0
+947,2002,Sikkim,Motorcycle,2
+948,2002,Nagaland,Motorcycle,0
+949,2002,Manipur,Motorcycle,2
+950,2002,Mizoram,Motorcycle,6
+951,2002,Tripura,Motorcycle,5
+952,2002,Meghalaya,Motorcycle,0
+953,2002,Assam,Motorcycle,2
+954,2002,West Bengal,Motorcycle,0
+955,2002,Jharkhand,Motorcycle,0
+956,2002,Odisha,Motorcycle,5
+957,2002,Chhattisgarh,Motorcycle,5
+958,2002,Madhya Pradesh,Motorcycle,10
+959,2002,Gujarat,Motorcycle,23
+960,2002,Daman & Diu,Motorcycle,0
+961,2002,Dadra & Nagar Haveli,Motorcycle,0
+962,2002,Maharashtra,Motorcycle,0
+963,2002,Andhra Pradesh,Motorcycle,21
+964,2002,Karnataka,Motorcycle,43
+965,2002,Goa,Motorcycle,0
+966,2002,Lakshadweep,Motorcycle,0
+967,2002,Kerala,Motorcycle,5
+968,2002,Tamil Nadu,Motorcycle,14
+969,2002,Puducherry,Motorcycle,1
+970,2003,Jammu & Kashmir,Motorcycle,0
+971,2003,Himachal Pradesh,Motorcycle,8
+972,2003,Punjab,Motorcycle,0
+973,2003,Chandigarh,Motorcycle,1
+974,2003,Uttarakhand,Motorcycle,12
+975,2003,Haryana,Motorcycle,0
+976,2003,Delhi,Motorcycle,9
+977,2003,Rajasthan,Motorcycle,2
+978,2003,Uttar Pradesh,Motorcycle,27
+979,2003,Bihar,Motorcycle,0
+980,2003,Sikkim,Motorcycle,2
+981,2003,Nagaland,Motorcycle,0
+982,2003,Manipur,Motorcycle,1
+983,2003,Mizoram,Motorcycle,6
+984,2003,Tripura,Motorcycle,5
+985,2003,Meghalaya,Motorcycle,1
+986,2003,Assam,Motorcycle,2
+987,2003,West Bengal,Motorcycle,0
+988,2003,Jharkhand,Motorcycle,0
+989,2003,Odisha,Motorcycle,5
+990,2003,Chhattisgarh,Motorcycle,7
+991,2003,Madhya Pradesh,Motorcycle,11
+992,2003,Gujarat,Motorcycle,23
+993,2003,Daman & Diu,Motorcycle,0
+994,2003,Dadra & Nagar Haveli,Motorcycle,0
+995,2003,Maharashtra,Motorcycle,0
+996,2003,Andhra Pradesh,Motorcycle,25
+997,2003,Karnataka,Motorcycle,43
+998,2003,Goa,Motorcycle,0
+999,2003,Lakshadweep,Motorcycle,0
+1000,2003,Kerala,Motorcycle,5
+1001,2003,Tamil Nadu,Motorcycle,14
+1002,2003,Puducherry,Motorcycle,1
+1003,2003,Andaman & Nicobar Islands,Motorcycle,2
+1004,2004,Jammu & Kashmir,Motorcycle,4
+1005,2004,Himachal Pradesh,Motorcycle,0
+1006,2004,Punjab,Motorcycle,0
+1007,2004,Chandigarh,Motorcycle,1
+1008,2004,Uttarakhand,Motorcycle,12
+1009,2004,Haryana,Motorcycle,1
+1010,2004,Delhi,Motorcycle,10
+1011,2004,Rajasthan,Motorcycle,2
+1012,2004,Uttar Pradesh,Motorcycle,27
+1013,2004,Bihar,Motorcycle,0
+1014,2004,Sikkim,Motorcycle,2
+1015,2004,Nagaland,Motorcycle,0
+1016,2004,Manipur,Motorcycle,1
+1017,2004,Mizoram,Motorcycle,6
+1018,2004,Tripura,Motorcycle,5
+1019,2004,Meghalaya,Motorcycle,1
+1020,2004,Assam,Motorcycle,2
+1021,2004,West Bengal,Motorcycle,0
+1022,2004,Jharkhand,Motorcycle,0
+1023,2004,Odisha,Motorcycle,3
+1024,2004,Chhattisgarh,Motorcycle,6
+1025,2004,Madhya Pradesh,Motorcycle,10
+1026,2004,Gujarat,Motorcycle,23
+1027,2004,Daman & Diu,Motorcycle,0
+1028,2004,Dadra & Nagar Haveli,Motorcycle,0
+1029,2004,Maharashtra,Motorcycle,0
+1030,2004,Andhra Pradesh,Motorcycle,23
+1031,2004,Karnataka,Motorcycle,43
+1032,2004,Goa,Motorcycle,0
+1033,2004,Lakshadweep,Motorcycle,0
+1034,2004,Kerala,Motorcycle,5
+1035,2004,Tamil Nadu,Motorcycle,11
+1036,2004,Puducherry,Motorcycle,1
+1037,2004,Andaman & Nicobar Islands,Motorcycle,2
+1038,2005,Jammu & Kashmir,Motorcycle,4
+1039,2005,Himachal Pradesh,Motorcycle,0
+1040,2005,Punjab,Motorcycle,0
+1041,2005,Chandigarh,Motorcycle,1
+1042,2005,Uttarakhand,Motorcycle,12
+1043,2005,Haryana,Motorcycle,1
+1044,2005,Delhi,Motorcycle,13
+1045,2005,Rajasthan,Motorcycle,2
+1046,2005,Uttar Pradesh,Motorcycle,21
+1047,2005,Bihar,Motorcycle,0
+1048,2005,Sikkim,Motorcycle,2
+1049,2005,Nagaland,Motorcycle,0
+1050,2005,Manipur,Motorcycle,1
+1051,2005,Mizoram,Motorcycle,6
+1052,2005,Tripura,Motorcycle,6
+1053,2005,Meghalaya,Motorcycle,1
+1054,2005,Assam,Motorcycle,2
+1055,2005,West Bengal,Motorcycle,0
+1056,2005,Jharkhand,Motorcycle,0
+1057,2005,Odisha,Motorcycle,3
+1058,2005,Chhattisgarh,Motorcycle,6
+1059,2005,Madhya Pradesh,Motorcycle,9
+1060,2005,Gujarat,Motorcycle,24
+1061,2005,Daman & Diu,Motorcycle,0
+1062,2005,Dadra & Nagar Haveli,Motorcycle,0
+1063,2005,Maharashtra,Motorcycle,0
+1064,2005,Andhra Pradesh,Motorcycle,22
+1065,2005,Karnataka,Motorcycle,43
+1066,2005,Goa,Motorcycle,0
+1067,2005,Lakshadweep,Motorcycle,0
+1068,2005,Kerala,Motorcycle,5
+1069,2005,Tamil Nadu,Motorcycle,23
+1070,2005,Puducherry,Motorcycle,1
+1071,2005,Andaman & Nicobar Islands,Motorcycle,0
+1072,2006,Jammu & Kashmir,Motorcycle,5
+1073,2006,Himachal Pradesh,Motorcycle,8
+1074,2006,Punjab,Motorcycle,0
+1075,2006,Chandigarh,Motorcycle,1
+1076,2006,Uttarakhand,Motorcycle,12
+1077,2006,Haryana,Motorcycle,12
+1078,2006,Delhi,Motorcycle,12
+1079,2006,Rajasthan,Motorcycle,2
+1080,2006,Uttar Pradesh,Motorcycle,23
+1081,2006,Bihar,Motorcycle,0
+1082,2006,Sikkim,Motorcycle,2
+1083,2006,Nagaland,Motorcycle,0
+1084,2006,Manipur,Motorcycle,1
+1085,2006,Mizoram,Motorcycle,4
+1086,2006,Tripura,Motorcycle,7
+1087,2006,Meghalaya,Motorcycle,1
+1088,2006,Assam,Motorcycle,3
+1089,2006,West Bengal,Motorcycle,0
+1090,2006,Jharkhand,Motorcycle,1
+1091,2006,Odisha,Motorcycle,3
+1092,2006,Chhattisgarh,Motorcycle,7
+1093,2006,Madhya Pradesh,Motorcycle,10
+1094,2006,Gujarat,Motorcycle,20
+1095,2006,Daman & Diu,Motorcycle,0
+1096,2006,Dadra & Nagar Haveli,Motorcycle,0
+1097,2006,Maharashtra,Motorcycle,0
+1098,2006,Andhra Pradesh,Motorcycle,32
+1099,2006,Karnataka,Motorcycle,43
+1100,2006,Goa,Motorcycle,0
+1101,2006,Lakshadweep,Motorcycle,0
+1102,2006,Kerala,Motorcycle,5
+1103,2006,Tamil Nadu,Motorcycle,20
+1104,2006,Puducherry,Motorcycle,4
+1105,2006,Andaman & Nicobar Islands,Motorcycle,2
+1106,2007,Jammu & Kashmir,Motorcycle,5
+1107,2007,Himachal Pradesh,Motorcycle,6
+1108,2007,Punjab,Motorcycle,0
+1109,2007,Chandigarh,Motorcycle,1
+1110,2007,Uttarakhand,Motorcycle,13
+1111,2007,Haryana,Motorcycle,15
+1112,2007,Delhi,Motorcycle,13
+1113,2007,Uttar Pradesh,Motorcycle,23
+1114,2007,Bihar,Motorcycle,0
+1115,2007,Sikkim,Motorcycle,3
+1116,2007,Nagaland,Motorcycle,0
+1117,2007,Manipur,Motorcycle,2
+1118,2007,Mizoram,Motorcycle,4
+1119,2007,Tripura,Motorcycle,7
+1120,2007,Meghalaya,Motorcycle,1
+1121,2007,Assam,Motorcycle,1
+1122,2007,West Bengal,Motorcycle,0
+1123,2007,Jharkhand,Motorcycle,1
+1124,2007,Odisha,Motorcycle,3
+1125,2007,Chhattisgarh,Motorcycle,17
+1126,2007,Madhya Pradesh,Motorcycle,12
+1127,2007,Gujarat,Motorcycle,26
+1128,2007,Daman & Diu,Motorcycle,0
+1129,2007,Dadra & Nagar Haveli,Motorcycle,0
+1130,2007,Maharashtra,Motorcycle,0
+1131,2007,Andhra Pradesh,Motorcycle,22
+1132,2007,Karnataka,Motorcycle,51
+1133,2007,Goa,Motorcycle,0
+1134,2007,Lakshadweep,Motorcycle,0
+1135,2007,Kerala,Motorcycle,17
+1136,2007,Tamil Nadu,Motorcycle,17
+1137,2007,Puducherry,Motorcycle,4
+1138,2007,Andaman & Nicobar Islands,Motorcycle,2
+1139,2001,Jammu & Kashmir,Others,0
+1140,2001,Himachal Pradesh,Others,0
+1141,2001,Punjab,Others,1
+1142,2001,Chandigarh,Others,0
+1143,2001,Uttarakhand,Others,3
+1144,2001,Haryana,Others,4
+1145,2001,Delhi,Others,1
+1146,2001,Rajasthan,Others,36
+1147,2001,Uttar Pradesh,Others,9
+1148,2001,Bihar,Others,0
+1149,2001,Sikkim,Others,1
+1150,2001,Nagaland,Others,17
+1151,2001,Manipur,Others,4
+1152,2001,Mizoram,Others,1
+1153,2001,Tripura,Others,3
+1154,2001,Meghalaya,Others,0
+1155,2001,Assam,Others,3
+1156,2001,West Bengal,Others,0
+1157,2001,Jharkhand,Others,0
+1158,2001,Odisha,Others,2
+1159,2001,Chhattisgarh,Others,3
+1160,2001,Madhya Pradesh,Others,14
+1161,2001,Gujarat,Others,6
+1162,2001,Daman & Diu,Others,0
+1163,2001,Dadra & Nagar Haveli,Others,0
+1164,2001,Maharashtra,Others,9
+1165,2001,Andhra Pradesh,Others,11
+1166,2001,Karnataka,Others,17
+1167,2001,Goa,Others,0
+1168,2001,Lakshadweep,Others,0
+1169,2001,Kerala,Others,1
+1170,2001,Tamil Nadu,Others,1
+1171,2001,Puducherry,Others,0
+1172,2002,Jammu & Kashmir,Others,10
+1173,2002,Himachal Pradesh,Others,0
+1174,2002,Punjab,Others,2
+1175,2002,Chandigarh,Others,0
+1176,2002,Uttarakhand,Others,0
+1177,2002,Haryana,Others,2
+1178,2002,Delhi,Others,4
+1179,2002,Rajasthan,Others,1
+1180,2002,Uttar Pradesh,Others,12
+1181,2002,Bihar,Others,0
+1182,2002,Sikkim,Others,1
+1183,2002,Nagaland,Others,17
+1184,2002,Manipur,Others,4
+1185,2002,Mizoram,Others,1
+1186,2002,Tripura,Others,3
+1187,2002,Meghalaya,Others,0
+1188,2002,Assam,Others,2
+1189,2002,West Bengal,Others,3
+1190,2002,Jharkhand,Others,0
+1191,2002,Odisha,Others,2
+1192,2002,Chhattisgarh,Others,3
+1193,2002,Madhya Pradesh,Others,19
+1194,2002,Gujarat,Others,6
+1195,2002,Daman & Diu,Others,0
+1196,2002,Dadra & Nagar Haveli,Others,0
+1197,2002,Maharashtra,Others,9
+1198,2002,Andhra Pradesh,Others,3
+1199,2002,Karnataka,Others,27
+1200,2002,Goa,Others,1
+1201,2002,Lakshadweep,Others,0
+1202,2002,Kerala,Others,1
+1203,2002,Tamil Nadu,Others,11
+1204,2002,Puducherry,Others,0
+1205,2003,Jammu & Kashmir,Others,10
+1206,2003,Himachal Pradesh,Others,0
+1207,2003,Punjab,Others,2
+1208,2003,Chandigarh,Others,0
+1209,2003,Uttarakhand,Others,3
+1210,2003,Haryana,Others,3
+1211,2003,Delhi,Others,2
+1212,2003,Rajasthan,Others,1
+1213,2003,Uttar Pradesh,Others,12
+1214,2003,Bihar,Others,0
+1215,2003,Sikkim,Others,2
+1216,2003,Nagaland,Others,0
+1217,2003,Manipur,Others,3
+1218,2003,Mizoram,Others,10
+1219,2003,Tripura,Others,3
+1220,2003,Meghalaya,Others,0
+1221,2003,Assam,Others,0
+1222,2003,West Bengal,Others,3
+1223,2003,Jharkhand,Others,0
+1224,2003,Odisha,Others,2
+1225,2003,Chhattisgarh,Others,6
+1226,2003,Madhya Pradesh,Others,29
+1227,2003,Gujarat,Others,6
+1228,2003,Daman & Diu,Others,0
+1229,2003,Dadra & Nagar Haveli,Others,0
+1230,2003,Maharashtra,Others,0
+1231,2003,Andhra Pradesh,Others,14
+1232,2003,Karnataka,Others,10
+1233,2003,Goa,Others,1
+1234,2003,Lakshadweep,Others,0
+1235,2003,Kerala,Others,1
+1236,2003,Tamil Nadu,Others,11
+1237,2003,Puducherry,Others,0
+1238,2003,Andaman & Nicobar Islands,Others,0
+1239,2004,Jammu & Kashmir,Others,18
+1240,2004,Himachal Pradesh,Others,0
+1241,2004,Punjab,Others,0
+1242,2004,Chandigarh,Others,0
+1243,2004,Uttarakhand,Others,3
+1244,2001,Jammu & Kashmir,Ambulance,4
+1245,2001,Himachal Pradesh,Ambulance,0
+1246,2001,Punjab,Ambulance,1
+1247,2001,Chandigarh,Ambulance,0
+1248,2001,Uttarakhand,Ambulance,4
+1249,2001,Haryana,Ambulance,1
+1250,2001,Delhi,Ambulance,10
+1251,2001,Rajasthan,Ambulance,18
+1252,2001,Uttar Pradesh,Ambulance,33
+1253,2001,Bihar,Ambulance,0
+1254,2001,Sikkim,Ambulance,0
+1255,2001,Nagaland,Ambulance,1
+1256,2001,Manipur,Ambulance,2
+1257,2001,Mizoram,Ambulance,1
+1258,2001,Tripura,Ambulance,2
+1259,2001,Meghalaya,Ambulance,4
+1260,2001,Assam,Ambulance,0
+1261,2001,West Bengal,Ambulance,41
+1262,2001,Jharkhand,Ambulance,2
+1263,2001,Odisha,Ambulance,1
+1264,2001,Chhattisgarh,Ambulance,6
+1265,2001,Madhya Pradesh,Ambulance,14
+1266,2001,Gujarat,Ambulance,10
+1267,2001,Daman & Diu,Ambulance,0
+1268,2001,Dadra & Nagar Haveli,Ambulance,0
+1269,2001,Maharashtra,Ambulance,0
+1270,2001,Andhra Pradesh,Ambulance,8
+1271,2001,Karnataka,Ambulance,20
+1272,2001,Goa,Ambulance,1
+1273,2001,Lakshadweep,Ambulance,0
+1274,2001,Kerala,Ambulance,4
+1275,2001,Tamil Nadu,Ambulance,11
+1276,2001,Puducherry,Ambulance,0
+1277,2002,Jammu & Kashmir,Ambulance,4
+1278,2002,Himachal Pradesh,Ambulance,1
+1279,2002,Punjab,Ambulance,0
+1280,2002,Chandigarh,Ambulance,0
+1281,2002,Uttarakhand,Ambulance,4
+1282,2004,Haryana,Others,2
+1283,2004,Delhi,Others,2
+1284,2004,Rajasthan,Others,24
+1285,2004,Uttar Pradesh,Others,12
+1286,2004,Bihar,Others,0
+1287,2004,Sikkim,Others,2
+1288,2004,Nagaland,Others,0
+1289,2004,Manipur,Others,3
+1290,2004,Mizoram,Others,10
+1291,2004,Tripura,Others,3
+1292,2004,Meghalaya,Others,0
+1293,2004,Assam,Others,0
+1294,2004,West Bengal,Others,1
+1295,2004,Jharkhand,Others,0
+1296,2004,Odisha,Others,1
+1297,2004,Chhattisgarh,Others,6
+1298,2004,Madhya Pradesh,Others,24
+1299,2004,Gujarat,Others,8
+1300,2004,Daman & Diu,Others,0
+1301,2004,Dadra & Nagar Haveli,Others,0
+1302,2004,Maharashtra,Others,4
+1303,2004,Andhra Pradesh,Others,19
+1304,2004,Karnataka,Others,10
+1305,2004,Goa,Others,0
+1306,2004,Lakshadweep,Others,0
+1307,2004,Kerala,Others,1
+1308,2004,Tamil Nadu,Others,1
+1309,2004,Puducherry,Others,0
+1310,2004,Andaman & Nicobar Islands,Others,0
+1311,2005,Jammu & Kashmir,Others,18
+1312,2005,Himachal Pradesh,Others,0
+1313,2005,Punjab,Others,0
+1314,2005,Chandigarh,Others,2
+1315,2005,Uttarakhand,Others,3
+1316,2005,Haryana,Others,2
+1317,2005,Delhi,Others,2
+1318,2005,Rajasthan,Others,25
+1319,2005,Uttar Pradesh,Others,6
+1320,2005,Bihar,Others,0
+1321,2005,Sikkim,Others,2
+1322,2005,Nagaland,Others,0
+1323,2005,Manipur,Others,3
+1324,2005,Mizoram,Others,10
+1325,2005,Tripura,Others,3
+1326,2005,Meghalaya,Others,0
+1327,2005,Assam,Others,0
+1328,2005,West Bengal,Others,1
+1329,2005,Jharkhand,Others,0
+1330,2005,Odisha,Others,2
+1331,2005,Chhattisgarh,Others,8
+1332,2005,Madhya Pradesh,Others,35
+1333,2005,Gujarat,Others,8
+1334,2005,Daman & Diu,Others,0
+1335,2005,Dadra & Nagar Haveli,Others,0
+1336,2005,Maharashtra,Others,8
+1337,2005,Andhra Pradesh,Others,16
+1338,2005,Karnataka,Others,10
+1339,2005,Goa,Others,1
+1340,2005,Lakshadweep,Others,0
+1341,2005,Kerala,Others,1
+1342,2005,Tamil Nadu,Others,1
+1343,2005,Puducherry,Others,0
+1344,2005,Andaman & Nicobar Islands,Others,0
+1345,2006,Jammu & Kashmir,Others,7
+1346,2006,Himachal Pradesh,Others,0
+1347,2006,Punjab,Others,0
+1348,2006,Chandigarh,Others,0
+1349,2006,Uttarakhand,Others,3
+1350,2006,Haryana,Others,4
+1351,2006,Delhi,Others,2
+1352,2006,Rajasthan,Others,25
+1353,2006,Uttar Pradesh,Others,4
+1354,2006,Bihar,Others,0
+1355,2006,Sikkim,Others,2
+1356,2006,Nagaland,Others,0
+1357,2006,Manipur,Others,3
+1358,2006,Mizoram,Others,2
+1359,2006,Tripura,Others,3
+1360,2006,Meghalaya,Others,0
+1361,2006,Assam,Others,3
+1362,2006,West Bengal,Others,2
+1363,2006,Jharkhand,Others,3
+1364,2006,Odisha,Others,2
+1365,2006,Chhattisgarh,Others,15
+1366,2006,Madhya Pradesh,Others,35
+1367,2006,Gujarat,Others,4
+1368,2006,Daman & Diu,Others,0
+1369,2006,Dadra & Nagar Haveli,Others,0
+1370,2006,Maharashtra,Others,19
+1371,2006,Andhra Pradesh,Others,16
+1372,2006,Karnataka,Others,10
+1373,2006,Goa,Others,0
+1374,2006,Lakshadweep,Others,0
+1375,2006,Kerala,Others,6
+1376,2006,Tamil Nadu,Others,5
+1377,2006,Puducherry,Others,0
+1378,2006,Andaman & Nicobar Islands,Others,0
+1379,2007,Jammu & Kashmir,Others,19
+1380,2007,Himachal Pradesh,Others,0
+1381,2007,Punjab,Others,0
+1382,2007,Chandigarh,Others,0
+1383,2007,Uttarakhand,Others,1
+1384,2007,Haryana,Others,3
+1385,2007,Delhi,Others,2
+1386,2007,Uttar Pradesh,Others,5
+1387,2007,Bihar,Others,2
+1388,2007,Sikkim,Others,2
+1389,2007,Nagaland,Others,0
+1390,2007,Manipur,Others,3
+1391,2007,Mizoram,Others,2
+1392,2007,Tripura,Others,1
+1393,2007,Meghalaya,Others,0
+1394,2007,Assam,Others,2
+1395,2007,West Bengal,Others,4
+1396,2007,Jharkhand,Others,1
+1397,2007,Odisha,Others,1
+1398,2007,Chhattisgarh,Others,12
+1399,2007,Madhya Pradesh,Others,35
+1400,2007,Gujarat,Others,4
+1401,2007,Daman & Diu,Others,0
+1402,2007,Dadra & Nagar Haveli,Others,0
+1403,2007,Maharashtra,Others,9
+1404,2007,Andhra Pradesh,Others,16
+1405,2007,Karnataka,Others,22
+1406,2007,Goa,Others,1
+1407,2007,Lakshadweep,Others,0
+1408,2007,Kerala,Others,3
+1409,2007,Tamil Nadu,Others,1
+1410,2007,Puducherry,Others,0
+1411,2007,Andaman & Nicobar Islands,Others,0
+1412,2001,Jammu & Kashmir,Total,24
+1413,2001,Himachal Pradesh,Total,0
+1414,2001,Punjab,Total,30
+1415,2001,Chandigarh,Total,5
+1416,2001,Uttarakhand,Total,48
+1417,2001,Haryana,Total,24
+1418,2001,Delhi,Total,34
+1419,2001,Rajasthan,Total,61
+1420,2001,Uttar Pradesh,Total,138
+1421,2001,Bihar,Total,0
+1422,2001,Sikkim,Total,5
+1423,2001,Nagaland,Total,26
+1424,2001,Manipur,Total,15
+1425,2001,Mizoram,Total,14
+1426,2001,Tripura,Total,19
+1427,2001,Meghalaya,Total,10
+1428,2001,Assam,Total,21
+1429,2001,West Bengal,Total,44
+1430,2001,Jharkhand,Total,6
+1431,2001,Odisha,Total,18
+1432,2001,Chhattisgarh,Total,40
+1433,2001,Madhya Pradesh,Total,107
+1434,2001,Gujarat,Total,107
+1435,2001,Daman & Diu,Total,0
+1436,2001,Dadra & Nagar Haveli,Total,1
+1437,2001,Maharashtra,Total,49
+1438,2001,Andhra Pradesh,Total,79
+1439,2001,Karnataka,Total,100
+1440,2001,Goa,Total,4
+1441,2001,Lakshadweep,Total,0
+1442,2001,Kerala,Total,37
+1443,2001,Tamil Nadu,Total,67
+1444,2001,Puducherry,Total,2
+1445,2002,Jammu & Kashmir,Total,26
+1446,2002,Himachal Pradesh,Total,14
+1447,2002,Punjab,Total,39
+1448,2002,Chandigarh,Total,5
+1449,2002,Uttarakhand,Total,52
+1450,2002,Haryana,Total,17
+1451,2002,Delhi,Total,35
+1452,2002,Rajasthan,Total,61
+1453,2002,Uttar Pradesh,Total,163
+1454,2002,Bihar,Total,28
+1455,2002,Sikkim,Total,8
+1456,2002,Nagaland,Total,26
+1457,2002,Manipur,Total,15
+1458,2002,Mizoram,Total,14
+1459,2002,Tripura,Total,16
+1460,2002,Meghalaya,Total,9
+1461,2002,Assam,Total,20
+1462,2002,West Bengal,Total,48
+1463,2002,Jharkhand,Total,8
+1464,2002,Odisha,Total,18
+1465,2002,Chhattisgarh,Total,40
+1466,2002,Madhya Pradesh,Total,113
+1467,2002,Gujarat,Total,80
+1468,2002,Daman & Diu,Total,0
+1469,2002,Dadra & Nagar Haveli,Total,0
+1470,2002,Maharashtra,Total,49
+1471,2002,Andhra Pradesh,Total,102
+1472,2002,Karnataka,Total,115
+1473,2002,Goa,Total,4
+1474,2002,Lakshadweep,Total,0
+1475,2002,Kerala,Total,40
+1476,2002,Tamil Nadu,Total,80
+1477,2002,Puducherry,Total,2
+1478,2003,Jammu & Kashmir,Total,26
+1479,2003,Himachal Pradesh,Total,14
+1480,2003,Punjab,Total,52
+1481,2003,Chandigarh,Total,5
+1482,2003,Uttarakhand,Total,65
+1483,2003,Haryana,Total,16
+1484,2003,Delhi,Total,32
+1485,2003,Rajasthan,Total,61
+1486,2003,Uttar Pradesh,Total,169
+1487,2003,Bihar,Total,34
+1488,2003,Sikkim,Total,9
+1489,2003,Nagaland,Total,13
+1490,2003,Manipur,Total,12
+1491,2003,Mizoram,Total,21
+1492,2003,Tripura,Total,16
+1493,2003,Meghalaya,Total,11
+1494,2003,Assam,Total,22
+1495,2003,West Bengal,Total,48
+1496,2003,Jharkhand,Total,16
+1497,2003,Odisha,Total,18
+1498,2003,Chhattisgarh,Total,41
+1499,2003,Madhya Pradesh,Total,109
+1500,2003,Gujarat,Total,80
+1501,2003,Daman & Diu,Total,0
+1502,2003,Dadra & Nagar Haveli,Total,1
+1503,2003,Maharashtra,Total,49
+1504,2003,Andhra Pradesh,Total,87
+1505,2003,Karnataka,Total,103
+1506,2003,Goa,Total,4
+1507,2003,Lakshadweep,Total,0
+1508,2003,Kerala,Total,62
+1509,2003,Tamil Nadu,Total,88
+1510,2003,Puducherry,Total,2
+1511,2003,Andaman & Nicobar Islands,Total,5
+1512,2004,Jammu & Kashmir,Total,35
+1513,2004,Himachal Pradesh,Total,3
+1514,2004,Punjab,Total,53
+1515,2004,Chandigarh,Total,5
+1516,2004,Uttarakhand,Total,65
+1517,2004,Haryana,Total,20
+1518,2004,Delhi,Total,36
+1519,2004,Rajasthan,Total,68
+1520,2004,Uttar Pradesh,Total,169
+1521,2004,Bihar,Total,16
+1522,2004,Sikkim,Total,9
+1523,2004,Nagaland,Total,13
+1524,2004,Manipur,Total,12
+1525,2004,Mizoram,Total,21
+1526,2004,Tripura,Total,16
+1527,2004,Meghalaya,Total,10
+1528,2004,Assam,Total,22
+1529,2004,West Bengal,Total,57
+1530,2004,Jharkhand,Total,16
+1531,2004,Odisha,Total,15
+1532,2004,Chhattisgarh,Total,37
+1533,2004,Madhya Pradesh,Total,106
+1534,2004,Gujarat,Total,78
+1535,2004,Daman & Diu,Total,0
+1536,2004,Dadra & Nagar Haveli,Total,1
+1537,2004,Maharashtra,Total,61
+1538,2004,Andhra Pradesh,Total,103
+1539,2004,Karnataka,Total,103
+1540,2004,Goa,Total,4
+1541,2004,Lakshadweep,Total,0
+1542,2004,Kerala,Total,62
+1543,2004,Tamil Nadu,Total,56
+1544,2004,Puducherry,Total,2
+1545,2004,Andaman & Nicobar Islands,Total,5
+1546,2005,Jammu & Kashmir,Total,35
+1547,2005,Himachal Pradesh,Total,3
+1548,2005,Punjab,Total,53
+1549,2005,Chandigarh,Total,5
+1550,2005,Uttarakhand,Total,64
+1551,2005,Haryana,Total,20
+1552,2005,Delhi,Total,48
+1553,2005,Rajasthan,Total,68
+1554,2005,Uttar Pradesh,Total,159
+1555,2005,Bihar,Total,21
+1556,2005,Sikkim,Total,9
+1557,2005,Nagaland,Total,14
+1558,2005,Manipur,Total,9
+1559,2005,Mizoram,Total,21
+1560,2005,Tripura,Total,18
+1561,2005,Meghalaya,Total,9
+1562,2005,Assam,Total,26
+1563,2005,West Bengal,Total,59
+1564,2005,Jharkhand,Total,20
+1565,2005,Odisha,Total,17
+1566,2005,Chhattisgarh,Total,36
+1567,2005,Madhya Pradesh,Total,108
+1568,2005,Gujarat,Total,80
+1569,2005,Daman & Diu,Total,0
+1570,2005,Dadra & Nagar Haveli,Total,1
+1571,2005,Maharashtra,Total,66
+1572,2005,Andhra Pradesh,Total,111
+1573,2005,Karnataka,Total,103
+1574,2005,Goa,Total,5
+1575,2005,Lakshadweep,Total,0
+1576,2005,Kerala,Total,62
+1577,2005,Tamil Nadu,Total,70
+1578,2005,Puducherry,Total,2
+1579,2005,Andaman & Nicobar Islands,Total,0
+1580,2006,Jammu & Kashmir,Total,34
+1581,2006,Himachal Pradesh,Total,11
+1582,2006,Punjab,Total,53
+1583,2006,Chandigarh,Total,5
+1584,2006,Uttarakhand,Total,63
+1585,2006,Haryana,Total,30
+1586,2006,Delhi,Total,46
+1587,2006,Rajasthan,Total,68
+1588,2006,Uttar Pradesh,Total,134
+1589,2006,Bihar,Total,23
+1590,2006,Sikkim,Total,9
+1591,2006,Nagaland,Total,14
+1592,2006,Manipur,Total,9
+1593,2006,Mizoram,Total,10
+1594,2006,Tripura,Total,18
+1595,2006,Meghalaya,Total,11
+1596,2006,Assam,Total,17
+1597,2006,West Bengal,Total,62
+1598,2006,Jharkhand,Total,38
+1599,2006,Odisha,Total,17
+1600,2006,Chhattisgarh,Total,44
+1601,2006,Madhya Pradesh,Total,115
+1602,2006,Gujarat,Total,67
+1603,2006,Daman & Diu,Total,0
+1604,2006,Dadra & Nagar Haveli,Total,1
+1605,2006,Maharashtra,Total,77
+1606,2006,Andhra Pradesh,Total,121
+1607,2006,Karnataka,Total,103
+1608,2006,Goa,Total,4
+1609,2006,Lakshadweep,Total,0
+1610,2006,Kerala,Total,54
+1611,2006,Tamil Nadu,Total,86
+1612,2006,Puducherry,Total,6
+1613,2006,Andaman & Nicobar Islands,Total,5
+1614,2007,Jammu & Kashmir,Total,33
+1615,2007,Himachal Pradesh,Total,9
+1616,2007,Punjab,Total,36
+1617,2007,Chandigarh,Total,5
+1618,2007,Uttarakhand,Total,66
+1619,2007,Haryana,Total,32
+1620,2007,Delhi,Total,49
+1621,2007,Uttar Pradesh,Total,178
+1622,2007,Bihar,Total,25
+1623,2007,Sikkim,Total,14
+1624,2007,Nagaland,Total,12
+1625,2007,Manipur,Total,13
+1626,2007,Mizoram,Total,10
+1627,2007,Tripura,Total,16
+1628,2007,Meghalaya,Total,9
+1629,2007,Assam,Total,15
+1630,2007,West Bengal,Total,60
+1631,2007,Jharkhand,Total,56
+1632,2007,Odisha,Total,14
+1633,2007,Chhattisgarh,Total,56
+1634,2007,Madhya Pradesh,Total,117
+1635,2007,Gujarat,Total,74
+1636,2007,Daman & Diu,Total,0
+1637,2007,Dadra & Nagar Haveli,Total,0
+1638,2007,Maharashtra,Total,66
+1639,2007,Andhra Pradesh,Total,111
+1640,2007,Karnataka,Total,117
+1641,2007,Goa,Total,4
+1642,2007,Lakshadweep,Total,0
+1643,2007,Kerala,Total,94
+1644,2007,Tamil Nadu,Total,93
+1645,2007,Puducherry,Total,6
+1646,2007,Andaman & Nicobar Islands,Total,5
+1647,2001,Jammu & Kashmir,Tractor,1
+1648,2001,Himachal Pradesh,Tractor,0
+1649,2001,Punjab,Tractor,13
+1650,2001,Chandigarh,Tractor,1
+1651,2001,Uttarakhand,Tractor,30
+1652,2001,Haryana,Tractor,4
+1653,2001,Delhi,Tractor,0
+1654,2001,Rajasthan,Tractor,1
+1655,2001,Uttar Pradesh,Tractor,20
+1656,2001,Bihar,Tractor,0
+1657,2001,Sikkim,Tractor,0
+1658,2001,Nagaland,Tractor,0
+1659,2001,Manipur,Tractor,1
+1660,2001,Mizoram,Tractor,0
+1661,2001,Tripura,Tractor,1
+1662,2001,Meghalaya,Tractor,0
+1663,2001,Assam,Tractor,3
+1664,2001,West Bengal,Tractor,0
+1665,2001,Jharkhand,Tractor,1
+1666,2001,Odisha,Tractor,1
+1667,2001,Chhattisgarh,Tractor,1
+1668,2001,Madhya Pradesh,Tractor,3
+1669,2001,Gujarat,Tractor,4
+1670,2001,Daman & Diu,Tractor,0
+1671,2001,Dadra & Nagar Haveli,Tractor,0
+1672,2001,Maharashtra,Tractor,21
+1673,2001,Andhra Pradesh,Tractor,2
+1674,2001,Karnataka,Tractor,10
+1675,2001,Goa,Tractor,0
+1676,2001,Lakshadweep,Tractor,0
+1677,2001,Kerala,Tractor,4
+1678,2001,Tamil Nadu,Tractor,5
+1679,2001,Puducherry,Tractor,0
+1680,2002,Jammu & Kashmir,Tractor,0
+1681,2002,Himachal Pradesh,Tractor,0
+1682,2002,Punjab,Tractor,0
+1683,2002,Chandigarh,Tractor,1
+1684,2002,Uttarakhand,Tractor,32
+1685,2002,Haryana,Tractor,4
+1686,2002,Delhi,Tractor,0
+1687,2002,Rajasthan,Tractor,1
+1688,2002,Uttar Pradesh,Tractor,24
+1689,2002,Bihar,Tractor,5
+1690,2002,Sikkim,Tractor,0
+1691,2002,Nagaland,Tractor,0
+1692,2002,Manipur,Tractor,1
+1693,2002,Mizoram,Tractor,0
+1694,2002,Tripura,Tractor,1
+1695,2002,Meghalaya,Tractor,0
+1696,2002,Assam,Tractor,2
+1697,2002,West Bengal,Tractor,0
+1698,2002,Jharkhand,Tractor,1
+1699,2002,Odisha,Tractor,1
+1700,2002,Chhattisgarh,Tractor,1
+1701,2002,Madhya Pradesh,Tractor,3
+1702,2002,Gujarat,Tractor,4
+1703,2002,Daman & Diu,Tractor,0
+1704,2002,Dadra & Nagar Haveli,Tractor,0
+1705,2002,Maharashtra,Tractor,21
+1706,2002,Andhra Pradesh,Tractor,5
+1707,2002,Karnataka,Tractor,10
+1708,2002,Goa,Tractor,0
+1709,2002,Lakshadweep,Tractor,0
+1710,2002,Kerala,Tractor,4
+1711,2002,Tamil Nadu,Tractor,5
+1712,2002,Puducherry,Tractor,0
+1713,2003,Jammu & Kashmir,Tractor,0
+1714,2003,Himachal Pradesh,Tractor,0
+1715,2003,Punjab,Tractor,12
+1716,2003,Chandigarh,Tractor,1
+1717,2003,Uttarakhand,Tractor,32
+1718,2003,Haryana,Tractor,3
+1719,2003,Delhi,Tractor,0
+1720,2003,Rajasthan,Tractor,1
+1721,2003,Uttar Pradesh,Tractor,24
+1722,2003,Bihar,Tractor,6
+1723,2003,Sikkim,Tractor,0
+1724,2003,Nagaland,Tractor,0
+1725,2003,Manipur,Tractor,1
+1726,2003,Mizoram,Tractor,0
+1727,2003,Tripura,Tractor,1
+1728,2003,Meghalaya,Tractor,0
+1729,2003,Assam,Tractor,2
+1730,2003,West Bengal,Tractor,0
+1731,2003,Jharkhand,Tractor,1
+1732,2003,Odisha,Tractor,1
+1733,2003,Chhattisgarh,Tractor,1
+1734,2003,Madhya Pradesh,Tractor,3
+1735,2003,Gujarat,Tractor,4
+1736,2003,Daman & Diu,Tractor,0
+1737,2003,Dadra & Nagar Haveli,Tractor,0
+1738,2003,Maharashtra,Tractor,21
+1739,2003,Andhra Pradesh,Tractor,8
+1740,2003,Karnataka,Tractor,15
+1741,2003,Goa,Tractor,0
+1742,2003,Lakshadweep,Tractor,0
+1743,2003,Kerala,Tractor,4
+1744,2003,Tamil Nadu,Tractor,5
+1745,2003,Puducherry,Tractor,0
+1746,2003,Andaman & Nicobar Islands,Tractor,0
+1747,2004,Jammu & Kashmir,Tractor,0
+1748,2004,Himachal Pradesh,Tractor,0
+1749,2004,Punjab,Tractor,17
+1750,2004,Chandigarh,Tractor,1
+1751,2004,Uttarakhand,Tractor,32
+1752,2004,Haryana,Tractor,3
+1753,2004,Delhi,Tractor,0
+1754,2004,Rajasthan,Tractor,1
+1755,2004,Uttar Pradesh,Tractor,24
+1756,2004,Bihar,Tractor,2
+1757,2004,Sikkim,Tractor,0
+1758,2004,Nagaland,Tractor,0
+1759,2004,Manipur,Tractor,1
+1760,2004,Mizoram,Tractor,0
+1761,2004,Tripura,Tractor,1
+1762,2004,Meghalaya,Tractor,0
+1763,2004,Assam,Tractor,2
+1764,2004,West Bengal,Tractor,0
+1765,2004,Jharkhand,Tractor,1
+1766,2004,Odisha,Tractor,1
+1767,2004,Chhattisgarh,Tractor,1
+1768,2004,Madhya Pradesh,Tractor,3
+1769,2004,Gujarat,Tractor,4
+1770,2004,Daman & Diu,Tractor,0
+1771,2004,Dadra & Nagar Haveli,Tractor,0
+1772,2004,Maharashtra,Tractor,19
+1773,2004,Andhra Pradesh,Tractor,3
+1774,2004,Karnataka,Tractor,15
+1775,2004,Goa,Tractor,0
+1776,2004,Lakshadweep,Tractor,0
+1777,2004,Kerala,Tractor,4
+1778,2004,Tamil Nadu,Tractor,5
+1779,2004,Puducherry,Tractor,0
+1780,2004,Andaman & Nicobar Islands,Tractor,0
+1781,2005,Jammu & Kashmir,Tractor,0
+1782,2005,Himachal Pradesh,Tractor,0
+1783,2005,Punjab,Tractor,17
+1784,2005,Chandigarh,Tractor,1
+1785,2005,Uttarakhand,Tractor,32
+1786,2005,Haryana,Tractor,3
+1787,2005,Delhi,Tractor,0
+1788,2005,Rajasthan,Tractor,1
+1789,2005,Uttar Pradesh,Tractor,23
+1790,2005,Bihar,Tractor,2
+1791,2005,Sikkim,Tractor,0
+1792,2005,Nagaland,Tractor,1
+1793,2005,Manipur,Tractor,1
+1794,2005,Mizoram,Tractor,0
+1795,2005,Tripura,Tractor,1
+1796,2005,Meghalaya,Tractor,0
+1797,2005,Assam,Tractor,2
+1798,2005,West Bengal,Tractor,0
+1799,2005,Jharkhand,Tractor,1
+1800,2005,Odisha,Tractor,1
+1801,2005,Chhattisgarh,Tractor,1
+1802,2005,Madhya Pradesh,Tractor,3
+1803,2005,Gujarat,Tractor,4
+1804,2005,Daman & Diu,Tractor,0
+1805,2005,Dadra & Nagar Haveli,Tractor,0
+1806,2005,Maharashtra,Tractor,18
+1807,2005,Andhra Pradesh,Tractor,3
+1808,2005,Karnataka,Tractor,15
+1809,2005,Goa,Tractor,0
+1810,2005,Lakshadweep,Tractor,0
+1811,2005,Kerala,Tractor,4
+1812,2005,Tamil Nadu,Tractor,4
+1813,2005,Puducherry,Tractor,0
+1814,2005,Andaman & Nicobar Islands,Tractor,0
+1815,2006,Jammu & Kashmir,Tractor,0
+1816,2006,Himachal Pradesh,Tractor,0
+1817,2006,Punjab,Tractor,17
+1818,2006,Chandigarh,Tractor,1
+1819,2006,Uttarakhand,Tractor,32
+1820,2006,Haryana,Tractor,4
+1821,2006,Delhi,Tractor,0
+1822,2006,Rajasthan,Tractor,1
+1823,2006,Uttar Pradesh,Tractor,22
+1824,2006,Bihar,Tractor,4
+1825,2006,Sikkim,Tractor,0
+1826,2006,Nagaland,Tractor,1
+1827,2006,Manipur,Tractor,1
+1828,2006,Mizoram,Tractor,0
+1829,2006,Tripura,Tractor,1
+1830,2006,Meghalaya,Tractor,0
+1831,2006,Assam,Tractor,0
+1832,2006,West Bengal,Tractor,0
+1833,2006,Jharkhand,Tractor,2
+1834,2006,Odisha,Tractor,1
+1835,2006,Chhattisgarh,Tractor,1
+1836,2006,Madhya Pradesh,Tractor,4
+1837,2006,Gujarat,Tractor,5
+1838,2006,Daman & Diu,Tractor,0
+1839,2006,Dadra & Nagar Haveli,Tractor,0
+1840,2006,Maharashtra,Tractor,15
+1841,2006,Andhra Pradesh,Tractor,3
+1842,2006,Karnataka,Tractor,15
+1843,2006,Goa,Tractor,0
+1844,2006,Lakshadweep,Tractor,0
+1845,2006,Kerala,Tractor,1
+1846,2006,Tamil Nadu,Tractor,4
+1847,2006,Puducherry,Tractor,0
+1848,2006,Andaman & Nicobar Islands,Tractor,0
+1849,2007,Jammu & Kashmir,Tractor,0
+1850,2007,Himachal Pradesh,Tractor,0
+1851,2007,Punjab,Tractor,0
+1852,2007,Chandigarh,Tractor,1
+1853,2007,Uttarakhand,Tractor,34
+1854,2007,Haryana,Tractor,3
+1855,2007,Delhi,Tractor,0
+1856,2007,Uttar Pradesh,Tractor,22
+1857,2007,Bihar,Tractor,4
+1858,2007,Sikkim,Tractor,0
+1859,2007,Nagaland,Tractor,0
+1860,2007,Manipur,Tractor,1
+1861,2007,Mizoram,Tractor,0
+1862,2007,Tripura,Tractor,1
+1863,2007,Meghalaya,Tractor,0
+1864,2007,Assam,Tractor,3
+1865,2007,West Bengal,Tractor,0
+1866,2007,Jharkhand,Tractor,1
+1867,2007,Odisha,Tractor,1
+1868,2007,Chhattisgarh,Tractor,1
+1869,2007,Madhya Pradesh,Tractor,4
+1870,2007,Gujarat,Tractor,5
+1871,2007,Daman & Diu,Tractor,0
+1872,2007,Dadra & Nagar Haveli,Tractor,0
+1873,2007,Maharashtra,Tractor,18
+1874,2007,Andhra Pradesh,Tractor,3
+1875,2007,Karnataka,Tractor,11
+1876,2007,Goa,Tractor,0
+1877,2007,Lakshadweep,Tractor,0
+1878,2007,Kerala,Tractor,1
+1879,2007,Tamil Nadu,Tractor,5
+1880,2007,Puducherry,Tractor,0
+1881,2007,Andaman & Nicobar Islands,Tractor,0
+1882,2001,Jammu & Kashmir,Van,4
+1883,2001,Himachal Pradesh,Van,0
+1884,2001,Punjab,Van,2
+1885,2001,Chandigarh,Van,1
+1886,2001,Uttarakhand,Van,0
+1887,2001,Haryana,Van,9
+1888,2001,Delhi,Van,0
+1889,2001,Rajasthan,Van,0
+1890,2001,Uttar Pradesh,Van,2
+1891,2001,Bihar,Van,0
+1892,2001,Sikkim,Van,2
+1893,2001,Nagaland,Van,0
+1894,2001,Manipur,Van,1
+1895,2001,Mizoram,Van,0
+1896,2001,Tripura,Van,1
+1897,2001,Meghalaya,Van,4
+1898,2001,Assam,Van,14
+1899,2001,West Bengal,Van,0
+1900,2001,Jharkhand,Van,0
+1901,2001,Odisha,Van,0
+1902,2001,Chhattisgarh,Van,2
+1903,2001,Madhya Pradesh,Van,19
+1904,2001,Gujarat,Van,12
+1905,2001,Daman & Diu,Van,0
+1906,2001,Dadra & Nagar Haveli,Van,1
+1907,2001,Maharashtra,Van,5
+1908,2001,Andhra Pradesh,Van,25
+1909,2001,Karnataka,Van,2
+1910,2001,Goa,Van,0
+1911,2001,Lakshadweep,Van,0
+1912,2001,Kerala,Van,6
+1913,2001,Tamil Nadu,Van,9
+1914,2001,Puducherry,Van,1
+1915,2002,Jammu & Kashmir,Van,4
+1916,2002,Himachal Pradesh,Van,2
+1917,2002,Punjab,Van,2
+1918,2002,Chandigarh,Van,1
+1919,2002,Uttarakhand,Van,0
+1920,2002,Haryana,Van,7
+1921,2002,Delhi,Van,0
+1922,2002,Rajasthan,Van,26
+1923,2002,Uttar Pradesh,Van,8
+1924,2002,Bihar,Van,2
+1925,2002,Sikkim,Van,3
+1926,2002,Nagaland,Van,0
+1927,2002,Manipur,Van,1
+1928,2002,Mizoram,Van,0
+1929,2002,Tripura,Van,1
+1930,2002,Meghalaya,Van,3
+1931,2002,Assam,Van,14
+1932,2002,West Bengal,Van,0
+1933,2002,Jharkhand,Van,0
+1934,2002,Odisha,Van,0
+1935,2002,Chhattisgarh,Van,0
+1936,2002,Madhya Pradesh,Van,22
+1937,2002,Gujarat,Van,10
+1938,2002,Daman & Diu,Van,0
+1939,2002,Dadra & Nagar Haveli,Van,0
+1940,2002,Maharashtra,Van,5
+1941,2002,Andhra Pradesh,Van,40
+1942,2002,Karnataka,Van,2
+1943,2002,Goa,Van,0
+1944,2002,Lakshadweep,Van,0
+1945,2002,Kerala,Van,6
+1946,2002,Tamil Nadu,Van,9
+1947,2002,Puducherry,Van,1
+1948,2003,Jammu & Kashmir,Van,4
+1949,2003,Himachal Pradesh,Van,2
+1950,2003,Punjab,Van,2
+1951,2003,Chandigarh,Van,2
+1952,2003,Uttarakhand,Van,0
+1953,2003,Haryana,Van,7
+1954,2003,Delhi,Van,0
+1955,2003,Rajasthan,Van,26
+1956,2003,Uttar Pradesh,Van,8
+1957,2003,Bihar,Van,4
+1958,2003,Sikkim,Van,3
+1959,2003,Nagaland,Van,7
+1960,2003,Manipur,Van,0
+1961,2003,Mizoram,Van,0
+1962,2003,Tripura,Van,1
+1963,2003,Meghalaya,Van,4
+1964,2003,Assam,Van,18
+1965,2003,West Bengal,Van,0
+1966,2003,Jharkhand,Van,0
+1967,2003,Odisha,Van,0
+1968,2003,Chhattisgarh,Van,1
+1969,2003,Madhya Pradesh,Van,12
+1970,2003,Gujarat,Van,10
+1971,2003,Daman & Diu,Van,0
+1972,2003,Dadra & Nagar Haveli,Van,1
+1973,2003,Maharashtra,Van,6
+1974,2003,Andhra Pradesh,Van,19
+1975,2003,Karnataka,Van,5
+1976,2003,Goa,Van,0
+1977,2003,Lakshadweep,Van,0
+1978,2003,Kerala,Van,6
+1979,2003,Tamil Nadu,Van,9
+1980,2003,Puducherry,Van,1
+1981,2003,Andaman & Nicobar Islands,Van,1
+1982,2004,Jammu & Kashmir,Van,4
+1983,2004,Himachal Pradesh,Van,2
+1984,2004,Punjab,Van,2
+1985,2004,Chandigarh,Van,1
+1986,2004,Uttarakhand,Van,0
+1987,2004,Haryana,Van,8
+1988,2004,Delhi,Van,4
+1989,2004,Rajasthan,Van,5
+1990,2004,Uttar Pradesh,Van,8
+1991,2004,Bihar,Van,2
+1992,2004,Sikkim,Van,3
+1993,2004,Nagaland,Van,7
+1994,2004,Manipur,Van,0
+1995,2004,Mizoram,Van,0
+1996,2004,Tripura,Van,1
+1997,2004,Meghalaya,Van,3
+1998,2004,Assam,Van,18
+1999,2004,West Bengal,Van,0
+2000,2004,Jharkhand,Van,0
+2001,2004,Odisha,Van,0
+2002,2004,Chhattisgarh,Van,1
+2003,2004,Madhya Pradesh,Van,12
+2004,2004,Gujarat,Van,13
+2005,2004,Daman & Diu,Van,0
+2006,2004,Dadra & Nagar Haveli,Van,1
+2007,2004,Maharashtra,Van,3
+2008,2004,Andhra Pradesh,Van,32
+2009,2004,Karnataka,Van,5
+2010,2004,Goa,Van,0
+2011,2004,Lakshadweep,Van,0
+2012,2004,Kerala,Van,6
+2013,2004,Tamil Nadu,Van,7
+2014,2004,Puducherry,Van,1
+2015,2004,Andaman & Nicobar Islands,Van,1
+2016,2005,Jammu & Kashmir,Van,4
+2017,2005,Himachal Pradesh,Van,2
+2018,2005,Punjab,Van,2
+2019,2005,Chandigarh,Van,1
+2020,2005,Uttarakhand,Van,0
+2021,2005,Haryana,Van,6
+2022,2005,Delhi,Van,4
+2023,2005,Rajasthan,Van,5
+2024,2005,Uttar Pradesh,Van,16
+2025,2005,Bihar,Van,0
+2026,2005,Sikkim,Van,3
+2027,2005,Nagaland,Van,7
+2028,2005,Manipur,Van,0
+2029,2005,Mizoram,Van,0
+2030,2005,Tripura,Van,1
+2031,2005,Meghalaya,Van,3
+2032,2005,Assam,Van,18
+2033,2005,West Bengal,Van,0
+2034,2005,Jharkhand,Van,0
+2035,2005,Odisha,Van,0
+2036,2005,Chhattisgarh,Van,0
+2037,2005,Madhya Pradesh,Van,15
+2038,2005,Gujarat,Van,13
+2039,2005,Daman & Diu,Van,0
+2040,2005,Dadra & Nagar Haveli,Van,1
+2041,2005,Maharashtra,Van,4
+2042,2005,Andhra Pradesh,Van,36
+2043,2005,Karnataka,Van,5
+2044,2005,Goa,Van,0
+2045,2005,Lakshadweep,Van,0
+2046,2005,Kerala,Van,6
+2047,2005,Tamil Nadu,Van,7
+2048,2005,Puducherry,Van,1
+2049,2005,Andaman & Nicobar Islands,Van,0
+2050,2006,Jammu & Kashmir,Van,4
+2051,2006,Himachal Pradesh,Van,2
+2052,2006,Punjab,Van,2
+2053,2006,Chandigarh,Van,1
+2054,2006,Uttarakhand,Van,0
+2055,2006,Haryana,Van,4
+2056,2006,Delhi,Van,6
+2057,2006,Rajasthan,Van,5
+2058,2006,Uttar Pradesh,Van,4
+2059,2006,Bihar,Van,0
+2060,2006,Sikkim,Van,3
+2061,2006,Nagaland,Van,0
+2062,2006,Manipur,Van,0
+2063,2006,Mizoram,Van,0
+2064,2006,Tripura,Van,1
+2065,2006,Meghalaya,Van,4
+2066,2006,Assam,Van,11
+2067,2006,West Bengal,Van,0
+2068,2006,Jharkhand,Van,0
+2069,2006,Odisha,Van,0
+2070,2006,Chhattisgarh,Van,1
+2071,2006,Madhya Pradesh,Van,23
+2072,2006,Gujarat,Van,21
+2073,2006,Daman & Diu,Van,0
+2074,2006,Dadra & Nagar Haveli,Van,1
+2075,2006,Maharashtra,Van,0
+2076,2006,Andhra Pradesh,Van,36
+2077,2006,Karnataka,Van,5
+2078,2006,Goa,Van,1
+2079,2006,Lakshadweep,Van,0
+2080,2006,Kerala,Van,2
+2081,2006,Tamil Nadu,Van,9
+2082,2006,Puducherry,Van,1
+2083,2006,Andaman & Nicobar Islands,Van,1
+2084,2007,Jammu & Kashmir,Van,4
+2085,2007,Himachal Pradesh,Van,2
+2086,2007,Punjab,Van,0
+2087,2007,Chandigarh,Van,1
+2088,2007,Uttarakhand,Van,0
+2089,2007,Haryana,Van,4
+2090,2007,Delhi,Van,6
+2091,2007,Uttar Pradesh,Van,6
+2092,2007,Bihar,Van,0
+2093,2007,Sikkim,Van,4
+2094,2007,Nagaland,Van,3
+2095,2007,Manipur,Van,0
+2096,2007,Mizoram,Van,0
+2097,2007,Tripura,Van,1
+2098,2007,Meghalaya,Van,4
+2099,2007,Assam,Van,9
+2100,2007,West Bengal,Van,0
+2101,2007,Jharkhand,Van,6
+2102,2007,Odisha,Van,0
+2103,2007,Chhattisgarh,Van,4
+2104,2007,Madhya Pradesh,Van,20
+2105,2007,Gujarat,Van,9
+2106,2007,Daman & Diu,Van,0
+2107,2007,Dadra & Nagar Haveli,Van,0
+2108,2007,Maharashtra,Van,3
+2109,2007,Andhra Pradesh,Van,36
+2110,2007,Karnataka,Van,3
+2111,2007,Goa,Van,0
+2112,2007,Lakshadweep,Van,0
+2113,2007,Kerala,Van,2
+2114,2007,Tamil Nadu,Van,9
+2115,2007,Puducherry,Van,2
+2116,2007,Andaman & Nicobar Islands,Van,1
+2117,2008,Jammu & Kashmir,Ambulance,2
+2118,2008,Himachal Pradesh,Ambulance,1
+2119,2008,Punjab,Ambulance,14
+2120,2008,Chandigarh,Ambulance,1
+2121,2008,Uttarakhand,Ambulance,8
+2122,2008,Haryana,Ambulance,5
+2123,2008,Delhi,Ambulance,9
+2124,2008,Rajasthan,Ambulance,24
+2125,2008,Uttar Pradesh,Ambulance,51
+2126,2008,Bihar,Ambulance,5
+2127,2008,Sikkim,Ambulance,0
+2128,2008,Nagaland,Ambulance,1
+2129,2008,Manipur,Ambulance,2
+2130,2008,Mizoram,Ambulance,1
+2131,2008,Tripura,Ambulance,2
+2132,2008,Meghalaya,Ambulance,3
+2133,2008,Assam,Ambulance,0
+2134,2008,West Bengal,Ambulance,53
+2135,2008,Jharkhand,Ambulance,28
+2136,2008,Odisha,Ambulance,1
+2137,2008,Chhattisgarh,Ambulance,14
+2138,2008,Madhya Pradesh,Ambulance,17
+2139,2008,Gujarat,Ambulance,15
+2140,2008,Daman & Diu,Ambulance,0
+2141,2008,Dadra & Nagar Haveli,Ambulance,0
+2142,2008,Maharashtra,Ambulance,20
+2143,2008,Andhra Pradesh,Ambulance,4
+2144,2008,Karnataka,Ambulance,23
+2145,2008,Goa,Ambulance,2
+2146,2008,Lakshadweep,Ambulance,0
+2147,2008,Kerala,Ambulance,11
+2148,2008,Tamil Nadu,Ambulance,32
+2149,2008,Puducherry,Ambulance,0
+2150,2008,Andaman & Nicobar Islands,Ambulance,0
+2151,2008,Jammu & Kashmir,Car,3
+2152,2008,Himachal Pradesh,Car,0
+2153,2008,Punjab,Car,7
+2154,2008,Chandigarh,Car,1
+2155,2008,Uttarakhand,Car,2
+2156,2008,Haryana,Car,4
+2157,2008,Delhi,Car,5
+2158,2008,Rajasthan,Car,2
+2159,2008,Uttar Pradesh,Car,12
+2160,2008,Bihar,Car,6
+2161,2008,Sikkim,Car,0
+2162,2008,Nagaland,Car,1
+2163,2008,Manipur,Car,2
+2164,2008,Mizoram,Car,2
+2165,2008,Tripura,Car,3
+2166,2008,Meghalaya,Car,1
+2167,2008,Assam,Car,0
+2168,2008,West Bengal,Car,5
+2169,2008,Jharkhand,Car,0
+2170,2008,Odisha,Car,4
+2171,2008,Chhattisgarh,Car,0
+2172,2008,Madhya Pradesh,Car,7
+2173,2008,Gujarat,Car,0
+2174,2008,Daman & Diu,Car,0
+2175,2008,Dadra & Nagar Haveli,Car,0
+2176,2008,Maharashtra,Car,0
+2177,2008,Andhra Pradesh,Car,16
+2178,2008,Karnataka,Car,6
+2179,2008,Goa,Car,0
+2180,2008,Lakshadweep,Car,0
+2181,2008,Kerala,Car,8
+2182,2008,Tamil Nadu,Car,21
+2183,2008,Puducherry,Car,0
+2184,2008,Andaman & Nicobar Islands,Car,0
+2185,2008,Jammu & Kashmir,Jeep,0
+2186,2008,Himachal Pradesh,Jeep,0
+2187,2008,Punjab,Jeep,15
+2188,2008,Chandigarh,Jeep,1
+2189,2008,Uttarakhand,Jeep,10
+2190,2008,Haryana,Jeep,5
+2191,2008,Delhi,Jeep,10
+2192,2008,Rajasthan,Jeep,7
+2193,2008,Uttar Pradesh,Jeep,64
+2194,2008,Bihar,Jeep,26
+2195,2008,Sikkim,Jeep,5
+2196,2008,Nagaland,Jeep,4
+2197,2008,Manipur,Jeep,0
+2198,2008,Mizoram,Jeep,0
+2199,2008,Tripura,Jeep,1
+2200,2008,Meghalaya,Jeep,1
+2201,2008,Assam,Jeep,0
+2202,2008,West Bengal,Jeep,3
+2203,2008,Jharkhand,Jeep,16
+2204,2008,Odisha,Jeep,5
+2205,2008,Chhattisgarh,Jeep,4
+2206,2008,Madhya Pradesh,Jeep,25
+2207,2008,Gujarat,Jeep,8
+2208,2008,Daman & Diu,Jeep,0
+2209,2008,Dadra & Nagar Haveli,Jeep,0
+2210,2008,Maharashtra,Jeep,3
+2211,2008,Andhra Pradesh,Jeep,14
+2212,2008,Karnataka,Jeep,5
+2213,2008,Goa,Jeep,0
+2214,2008,Lakshadweep,Jeep,0
+2215,2008,Kerala,Jeep,49
+2216,2008,Tamil Nadu,Jeep,19
+2217,2008,Puducherry,Jeep,0
+2218,2008,Andaman & Nicobar Islands,Jeep,1
+2219,2008,Jammu & Kashmir,Lorry,0
+2220,2008,Himachal Pradesh,Lorry,0
+2221,2008,Punjab,Lorry,0
+2222,2008,Chandigarh,Lorry,1
+2223,2008,Uttarakhand,Lorry,3
+2224,2008,Haryana,Lorry,1
+2225,2008,Delhi,Lorry,6
+2226,2008,Rajasthan,Lorry,2
+2227,2008,Uttar Pradesh,Lorry,7
+2228,2008,Bihar,Lorry,0
+2229,2008,Sikkim,Lorry,1
+2230,2008,Nagaland,Lorry,0
+2231,2008,Manipur,Lorry,1
+2232,2008,Mizoram,Lorry,1
+2233,2008,Tripura,Lorry,0
+2234,2008,Meghalaya,Lorry,0
+2235,2008,Assam,Lorry,0
+2236,2008,West Bengal,Lorry,0
+2237,2008,Jharkhand,Lorry,1
+2238,2008,Odisha,Lorry,0
+2239,2008,Chhattisgarh,Lorry,8
+2240,2008,Madhya Pradesh,Lorry,67
+2241,2008,Gujarat,Lorry,7
+2242,2008,Daman & Diu,Lorry,0
+2243,2008,Dadra & Nagar Haveli,Lorry,0
+2244,2008,Maharashtra,Lorry,5
+2245,2008,Andhra Pradesh,Lorry,0
+2246,2008,Karnataka,Lorry,1
+2247,2008,Goa,Lorry,0
+2248,2008,Lakshadweep,Lorry,0
+2249,2008,Kerala,Lorry,6
+2250,2008,Tamil Nadu,Lorry,5
+2251,2008,Puducherry,Lorry,0
+2252,2008,Andaman & Nicobar Islands,Lorry,1
+2253,2008,Jammu & Kashmir,Motorcycle,5
+2254,2008,Himachal Pradesh,Motorcycle,7
+2255,2008,Punjab,Motorcycle,0
+2256,2008,Chandigarh,Motorcycle,1
+2257,2008,Uttarakhand,Motorcycle,12
+2258,2008,Haryana,Motorcycle,18
+2259,2008,Delhi,Motorcycle,13
+2260,2008,Rajasthan,Motorcycle,2
+2261,2008,Uttar Pradesh,Motorcycle,22
+2262,2008,Bihar,Motorcycle,0
+2263,2008,Sikkim,Motorcycle,3
+2264,2008,Nagaland,Motorcycle,0
+2265,2008,Manipur,Motorcycle,2
+2266,2008,Mizoram,Motorcycle,4
+2267,2008,Tripura,Motorcycle,7
+2268,2008,Meghalaya,Motorcycle,1
+2269,2008,Assam,Motorcycle,1
+2270,2008,West Bengal,Motorcycle,0
+2271,2008,Jharkhand,Motorcycle,2
+2272,2008,Odisha,Motorcycle,3
+2273,2008,Chhattisgarh,Motorcycle,25
+2274,2008,Madhya Pradesh,Motorcycle,22
+2275,2008,Gujarat,Motorcycle,26
+2276,2008,Daman & Diu,Motorcycle,0
+2277,2008,Dadra & Nagar Haveli,Motorcycle,0
+2278,2008,Maharashtra,Motorcycle,0
+2279,2008,Andhra Pradesh,Motorcycle,22
+2280,2008,Karnataka,Motorcycle,43
+2281,2008,Goa,Motorcycle,0
+2282,2008,Lakshadweep,Motorcycle,0
+2283,2008,Kerala,Motorcycle,26
+2284,2008,Tamil Nadu,Motorcycle,20
+2285,2008,Puducherry,Motorcycle,4
+2286,2008,Andaman & Nicobar Islands,Motorcycle,2
+2287,2008,Jammu & Kashmir,Others,18
+2288,2008,Himachal Pradesh,Others,1
+2289,2008,Punjab,Others,0
+2290,2008,Chandigarh,Others,0
+2291,2008,Uttarakhand,Others,2
+2292,2008,Haryana,Others,1
+2293,2008,Delhi,Others,2
+2294,2008,Rajasthan,Others,17
+2295,2008,Uttar Pradesh,Others,2
+2296,2008,Bihar,Others,0
+2297,2008,Sikkim,Others,3
+2298,2008,Nagaland,Others,3
+2299,2008,Manipur,Others,3
+2300,2008,Mizoram,Others,2
+2301,2008,Tripura,Others,1
+2302,2008,Meghalaya,Others,0
+2303,2008,Assam,Others,2
+2304,2008,West Bengal,Others,6
+2305,2008,Jharkhand,Others,0
+2306,2008,Odisha,Others,1
+2307,2008,Chhattisgarh,Others,12
+2308,2008,Madhya Pradesh,Others,3
+2309,2008,Gujarat,Others,8
+2310,2008,Daman & Diu,Others,0
+2311,2008,Dadra & Nagar Haveli,Others,0
+2312,2008,Maharashtra,Others,4
+2313,2008,Andhra Pradesh,Others,16
+2314,2008,Karnataka,Others,29
+2315,2008,Goa,Others,2
+2316,2008,Lakshadweep,Others,0
+2317,2008,Kerala,Others,9
+2318,2008,Tamil Nadu,Others,4
+2319,2008,Puducherry,Others,0
+2320,2008,Andaman & Nicobar Islands,Others,0
+2321,2008,Jammu & Kashmir,Total,32
+2322,2008,Himachal Pradesh,Total,10
+2323,2008,Punjab,Total,36
+2324,2008,Chandigarh,Total,7
+2325,2008,Uttarakhand,Total,45
+2326,2008,Haryana,Total,44
+2327,2008,Delhi,Total,51
+2328,2008,Rajasthan,Total,59
+2329,2008,Uttar Pradesh,Total,187
+2330,2008,Bihar,Total,41
+2331,2008,Sikkim,Total,14
+2332,2008,Nagaland,Total,12
+2333,2008,Manipur,Total,11
+2334,2008,Mizoram,Total,10
+2335,2008,Tripura,Total,16
+2336,2008,Meghalaya,Total,10
+2337,2008,Assam,Total,15
+2338,2008,West Bengal,Total,67
+2339,2008,Jharkhand,Total,55
+2340,2008,Odisha,Total,15
+2341,2008,Chhattisgarh,Total,69
+2342,2008,Madhya Pradesh,Total,145
+2343,2008,Gujarat,Total,80
+2344,2008,Daman & Diu,Total,0
+2345,2008,Dadra & Nagar Haveli,Total,0
+2346,2008,Maharashtra,Total,47
+2347,2008,Andhra Pradesh,Total,111
+2348,2008,Karnataka,Total,119
+2349,2008,Goa,Total,4
+2350,2008,Lakshadweep,Total,0
+2351,2008,Kerala,Total,121
+2352,2008,Tamil Nadu,Total,121
+2353,2008,Puducherry,Total,6
+2354,2008,Andaman & Nicobar Islands,Total,5
+2355,2008,Jammu & Kashmir,Tractor,0
+2356,2008,Himachal Pradesh,Tractor,0
+2357,2008,Punjab,Tractor,0
+2358,2008,Chandigarh,Tractor,1
+2359,2008,Uttarakhand,Tractor,8
+2360,2008,Haryana,Tractor,5
+2361,2008,Delhi,Tractor,0
+2362,2008,Rajasthan,Tractor,0
+2363,2008,Uttar Pradesh,Tractor,26
+2364,2008,Bihar,Tractor,4
+2365,2008,Sikkim,Tractor,0
+2366,2008,Nagaland,Tractor,0
+2367,2008,Manipur,Tractor,1
+2368,2008,Mizoram,Tractor,0
+2369,2008,Tripura,Tractor,1
+2370,2008,Meghalaya,Tractor,0
+2371,2008,Assam,Tractor,3
+2372,2008,West Bengal,Tractor,0
+2373,2008,Jharkhand,Tractor,1
+2374,2008,Odisha,Tractor,1
+2375,2008,Chhattisgarh,Tractor,1
+2376,2008,Madhya Pradesh,Tractor,4
+2377,2008,Gujarat,Tractor,7
+2378,2008,Daman & Diu,Tractor,0
+2379,2008,Dadra & Nagar Haveli,Tractor,0
+2380,2008,Maharashtra,Tractor,13
+2381,2008,Andhra Pradesh,Tractor,3
+2382,2008,Karnataka,Tractor,10
+2383,2008,Goa,Tractor,0
+2384,2008,Lakshadweep,Tractor,0
+2385,2008,Kerala,Tractor,6
+2386,2008,Tamil Nadu,Tractor,8
+2387,2008,Puducherry,Tractor,0
+2388,2008,Andaman & Nicobar Islands,Tractor,0
+2389,2008,Jammu & Kashmir,Van,4
+2390,2008,Himachal Pradesh,Van,1
+2391,2008,Punjab,Van,0
+2392,2008,Chandigarh,Van,1
+2393,2008,Uttarakhand,Van,0
+2394,2008,Haryana,Van,5
+2395,2008,Delhi,Van,6
+2396,2008,Rajasthan,Van,5
+2397,2008,Uttar Pradesh,Van,3
+2398,2008,Bihar,Van,0
+2399,2008,Sikkim,Van,2
+2400,2008,Nagaland,Van,3
+2401,2008,Manipur,Van,0
+2402,2008,Mizoram,Van,0
+2403,2008,Tripura,Van,1
+2404,2008,Meghalaya,Van,4
+2405,2008,Assam,Van,9
+2406,2008,West Bengal,Van,0
+2407,2008,Jharkhand,Van,7
+2408,2008,Odisha,Van,0
+2409,2008,Chhattisgarh,Van,5
+2410,2008,Madhya Pradesh,Van,0
+2411,2008,Gujarat,Van,9
+2412,2008,Daman & Diu,Van,0
+2413,2008,Dadra & Nagar Haveli,Van,0
+2414,2008,Maharashtra,Van,2
+2415,2008,Andhra Pradesh,Van,36
+2416,2008,Karnataka,Van,2
+2417,2008,Goa,Van,0
+2418,2008,Lakshadweep,Van,0
+2419,2008,Kerala,Van,6
+2420,2008,Tamil Nadu,Van,12
+2421,2008,Puducherry,Van,2
+2422,2008,Andaman & Nicobar Islands,Van,1
+2423,2009,Jammu & Kashmir,Ambulance,2
+2424,2009,Himachal Pradesh,Ambulance,1
+2425,2009,Punjab,Ambulance,14
+2426,2009,Chandigarh,Ambulance,1
+2427,2009,Uttarakhand,Ambulance,8
+2428,2009,Haryana,Ambulance,9
+2429,2009,Delhi,Ambulance,11
+2430,2009,Rajasthan,Ambulance,24
+2431,2009,Uttar Pradesh,Ambulance,51
+2432,2009,Bihar,Ambulance,5
+2433,2009,Sikkim,Ambulance,0
+2434,2009,Arunachal Pradesh,Ambulance,0
+2435,2009,Nagaland,Ambulance,1
+2436,2009,Manipur,Ambulance,2
+2437,2009,Mizoram,Ambulance,1
+2438,2009,Tripura,Ambulance,3
+2439,2009,Meghalaya,Ambulance,4
+2440,2009,Assam,Ambulance,0
+2441,2009,West Bengal,Ambulance,52
+2442,2009,Jharkhand,Ambulance,29
+2443,2009,Odisha,Ambulance,1
+2444,2009,Chhattisgarh,Ambulance,13
+2445,2009,Madhya Pradesh,Ambulance,17
+2446,2009,Gujarat,Ambulance,15
+2447,2009,Daman & Diu,Ambulance,0
+2448,2009,Dadra & Nagar Haveli,Ambulance,0
+2449,2009,Maharashtra,Ambulance,31
+2450,2009,Andhra Pradesh,Ambulance,7
+2451,2009,Karnataka,Ambulance,23
+2452,2009,Goa,Ambulance,1
+2453,2009,Lakshadweep,Ambulance,0
+2454,2009,Kerala,Ambulance,11
+2455,2009,Tamil Nadu,Ambulance,31
+2456,2009,Puducherry,Ambulance,0
+2457,2009,Andaman & Nicobar Islands,Ambulance,0
+2458,2010,Jammu & Kashmir,Ambulance,3
+2459,2010,Himachal Pradesh,Ambulance,1
+2460,2010,Punjab,Ambulance,12
+2461,2010,Chandigarh,Ambulance,1
+2462,2010,Uttarakhand,Ambulance,8
+2463,2010,Haryana,Ambulance,11
+2464,2010,Delhi,Ambulance,11
+2465,2010,Rajasthan,Ambulance,24
+2466,2010,Uttar Pradesh,Ambulance,65
+2467,2010,Bihar,Ambulance,5
+2468,2010,Sikkim,Ambulance,0
+2469,2010,Arunachal Pradesh,Ambulance,0
+2470,2010,Nagaland,Ambulance,1
+2471,2010,Manipur,Ambulance,2
+2472,2010,Mizoram,Ambulance,1
+2473,2010,Tripura,Ambulance,3
+2474,2010,Meghalaya,Ambulance,4
+2475,2010,Assam,Ambulance,0
+2476,2010,West Bengal,Ambulance,54
+2477,2010,Jharkhand,Ambulance,29
+2478,2010,Odisha,Ambulance,1
+2479,2010,Chhattisgarh,Ambulance,14
+2480,2010,Madhya Pradesh,Ambulance,17
+2481,2010,Gujarat,Ambulance,22
+2482,2010,Daman & Diu,Ambulance,0
+2483,2010,Dadra & Nagar Haveli,Ambulance,0
+2484,2010,Maharashtra,Ambulance,23
+2485,2010,Andhra Pradesh,Ambulance,4
+2486,2010,Karnataka,Ambulance,35
+2487,2010,Goa,Ambulance,2
+2488,2010,Lakshadweep,Ambulance,0
+2489,2010,Kerala,Ambulance,17
+2490,2010,Tamil Nadu,Ambulance,31
+2491,2010,Puducherry,Ambulance,1
+2492,2010,Andaman & Nicobar Islands,Ambulance,0
+2493,2009,Jammu & Kashmir,Car,3
+2494,2009,Himachal Pradesh,Car,0
+2495,2009,Punjab,Car,8
+2496,2009,Chandigarh,Car,1
+2497,2009,Uttarakhand,Car,2
+2498,2009,Haryana,Car,3
+2499,2009,Delhi,Car,6
+2500,2009,Rajasthan,Car,4
+2501,2009,Uttar Pradesh,Car,12
+2502,2009,Bihar,Car,4
+2503,2009,Sikkim,Car,0
+2504,2009,Arunachal Pradesh,Car,0
+2505,2009,Nagaland,Car,2
+2506,2009,Manipur,Car,2
+2507,2009,Mizoram,Car,0
+2508,2009,Tripura,Car,3
+2509,2009,Meghalaya,Car,1
+2510,2009,Assam,Car,0
+2511,2009,West Bengal,Car,3
+2512,2009,Jharkhand,Car,0
+2513,2009,Odisha,Car,4
+2514,2009,Chhattisgarh,Car,1
+2515,2009,Madhya Pradesh,Car,7
+2516,2009,Gujarat,Car,1
+2517,2009,Daman & Diu,Car,0
+2518,2009,Dadra & Nagar Haveli,Car,0
+2519,2009,Maharashtra,Car,4
+2520,2009,Andhra Pradesh,Car,16
+2521,2009,Karnataka,Car,6
+2522,2009,Goa,Car,0
+2523,2009,Lakshadweep,Car,0
+2524,2009,Kerala,Car,8
+2525,2009,Tamil Nadu,Car,17
+2526,2009,Puducherry,Car,0
+2527,2009,Andaman & Nicobar Islands,Car,0
+2528,2010,Jammu & Kashmir,Car,3
+2529,2010,Himachal Pradesh,Car,0
+2530,2010,Punjab,Car,10
+2531,2010,Chandigarh,Car,1
+2532,2010,Uttarakhand,Car,2
+2533,2010,Haryana,Car,0
+2534,2010,Delhi,Car,5
+2535,2010,Rajasthan,Car,6
+2536,2010,Uttar Pradesh,Car,15
+2537,2010,Bihar,Car,4
+2538,2010,Sikkim,Car,3
+2539,2010,Arunachal Pradesh,Car,0
+2540,2010,Nagaland,Car,2
+2541,2010,Manipur,Car,1
+2542,2010,Mizoram,Car,0
+2543,2010,Tripura,Car,3
+2544,2010,Meghalaya,Car,0
+2545,2010,Assam,Car,0
+2546,2010,West Bengal,Car,3
+2547,2010,Jharkhand,Car,0
+2548,2010,Odisha,Car,4
+2549,2010,Chhattisgarh,Car,1
+2550,2010,Madhya Pradesh,Car,7
+2551,2010,Gujarat,Car,1
+2552,2010,Daman & Diu,Car,0
+2553,2010,Dadra & Nagar Haveli,Car,0
+2554,2010,Maharashtra,Car,3
+2555,2010,Andhra Pradesh,Car,16
+2556,2010,Karnataka,Car,6
+2557,2010,Goa,Car,0
+2558,2010,Lakshadweep,Car,0
+2559,2010,Kerala,Car,12
+2560,2010,Tamil Nadu,Car,15
+2561,2010,Puducherry,Car,1
+2562,2010,Andaman & Nicobar Islands,Car,0
+2563,2009,Jammu & Kashmir,Jeep,0
+2564,2009,Himachal Pradesh,Jeep,0
+2565,2009,Punjab,Jeep,12
+2566,2009,Chandigarh,Jeep,1
+2567,2009,Uttarakhand,Jeep,6
+2568,2009,Haryana,Jeep,4
+2569,2009,Delhi,Jeep,11
+2570,2009,Rajasthan,Jeep,7
+2571,2009,Uttar Pradesh,Jeep,65
+2572,2009,Bihar,Jeep,26
+2573,2009,Sikkim,Jeep,5
+2574,2009,Arunachal Pradesh,Jeep,1
+2575,2009,Nagaland,Jeep,5
+2576,2009,Manipur,Jeep,0
+2577,2009,Mizoram,Jeep,0
+2578,2009,Tripura,Jeep,1
+2579,2009,Meghalaya,Jeep,2
+2580,2009,Assam,Jeep,0
+2581,2009,West Bengal,Jeep,1
+2582,2009,Jharkhand,Jeep,13
+2583,2009,Odisha,Jeep,5
+2584,2009,Chhattisgarh,Jeep,4
+2585,2009,Madhya Pradesh,Jeep,25
+2586,2009,Gujarat,Jeep,5
+2587,2009,Daman & Diu,Jeep,0
+2588,2009,Dadra & Nagar Haveli,Jeep,0
+2589,2009,Maharashtra,Jeep,2
+2590,2009,Andhra Pradesh,Jeep,14
+2591,2009,Karnataka,Jeep,5
+2592,2009,Goa,Jeep,2
+2593,2009,Lakshadweep,Jeep,0
+2594,2009,Kerala,Jeep,49
+2595,2009,Tamil Nadu,Jeep,16
+2596,2009,Puducherry,Jeep,1
+2597,2009,Andaman & Nicobar Islands,Jeep,1
+2598,2010,Jammu & Kashmir,Jeep,3
+2599,2010,Himachal Pradesh,Jeep,0
+2600,2010,Punjab,Jeep,14
+2601,2010,Chandigarh,Jeep,1
+2602,2010,Uttarakhand,Jeep,9
+2603,2010,Haryana,Jeep,6
+2604,2010,Delhi,Jeep,11
+2605,2010,Rajasthan,Jeep,7
+2606,2010,Uttar Pradesh,Jeep,70
+2607,2010,Bihar,Jeep,26
+2608,2010,Sikkim,Jeep,5
+2609,2010,Arunachal Pradesh,Jeep,1
+2610,2010,Nagaland,Jeep,0
+2611,2010,Manipur,Jeep,10
+2612,2010,Mizoram,Jeep,0
+2613,2010,Tripura,Jeep,1
+2614,2010,Meghalaya,Jeep,2
+2615,2010,Assam,Jeep,0
+2616,2010,West Bengal,Jeep,1
+2617,2010,Jharkhand,Jeep,13
+2618,2010,Odisha,Jeep,5
+2619,2010,Chhattisgarh,Jeep,3
+2620,2010,Madhya Pradesh,Jeep,25
+2621,2010,Gujarat,Jeep,12
+2622,2010,Daman & Diu,Jeep,0
+2623,2010,Dadra & Nagar Haveli,Jeep,0
+2624,2010,Maharashtra,Jeep,2
+2625,2010,Andhra Pradesh,Jeep,14
+2626,2010,Karnataka,Jeep,37
+2627,2010,Goa,Jeep,2
+2628,2010,Lakshadweep,Jeep,0
+2629,2010,Kerala,Jeep,39
+2630,2010,Tamil Nadu,Jeep,16
+2631,2010,Puducherry,Jeep,3
+2632,2010,Andaman & Nicobar Islands,Jeep,1
+2633,2009,Jammu & Kashmir,Lorry,0
+2634,2009,Himachal Pradesh,Lorry,0
+2635,2009,Punjab,Lorry,1
+2636,2009,Chandigarh,Lorry,1
+2637,2009,Uttarakhand,Lorry,16
+2638,2009,Haryana,Lorry,0
+2639,2009,Delhi,Lorry,6
+2640,2009,Rajasthan,Lorry,5
+2641,2009,Uttar Pradesh,Lorry,7
+2642,2009,Bihar,Lorry,0
+2643,2009,Sikkim,Lorry,1
+2644,2009,Arunachal Pradesh,Lorry,0
+2645,2009,Nagaland,Lorry,0
+2646,2009,Manipur,Lorry,1
+2647,2009,Mizoram,Lorry,0
+2648,2009,Tripura,Lorry,0
+2649,2009,Meghalaya,Lorry,0
+2650,2009,Assam,Lorry,0
+2651,2009,West Bengal,Lorry,0
+2652,2009,Jharkhand,Lorry,3
+2653,2009,Odisha,Lorry,1
+2654,2009,Chhattisgarh,Lorry,7
+2655,2009,Madhya Pradesh,Lorry,67
+2656,2009,Gujarat,Lorry,5
+2657,2009,Daman & Diu,Lorry,0
+2658,2009,Dadra & Nagar Haveli,Lorry,0
+2659,2009,Maharashtra,Lorry,9
+2660,2009,Andhra Pradesh,Lorry,0
+2661,2009,Karnataka,Lorry,1
+2662,2009,Goa,Lorry,0
+2663,2009,Lakshadweep,Lorry,0
+2664,2009,Kerala,Lorry,6
+2665,2009,Tamil Nadu,Lorry,4
+2666,2009,Puducherry,Lorry,0
+2667,2009,Andaman & Nicobar Islands,Lorry,1
+2668,2010,Jammu & Kashmir,Lorry,1
+2669,2010,Himachal Pradesh,Lorry,0
+2670,2010,Punjab,Lorry,0
+2671,2010,Chandigarh,Lorry,1
+2672,2010,Uttarakhand,Lorry,2
+2673,2010,Haryana,Lorry,0
+2674,2010,Delhi,Lorry,4
+2675,2010,Rajasthan,Lorry,5
+2676,2010,Uttar Pradesh,Lorry,7
+2677,2010,Bihar,Lorry,0
+2678,2010,Sikkim,Lorry,1
+2679,2010,Arunachal Pradesh,Lorry,0
+2680,2010,Nagaland,Lorry,0
+2681,2010,Manipur,Lorry,2
+2682,2010,Mizoram,Lorry,0
+2683,2010,Tripura,Lorry,0
+2684,2010,Meghalaya,Lorry,0
+2685,2010,Assam,Lorry,0
+2686,2010,West Bengal,Lorry,0
+2687,2010,Jharkhand,Lorry,3
+2688,2010,Odisha,Lorry,1
+2689,2010,Chhattisgarh,Lorry,10
+2690,2010,Madhya Pradesh,Lorry,67
+2691,2010,Gujarat,Lorry,8
+2692,2010,Daman & Diu,Lorry,0
+2693,2010,Dadra & Nagar Haveli,Lorry,0
+2694,2010,Maharashtra,Lorry,9
+2695,2010,Andhra Pradesh,Lorry,0
+2696,2010,Karnataka,Lorry,2
+2697,2010,Goa,Lorry,0
+2698,2010,Lakshadweep,Lorry,0
+2699,2010,Kerala,Lorry,2
+2700,2010,Tamil Nadu,Lorry,3
+2701,2010,Puducherry,Lorry,0
+2702,2010,Andaman & Nicobar Islands,Lorry,1
+2703,2009,Jammu & Kashmir,Motorcycle,5
+2704,2009,Himachal Pradesh,Motorcycle,5
+2705,2009,Punjab,Motorcycle,0
+2706,2009,Chandigarh,Motorcycle,1
+2707,2009,Uttarakhand,Motorcycle,8
+2708,2009,Haryana,Motorcycle,18
+2709,2009,Delhi,Motorcycle,13
+2710,2009,Rajasthan,Motorcycle,2
+2711,2009,Uttar Pradesh,Motorcycle,20
+2712,2009,Bihar,Motorcycle,0
+2713,2009,Sikkim,Motorcycle,3
+2714,2009,Arunachal Pradesh,Motorcycle,2
+2715,2009,Nagaland,Motorcycle,0
+2716,2009,Manipur,Motorcycle,2
+2717,2009,Mizoram,Motorcycle,4
+2718,2009,Tripura,Motorcycle,7
+2719,2009,Meghalaya,Motorcycle,1
+2720,2009,Assam,Motorcycle,1
+2721,2009,West Bengal,Motorcycle,0
+2722,2009,Jharkhand,Motorcycle,1
+2723,2009,Odisha,Motorcycle,3
+2724,2009,Chhattisgarh,Motorcycle,25
+2725,2009,Madhya Pradesh,Motorcycle,22
+2726,2009,Gujarat,Motorcycle,28
+2727,2009,Daman & Diu,Motorcycle,0
+2728,2009,Dadra & Nagar Haveli,Motorcycle,0
+2729,2009,Maharashtra,Motorcycle,5
+2730,2009,Andhra Pradesh,Motorcycle,22
+2731,2009,Karnataka,Motorcycle,43
+2732,2009,Goa,Motorcycle,0
+2733,2009,Lakshadweep,Motorcycle,0
+2734,2009,Kerala,Motorcycle,26
+2735,2009,Tamil Nadu,Motorcycle,17
+2736,2009,Puducherry,Motorcycle,4
+2737,2009,Andaman & Nicobar Islands,Motorcycle,2
+2738,2010,Jammu & Kashmir,Motorcycle,4
+2739,2010,Himachal Pradesh,Motorcycle,7
+2740,2010,Punjab,Motorcycle,0
+2741,2010,Chandigarh,Motorcycle,1
+2742,2010,Uttarakhand,Motorcycle,8
+2743,2010,Haryana,Motorcycle,15
+2744,2010,Delhi,Motorcycle,13
+2745,2010,Rajasthan,Motorcycle,2
+2746,2010,Uttar Pradesh,Motorcycle,20
+2747,2010,Bihar,Motorcycle,0
+2748,2010,Sikkim,Motorcycle,3
+2749,2010,Arunachal Pradesh,Motorcycle,2
+2750,2010,Nagaland,Motorcycle,0
+2751,2010,Manipur,Motorcycle,1
+2752,2010,Mizoram,Motorcycle,4
+2753,2010,Tripura,Motorcycle,7
+2754,2010,Meghalaya,Motorcycle,1
+2755,2010,Assam,Motorcycle,1
+2756,2010,West Bengal,Motorcycle,0
+2757,2010,Jharkhand,Motorcycle,1
+2758,2010,Odisha,Motorcycle,3
+2759,2010,Chhattisgarh,Motorcycle,25
+2760,2010,Madhya Pradesh,Motorcycle,16
+2761,2010,Gujarat,Motorcycle,30
+2762,2010,Daman & Diu,Motorcycle,0
+2763,2010,Dadra & Nagar Haveli,Motorcycle,0
+2764,2010,Maharashtra,Motorcycle,6
+2765,2010,Andhra Pradesh,Motorcycle,22
+2766,2010,Karnataka,Motorcycle,105
+2767,2010,Goa,Motorcycle,0
+2768,2010,Lakshadweep,Motorcycle,0
+2769,2010,Kerala,Motorcycle,42
+2770,2010,Tamil Nadu,Motorcycle,18
+2771,2010,Puducherry,Motorcycle,4
+2772,2010,Andaman & Nicobar Islands,Motorcycle,2
+2773,2009,Jammu & Kashmir,Others,18
+2774,2009,Himachal Pradesh,Others,1
+2775,2009,Punjab,Others,3
+2776,2009,Chandigarh,Others,0
+2777,2009,Uttarakhand,Others,28
+2778,2009,Haryana,Others,3
+2779,2009,Delhi,Others,2
+2780,2009,Rajasthan,Others,18
+2781,2009,Uttar Pradesh,Others,0
+2782,2009,Bihar,Others,0
+2783,2009,Sikkim,Others,3
+2784,2009,Arunachal Pradesh,Others,0
+2785,2009,Nagaland,Others,3
+2786,2009,Manipur,Others,3
+2787,2009,Mizoram,Others,1
+2788,2009,Tripura,Others,1
+2789,2009,Meghalaya,Others,0
+2790,2009,Assam,Others,2
+2791,2009,West Bengal,Others,6
+2792,2009,Jharkhand,Others,5
+2793,2009,Odisha,Others,1
+2794,2009,Chhattisgarh,Others,17
+2795,2009,Madhya Pradesh,Others,33
+2796,2009,Gujarat,Others,5
+2797,2009,Daman & Diu,Others,0
+2798,2009,Dadra & Nagar Haveli,Others,0
+2799,2009,Maharashtra,Others,7
+2800,2009,Andhra Pradesh,Others,16
+2801,2009,Karnataka,Others,29
+2802,2009,Goa,Others,0
+2803,2009,Lakshadweep,Others,0
+2804,2009,Kerala,Others,9
+2805,2009,Tamil Nadu,Others,1
+2806,2009,Puducherry,Others,0
+2807,2009,Andaman & Nicobar Islands,Others,0
+2808,2010,Jammu & Kashmir,Others,8
+2809,2010,Himachal Pradesh,Others,1
+2810,2010,Punjab,Others,0
+2811,2010,Chandigarh,Others,0
+2812,2010,Uttarakhand,Others,12
+2813,2010,Haryana,Others,4
+2814,2010,Delhi,Others,2
+2815,2010,Rajasthan,Others,18
+2816,2010,Uttar Pradesh,Others,5
+2817,2010,Bihar,Others,0
+2818,2010,Sikkim,Others,2
+2819,2010,Arunachal Pradesh,Others,0
+2820,2010,Nagaland,Others,8
+2821,2010,Manipur,Others,2
+2822,2010,Mizoram,Others,2
+2823,2010,Tripura,Others,1
+2824,2010,Meghalaya,Others,0
+2825,2010,Assam,Others,3
+2826,2010,West Bengal,Others,7
+2827,2010,Jharkhand,Others,4
+2828,2010,Odisha,Others,2
+2829,2010,Chhattisgarh,Others,14
+2830,2010,Madhya Pradesh,Others,34
+2831,2010,Gujarat,Others,8
+2832,2010,Daman & Diu,Others,0
+2833,2010,Dadra & Nagar Haveli,Others,0
+2834,2010,Maharashtra,Others,7
+2835,2010,Andhra Pradesh,Others,22
+2836,2010,Karnataka,Others,32
+2837,2010,Goa,Others,0
+2838,2010,Lakshadweep,Others,0
+2839,2010,Kerala,Others,2
+2840,2010,Tamil Nadu,Others,1
+2841,2010,Puducherry,Others,1
+2842,2010,Andaman & Nicobar Islands,Others,0
+2843,2009,Jammu & Kashmir,Total,32
+2844,2009,Himachal Pradesh,Total,8
+2845,2009,Punjab,Total,52
+2846,2009,Chandigarh,Total,7
+2847,2009,Uttarakhand,Total,74
+2848,2009,Haryana,Total,45
+2849,2009,Delhi,Total,54
+2850,2009,Rajasthan,Total,60
+2851,2009,Uttar Pradesh,Total,183
+2852,2009,Bihar,Total,39
+2853,2009,Sikkim,Total,14
+2854,2009,Arunachal Pradesh,Total,4
+2855,2009,Nagaland,Total,15
+2856,2009,Manipur,Total,11
+2857,2009,Mizoram,Total,6
+2858,2009,Tripura,Total,17
+2859,2009,Meghalaya,Total,12
+2860,2009,Assam,Total,16
+2861,2009,West Bengal,Total,62
+2862,2009,Jharkhand,Total,58
+2863,2009,Odisha,Total,16
+2864,2009,Chhattisgarh,Total,71
+2865,2009,Madhya Pradesh,Total,192
+2866,2009,Gujarat,Total,84
+2867,2009,Daman & Diu,Total,0
+2868,2009,Dadra & Nagar Haveli,Total,0
+2869,2009,Maharashtra,Total,82
+2870,2009,Andhra Pradesh,Total,114
+2871,2009,Karnataka,Total,119
+2872,2009,Goa,Total,4
+2873,2009,Lakshadweep,Total,0
+2874,2009,Kerala,Total,121
+2875,2009,Tamil Nadu,Total,100
+2876,2009,Puducherry,Total,6
+2877,2009,Andaman & Nicobar Islands,Total,5
+2878,2010,Jammu & Kashmir,Total,27
+2879,2010,Himachal Pradesh,Total,11
+2880,2010,Punjab,Total,51
+2881,2010,Chandigarh,Total,7
+2882,2010,Uttarakhand,Total,57
+2883,2010,Haryana,Total,44
+2884,2010,Delhi,Total,52
+2885,2010,Rajasthan,Total,62
+2886,2010,Uttar Pradesh,Total,211
+2887,2010,Bihar,Total,39
+2888,2010,Sikkim,Total,16
+2889,2010,Arunachal Pradesh,Total,4
+2890,2010,Nagaland,Total,15
+2891,2010,Manipur,Total,19
+2892,2010,Mizoram,Total,7
+2893,2010,Tripura,Total,17
+2894,2010,Meghalaya,Total,11
+2895,2010,Assam,Total,19
+2896,2010,West Bengal,Total,65
+2897,2010,Jharkhand,Total,57
+2898,2010,Odisha,Total,17
+2899,2010,Chhattisgarh,Total,72
+2900,2010,Madhya Pradesh,Total,186
+2901,2010,Gujarat,Total,105
+2902,2010,Daman & Diu,Total,0
+2903,2010,Dadra & Nagar Haveli,Total,0
+2904,2010,Maharashtra,Total,74
+2905,2010,Andhra Pradesh,Total,118
+2906,2010,Karnataka,Total,231
+2907,2010,Goa,Total,4
+2908,2010,Lakshadweep,Total,0
+2909,2010,Kerala,Total,123
+2910,2010,Tamil Nadu,Total,97
+2911,2010,Puducherry,Total,11
+2912,2010,Andaman & Nicobar Islands,Total,5
+2913,2009,Jammu & Kashmir,Tractor,0
+2914,2009,Himachal Pradesh,Tractor,0
+2915,2009,Punjab,Tractor,13
+2916,2009,Chandigarh,Tractor,1
+2917,2009,Uttarakhand,Tractor,6
+2918,2009,Haryana,Tractor,4
+2919,2009,Delhi,Tractor,1
+2920,2009,Rajasthan,Tractor,0
+2921,2009,Uttar Pradesh,Tractor,26
+2922,2009,Bihar,Tractor,4
+2923,2009,Sikkim,Tractor,0
+2924,2009,Arunachal Pradesh,Tractor,0
+2925,2009,Nagaland,Tractor,0
+2926,2009,Manipur,Tractor,1
+2927,2009,Mizoram,Tractor,0
+2928,2009,Tripura,Tractor,1
+2929,2009,Meghalaya,Tractor,0
+2930,2009,Assam,Tractor,3
+2931,2009,West Bengal,Tractor,0
+2932,2009,Jharkhand,Tractor,2
+2933,2009,Odisha,Tractor,1
+2934,2009,Chhattisgarh,Tractor,1
+2935,2009,Madhya Pradesh,Tractor,4
+2936,2009,Gujarat,Tractor,7
+2937,2009,Daman & Diu,Tractor,0
+2938,2009,Dadra & Nagar Haveli,Tractor,0
+2939,2009,Maharashtra,Tractor,19
+2940,2009,Andhra Pradesh,Tractor,3
+2941,2009,Karnataka,Tractor,10
+2942,2009,Goa,Tractor,0
+2943,2009,Lakshadweep,Tractor,0
+2944,2009,Kerala,Tractor,6
+2945,2009,Tamil Nadu,Tractor,5
+2946,2009,Puducherry,Tractor,0
+2947,2009,Andaman & Nicobar Islands,Tractor,0
+2948,2010,Jammu & Kashmir,Tractor,0
+2949,2010,Himachal Pradesh,Tractor,0
+2950,2010,Punjab,Tractor,12
+2951,2010,Chandigarh,Tractor,1
+2952,2010,Uttarakhand,Tractor,16
+2953,2010,Haryana,Tractor,4
+2954,2010,Delhi,Tractor,1
+2955,2010,Rajasthan,Tractor,0
+2956,2010,Uttar Pradesh,Tractor,26
+2957,2010,Bihar,Tractor,4
+2958,2010,Sikkim,Tractor,0
+2959,2010,Arunachal Pradesh,Tractor,0
+2960,2010,Nagaland,Tractor,0
+2961,2010,Manipur,Tractor,1
+2962,2010,Mizoram,Tractor,0
+2963,2010,Tripura,Tractor,1
+2964,2010,Meghalaya,Tractor,0
+2965,2010,Assam,Tractor,3
+2966,2010,West Bengal,Tractor,0
+2967,2010,Jharkhand,Tractor,2
+2968,2010,Odisha,Tractor,1
+2969,2010,Chhattisgarh,Tractor,0
+2970,2010,Madhya Pradesh,Tractor,3
+2971,2010,Gujarat,Tractor,12
+2972,2010,Daman & Diu,Tractor,0
+2973,2010,Dadra & Nagar Haveli,Tractor,0
+2974,2010,Maharashtra,Tractor,20
+2975,2010,Andhra Pradesh,Tractor,4
+2976,2010,Karnataka,Tractor,9
+2977,2010,Goa,Tractor,0
+2978,2010,Lakshadweep,Tractor,0
+2979,2010,Kerala,Tractor,4
+2980,2010,Tamil Nadu,Tractor,5
+2981,2010,Puducherry,Tractor,0
+2982,2010,Andaman & Nicobar Islands,Tractor,0
+2983,2009,Jammu & Kashmir,Van,4
+2984,2009,Himachal Pradesh,Van,1
+2985,2009,Punjab,Van,1
+2986,2009,Chandigarh,Van,1
+2987,2009,Uttarakhand,Van,0
+2988,2009,Haryana,Van,4
+2989,2009,Delhi,Van,4
+2990,2009,Rajasthan,Van,0
+2991,2009,Uttar Pradesh,Van,2
+2992,2009,Bihar,Van,0
+2993,2009,Sikkim,Van,2
+2994,2009,Arunachal Pradesh,Van,1
+2995,2009,Nagaland,Van,4
+2996,2009,Manipur,Van,0
+2997,2009,Mizoram,Van,0
+2998,2009,Tripura,Van,1
+2999,2009,Meghalaya,Van,4
+3000,2009,Assam,Van,10
+3001,2009,West Bengal,Van,0
+3002,2009,Jharkhand,Van,5
+3003,2009,Odisha,Van,0
+3004,2009,Chhattisgarh,Van,3
+3005,2009,Madhya Pradesh,Van,17
+3006,2009,Gujarat,Van,18
+3007,2009,Daman & Diu,Van,0
+3008,2009,Dadra & Nagar Haveli,Van,0
+3009,2009,Maharashtra,Van,5
+3010,2009,Andhra Pradesh,Van,36
+3011,2009,Karnataka,Van,2
+3012,2009,Goa,Van,1
+3013,2009,Lakshadweep,Van,0
+3014,2009,Kerala,Van,6
+3015,2009,Tamil Nadu,Van,9
+3016,2009,Puducherry,Van,1
+3017,2009,Andaman & Nicobar Islands,Van,1
+3018,2010,Jammu & Kashmir,Van,5
+3019,2010,Himachal Pradesh,Van,2
+3020,2010,Punjab,Van,3
+3021,2010,Chandigarh,Van,1
+3022,2010,Uttarakhand,Van,0
+3023,2010,Haryana,Van,4
+3024,2010,Delhi,Van,5
+3025,2010,Rajasthan,Van,0
+3026,2010,Uttar Pradesh,Van,3
+3027,2010,Bihar,Van,0
+3028,2010,Sikkim,Van,2
+3029,2010,Arunachal Pradesh,Van,1
+3030,2010,Nagaland,Van,4
+3031,2010,Manipur,Van,0
+3032,2010,Mizoram,Van,0
+3033,2010,Tripura,Van,1
+3034,2010,Meghalaya,Van,4
+3035,2010,Assam,Van,12
+3036,2010,West Bengal,Van,0
+3037,2010,Jharkhand,Van,5
+3038,2010,Odisha,Van,0
+3039,2010,Chhattisgarh,Van,5
+3040,2010,Madhya Pradesh,Van,17
+3041,2010,Gujarat,Van,12
+3042,2010,Daman & Diu,Van,0
+3043,2010,Dadra & Nagar Haveli,Van,0
+3044,2010,Maharashtra,Van,4
+3045,2010,Andhra Pradesh,Van,36
+3046,2010,Karnataka,Van,5
+3047,2010,Goa,Van,0
+3048,2010,Lakshadweep,Van,0
+3049,2010,Kerala,Van,5
+3050,2010,Tamil Nadu,Van,8
+3051,2010,Puducherry,Van,1
+3052,2010,Andaman & Nicobar Islands,Van,1

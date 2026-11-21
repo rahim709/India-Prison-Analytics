@@ -1,0 +1,1369 @@
+source_record,TimePeriod,Area_Name,Indicator_Name,Data_Value
+2,2001,Jammu & Kashmir,Non-Plan Expenditure,187226600.0
+3,2001,Himachal Pradesh,Non-Plan Expenditure,48120000.0
+4,2001,Punjab,Non-Plan Expenditure,396237000.0
+5,2001,Chandigarh,Non-Plan Expenditure,21803000.0
+6,2001,Uttarakhand,Non-Plan Expenditure,56990456.0
+7,2001,Haryana,Non-Plan Expenditure,148985000.0
+8,2001,Delhi,Non-Plan Expenditure,200033395.0
+9,2001,Rajasthan,Non-Plan Expenditure,303124000.0
+10,2001,Uttar Pradesh,Non-Plan Expenditure,1040969000.0
+11,2001,Bihar,Non-Plan Expenditure,0.0
+12,2001,Sikkim,Non-Plan Expenditure,10175313.0
+13,2001,Nagaland,Non-Plan Expenditure,48391404.0
+14,2001,Manipur,Non-Plan Expenditure,42989505.0
+15,2001,Mizoram,Non-Plan Expenditure,36642891.0
+16,2001,Tripura,Non-Plan Expenditure,56924000.0
+17,2001,Meghalaya,Non-Plan Expenditure,18383960.0
+18,2001,Assam,Non-Plan Expenditure,142415000.0
+19,2001,West Bengal,Non-Plan Expenditure,538402818.0
+20,2001,Jharkhand,Non-Plan Expenditure,220812000.0
+21,2001,Odisha,Non-Plan Expenditure,280338000.0
+22,2001,Chhattisgarh,Non-Plan Expenditure,90223398.0
+23,2001,Madhya Pradesh,Non-Plan Expenditure,643455000.0
+24,2001,Gujarat,Non-Plan Expenditure,238114790.0
+25,2001,Daman & Diu,Non-Plan Expenditure,1263938.0
+26,2001,Dadra & Nagar Haveli,Non-Plan Expenditure,499386.0
+27,2001,Maharashtra,Non-Plan Expenditure,304873000.0
+28,2001,Andhra Pradesh,Non-Plan Expenditure,692321000.0
+29,2001,Karnataka,Non-Plan Expenditure,259250000.0
+30,2001,Goa,Non-Plan Expenditure,19857000.0
+31,2001,Lakshadweep,Non-Plan Expenditure,0.0
+32,2001,Kerala,Non-Plan Expenditure,199209000.0
+33,2001,Tamil Nadu,Non-Plan Expenditure,496891760.0
+34,2001,Puducherry,Non-Plan Expenditure,9333000.0
+35,2001,Andaman & Nicobar Islands,Non-Plan Expenditure,9947000.0
+36,2002,Jammu & Kashmir,Non-Plan Expenditure,201518500.0
+37,2002,Himachal Pradesh,Non-Plan Expenditure,49915000.0
+38,2002,Punjab,Non-Plan Expenditure,517393000.0
+39,2002,Chandigarh,Non-Plan Expenditure,23100000.0
+40,2002,Uttarakhand,Non-Plan Expenditure,69173542.0
+41,2002,Haryana,Non-Plan Expenditure,183320000.0
+42,2002,Delhi,Non-Plan Expenditure,442964369.0
+43,2002,Rajasthan,Non-Plan Expenditure,297850000.0
+44,2002,Uttar Pradesh,Non-Plan Expenditure,506969000.0
+45,2002,Bihar,Non-Plan Expenditure,592383000.0
+46,2002,Sikkim,Non-Plan Expenditure,10175313.0
+47,2002,Nagaland,Non-Plan Expenditure,62827000.0
+48,2002,Manipur,Non-Plan Expenditure,40655003.0
+49,2002,Mizoram,Non-Plan Expenditure,37990000.0
+50,2002,Tripura,Non-Plan Expenditure,53217000.0
+51,2002,Meghalaya,Non-Plan Expenditure,7344703.0
+52,2002,Assam,Non-Plan Expenditure,145409000.0
+53,2002,West Bengal,Non-Plan Expenditure,533906854.0
+54,2002,Jharkhand,Non-Plan Expenditure,239961000.0
+55,2002,Odisha,Non-Plan Expenditure,285680000.0
+56,2002,Chhattisgarh,Non-Plan Expenditure,240640109.0
+57,2002,Madhya Pradesh,Non-Plan Expenditure,583793000.0
+58,2002,Gujarat,Non-Plan Expenditure,231920050.0
+59,2002,Daman & Diu,Non-Plan Expenditure,367740.0
+60,2002,Dadra & Nagar Haveli,Non-Plan Expenditure,400000.0
+61,2002,Maharashtra,Non-Plan Expenditure,346569000.0
+62,2002,Andhra Pradesh,Non-Plan Expenditure,344593000.0
+63,2002,Karnataka,Non-Plan Expenditure,278028987.0
+64,2002,Goa,Non-Plan Expenditure,21337000.0
+65,2002,Lakshadweep,Non-Plan Expenditure,19302.0
+66,2002,Kerala,Non-Plan Expenditure,194704903.0
+67,2002,Tamil Nadu,Non-Plan Expenditure,512525000.0
+68,2002,Puducherry,Non-Plan Expenditure,9365000.0
+69,2002,Andaman & Nicobar Islands,Non-Plan Expenditure,12610000.0
+70,2003,Jammu & Kashmir,Non-Plan Expenditure,171697300.0
+71,2003,Himachal Pradesh,Non-Plan Expenditure,49916000.0
+72,2003,Punjab,Non-Plan Expenditure,469000110.0
+73,2003,Chandigarh,Non-Plan Expenditure,24100000.0
+74,2003,Uttarakhand,Non-Plan Expenditure,27290348.0
+75,2003,Haryana,Non-Plan Expenditure,269314225.0
+76,2003,Delhi,Non-Plan Expenditure,424856471.0
+77,2003,Rajasthan,Non-Plan Expenditure,318358000.0
+78,2003,Uttar Pradesh,Non-Plan Expenditure,1117376000.0
+79,2003,Bihar,Non-Plan Expenditure,602120616.0
+80,2003,Sikkim,Non-Plan Expenditure,12014000.0
+81,2003,Nagaland,Non-Plan Expenditure,54275000.0
+82,2003,Manipur,Non-Plan Expenditure,38339500.0
+83,2003,Mizoram,Non-Plan Expenditure,43460000.0
+84,2003,Tripura,Non-Plan Expenditure,59065000.0
+85,2003,Meghalaya,Non-Plan Expenditure,12396458.0
+86,2003,Assam,Non-Plan Expenditure,186813000.0
+87,2003,West Bengal,Non-Plan Expenditure,711672705.0
+88,2003,Jharkhand,Non-Plan Expenditure,74095096.0
+89,2003,Odisha,Non-Plan Expenditure,285998000.0
+90,2003,Chhattisgarh,Non-Plan Expenditure,240640109.0
+91,2003,Madhya Pradesh,Non-Plan Expenditure,583467000.0
+92,2003,Gujarat,Non-Plan Expenditure,235776795.0
+93,2003,Daman & Diu,Non-Plan Expenditure,1923000.0
+94,2003,Dadra & Nagar Haveli,Non-Plan Expenditure,400000.0
+95,2003,Maharashtra,Non-Plan Expenditure,506189000.0
+96,2003,Andhra Pradesh,Non-Plan Expenditure,280720000.0
+97,2003,Karnataka,Non-Plan Expenditure,313524000.0
+98,2003,Goa,Non-Plan Expenditure,17203874.0
+99,2003,Lakshadweep,Non-Plan Expenditure,3937.0
+100,2003,Kerala,Non-Plan Expenditure,157262402.0
+101,2003,Tamil Nadu,Non-Plan Expenditure,563787500.0
+102,2003,Puducherry,Non-Plan Expenditure,10389000.0
+103,2003,Andaman & Nicobar Islands,Non-Plan Expenditure,9920000.0
+104,2004,Jammu & Kashmir,Non-Plan Expenditure,127121100.0
+105,2004,Himachal Pradesh,Non-Plan Expenditure,55299000.0
+106,2004,Punjab,Non-Plan Expenditure,532319000.0
+107,2004,Chandigarh,Non-Plan Expenditure,22105000.0
+108,2004,Uttarakhand,Non-Plan Expenditure,64160798.0
+109,2004,Haryana,Non-Plan Expenditure,351460154.0
+110,2004,Delhi,Non-Plan Expenditure,407251000.0
+111,2004,Rajasthan,Non-Plan Expenditure,353092000.0
+112,2004,Uttar Pradesh,Non-Plan Expenditure,1275358000.0
+113,2004,Bihar,Non-Plan Expenditure,655000754.0
+114,2004,Sikkim,Non-Plan Expenditure,18933936.0
+115,2004,Nagaland,Non-Plan Expenditure,77226000.0
+116,2004,Manipur,Non-Plan Expenditure,49525814.0
+117,2004,Mizoram,Non-Plan Expenditure,49660000.0
+118,2004,Tripura,Non-Plan Expenditure,97637000.0
+119,2004,Meghalaya,Non-Plan Expenditure,5148247.0
+120,2004,Assam,Non-Plan Expenditure,7000000.0
+121,2004,West Bengal,Non-Plan Expenditure,649340709.0
+122,2004,Jharkhand,Non-Plan Expenditure,412130036.0
+123,2004,Odisha,Non-Plan Expenditure,293348000.0
+124,2004,Chhattisgarh,Non-Plan Expenditure,227937966.0
+125,2004,Madhya Pradesh,Non-Plan Expenditure,616624000.0
+126,2004,Gujarat,Non-Plan Expenditure,264667093.0
+127,2004,Daman & Diu,Non-Plan Expenditure,2102666.0
+128,2004,Dadra & Nagar Haveli,Non-Plan Expenditure,400000.0
+129,2004,Maharashtra,Non-Plan Expenditure,549046918.0
+130,2004,Andhra Pradesh,Non-Plan Expenditure,654571000.0
+131,2004,Karnataka,Non-Plan Expenditure,524368000.0
+132,2004,Goa,Non-Plan Expenditure,23521000.0
+133,2004,Lakshadweep,Non-Plan Expenditure,100000.0
+134,2004,Kerala,Non-Plan Expenditure,3300000.0
+135,2004,Tamil Nadu,Non-Plan Expenditure,464468000.0
+136,2004,Puducherry,Non-Plan Expenditure,10892108.0
+137,2004,Andaman & Nicobar Islands,Non-Plan Expenditure,10514000.0
+138,2005,Jammu & Kashmir,Non-Plan Expenditure,261400000.0
+139,2005,Himachal Pradesh,Non-Plan Expenditure,67738000.0
+140,2005,Punjab,Non-Plan Expenditure,629508000.0
+141,2005,Chandigarh,Non-Plan Expenditure,27612000.0
+142,2005,Uttarakhand,Non-Plan Expenditure,83482539.0
+143,2005,Haryana,Non-Plan Expenditure,392800000.0
+144,2005,Delhi,Non-Plan Expenditure,328066515.0
+145,2005,Rajasthan,Non-Plan Expenditure,361382000.0
+146,2005,Uttar Pradesh,Non-Plan Expenditure,1434322000.0
+147,2005,Bihar,Non-Plan Expenditure,704255000.0
+148,2005,Sikkim,Non-Plan Expenditure,15995230.0
+149,2005,Nagaland,Non-Plan Expenditure,87621000.0
+150,2005,Manipur,Non-Plan Expenditure,57111100.0
+151,2005,Mizoram,Non-Plan Expenditure,45826000.0
+152,2005,Tripura,Non-Plan Expenditure,92333251.0
+153,2005,Meghalaya,Non-Plan Expenditure,26051846.0
+154,2005,Assam,Non-Plan Expenditure,241268000.0
+155,2005,West Bengal,Non-Plan Expenditure,664276585.0
+156,2005,Jharkhand,Non-Plan Expenditure,79001300.0
+157,2005,Odisha,Non-Plan Expenditure,310004000.0
+158,2005,Chhattisgarh,Non-Plan Expenditure,197301013.0
+159,2005,Madhya Pradesh,Non-Plan Expenditure,673079700.0
+160,2005,Gujarat,Non-Plan Expenditure,277277473.0
+161,2005,Daman & Diu,Non-Plan Expenditure,1160000.0
+162,2005,Dadra & Nagar Haveli,Non-Plan Expenditure,500000.0
+163,2005,Maharashtra,Non-Plan Expenditure,986692763.0
+164,2005,Andhra Pradesh,Non-Plan Expenditure,618698000.0
+165,2005,Karnataka,Non-Plan Expenditure,446714000.0
+166,2005,Goa,Non-Plan Expenditure,20798529.0
+167,2005,Lakshadweep,Non-Plan Expenditure,100000.0
+168,2005,Kerala,Non-Plan Expenditure,308303935.0
+169,2005,Tamil Nadu,Non-Plan Expenditure,25204000.0
+170,2005,Puducherry,Non-Plan Expenditure,11579124.0
+171,2005,Andaman & Nicobar Islands,Non-Plan Expenditure,10647732.0
+172,2006,Jammu & Kashmir,Non-Plan Expenditure,262451400.0
+173,2006,Himachal Pradesh,Non-Plan Expenditure,3073000.0
+174,2006,Punjab,Non-Plan Expenditure,679475000.0
+175,2006,Chandigarh,Non-Plan Expenditure,28400000.0
+176,2006,Uttarakhand,Non-Plan Expenditure,14737500.0
+177,2006,Haryana,Non-Plan Expenditure,431141464.0
+178,2006,Delhi,Non-Plan Expenditure,0.0
+179,2006,Rajasthan,Non-Plan Expenditure,386846000.0
+180,2006,Uttar Pradesh,Non-Plan Expenditure,2058334000.0
+181,2006,Bihar,Non-Plan Expenditure,529551501.0
+182,2006,Sikkim,Non-Plan Expenditure,14094020.0
+183,2006,Nagaland,Non-Plan Expenditure,86777000.0
+184,2006,Manipur,Non-Plan Expenditure,43096887.0
+185,2006,Mizoram,Non-Plan Expenditure,18153800.0
+186,2006,Tripura,Non-Plan Expenditure,54196465.0
+187,2006,Meghalaya,Non-Plan Expenditure,5129515.0
+188,2006,Assam,Non-Plan Expenditure,71876000.0
+189,2006,West Bengal,Non-Plan Expenditure,685842375.0
+190,2006,Jharkhand,Non-Plan Expenditure,63424558.0
+191,2006,Odisha,Non-Plan Expenditure,358965000.0
+192,2006,Chhattisgarh,Non-Plan Expenditure,363415095.0
+193,2006,Madhya Pradesh,Non-Plan Expenditure,724874000.0
+194,2006,Gujarat,Non-Plan Expenditure,97491000.0
+195,2006,Daman & Diu,Non-Plan Expenditure,0.0
+196,2006,Dadra & Nagar Haveli,Non-Plan Expenditure,250000.0
+197,2006,Maharashtra,Non-Plan Expenditure,0.0
+198,2006,Andhra Pradesh,Non-Plan Expenditure,671157400.0
+199,2006,Karnataka,Non-Plan Expenditure,29000300.0
+200,2006,Goa,Non-Plan Expenditure,24368043.0
+201,2006,Lakshadweep,Non-Plan Expenditure,100000.0
+202,2006,Kerala,Non-Plan Expenditure,122014694.0
+203,2006,Tamil Nadu,Non-Plan Expenditure,33699000.0
+204,2006,Puducherry,Non-Plan Expenditure,11924000.0
+205,2006,Andaman & Nicobar Islands,Non-Plan Expenditure,11750000.0
+206,2007,Jammu & Kashmir,Non-Plan Expenditure,269258600.0
+207,2007,Himachal Pradesh,Non-Plan Expenditure,90842000.0
+208,2007,Punjab,Non-Plan Expenditure,1028442000.0
+209,2007,Chandigarh,Non-Plan Expenditure,35913000.0
+210,2007,Uttarakhand,Non-Plan Expenditure,64099045.0
+211,2007,Haryana,Non-Plan Expenditure,492113000.0
+212,2007,Delhi,Non-Plan Expenditure,840997000.0
+213,2007,Rajasthan,Non-Plan Expenditure,463830000.0
+214,2007,Uttar Pradesh,Non-Plan Expenditure,1935724000.0
+215,2007,Bihar,Non-Plan Expenditure,129112500.0
+216,2007,Sikkim,Non-Plan Expenditure,17063015.0
+217,2007,Nagaland,Non-Plan Expenditure,92532000.0
+218,2007,Manipur,Non-Plan Expenditure,47925124.0
+219,2007,Mizoram,Non-Plan Expenditure,48610541.0
+220,2007,Tripura,Non-Plan Expenditure,53669389.0
+221,2007,Meghalaya,Non-Plan Expenditure,22503463.0
+222,2007,Assam,Non-Plan Expenditure,317314000.0
+223,2007,West Bengal,Non-Plan Expenditure,832747550.0
+224,2007,Jharkhand,Non-Plan Expenditure,140029096.0
+225,2007,Odisha,Non-Plan Expenditure,417228000.0
+226,2007,Chhattisgarh,Non-Plan Expenditure,310212401.0
+227,2007,Madhya Pradesh,Non-Plan Expenditure,812733000.0
+228,2007,Gujarat,Non-Plan Expenditure,337776173.0
+229,2007,Daman & Diu,Non-Plan Expenditure,2250000.0
+230,2007,Dadra & Nagar Haveli,Non-Plan Expenditure,0.0
+231,2007,Maharashtra,Non-Plan Expenditure,862474000.0
+232,2007,Andhra Pradesh,Non-Plan Expenditure,750850000.0
+233,2007,Karnataka,Non-Plan Expenditure,467582571.0
+234,2007,Goa,Non-Plan Expenditure,31665000.0
+235,2007,Lakshadweep,Non-Plan Expenditure,0.0
+236,2007,Kerala,Non-Plan Expenditure,86715527.0
+237,2007,Tamil Nadu,Non-Plan Expenditure,44816000.0
+238,2007,Puducherry,Non-Plan Expenditure,11360060.0
+239,2007,Andaman & Nicobar Islands,Non-Plan Expenditure,13560000.0
+240,2001,Jammu & Kashmir,Plan Expenditure,0.0
+241,2001,Himachal Pradesh,Plan Expenditure,10713000.0
+242,2001,Punjab,Plan Expenditure,0.0
+243,2001,Chandigarh,Plan Expenditure,2000000.0
+244,2001,Uttarakhand,Plan Expenditure,0.0
+245,2001,Haryana,Plan Expenditure,0.0
+246,2001,Delhi,Plan Expenditure,150917984.0
+247,2001,Rajasthan,Plan Expenditure,4669000.0
+248,2001,Uttar Pradesh,Plan Expenditure,44724000.0
+249,2001,Bihar,Plan Expenditure,0.0
+250,2001,Sikkim,Plan Expenditure,2000000.0
+251,2001,Nagaland,Plan Expenditure,8112000.0
+252,2001,Manipur,Plan Expenditure,697616.0
+253,2001,Mizoram,Plan Expenditure,9929031.0
+254,2001,Tripura,Plan Expenditure,4202000.0
+255,2001,Meghalaya,Plan Expenditure,0.0
+256,2001,Assam,Plan Expenditure,0.0
+257,2001,West Bengal,Plan Expenditure,11423960.0
+258,2001,Jharkhand,Plan Expenditure,45300000.0
+259,2001,Odisha,Plan Expenditure,9860000.0
+260,2001,Chhattisgarh,Plan Expenditure,35465952.0
+261,2001,Madhya Pradesh,Plan Expenditure,0.0
+262,2001,Gujarat,Plan Expenditure,2930000.0
+263,2001,Daman & Diu,Plan Expenditure,0.0
+264,2001,Dadra & Nagar Haveli,Plan Expenditure,0.0
+265,2001,Maharashtra,Plan Expenditure,910000.0
+266,2001,Andhra Pradesh,Plan Expenditure,22000000.0
+267,2001,Karnataka,Plan Expenditure,0.0
+268,2001,Goa,Plan Expenditure,68000.0
+269,2001,Lakshadweep,Plan Expenditure,0.0
+270,2001,Kerala,Plan Expenditure,6300000.0
+271,2001,Tamil Nadu,Plan Expenditure,3232312.0
+272,2001,Puducherry,Plan Expenditure,223000.0
+273,2001,Andaman & Nicobar Islands,Plan Expenditure,5341000.0
+274,2002,Jammu & Kashmir,Plan Expenditure,0.0
+275,2002,Himachal Pradesh,Plan Expenditure,0.0
+276,2002,Punjab,Plan Expenditure,2800000.0
+277,2002,Chandigarh,Plan Expenditure,2400000.0
+278,2002,Uttarakhand,Plan Expenditure,0.0
+279,2002,Haryana,Plan Expenditure,87485000.0
+280,2002,Delhi,Plan Expenditure,126521522.0
+281,2002,Rajasthan,Plan Expenditure,4027000.0
+282,2002,Uttar Pradesh,Plan Expenditure,108689000.0
+283,2002,Bihar,Plan Expenditure,0.0
+284,2002,Sikkim,Plan Expenditure,2000000.0
+285,2002,Nagaland,Plan Expenditure,3500000.0
+286,2002,Manipur,Plan Expenditure,4400000.0
+287,2002,Mizoram,Plan Expenditure,12360000.0
+288,2002,Tripura,Plan Expenditure,9015624.0
+289,2002,Meghalaya,Plan Expenditure,2412915.0
+290,2002,Assam,Plan Expenditure,12000000.0
+291,2002,West Bengal,Plan Expenditure,9366810.0
+292,2002,Jharkhand,Plan Expenditure,174365000.0
+293,2002,Odisha,Plan Expenditure,972000.0
+294,2002,Chhattisgarh,Plan Expenditure,0.0
+295,2002,Madhya Pradesh,Plan Expenditure,0.0
+296,2002,Gujarat,Plan Expenditure,1765000.0
+297,2002,Daman & Diu,Plan Expenditure,0.0
+298,2002,Dadra & Nagar Haveli,Plan Expenditure,0.0
+299,2002,Maharashtra,Plan Expenditure,325000.0
+300,2002,Andhra Pradesh,Plan Expenditure,0.0
+301,2002,Karnataka,Plan Expenditure,9614000.0
+302,2002,Goa,Plan Expenditure,5344000.0
+303,2002,Lakshadweep,Plan Expenditure,0.0
+304,2002,Kerala,Plan Expenditure,12000000.0
+305,2002,Tamil Nadu,Plan Expenditure,52844000.0
+306,2002,Puducherry,Plan Expenditure,0.0
+307,2002,Andaman & Nicobar Islands,Plan Expenditure,8834000.0
+308,2003,Jammu & Kashmir,Plan Expenditure,0.0
+309,2003,Himachal Pradesh,Plan Expenditure,1392000.0
+310,2003,Punjab,Plan Expenditure,2860000.0
+311,2003,Chandigarh,Plan Expenditure,2500000.0
+312,2003,Uttarakhand,Plan Expenditure,5340000.0
+313,2003,Haryana,Plan Expenditure,266988000.0
+314,2003,Delhi,Plan Expenditure,157169560.0
+315,2003,Rajasthan,Plan Expenditure,1373000.0
+316,2003,Uttar Pradesh,Plan Expenditure,622409000.0
+317,2003,Bihar,Plan Expenditure,0.0
+318,2003,Sikkim,Plan Expenditure,9000000.0
+319,2003,Nagaland,Plan Expenditure,17791000.0
+320,2003,Manipur,Plan Expenditure,4000000.0
+321,2003,Mizoram,Plan Expenditure,18200000.0
+322,2003,Tripura,Plan Expenditure,2716000.0
+323,2003,Meghalaya,Plan Expenditure,264750.0
+324,2003,Assam,Plan Expenditure,17865000.0
+325,2003,West Bengal,Plan Expenditure,10019619.0
+326,2003,Jharkhand,Plan Expenditure,79745668.0
+327,2003,Odisha,Plan Expenditure,2292000.0
+328,2003,Chhattisgarh,Plan Expenditure,0.0
+329,2003,Madhya Pradesh,Plan Expenditure,101000.0
+330,2003,Gujarat,Plan Expenditure,1154000.0
+331,2003,Daman & Diu,Plan Expenditure,0.0
+332,2003,Dadra & Nagar Haveli,Plan Expenditure,0.0
+333,2003,Maharashtra,Plan Expenditure,0.0
+334,2003,Andhra Pradesh,Plan Expenditure,441171000.0
+335,2003,Karnataka,Plan Expenditure,19779000.0
+336,2003,Goa,Plan Expenditure,0.0
+337,2003,Lakshadweep,Plan Expenditure,0.0
+338,2003,Kerala,Plan Expenditure,80163742.0
+339,2003,Tamil Nadu,Plan Expenditure,58128400.0
+340,2003,Puducherry,Plan Expenditure,374000.0
+341,2003,Andaman & Nicobar Islands,Plan Expenditure,8158000.0
+342,2004,Jammu & Kashmir,Plan Expenditure,48064700.0
+343,2004,Himachal Pradesh,Plan Expenditure,10000000.0
+344,2004,Punjab,Plan Expenditure,1335000.0
+345,2004,Chandigarh,Plan Expenditure,3500000.0
+346,2004,Uttarakhand,Plan Expenditure,4535000.0
+347,2004,Haryana,Plan Expenditure,185721000.0
+348,2004,Delhi,Plan Expenditure,223011000.0
+349,2004,Rajasthan,Plan Expenditure,1461000.0
+350,2004,Uttar Pradesh,Plan Expenditure,379432000.0
+351,2004,Bihar,Plan Expenditure,0.0
+352,2004,Sikkim,Plan Expenditure,33284000.0
+353,2004,Nagaland,Plan Expenditure,35309000.0
+354,2004,Manipur,Plan Expenditure,8350000.0
+355,2004,Mizoram,Plan Expenditure,18800000.0
+356,2004,Tripura,Plan Expenditure,1176000.0
+357,2004,Meghalaya,Plan Expenditure,266374.0
+358,2004,Assam,Plan Expenditure,2400000.0
+359,2004,West Bengal,Plan Expenditure,7758113.0
+360,2004,Jharkhand,Plan Expenditure,205732369.0
+361,2004,Odisha,Plan Expenditure,81000.0
+362,2004,Chhattisgarh,Plan Expenditure,0.0
+363,2004,Madhya Pradesh,Plan Expenditure,1871000.0
+364,2004,Gujarat,Plan Expenditure,9518081.0
+365,2004,Daman & Diu,Plan Expenditure,0.0
+366,2004,Dadra & Nagar Haveli,Plan Expenditure,0.0
+367,2004,Maharashtra,Plan Expenditure,0.0
+368,2004,Andhra Pradesh,Plan Expenditure,214137000.0
+369,2004,Karnataka,Plan Expenditure,25217000.0
+370,2004,Goa,Plan Expenditure,4231000.0
+371,2004,Lakshadweep,Plan Expenditure,0.0
+372,2004,Kerala,Plan Expenditure,13800000.0
+373,2004,Tamil Nadu,Plan Expenditure,251122000.0
+374,2004,Puducherry,Plan Expenditure,1703911.0
+375,2004,Andaman & Nicobar Islands,Plan Expenditure,9867000.0
+376,2005,Jammu & Kashmir,Plan Expenditure,0.0
+377,2005,Himachal Pradesh,Plan Expenditure,10000000.0
+378,2005,Punjab,Plan Expenditure,5000000.0
+379,2005,Chandigarh,Plan Expenditure,2500000.0
+380,2005,Uttarakhand,Plan Expenditure,0.0
+381,2005,Haryana,Plan Expenditure,232300000.0
+382,2005,Delhi,Plan Expenditure,111928361.0
+383,2005,Rajasthan,Plan Expenditure,0.0
+384,2005,Uttar Pradesh,Plan Expenditure,382559000.0
+385,2005,Bihar,Plan Expenditure,0.0
+386,2005,Sikkim,Plan Expenditure,21926000.0
+387,2005,Nagaland,Plan Expenditure,21702000.0
+388,2005,Manipur,Plan Expenditure,23575000.0
+389,2005,Mizoram,Plan Expenditure,26999000.0
+390,2005,Tripura,Plan Expenditure,25129725.0
+391,2005,Meghalaya,Plan Expenditure,2116446.0
+392,2005,Assam,Plan Expenditure,0.0
+393,2005,West Bengal,Plan Expenditure,24400000.0
+394,2005,Jharkhand,Plan Expenditure,69050218.0
+395,2005,Odisha,Plan Expenditure,134000.0
+396,2005,Chhattisgarh,Plan Expenditure,0.0
+397,2005,Madhya Pradesh,Plan Expenditure,0.0
+398,2005,Gujarat,Plan Expenditure,122353490.0
+399,2005,Daman & Diu,Plan Expenditure,0.0
+400,2005,Dadra & Nagar Haveli,Plan Expenditure,0.0
+401,2005,Maharashtra,Plan Expenditure,2620000.0
+402,2005,Andhra Pradesh,Plan Expenditure,214379000.0
+403,2005,Karnataka,Plan Expenditure,11279000.0
+404,2005,Goa,Plan Expenditure,0.0
+405,2005,Lakshadweep,Plan Expenditure,0.0
+406,2005,Kerala,Plan Expenditure,5908805.0
+407,2005,Tamil Nadu,Plan Expenditure,122456000.0
+408,2005,Puducherry,Plan Expenditure,2725811.0
+409,2005,Andaman & Nicobar Islands,Plan Expenditure,9757727.0
+410,2006,Jammu & Kashmir,Plan Expenditure,0.0
+411,2006,Himachal Pradesh,Plan Expenditure,70688000.0
+412,2006,Punjab,Plan Expenditure,0.0
+413,2006,Chandigarh,Plan Expenditure,5000000.0
+414,2006,Uttarakhand,Plan Expenditure,6452037.0
+415,2006,Haryana,Plan Expenditure,284192000.0
+416,2006,Delhi,Plan Expenditure,128277000.0
+417,2006,Rajasthan,Plan Expenditure,166000.0
+418,2006,Uttar Pradesh,Plan Expenditure,0.0
+419,2006,Bihar,Plan Expenditure,0.0
+420,2006,Sikkim,Plan Expenditure,10317000.0
+421,2006,Nagaland,Plan Expenditure,46000000.0
+422,2006,Manipur,Plan Expenditure,78500000.0
+423,2006,Mizoram,Plan Expenditure,10218100.0
+424,2006,Tripura,Plan Expenditure,10726771.0
+425,2006,Meghalaya,Plan Expenditure,625861.0
+426,2006,Assam,Plan Expenditure,189000.0
+427,2006,West Bengal,Plan Expenditure,59000000.0
+428,2006,Jharkhand,Plan Expenditure,136303236.0
+429,2006,Odisha,Plan Expenditure,150000.0
+430,2006,Chhattisgarh,Plan Expenditure,0.0
+431,2006,Madhya Pradesh,Plan Expenditure,0.0
+432,2006,Gujarat,Plan Expenditure,103940000.0
+433,2006,Daman & Diu,Plan Expenditure,0.0
+434,2006,Dadra & Nagar Haveli,Plan Expenditure,0.0
+435,2006,Maharashtra,Plan Expenditure,4998000.0
+436,2006,Andhra Pradesh,Plan Expenditure,55220000.0
+437,2006,Karnataka,Plan Expenditure,4680000.0
+438,2006,Goa,Plan Expenditure,0.0
+439,2006,Lakshadweep,Plan Expenditure,0.0
+440,2006,Kerala,Plan Expenditure,30980453.0
+441,2006,Tamil Nadu,Plan Expenditure,159324000.0
+442,2006,Puducherry,Plan Expenditure,1836000.0
+443,2006,Andaman & Nicobar Islands,Plan Expenditure,11993000.0
+444,2007,Jammu & Kashmir,Plan Expenditure,0.0
+445,2007,Himachal Pradesh,Plan Expenditure,20100000.0
+446,2007,Punjab,Plan Expenditure,0.0
+447,2007,Chandigarh,Plan Expenditure,6800000.0
+448,2007,Uttarakhand,Plan Expenditure,0.0
+449,2007,Haryana,Plan Expenditure,443420000.0
+450,2007,Delhi,Plan Expenditure,68261000.0
+451,2007,Rajasthan,Plan Expenditure,0.0
+452,2007,Uttar Pradesh,Plan Expenditure,0.0
+453,2007,Bihar,Plan Expenditure,496790089.0
+454,2007,Sikkim,Plan Expenditure,6218582.0
+455,2007,Nagaland,Plan Expenditure,24594000.0
+456,2007,Manipur,Plan Expenditure,20150000.0
+457,2007,Mizoram,Plan Expenditure,28691817.0
+458,2007,Tripura,Plan Expenditure,31736800.0
+459,2007,Meghalaya,Plan Expenditure,6125000.0
+460,2007,Assam,Plan Expenditure,0.0
+461,2007,West Bengal,Plan Expenditure,53749391.0
+462,2007,Jharkhand,Plan Expenditure,99743493.0
+463,2007,Odisha,Plan Expenditure,150000.0
+464,2007,Chhattisgarh,Plan Expenditure,0.0
+465,2007,Madhya Pradesh,Plan Expenditure,13367000.0
+466,2007,Gujarat,Plan Expenditure,13802696.0
+467,2007,Daman & Diu,Plan Expenditure,0.0
+468,2007,Dadra & Nagar Haveli,Plan Expenditure,0.0
+469,2007,Maharashtra,Plan Expenditure,6983000.0
+470,2007,Andhra Pradesh,Plan Expenditure,0.0
+471,2007,Karnataka,Plan Expenditure,23466000.0
+472,2007,Goa,Plan Expenditure,19447000.0
+473,2007,Lakshadweep,Plan Expenditure,0.0
+474,2007,Kerala,Plan Expenditure,16953259.0
+475,2007,Tamil Nadu,Plan Expenditure,95900000.0
+476,2007,Puducherry,Plan Expenditure,2302113.0
+477,2007,Andaman & Nicobar Islands,Plan Expenditure,12663000.0
+478,2001,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+479,2001,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+480,2001,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+481,2001,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+482,2001,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+483,2001,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+484,2001,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+485,2001,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",95000.0
+486,2001,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+487,2001,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+488,2001,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+489,2001,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",1010000.0
+490,2001,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+491,2001,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",1000000.0
+492,2001,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+493,2001,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+494,2001,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+495,2001,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",79976050.0
+496,2001,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+497,2001,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+498,2001,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+499,2001,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+500,2001,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",2930000.0
+501,2001,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+502,2001,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+503,2001,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+504,2001,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+505,2001,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",6860166.0
+506,2001,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+507,2001,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+508,2001,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+509,2001,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+510,2001,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+511,2001,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+512,2002,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+513,2002,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",1498000.0
+514,2002,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+515,2002,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+516,2002,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",6950904.0
+517,2002,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+518,2002,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+519,2002,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",101000.0
+520,2002,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+521,2002,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+522,2002,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+523,2002,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",3500000.0
+524,2002,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+525,2002,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+526,2002,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+527,2002,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+528,2002,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+529,2002,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+530,2002,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+531,2002,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+532,2002,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",74700000.0
+533,2002,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+534,2002,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",1765000.0
+535,2002,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+536,2002,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+537,2002,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+538,2002,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+539,2002,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+540,2002,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+541,2002,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+542,2002,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+543,2002,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+544,2002,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+545,2002,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+546,2003,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",31003000.0
+547,2003,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+548,2003,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+549,2003,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+550,2003,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",20000.0
+551,2003,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+552,2003,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+553,2003,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+554,2003,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+555,2003,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+556,2003,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",27300000.0
+557,2003,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+558,2003,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+559,2003,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",26625000.0
+560,2003,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+561,2003,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+562,2003,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+563,2003,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+564,2003,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+565,2003,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+566,2003,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+567,2003,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+568,2003,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+569,2003,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+570,2003,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+571,2003,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",297742000.0
+572,2003,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+573,2003,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",21965000.0
+574,2003,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+575,2003,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+576,2003,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",65500000.0
+577,2003,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+578,2003,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+579,2003,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+580,2004,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",39565000.0
+581,2004,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",60600000.0
+582,2004,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+583,2004,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+584,2004,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",25000.0
+585,2004,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+586,2004,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+587,2004,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+588,2004,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+589,2004,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+590,2004,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+591,2004,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",23700000.0
+592,2004,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",23550000.0
+593,2004,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",26625000.0
+594,2004,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+595,2004,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",5210752.0
+596,2004,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",178900000.0
+597,2004,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+598,2004,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+599,2004,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+600,2004,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+601,2004,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+602,2004,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+603,2004,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+604,2004,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+605,2004,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",420597752.0
+606,2004,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+607,2004,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+608,2004,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+609,2004,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+610,2004,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",64275000.0
+611,2004,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+612,2004,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+613,2004,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+614,2005,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+615,2005,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",35600000.0
+616,2005,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+617,2005,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+618,2005,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+619,2005,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+620,2005,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+621,2005,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",184000.0
+622,2005,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+623,2005,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+624,2005,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+625,2005,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+626,2005,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+627,2005,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+628,2005,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+629,2005,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+630,2005,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+631,2005,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+632,2005,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",447000.0
+633,2005,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+634,2005,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+635,2005,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+636,2005,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+637,2005,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+638,2005,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+639,2005,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+640,2005,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+641,2005,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",102116000.0
+642,2005,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+643,2005,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+644,2005,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",64275000.0
+645,2005,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",59870000.0
+646,2005,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+647,2005,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+648,2006,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+649,2006,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",50688000.0
+650,2006,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+651,2006,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+652,2006,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",390300.0
+653,2006,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+654,2006,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+655,2006,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",188000.0
+656,2006,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+657,2006,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+658,2006,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+659,2006,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+660,2006,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+661,2006,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",35523800.0
+662,2006,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+663,2006,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+664,2006,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+665,2006,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+666,2006,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+667,2006,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+668,2006,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+669,2006,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+670,2006,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+671,2006,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+672,2006,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+673,2006,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",151634000.0
+674,2006,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+675,2006,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+676,2006,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+677,2006,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+678,2006,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+679,2006,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",44475000.0
+680,2006,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+681,2006,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+682,2007,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+683,2007,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+684,2007,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+685,2007,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+686,2007,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",21949394.0
+687,2007,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+688,2007,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+689,2007,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",169000.0
+690,2007,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+691,2007,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",387337500.0
+692,2007,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+693,2007,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+694,2007,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+695,2007,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",26624694.0
+696,2007,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+697,2007,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",18377000.0
+698,2007,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+699,2007,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",55379146.0
+700,2007,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+701,2007,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+702,2007,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+703,2007,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+704,2007,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+705,2007,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+706,2007,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+707,2007,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",245500000.0
+708,2007,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+709,2007,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+710,2007,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+711,2007,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+712,2007,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",78390000.0
+713,2007,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",80500000.0
+714,2007,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+715,2007,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+716,2001,Jammu & Kashmir,Total Expenditure,187226600.0
+717,2001,Himachal Pradesh,Total Expenditure,58833000.0
+718,2001,Punjab,Total Expenditure,396237000.0
+719,2001,Chandigarh,Total Expenditure,23803000.0
+720,2001,Uttarakhand,Total Expenditure,56990456.0
+721,2001,Haryana,Total Expenditure,148985000.0
+722,2001,Delhi,Total Expenditure,350951379.0
+723,2001,Rajasthan,Total Expenditure,307888000.0
+724,2001,Uttar Pradesh,Total Expenditure,1085693000.0
+725,2001,Bihar,Total Expenditure,0.0
+726,2001,Sikkim,Total Expenditure,12175313.0
+727,2001,Nagaland,Total Expenditure,57513404.0
+728,2001,Manipur,Total Expenditure,43687121.0
+729,2001,Mizoram,Total Expenditure,47571922.0
+730,2001,Tripura,Total Expenditure,61126000.0
+731,2001,Meghalaya,Total Expenditure,18383960.0
+732,2001,Assam,Total Expenditure,142415000.0
+733,2001,West Bengal,Total Expenditure,629802828.0
+734,2001,Jharkhand,Total Expenditure,266112000.0
+735,2001,Odisha,Total Expenditure,290198000.0
+736,2001,Chhattisgarh,Total Expenditure,125689350.0
+737,2001,Madhya Pradesh,Total Expenditure,643455000.0
+738,2001,Gujarat,Total Expenditure,243974790.0
+739,2001,Daman & Diu,Total Expenditure,1263938.0
+740,2001,Dadra & Nagar Haveli,Total Expenditure,499386.0
+741,2001,Maharashtra,Total Expenditure,305783000.0
+742,2001,Andhra Pradesh,Total Expenditure,714321000.0
+743,2001,Karnataka,Total Expenditure,266110166.0
+744,2001,Goa,Total Expenditure,19925000.0
+745,2001,Lakshadweep,Total Expenditure,0.0
+746,2001,Kerala,Total Expenditure,205509000.0
+747,2001,Tamil Nadu,Total Expenditure,500124072.0
+748,2001,Puducherry,Total Expenditure,9556000.0
+749,2001,Andaman & Nicobar Islands,Total Expenditure,15288000.0
+750,2002,Jammu & Kashmir,Total Expenditure,201518500.0
+751,2002,Himachal Pradesh,Total Expenditure,51413000.0
+752,2002,Punjab,Total Expenditure,520193000.0
+753,2002,Chandigarh,Total Expenditure,25500000.0
+754,2002,Uttarakhand,Total Expenditure,76124446.0
+755,2002,Haryana,Total Expenditure,270805000.0
+756,2002,Delhi,Total Expenditure,569485891.0
+757,2002,Rajasthan,Total Expenditure,301978000.0
+758,2002,Uttar Pradesh,Total Expenditure,615658000.0
+759,2002,Bihar,Total Expenditure,592383000.0
+760,2002,Sikkim,Total Expenditure,12175313.0
+761,2002,Nagaland,Total Expenditure,69827000.0
+762,2002,Manipur,Total Expenditure,45055003.0
+763,2002,Mizoram,Total Expenditure,50350000.0
+764,2002,Tripura,Total Expenditure,62232624.0
+765,2002,Meghalaya,Total Expenditure,9757618.0
+766,2002,Assam,Total Expenditure,157409000.0
+767,2002,West Bengal,Total Expenditure,543273664.0
+768,2002,Jharkhand,Total Expenditure,414326000.0
+769,2002,Odisha,Total Expenditure,286652000.0
+770,2002,Chhattisgarh,Total Expenditure,315340109.0
+771,2002,Madhya Pradesh,Total Expenditure,583793000.0
+772,2002,Gujarat,Total Expenditure,235450050.0
+773,2002,Daman & Diu,Total Expenditure,367740.0
+774,2002,Dadra & Nagar Haveli,Total Expenditure,400000.0
+775,2002,Maharashtra,Total Expenditure,346894000.0
+776,2002,Andhra Pradesh,Total Expenditure,344593000.0
+777,2002,Karnataka,Total Expenditure,287642987.0
+778,2002,Goa,Total Expenditure,26681000.0
+779,2002,Lakshadweep,Total Expenditure,19302.0
+780,2002,Kerala,Total Expenditure,206704903.0
+781,2002,Tamil Nadu,Total Expenditure,565369000.0
+782,2002,Puducherry,Total Expenditure,9365000.0
+783,2002,Andaman & Nicobar Islands,Total Expenditure,21444000.0
+784,2003,Jammu & Kashmir,Total Expenditure,202700300.0
+785,2003,Himachal Pradesh,Total Expenditure,51308000.0
+786,2003,Punjab,Total Expenditure,471860110.0
+787,2003,Chandigarh,Total Expenditure,26600000.0
+788,2003,Uttarakhand,Total Expenditure,32650348.0
+789,2003,Haryana,Total Expenditure,536302225.0
+790,2003,Delhi,Total Expenditure,582026031.0
+791,2003,Rajasthan,Total Expenditure,319731000.0
+792,2003,Uttar Pradesh,Total Expenditure,1739785000.0
+793,2003,Bihar,Total Expenditure,602120616.0
+794,2003,Sikkim,Total Expenditure,48314000.0
+795,2003,Nagaland,Total Expenditure,72066000.0
+796,2003,Manipur,Total Expenditure,42339500.0
+797,2003,Mizoram,Total Expenditure,88285000.0
+798,2003,Tripura,Total Expenditure,61781000.0
+799,2003,Meghalaya,Total Expenditure,12661208.0
+800,2003,Assam,Total Expenditure,204678000.0
+801,2003,West Bengal,Total Expenditure,721692324.0
+802,2003,Jharkhand,Total Expenditure,153840764.0
+803,2003,Odisha,Total Expenditure,288290000.0
+804,2003,Chhattisgarh,Total Expenditure,240640109.0
+805,2003,Madhya Pradesh,Total Expenditure,583568000.0
+806,2003,Gujarat,Total Expenditure,236930795.0
+807,2003,Daman & Diu,Total Expenditure,1923000.0
+808,2003,Dadra & Nagar Haveli,Total Expenditure,400000.0
+809,2003,Maharashtra,Total Expenditure,803931000.0
+810,2003,Andhra Pradesh,Total Expenditure,721891000.0
+811,2003,Karnataka,Total Expenditure,355268000.0
+812,2003,Goa,Total Expenditure,17203874.0
+813,2003,Lakshadweep,Total Expenditure,3937.0
+814,2003,Kerala,Total Expenditure,302926144.0
+815,2003,Tamil Nadu,Total Expenditure,621915900.0
+816,2003,Puducherry,Total Expenditure,10763000.0
+817,2003,Andaman & Nicobar Islands,Total Expenditure,18078000.0
+818,2004,Jammu & Kashmir,Total Expenditure,214750800.0
+819,2004,Himachal Pradesh,Total Expenditure,125899000.0
+820,2004,Punjab,Total Expenditure,533654000.0
+821,2004,Chandigarh,Total Expenditure,25605000.0
+822,2004,Uttarakhand,Total Expenditure,68720798.0
+823,2004,Haryana,Total Expenditure,537181154.0
+824,2004,Delhi,Total Expenditure,630262000.0
+825,2004,Rajasthan,Total Expenditure,354553000.0
+826,2004,Uttar Pradesh,Total Expenditure,1654790000.0
+827,2004,Bihar,Total Expenditure,655000754.0
+828,2004,Sikkim,Total Expenditure,52217936.0
+829,2004,Nagaland,Total Expenditure,136235000.0
+830,2004,Manipur,Total Expenditure,81425814.0
+831,2004,Mizoram,Total Expenditure,95085000.0
+832,2004,Tripura,Total Expenditure,98813000.0
+833,2004,Meghalaya,Total Expenditure,10625373.0
+834,2004,Assam,Total Expenditure,188300000.0
+835,2004,West Bengal,Total Expenditure,657098822.0
+836,2004,Jharkhand,Total Expenditure,617862405.0
+837,2004,Odisha,Total Expenditure,293429000.0
+838,2004,Chhattisgarh,Total Expenditure,227937966.0
+839,2004,Madhya Pradesh,Total Expenditure,618495000.0
+840,2004,Gujarat,Total Expenditure,274185174.0
+841,2004,Daman & Diu,Total Expenditure,2102666.0
+842,2004,Dadra & Nagar Haveli,Total Expenditure,400000.0
+843,2004,Maharashtra,Total Expenditure,969644670.0
+844,2004,Andhra Pradesh,Total Expenditure,868708000.0
+845,2004,Karnataka,Total Expenditure,549585000.0
+846,2004,Goa,Total Expenditure,27752000.0
+847,2004,Lakshadweep,Total Expenditure,100000.0
+848,2004,Kerala,Total Expenditure,81375000.0
+849,2004,Tamil Nadu,Total Expenditure,715590000.0
+850,2004,Puducherry,Total Expenditure,12596019.0
+851,2004,Andaman & Nicobar Islands,Total Expenditure,20381000.0
+852,2005,Jammu & Kashmir,Total Expenditure,261400000.0
+853,2005,Himachal Pradesh,Total Expenditure,113338000.0
+854,2005,Punjab,Total Expenditure,634508000.0
+855,2005,Chandigarh,Total Expenditure,30112000.0
+856,2005,Uttarakhand,Total Expenditure,83482539.0
+857,2005,Haryana,Total Expenditure,625100000.0
+858,2005,Delhi,Total Expenditure,439994876.0
+859,2005,Rajasthan,Total Expenditure,361566000.0
+860,2005,Uttar Pradesh,Total Expenditure,1816881000.0
+861,2005,Bihar,Total Expenditure,704255000.0
+862,2005,Sikkim,Total Expenditure,37921230.0
+863,2005,Nagaland,Total Expenditure,109323000.0
+864,2005,Manipur,Total Expenditure,80686100.0
+865,2005,Mizoram,Total Expenditure,72825000.0
+866,2005,Tripura,Total Expenditure,117462976.0
+867,2005,Meghalaya,Total Expenditure,28168292.0
+868,2005,Assam,Total Expenditure,241268000.0
+869,2005,West Bengal,Total Expenditure,688676585.0
+870,2005,Jharkhand,Total Expenditure,148498518.0
+871,2005,Odisha,Total Expenditure,310138000.0
+872,2005,Chhattisgarh,Total Expenditure,197301013.0
+873,2005,Madhya Pradesh,Total Expenditure,673079700.0
+874,2005,Gujarat,Total Expenditure,399630963.0
+875,2005,Daman & Diu,Total Expenditure,1160000.0
+876,2005,Dadra & Nagar Haveli,Total Expenditure,500000.0
+877,2005,Maharashtra,Total Expenditure,989312763.0
+878,2005,Andhra Pradesh,Total Expenditure,833077000.0
+879,2005,Karnataka,Total Expenditure,560109000.0
+880,2005,Goa,Total Expenditure,20798529.0
+881,2005,Lakshadweep,Total Expenditure,100000.0
+882,2005,Kerala,Total Expenditure,378487740.0
+883,2005,Tamil Nadu,Total Expenditure,207530000.0
+884,2005,Puducherry,Total Expenditure,14304935.0
+885,2005,Andaman & Nicobar Islands,Total Expenditure,20405459.0
+886,2006,Jammu & Kashmir,Total Expenditure,262451400.0
+887,2006,Himachal Pradesh,Total Expenditure,124449000.0
+888,2006,Punjab,Total Expenditure,679475000.0
+889,2006,Chandigarh,Total Expenditure,33400000.0
+890,2006,Uttarakhand,Total Expenditure,21579837.0
+891,2006,Haryana,Total Expenditure,715333464.0
+892,2006,Delhi,Total Expenditure,128277000.0
+893,2006,Rajasthan,Total Expenditure,387200000.0
+894,2006,Uttar Pradesh,Total Expenditure,2058334000.0
+895,2006,Bihar,Total Expenditure,529551501.0
+896,2006,Sikkim,Total Expenditure,24411020.0
+897,2006,Nagaland,Total Expenditure,132777000.0
+898,2006,Manipur,Total Expenditure,121596887.0
+899,2006,Mizoram,Total Expenditure,63895700.0
+900,2006,Tripura,Total Expenditure,64923236.0
+901,2006,Meghalaya,Total Expenditure,5755376.0
+902,2006,Assam,Total Expenditure,72065000.0
+903,2006,West Bengal,Total Expenditure,744842375.0
+904,2006,Jharkhand,Total Expenditure,199727794.0
+905,2006,Odisha,Total Expenditure,359115000.0
+906,2006,Chhattisgarh,Total Expenditure,363415095.0
+907,2006,Madhya Pradesh,Total Expenditure,724874000.0
+908,2006,Gujarat,Total Expenditure,201431000.0
+909,2006,Daman & Diu,Total Expenditure,0.0
+910,2006,Dadra & Nagar Haveli,Total Expenditure,250000.0
+911,2006,Maharashtra,Total Expenditure,156632000.0
+912,2006,Andhra Pradesh,Total Expenditure,726377400.0
+913,2006,Karnataka,Total Expenditure,33680300.0
+914,2006,Goa,Total Expenditure,24368043.0
+915,2006,Lakshadweep,Total Expenditure,100000.0
+916,2006,Kerala,Total Expenditure,152995147.0
+917,2006,Tamil Nadu,Total Expenditure,237498000.0
+918,2006,Puducherry,Total Expenditure,13760000.0
+919,2006,Andaman & Nicobar Islands,Total Expenditure,23743000.0
+920,2007,Jammu & Kashmir,Total Expenditure,269258600.0
+921,2007,Himachal Pradesh,Total Expenditure,110942000.0
+922,2007,Punjab,Total Expenditure,1028442000.0
+923,2007,Chandigarh,Total Expenditure,42713000.0
+924,2007,Uttarakhand,Total Expenditure,86048439.0
+925,2007,Haryana,Total Expenditure,935533000.0
+926,2007,Delhi,Total Expenditure,909258000.0
+927,2007,Rajasthan,Total Expenditure,463999000.0
+928,2007,Uttar Pradesh,Total Expenditure,1935724000.0
+929,2007,Bihar,Total Expenditure,1013240089.0
+930,2007,Sikkim,Total Expenditure,23281597.0
+931,2007,Nagaland,Total Expenditure,117126000.0
+932,2007,Manipur,Total Expenditure,68075124.0
+933,2007,Mizoram,Total Expenditure,103927052.0
+934,2007,Tripura,Total Expenditure,85406189.0
+935,2007,Meghalaya,Total Expenditure,47005463.0
+936,2007,Assam,Total Expenditure,317314000.0
+937,2007,West Bengal,Total Expenditure,941876087.0
+938,2007,Jharkhand,Total Expenditure,239772589.0
+939,2007,Odisha,Total Expenditure,417378000.0
+940,2007,Chhattisgarh,Total Expenditure,310212401.0
+941,2007,Madhya Pradesh,Total Expenditure,826100000.0
+942,2007,Gujarat,Total Expenditure,351578869.0
+943,2007,Daman & Diu,Total Expenditure,2250000.0
+944,2007,Dadra & Nagar Haveli,Total Expenditure,0.0
+945,2007,Maharashtra,Total Expenditure,1114957000.0
+946,2007,Andhra Pradesh,Total Expenditure,750850000.0
+947,2007,Karnataka,Total Expenditure,491048571.0
+948,2007,Goa,Total Expenditure,51112000.0
+949,2007,Lakshadweep,Total Expenditure,0.0
+950,2007,Kerala,Total Expenditure,182058786.0
+951,2007,Tamil Nadu,Total Expenditure,221216000.0
+952,2007,Puducherry,Total Expenditure,13662173.0
+953,2007,Andaman & Nicobar Islands,Total Expenditure,26223000.0
+954,2008,Jammu & Kashmir,Non-Plan Expenditure,217845500.0
+955,2008,Himachal Pradesh,Non-Plan Expenditure,104689715.0
+956,2008,Punjab,Non-Plan Expenditure,958502000.0
+957,2008,Chandigarh,Non-Plan Expenditure,41800000.0
+958,2008,Uttarakhand,Non-Plan Expenditure,130381000.0
+959,2008,Haryana,Non-Plan Expenditure,629051000.0
+960,2008,Delhi,Non-Plan Expenditure,836885000.0
+961,2008,Rajasthan,Non-Plan Expenditure,551163000.0
+962,2008,Uttar Pradesh,Non-Plan Expenditure,4074777000.0
+963,2008,Bihar,Non-Plan Expenditure,1014501186.0
+964,2008,Sikkim,Non-Plan Expenditure,26436828.0
+965,2008,Nagaland,Non-Plan Expenditure,110038000.0
+966,2008,Manipur,Non-Plan Expenditure,60096310.0
+967,2008,Mizoram,Non-Plan Expenditure,55232933.0
+968,2008,Tripura,Non-Plan Expenditure,118680751.0
+969,2008,Meghalaya,Non-Plan Expenditure,42642000.0
+970,2008,Assam,Non-Plan Expenditure,418844000.0
+971,2008,West Bengal,Non-Plan Expenditure,959838000.0
+972,2008,Jharkhand,Non-Plan Expenditure,213593743.0
+973,2008,Odisha,Non-Plan Expenditure,589135000.0
+974,2008,Chhattisgarh,Non-Plan Expenditure,302147320.0
+975,2008,Madhya Pradesh,Non-Plan Expenditure,959900000.0
+976,2008,Gujarat,Non-Plan Expenditure,419000330.0
+977,2008,Daman & Diu,Non-Plan Expenditure,2700000.0
+978,2008,Dadra & Nagar Haveli,Non-Plan Expenditure,355000.0
+979,2008,Maharashtra,Non-Plan Expenditure,977393000.0
+980,2008,Andhra Pradesh,Non-Plan Expenditure,869678700.0
+981,2008,Karnataka,Non-Plan Expenditure,509676660.0
+982,2008,Goa,Non-Plan Expenditure,26144000.0
+983,2008,Lakshadweep,Non-Plan Expenditure,49198.0
+984,2008,Kerala,Non-Plan Expenditure,368772625.0
+985,2008,Tamil Nadu,Non-Plan Expenditure,878008000.0
+986,2008,Puducherry,Non-Plan Expenditure,17806000.0
+987,2008,Andaman & Nicobar Islands,Non-Plan Expenditure,16627671.0
+988,2008,Jammu & Kashmir,Plan Expenditure,0.0
+989,2008,Himachal Pradesh,Plan Expenditure,20000000.0
+990,2008,Punjab,Plan Expenditure,0.0
+991,2008,Chandigarh,Plan Expenditure,5000000.0
+992,2008,Uttarakhand,Plan Expenditure,0.0
+993,2008,Haryana,Plan Expenditure,175907000.0
+994,2008,Delhi,Plan Expenditure,48107000.0
+995,2008,Rajasthan,Plan Expenditure,10000000.0
+996,2008,Uttar Pradesh,Plan Expenditure,0.0
+997,2008,Bihar,Plan Expenditure,673388524.0
+998,2008,Sikkim,Plan Expenditure,34875000.0
+999,2008,Nagaland,Plan Expenditure,27100000.0
+1000,2008,Manipur,Plan Expenditure,17453000.0
+1001,2008,Mizoram,Plan Expenditure,26916490.0
+1002,2008,Tripura,Plan Expenditure,75336599.0
+1003,2008,Meghalaya,Plan Expenditure,11000000.0
+1004,2008,Assam,Plan Expenditure,19462000.0
+1005,2008,West Bengal,Plan Expenditure,91377000.0
+1006,2008,Jharkhand,Plan Expenditure,196428060.0
+1007,2008,Odisha,Plan Expenditure,0.0
+1008,2008,Chhattisgarh,Plan Expenditure,0.0
+1009,2008,Madhya Pradesh,Plan Expenditure,26638000.0
+1010,2008,Gujarat,Plan Expenditure,141030000.0
+1011,2008,Daman & Diu,Plan Expenditure,0.0
+1012,2008,Dadra & Nagar Haveli,Plan Expenditure,0.0
+1013,2008,Maharashtra,Plan Expenditure,0.0
+1014,2008,Andhra Pradesh,Plan Expenditure,0.0
+1015,2008,Karnataka,Plan Expenditure,19351546.0
+1016,2008,Goa,Plan Expenditure,0.0
+1017,2008,Lakshadweep,Plan Expenditure,0.0
+1018,2008,Kerala,Plan Expenditure,44398156.0
+1019,2008,Tamil Nadu,Plan Expenditure,84107000.0
+1020,2008,Puducherry,Plan Expenditure,5708000.0
+1021,2008,Andaman & Nicobar Islands,Plan Expenditure,17500000.0
+1022,2008,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1023,2008,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1024,2008,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1025,2008,Chandigarh,Total Expenditure,46800000.0
+1026,2008,Uttarakhand,Total Expenditure,130381000.0
+1027,2008,Haryana,Total Expenditure,804958000.0
+1028,2008,Delhi,Total Expenditure,884992000.0
+1029,2008,Rajasthan,Total Expenditure,561163000.0
+1030,2008,Uttar Pradesh,Total Expenditure,4074777000.0
+1031,2008,Bihar,Total Expenditure,1687889710.0
+1032,2008,Sikkim,Total Expenditure,61311828.0
+1033,2008,Nagaland,Total Expenditure,137138000.0
+1034,2008,Manipur,Total Expenditure,77549310.0
+1035,2008,Mizoram,Total Expenditure,108774245.0
+1036,2008,Tripura,Total Expenditure,194017350.0
+1037,2008,Meghalaya,Total Expenditure,53642000.0
+1038,2008,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1039,2008,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1040,2008,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1041,2008,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1042,2008,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1043,2008,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1044,2008,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1045,2008,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1046,2008,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1047,2008,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1048,2008,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",26624822.0
+1049,2008,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1050,2008,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1051,2008,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1052,2008,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",81747000.0
+1053,2008,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",25000000.0
+1054,2008,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1055,2008,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1056,2008,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1057,2008,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1058,2008,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1059,2008,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1060,2008,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1061,2008,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",159450000.0
+1062,2008,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1063,2008,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1064,2008,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1065,2008,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1066,2008,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",63080000.0
+1067,2008,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1068,2008,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1069,2008,Jammu & Kashmir,Total Expenditure,217845500.0
+1070,2008,Himachal Pradesh,Total Expenditure,124689715.0
+1071,2008,Punjab,Total Expenditure,958502000.0
+1072,2008,Assam,Total Expenditure,438306000.0
+1073,2008,West Bengal,Total Expenditure,1132962000.0
+1074,2008,Jharkhand,Total Expenditure,435021803.0
+1075,2008,Odisha,Total Expenditure,589135000.0
+1076,2008,Chhattisgarh,Total Expenditure,302147320.0
+1077,2008,Madhya Pradesh,Total Expenditure,986538000.0
+1078,2008,Gujarat,Total Expenditure,560030330.0
+1079,2008,Daman & Diu,Total Expenditure,2700000.0
+1080,2008,Dadra & Nagar Haveli,Total Expenditure,355000.0
+1081,2008,Maharashtra,Total Expenditure,977393000.0
+1082,2008,Andhra Pradesh,Total Expenditure,1029128700.0
+1083,2008,Karnataka,Total Expenditure,529028206.0
+1084,2008,Goa,Total Expenditure,26144000.0
+1085,2008,Lakshadweep,Total Expenditure,49198.0
+1086,2008,Kerala,Total Expenditure,413170781.0
+1087,2008,Tamil Nadu,Total Expenditure,1025195000.0
+1088,2008,Puducherry,Total Expenditure,23514000.0
+1089,2008,Andaman & Nicobar Islands,Total Expenditure,34127671.0
+1090,2009,Jammu & Kashmir,Non-Plan Expenditure,345595500.0
+1091,2009,Himachal Pradesh,Non-Plan Expenditure,124500418.0
+1092,2009,Punjab,Non-Plan Expenditure,1027899000.0
+1093,2009,Chandigarh,Non-Plan Expenditure,55300000.0
+1094,2009,Uttarakhand,Non-Plan Expenditure,94550752.0
+1095,2009,Haryana,Non-Plan Expenditure,717405000.0
+1096,2009,Delhi,Non-Plan Expenditure,1110174915.0
+1097,2009,Rajasthan,Non-Plan Expenditure,582615000.0
+1098,2009,Uttar Pradesh,Non-Plan Expenditure,4762245000.0
+1099,2009,Bihar,Non-Plan Expenditure,1096753808.0
+1100,2009,Sikkim,Non-Plan Expenditure,43041106.0
+1101,2009,Arunachal Pradesh,Non-Plan Expenditure,34312433.0
+1102,2009,Nagaland,Non-Plan Expenditure,135011000.0
+1103,2009,Manipur,Non-Plan Expenditure,65124671.0
+1104,2009,Mizoram,Non-Plan Expenditure,75093796.0
+1105,2009,Tripura,Non-Plan Expenditure,132614552.0
+1106,2009,Meghalaya,Non-Plan Expenditure,8353433.0
+1107,2009,Assam,Non-Plan Expenditure,396401000.0
+1108,2009,West Bengal,Non-Plan Expenditure,1322641385.0
+1109,2009,Jharkhand,Non-Plan Expenditure,265427469.0
+1110,2009,Odisha,Non-Plan Expenditure,686515000.0
+1111,2009,Chhattisgarh,Non-Plan Expenditure,510141997.0
+1112,2009,Madhya Pradesh,Non-Plan Expenditure,1149058000.0
+1113,2009,Gujarat,Non-Plan Expenditure,441088882.0
+1114,2009,Daman & Diu,Non-Plan Expenditure,3705000.0
+1115,2009,Dadra & Nagar Haveli,Non-Plan Expenditure,948000.0
+1116,2009,Maharashtra,Non-Plan Expenditure,1226353957.0
+1117,2009,Andhra Pradesh,Non-Plan Expenditure,919920100.0
+1118,2009,Karnataka,Non-Plan Expenditure,517823846.0
+1119,2009,Goa,Non-Plan Expenditure,57535000.0
+1120,2009,Lakshadweep,Non-Plan Expenditure,46829.0
+1121,2009,Kerala,Non-Plan Expenditure,401722448.0
+1122,2009,Tamil Nadu,Non-Plan Expenditure,36216000.0
+1123,2009,Puducherry,Non-Plan Expenditure,15897920.0
+1124,2009,Andaman & Nicobar Islands,Non-Plan Expenditure,19417376.0
+1125,2010,Jammu & Kashmir,Non-Plan Expenditure,355523400.0
+1126,2010,Himachal Pradesh,Non-Plan Expenditure,155465274.0
+1127,2010,Punjab,Non-Plan Expenditure,1069358000.0
+1128,2010,Chandigarh,Non-Plan Expenditure,61636809.0
+1129,2010,Uttarakhand,Non-Plan Expenditure,172084264.0
+1130,2010,Haryana,Non-Plan Expenditure,839287000.0
+1131,2010,Delhi,Non-Plan Expenditure,1143319294.0
+1132,2010,Rajasthan,Non-Plan Expenditure,695088000.0
+1133,2010,Uttar Pradesh,Non-Plan Expenditure,8454401000.0
+1134,2010,Bihar,Non-Plan Expenditure,1193674332.0
+1135,2010,Sikkim,Non-Plan Expenditure,43425499.0
+1136,2010,Arunachal Pradesh,Non-Plan Expenditure,39088000.0
+1137,2010,Nagaland,Non-Plan Expenditure,179992000.0
+1138,2010,Manipur,Non-Plan Expenditure,89535652.0
+1139,2010,Mizoram,Non-Plan Expenditure,96430114.0
+1140,2010,Tripura,Non-Plan Expenditure,122820703.0
+1141,2010,Meghalaya,Non-Plan Expenditure,10606470.0
+1142,2010,Assam,Non-Plan Expenditure,383364887.0
+1143,2010,West Bengal,Non-Plan Expenditure,1471119300.0
+1144,2010,Jharkhand,Non-Plan Expenditure,436093991.0
+1145,2010,Odisha,Non-Plan Expenditure,385539000.0
+1146,2010,Chhattisgarh,Non-Plan Expenditure,454451540.0
+1147,2010,Madhya Pradesh,Non-Plan Expenditure,1324890000.0
+1148,2010,Gujarat,Non-Plan Expenditure,497858564.0
+1149,2010,Daman & Diu,Non-Plan Expenditure,3885000.0
+1150,2010,Dadra & Nagar Haveli,Non-Plan Expenditure,950000.0
+1151,2010,Maharashtra,Non-Plan Expenditure,1260528000.0
+1152,2010,Andhra Pradesh,Non-Plan Expenditure,1224376000.0
+1153,2010,Karnataka,Non-Plan Expenditure,671937978.0
+1154,2010,Goa,Non-Plan Expenditure,63617000.0
+1155,2010,Lakshadweep,Non-Plan Expenditure,142000.0
+1156,2010,Kerala,Non-Plan Expenditure,512293497.0
+1157,2010,Tamil Nadu,Non-Plan Expenditure,1277766000.0
+1158,2010,Puducherry,Non-Plan Expenditure,20917000.0
+1159,2010,Andaman & Nicobar Islands,Non-Plan Expenditure,23209794.0
+1160,2009,Jammu & Kashmir,Plan Expenditure,2483000.0
+1161,2009,Himachal Pradesh,Plan Expenditure,19929220.0
+1162,2009,Punjab,Plan Expenditure,0.0
+1163,2009,Chandigarh,Plan Expenditure,5900000.0
+1164,2009,Uttarakhand,Plan Expenditure,0.0
+1165,2009,Haryana,Plan Expenditure,412065000.0
+1166,2009,Delhi,Plan Expenditure,30317152.0
+1167,2009,Rajasthan,Plan Expenditure,0.0
+1168,2009,Uttar Pradesh,Plan Expenditure,0.0
+1169,2009,Bihar,Plan Expenditure,0.0
+1170,2009,Sikkim,Plan Expenditure,22749000.0
+1171,2009,Arunachal Pradesh,Plan Expenditure,686461.0
+1172,2009,Nagaland,Plan Expenditure,25900000.0
+1173,2009,Manipur,Plan Expenditure,9497000.0
+1174,2009,Mizoram,Plan Expenditure,20494850.0
+1175,2009,Tripura,Plan Expenditure,75000000.0
+1176,2009,Meghalaya,Plan Expenditure,687794.0
+1177,2009,Assam,Plan Expenditure,17921000.0
+1178,2009,West Bengal,Plan Expenditure,127226129.0
+1179,2009,Jharkhand,Plan Expenditure,161370811.0
+1180,2009,Odisha,Plan Expenditure,100150000.0
+1181,2009,Chhattisgarh,Plan Expenditure,0.0
+1182,2009,Madhya Pradesh,Plan Expenditure,20534000.0
+1183,2009,Gujarat,Plan Expenditure,403375698.0
+1184,2009,Daman & Diu,Plan Expenditure,0.0
+1185,2009,Dadra & Nagar Haveli,Plan Expenditure,0.0
+1186,2009,Maharashtra,Plan Expenditure,11279043.0
+1187,2009,Andhra Pradesh,Plan Expenditure,0.0
+1188,2009,Karnataka,Plan Expenditure,0.0
+1189,2009,Goa,Plan Expenditure,37412000.0
+1190,2009,Lakshadweep,Plan Expenditure,0.0
+1191,2009,Kerala,Plan Expenditure,48131145.0
+1192,2009,Tamil Nadu,Plan Expenditure,2000.0
+1193,2009,Puducherry,Plan Expenditure,29184354.0
+1194,2009,Andaman & Nicobar Islands,Plan Expenditure,25519089.0
+1195,2010,Jammu & Kashmir,Plan Expenditure,30654400.0
+1196,2010,Himachal Pradesh,Plan Expenditure,30000000.0
+1197,2010,Punjab,Plan Expenditure,0.0
+1198,2010,Chandigarh,Plan Expenditure,6500000.0
+1199,2010,Uttarakhand,Plan Expenditure,0.0
+1200,2010,Haryana,Plan Expenditure,357175000.0
+1201,2010,Delhi,Plan Expenditure,44473495.0
+1202,2010,Rajasthan,Plan Expenditure,20340000.0
+1203,2010,Uttar Pradesh,Plan Expenditure,0.0
+1204,2010,Bihar,Plan Expenditure,0.0
+1205,2010,Sikkim,Plan Expenditure,0.0
+1206,2010,Arunachal Pradesh,Plan Expenditure,1990744.0
+1207,2010,Nagaland,Plan Expenditure,15900000.0
+1208,2010,Manipur,Plan Expenditure,27000000.0
+1209,2010,Mizoram,Plan Expenditure,26670627.0
+1210,2010,Tripura,Plan Expenditure,153684913.0
+1211,2010,Meghalaya,Plan Expenditure,598930.0
+1212,2010,Assam,Plan Expenditure,3000000.0
+1213,2010,West Bengal,Plan Expenditure,157166701.0
+1214,2010,Jharkhand,Plan Expenditure,184282195.0
+1215,2010,Odisha,Plan Expenditure,70150000.0
+1216,2010,Chhattisgarh,Plan Expenditure,0.0
+1217,2010,Madhya Pradesh,Plan Expenditure,61614000.0
+1218,2010,Gujarat,Plan Expenditure,597593000.0
+1219,2010,Daman & Diu,Plan Expenditure,0.0
+1220,2010,Dadra & Nagar Haveli,Plan Expenditure,0.0
+1221,2010,Maharashtra,Plan Expenditure,6207000.0
+1222,2010,Andhra Pradesh,Plan Expenditure,0.0
+1223,2010,Karnataka,Plan Expenditure,199652167.0
+1224,2010,Goa,Plan Expenditure,101060000.0
+1225,2010,Lakshadweep,Plan Expenditure,0.0
+1226,2010,Kerala,Plan Expenditure,54629936.0
+1227,2010,Tamil Nadu,Plan Expenditure,32342000.0
+1228,2010,Puducherry,Plan Expenditure,10857000.0
+1229,2010,Andaman & Nicobar Islands,Plan Expenditure,33816562.0
+1230,2009,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1231,2009,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1232,2009,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1233,2009,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1234,2009,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1235,2009,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1236,2009,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1237,2009,Uttarakhand,Total Expenditure,94550752.0
+1238,2009,Haryana,Total Expenditure,1129470000.0
+1239,2009,Delhi,Total Expenditure,1140492067.0
+1240,2009,Rajasthan,Total Expenditure,582615000.0
+1241,2009,Uttar Pradesh,Total Expenditure,4762245000.0
+1242,2009,Bihar,Total Expenditure,1096753808.0
+1243,2009,Sikkim,Total Expenditure,65790106.0
+1244,2009,Arunachal Pradesh,Total Expenditure,34998894.0
+1245,2009,Nagaland,Total Expenditure,160911000.0
+1246,2009,Manipur,Total Expenditure,74621671.0
+1247,2009,Mizoram,Total Expenditure,95588646.0
+1248,2009,Tripura,Total Expenditure,207614552.0
+1249,2009,Meghalaya,Total Expenditure,9041227.0
+1250,2009,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1251,2009,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1252,2009,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1253,2009,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1254,2009,Arunachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1255,2009,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1256,2009,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1257,2009,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1258,2009,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1259,2009,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1260,2009,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1261,2009,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",16425172.0
+1262,2009,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1263,2009,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1264,2009,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1265,2009,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1266,2009,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1267,2009,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1268,2009,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1269,2009,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1270,2009,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",20000000.0
+1271,2009,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1272,2009,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1273,2009,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1274,2009,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",118396113.0
+1275,2009,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",1101407000.0
+1276,2009,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1277,2009,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1278,2010,Jammu & Kashmir,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1279,2010,Himachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1280,2010,Punjab,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1281,2010,Chandigarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1282,2010,Uttarakhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1283,2010,Haryana,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1284,2010,Delhi,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1285,2010,Rajasthan,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1286,2010,Uttar Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1287,2010,Bihar,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1288,2010,Sikkim,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1289,2010,Arunachal Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1290,2010,Nagaland,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1291,2010,Manipur,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1292,2010,Mizoram,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1293,2010,Tripura,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1294,2010,Meghalaya,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1295,2010,Assam,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1296,2010,West Bengal,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1297,2010,Jharkhand,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",10632405.0
+1298,2010,Odisha,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1299,2010,Chhattisgarh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1300,2010,Madhya Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1301,2010,Gujarat,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1302,2010,Daman & Diu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1303,2010,Dadra & Nagar Haveli,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1304,2010,Maharashtra,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1305,2010,Andhra Pradesh,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1306,2010,Karnataka,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1307,2010,Goa,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1308,2010,Lakshadweep,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1309,2010,Kerala,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1310,2010,Tamil Nadu,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1311,2010,Puducherry,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1312,2010,Andaman & Nicobar Islands,"Expenditure due to funds from other agencies (Central Govt, World Bank, etc.)",0.0
+1313,2009,Jammu & Kashmir,Total Expenditure,348078500.0
+1314,2009,Himachal Pradesh,Total Expenditure,144429638.0
+1315,2009,Punjab,Total Expenditure,1027899000.0
+1316,2009,Chandigarh,Total Expenditure,61200000.0
+1317,2009,Assam,Total Expenditure,414322000.0
+1318,2009,West Bengal,Total Expenditure,1466292686.0
+1319,2009,Jharkhand,Total Expenditure,426798280.0
+1320,2009,Odisha,Total Expenditure,786665000.0
+1321,2009,Chhattisgarh,Total Expenditure,510141997.0
+1322,2009,Madhya Pradesh,Total Expenditure,1169592000.0
+1323,2009,Gujarat,Total Expenditure,844464580.0
+1324,2009,Daman & Diu,Total Expenditure,3705000.0
+1325,2009,Dadra & Nagar Haveli,Total Expenditure,948000.0
+1326,2009,Maharashtra,Total Expenditure,1237633000.0
+1327,2009,Andhra Pradesh,Total Expenditure,939920100.0
+1328,2009,Karnataka,Total Expenditure,517823846.0
+1329,2009,Goa,Total Expenditure,94947000.0
+1330,2009,Lakshadweep,Total Expenditure,46829.0
+1331,2009,Kerala,Total Expenditure,568249706.0
+1332,2009,Tamil Nadu,Total Expenditure,1137625000.0
+1333,2009,Puducherry,Total Expenditure,45082274.0
+1334,2009,Andaman & Nicobar Islands,Total Expenditure,44936465.0
+1335,2010,Jammu & Kashmir,Total Expenditure,386177800.0
+1336,2010,Himachal Pradesh,Total Expenditure,185465274.0
+1337,2010,Punjab,Total Expenditure,1069358000.0
+1338,2010,Chandigarh,Total Expenditure,68136809.0
+1339,2010,Uttarakhand,Total Expenditure,172084264.0
+1340,2010,Haryana,Total Expenditure,1196462000.0
+1341,2010,Delhi,Total Expenditure,1187792789.0
+1342,2010,Rajasthan,Total Expenditure,715428000.0
+1343,2010,Uttar Pradesh,Total Expenditure,8454401000.0
+1344,2010,Bihar,Total Expenditure,1193674332.0
+1345,2010,Sikkim,Total Expenditure,43425499.0
+1346,2010,Arunachal Pradesh,Total Expenditure,41078744.0
+1347,2010,Nagaland,Total Expenditure,195892000.0
+1348,2010,Manipur,Total Expenditure,116535652.0
+1349,2010,Mizoram,Total Expenditure,123100741.0
+1350,2010,Tripura,Total Expenditure,276505616.0
+1351,2010,Meghalaya,Total Expenditure,11205400.0
+1352,2010,Assam,Total Expenditure,386364887.0
+1353,2010,West Bengal,Total Expenditure,1628286001.0
+1354,2010,Jharkhand,Total Expenditure,631008591.0
+1355,2010,Odisha,Total Expenditure,455689000.0
+1356,2010,Chhattisgarh,Total Expenditure,454451540.0
+1357,2010,Madhya Pradesh,Total Expenditure,1386504000.0
+1358,2010,Gujarat,Total Expenditure,1095451564.0
+1359,2010,Daman & Diu,Total Expenditure,3885000.0
+1360,2010,Dadra & Nagar Haveli,Total Expenditure,950000.0
+1361,2010,Maharashtra,Total Expenditure,1266735000.0
+1362,2010,Andhra Pradesh,Total Expenditure,1224376000.0
+1363,2010,Karnataka,Total Expenditure,871590145.0
+1364,2010,Goa,Total Expenditure,164677000.0
+1365,2010,Lakshadweep,Total Expenditure,142000.0
+1366,2010,Kerala,Total Expenditure,566923433.0
+1367,2010,Tamil Nadu,Total Expenditure,1310108000.0
+1368,2010,Puducherry,Total Expenditure,31774000.0
+1369,2010,Andaman & Nicobar Islands,Total Expenditure,57026356.0

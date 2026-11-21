@@ -1,0 +1,13 @@
+legal_status,category,prisoners,dimension,year,status_population,share_within_status,covered_states,source
+convicts,male,124263,gender,,,,,
+convicts,female,5345,gender,,,,,
+under_trial,male,265815,gender,,,,,
+under_trial,female,12688,gender,,,,,
+convicts,OBC,41446,caste,2013.0,129608.0,0.3197796432318993,35.0,Caste.csv
+convicts,Others,43855,caste,2013.0,129608.0,0.33836645886056416,35.0,Caste.csv
+convicts,SC,29130,caste,2013.0,129608.0,0.2247546447750139,35.0,Caste.csv
+convicts,ST,15177,caste,2013.0,129608.0,0.11709925313252269,35.0,Caste.csv
+under_trial,OBC,87848,caste,2013.0,278503.0,0.31542927724297404,35.0,Caste.csv
+under_trial,Others,99748,caste,2013.0,278503.0,0.35815772181987265,35.0,Caste.csv
+under_trial,SC,59326,caste,2013.0,278503.0,0.21301745403101582,35.0,Caste.csv
+under_trial,ST,31581,caste,2013.0,278503.0,0.11339554690613746,35.0,Caste.csv

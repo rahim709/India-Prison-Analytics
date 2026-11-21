@@ -1,0 +1,73 @@
+{
+  "feature_order": [
+    "occupancy_ratio",
+    "undertrial_share",
+    "female_share",
+    "age_18_30_share",
+    "illiterate_share"
+  ],
+  "preprocessing": "Read saved standardized vectors; do not refit a Spark scaler.",
+  "clustering": {
+    "file": "spark_profiles.jsonl",
+    "schema": {
+      "type": "struct",
+      "fields": [
+        {
+          "name": "profile_id",
+          "type": "string",
+          "nullable": false,
+          "metadata": {}
+        },
+        {
+          "name": "features",
+          "type": {
+            "type": "array",
+            "elementType": "double",
+            "containsNull": false
+          },
+          "nullable": false,
+          "metadata": {}
+        }
+      ]
+    },
+    "vector_length": 5
+  },
+  "association": {
+    "file": "transactions.jsonl",
+    "schema": {
+      "type": "struct",
+      "fields": [
+        {
+          "name": "profile_id",
+          "type": "string",
+          "nullable": false,
+          "metadata": {}
+        },
+        {
+          "name": "state",
+          "type": "string",
+          "nullable": false,
+          "metadata": {}
+        },
+        {
+          "name": "year",
+          "type": "long",
+          "nullable": false,
+          "metadata": {}
+        },
+        {
+          "name": "items",
+          "type": {
+            "type": "array",
+            "elementType": "string",
+            "containsNull": false
+          },
+          "nullable": false,
+          "metadata": {}
+        }
+      ]
+    },
+    "items_column": "items"
+  },
+  "runtime_status": "Spark input prepared and JSON round-trip verified; no PySpark execution yet."
+}

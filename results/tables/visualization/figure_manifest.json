@@ -1,0 +1,262 @@
+[
+  {
+    "file": "results/plots/01_bar.png",
+    "sha256": "e508af168ac7c07e85ed39b7e04de65ca8a8b8b1b9958f9e26f4e15c00348f15",
+    "width": 2954,
+    "height": 1750,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/09_dot.png",
+    "sha256": "04f9c89568e935300b8e8388d3ea579bf46d0eb39b169c85942ee26dc96b9847",
+    "width": 2656,
+    "height": 2050,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/05_line.png",
+    "sha256": "5f304d7e941eba48a13109ac48ef0ce6b5f649074292ca0da08e331d9677317b",
+    "width": 2345,
+    "height": 1451,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/02_pie.png",
+    "sha256": "2b55ad9e45831a48a2e37dd2f132b5d4637ac883110198f0cfe02182f1d769f1",
+    "width": 1768,
+    "height": 2064,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/08_area.png",
+    "sha256": "8da4e9e8deb90199a4932ecedb281d81a5e3ac74504e0e231c5cb8c826a1d715",
+    "width": 2345,
+    "height": 1451,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/11_status_state_rankings.png",
+    "sha256": "5f738222c89ce87356f35cf3c35f8ffae6f45311bb3af1c9bf10a6c3dc592b6b",
+    "width": 4150,
+    "height": 1769,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/12_status_demographics.png",
+    "sha256": "4a379e1bdabcfa7b279ef3f1acc83e06f3e2354e4434570b4c965776768eede3",
+    "width": 3388,
+    "height": 3240,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/16_religion_education.png",
+    "sha256": "08c9966b610c629eff621090fa350d8c3aacef3933a4c2baf8800ac40eae0ed7",
+    "width": 4156,
+    "height": 2050,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/17_ipc_composition.png",
+    "sha256": "8a6da44d6db21847f1f41d0600b2957e9d0d5cfb1ce278aa35a4d3d22af1036d",
+    "width": 3299,
+    "height": 2650,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/18_crime_trends_women_related.png",
+    "sha256": "fbf8cb2e381e1ad553894648fcf45ae1be7aad85ac0096c31411014d154fb384",
+    "width": 4147,
+    "height": 3093,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/19_crime_trends_property.png",
+    "sha256": "fd87eef0e1c0caaaef11422f7f148c281a37905c72532e8edb904300c4a3e9c5",
+    "width": 4147,
+    "height": 3093,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/20_crime_trends_fraud.png",
+    "sha256": "5c3dac1fa469e8e69ccc79c9232af86a7ca8f8b210bab49a044d11b14a09b579",
+    "width": 4147,
+    "height": 2064,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/21_crime_trends_other_selected.png",
+    "sha256": "ccae3df636299f11b3647c20cc916828e3a297c29c7b9a82f370226e74328b5d",
+    "width": 4147,
+    "height": 3093,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/22_crime_trends_murder.png",
+    "sha256": "f1df3327fbfcf2b04f8893d723124e0bbebfc3f249994e165bf667a737de1b1b",
+    "width": 2829,
+    "height": 1035,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/23_crime_rankings_women_related.png",
+    "sha256": "823575e77ddb9add5c9f39fb9781c17ab008f422f13e63ba9e4fdbea0eef2046",
+    "width": 4154,
+    "height": 3092,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/24_crime_rankings_property.png",
+    "sha256": "d61d8a983a9314dba9ee335042f1172b09637528b1fefdec601af9a30922f4b9",
+    "width": 4154,
+    "height": 3092,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/25_crime_rankings_fraud.png",
+    "sha256": "c56ca4394865fee297bfb06075d9517b47607919f637c7a9fc8d0502f4f94db0",
+    "width": 4154,
+    "height": 2063,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/26_crime_rankings_other_selected.png",
+    "sha256": "9221fd3e45c45f845fab108c12fbe4ceed05273bcb6ff545de633c706d2a35df",
+    "width": 4154,
+    "height": 3092,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/27_crime_rankings_murder.png",
+    "sha256": "aa8a766ca4eeffbe310d88bb1c2d4503b726d1a376a8323c0e5a8060bb978872",
+    "width": 2907,
+    "height": 1034,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/14_sentence_indicator_rankings.png",
+    "sha256": "f2296df38e029c0f030b403c5cfab94ea39500464bba5c8f881dc47c59def010",
+    "width": 4154,
+    "height": 1769,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/15_sentence_indicator_trends.png",
+    "sha256": "2d5ee2bd23a653760a7a168c84be96b5d030bf438f49e4fa7c5e5e12d58b723a",
+    "width": 2944,
+    "height": 2358,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/03_histogram.png",
+    "sha256": "ea2bd001176e2ad31a57371a08dea5d9214418384e765e82e7f7dc991987c039",
+    "width": 2348,
+    "height": 1450,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/04_box.png",
+    "sha256": "9fb08d9a4a110a8f907fa2858331d17ced5ffe87c1f1483361e0c90d51b29ba3",
+    "width": 2950,
+    "height": 1451,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/06_scatter.png",
+    "sha256": "f473a2777eb637734055a8c1fe51251e2a2237c8218ae65222fa00d4e7a7b121",
+    "width": 2344,
+    "height": 1450,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/07_heatmap.png",
+    "sha256": "0e9efd2735182c7611c616c442ed30ec8434ef7f514a245dc0ab581a3cbc31d3",
+    "width": 2310,
+    "height": 1746,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  },
+  {
+    "file": "results/plots/10_stem_leaf.png",
+    "sha256": "6b4d878f1a910bfaf91ba5486e5a7479aef3242c7c98eb3337a3018850396bde",
+    "width": 2352,
+    "height": 2650,
+    "dpi": [
+      299.9994,
+      299.9994
+    ]
+  }
+]

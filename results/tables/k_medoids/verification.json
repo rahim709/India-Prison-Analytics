@@ -1,0 +1,113 @@
+{
+  "tests_passed": 62,
+  "clustering_tests": 6,
+  "notebook_code_cells": 10,
+  "notebook_inline_generated_figures": 5,
+  "notebook_errors": 0,
+  "unchanged_input_files": 85,
+  "previous_phase_outputs_unchanged": true,
+  "candidate_settings": 14,
+  "initialization_runs": 70,
+  "state_block_refits": 10,
+  "all_final_swaps_checked_by_full_reassignment": true,
+  "small_example_checked_against_exhaustive_global_optimum": true,
+  "repeat_execution_identical": true,
+  "images": [
+    {
+      "file": "results/plots/k_medoids/cluster_count_selection.png",
+      "sha256": "f384ac6aa6399b330189aee475f599c1ed5fc5c4283ec6febc64a79bda193480",
+      "dimensions": [
+        2948,
+        1450
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/k_medoids/cluster_feature_profiles.png",
+      "sha256": "abab07369e9fa7b14f2bdb2cf4132838759f76c70a4d6ffc5e641af9dc5d529e",
+      "dimensions": [
+        2795,
+        1247
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/k_medoids/occupancy_illiteracy_profiles.png",
+      "sha256": "d45f7d9f6c0464a225a3e20907859ad186a62a972f4c825b8db8789082d59970",
+      "dimensions": [
+        2949,
+        1750
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/k_medoids/silhouette_profiles.png",
+      "sha256": "85e48ccf9d9a3806a9409d61554ee7d369adf0593fb2ce1ff2178456875816c7",
+      "dimensions": [
+        2951,
+        1750
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/k_medoids/state_block_stability.png",
+      "sha256": "1dec52e9c7b656495256bea507d2458986f18055799c54273d5c2df648b04e16",
+      "dimensions": [
+        2949,
+        1450
+      ],
+      "dpi": 300
+    }
+  ],
+  "output_hashes": [
+    {
+      "file": "results/tables/k_medoids/candidate_k_comparison.csv",
+      "sha256": "d93bb3e0832f887447787f34f5d66caec6c127ec96466d7acc2928d80d832108"
+    },
+    {
+      "file": "results/tables/k_medoids/cluster_assignments.csv",
+      "sha256": "008d2200e78e8f540cc7ce56c3f5e6369d26e34953b75228c20f12347bbba228"
+    },
+    {
+      "file": "results/tables/k_medoids/cluster_feature_summary.csv",
+      "sha256": "471cf0b1fc8f3c626bb3f48a0b28a7f75dfeb76c8b6d358295ce5d338d4b24e3"
+    },
+    {
+      "file": "results/tables/k_medoids/cluster_sizes.csv",
+      "sha256": "9ff1d5988134749d12348e5ea779349f825e292c0bf957c07b2713c032b7bfb7"
+    },
+    {
+      "file": "results/tables/k_medoids/cluster_standardized_means.csv",
+      "sha256": "6666ad48667f4f469975a3bda4259e077407fe5080326a4d42973c6792eab25b"
+    },
+    {
+      "file": "results/tables/k_medoids/initialization_runs.csv",
+      "sha256": "86e15cd2755e30133ce7d83a711d78949bcbec005a70ad0eb7c3859a72708249"
+    },
+    {
+      "file": "results/tables/k_medoids/medoids.csv",
+      "sha256": "6a6c293bf18e901d319937135aa5874d9e6e153a7d68e649f324896ade9bc478"
+    },
+    {
+      "file": "results/tables/k_medoids/objective_trace.csv",
+      "sha256": "a0d6707c7ff58d5c570373982d91f882bce1fcf626c03a67a1709d71c5a9f8d5"
+    },
+    {
+      "file": "results/tables/k_medoids/run_summary.json",
+      "sha256": "dc234e50b9690f9a8c92146c7e010b7907ec0b2fb521c209e9632d3a02ea3c29"
+    },
+    {
+      "file": "results/tables/k_medoids/state_block_stability.csv",
+      "sha256": "fea71bbb78ff7d08ce630793e4183c8d4cc288999512ff0b6a8b0285387cff9d"
+    },
+    {
+      "file": "results/tables/k_medoids/state_cluster_counts.csv",
+      "sha256": "c459f72336d555bb198f4812de4da33b2029b0221fff59d7b113aec7c5b5eb46"
+    },
+    {
+      "file": "results/tables/k_medoids/year_cluster_counts.csv",
+      "sha256": "e9f138efabbbc91d201ae2b666df937caaf60eeef58f425055361f057a210529"
+    }
+  ],
+  "source_sha256": "750973dcc34b3dac449e37c8b73ec14122e97f35f7097f4a27605bcc754b9f2f"
+}

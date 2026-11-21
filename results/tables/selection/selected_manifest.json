@@ -1,0 +1,70 @@
+[
+  {
+    "file": "population_capacity_reference.csv",
+    "rows": 447,
+    "dtypes": {
+      "state": "string",
+      "year": "Int64",
+      "population_source_record": "int64",
+      "capacity_source_record": "int64",
+      "total_prisoners": "Int64",
+      "total_capacity": "Int64",
+      "female_prisoners": "Int64",
+      "undertrial_prisoners": "Int64",
+      "male_convicts": "Int64",
+      "male_under_trial": "Int64",
+      "male_detenues": "Int64",
+      "male_others": "Int64",
+      "female_convicts": "Int64",
+      "female_under_trial": "Int64",
+      "female_detenues": "Int64",
+      "female_others": "Int64"
+    },
+    "sha256": "6ef3717542bf2ff50ddd9647a4dfeb29cc64ab6ada8c68f78b7fd2517a817999"
+  },
+  {
+    "file": "profile_base_counts.csv",
+    "rows": 437,
+    "dtypes": {
+      "state": "object",
+      "year": "Int64",
+      "population_source_record": "int64",
+      "capacity_source_record": "int64",
+      "total_prisoners": "Int64",
+      "total_capacity": "Int64",
+      "female_prisoners": "Int64",
+      "undertrial_prisoners": "Int64"
+    },
+    "sha256": "582260f8847f6520d55c36f2d8128ce7fb9746c5c009ef25373dc69af8c18b29"
+  },
+  {
+    "file": "profile_age_counts.csv",
+    "rows": 6992,
+    "dtypes": {
+      "state": "object",
+      "year": "Int64",
+      "source_record": "int64",
+      "category": "string",
+      "type": "string",
+      "gender": "string",
+      "age_18_30": "Int64"
+    },
+    "sha256": "7e30d47b0056bcc80c97dae2b5f0defcc8e5953b8a395e9c8ba04fb3a238afc9"
+  },
+  {
+    "file": "profile_education_counts.csv",
+    "rows": 5244,
+    "dtypes": {
+      "state": "object",
+      "year": "Int64",
+      "source_record": "int64",
+      "gender": "string",
+      "education": "string",
+      "convicts": "Int64",
+      "under_trial": "Int64",
+      "detenues": "Int64",
+      "others": "Int64"
+    },
+    "sha256": "b44b863efcc312630f40711c8f01eeff669faf56bb942b12deb06d00b385ff79"
+  }
+]

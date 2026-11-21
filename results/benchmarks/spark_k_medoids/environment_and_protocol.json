@@ -1,0 +1,117 @@
+{
+  "profiles": 437,
+  "k": 2,
+  "distance": "cityblock",
+  "features": [
+    "occupancy_ratio",
+    "undertrial_share",
+    "female_share",
+    "age_18_30_share",
+    "illiterate_share"
+  ],
+  "initial_medoid_ids": [
+    "Jharkhand|2007",
+    "Rajasthan|2011"
+  ],
+  "medoid_ids": [
+    "Jharkhand|2007",
+    "Kerala|2002"
+  ],
+  "objective": 1459.8623650936208,
+  "silhouette": 0.17447707939550836,
+  "swaps": 1,
+  "tol": 1e-10,
+  "max_iter": 100,
+  "input_roundtrip_equivalent": true,
+  "distributed_work": "Python Spark workers compute/cache distance rows, assignment distances and every candidate-swap partial cost; driver sums partition aggregates and selects the best improving swap",
+  "benchmark_scope": "fixed saved initialization; cached pairwise distances on both engines; PAM SWAP iterations, assignments and result materialization; excludes BUILD, distance preparation, validation and exports",
+  "scalability_limit": "O(n^2) distance storage, broadcast small complete feature matrix, O(k*n) driver cost table; local host only",
+  "cluster_label_scope": "labels follow sorted medoid/profile indices and may permute Phase 7 occupancy-ordered IDs; compare representative IDs and ARI",
+  "memory_scope": "20 ms RSS: driver only for Python; driver plus recursive children including JVM and Python workers for Spark; footprints, not isolated allocations",
+  "repetitions": 3,
+  "warmups_per_engine": 1,
+  "benchmark": {
+    "python_median_seconds": 0.006449028998758877,
+    "spark_median_seconds": 0.1946662290029053,
+    "python_min_seconds": 0.004757990001962753,
+    "python_max_seconds": 0.006879333999677328,
+    "spark_min_seconds": 0.1848953420012549,
+    "spark_max_seconds": 0.19790099899910274,
+    "speedup_python_over_spark": 0.033128648105998026,
+    "spark_over_python_ratio": 30.18535488681615
+  },
+  "startup_seconds": 2.9222211279993644,
+  "python_distance_preparation_seconds": 0.000891965002665529,
+  "spark_input_validation_and_distance_preparation_seconds": 2.1490804300010495,
+  "first_spark_fit_seconds": 0.7185384489966964,
+  "cold_spark_observed_seconds": 5.78984000699711,
+  "cold_scope": "single session startup + input validation and distance preparation + first fit; excludes imports and process launch; no repeated cold ratio",
+  "spark_version": "4.3.0",
+  "python": "3.14.4",
+  "java": "25.0.5.0.3",
+  "logical_cpus": 16,
+  "physical_cpus": 12,
+  "host_memory_gib": 14.803630828857422,
+  "cpu": "12th Gen Intel(R) Core(TM) i5-12500H",
+  "master": "local[2]",
+  "partitions": 2,
+  "spark_configuration": {
+    "spark.driver.port": "45909",
+    "spark.sql.warehouse.dir": "file:/home/abdur/Desktop/India-Prison-Analytics/notebooks/spark-warehouse",
+    "spark.sql.artifact.isolation.enabled": "false",
+    "spark.app.startTime": "1795256476024",
+    "spark.default.parallelism": "2",
+    "spark.app.id": "local-1795256476444",
+    "spark.executor.extraJavaOptions": "-Djava.net.preferIPv6Addresses=false -XX:+IgnoreUnrecognizedVMOptions --add-modules=jdk.incubator.vector --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.base/jdk.internal.ref=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.nio.cs=ALL-UNNAMED --add-opens=java.base/sun.security.action=ALL-UNNAMED --add-opens=java.base/sun.util.calendar=ALL-UNNAMED --add-opens=java.security.jgss/sun.security.krb5=ALL-UNNAMED -Dio.netty.tryReflectionSetAccessible=true -Dio.netty.allocator.type=pooled -Dio.netty.handler.ssl.defaultEndpointVerificationAlgorithm=NONE --sun-misc-unsafe-memory-access=allow --enable-native-access=ALL-UNNAMED",
+    "spark.master": "local[2]",
+    "spark.app.submitTime": "1795256475898",
+    "spark.driver.host": "127.0.0.1",
+    "spark.executor.id": "driver",
+    "spark.driver.bindAddress": "127.0.0.1",
+    "spark.log.level": "ERROR",
+    "spark.submit.pyFiles": "",
+    "spark.driver.memory": "1g",
+    "spark.ui.enabled": "false",
+    "spark.ui.showConsoleProgress": "false",
+    "spark.driver.extraJavaOptions": "-Djava.net.preferIPv6Addresses=false -XX:+IgnoreUnrecognizedVMOptions --add-modules=jdk.incubator.vector --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.base/jdk.internal.ref=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.nio.cs=ALL-UNNAMED --add-opens=java.base/sun.security.action=ALL-UNNAMED --add-opens=java.base/sun.util.calendar=ALL-UNNAMED --add-opens=java.security.jgss/sun.security.krb5=ALL-UNNAMED -Dio.netty.tryReflectionSetAccessible=true -Dio.netty.allocator.type=pooled -Dio.netty.handler.ssl.defaultEndpointVerificationAlgorithm=NONE --sun-misc-unsafe-memory-access=allow --enable-native-access=ALL-UNNAMED -Dlog4j2.configurationFile=file:///home/abdur/Desktop/India-Prison-Analytics/src/utils/spark-log4j2.properties",
+    "spark.submit.deployMode": "client",
+    "spark.sql.adaptive.enabled": "false",
+    "spark.serializer.objectStreamReset": "100",
+    "spark.app.name": "IndiaPrisonPhase10",
+    "spark.sql.shuffle.partitions": "2"
+  },
+  "inputs": [
+    {
+      "file": "data/processed/transformed/profile_features.csv",
+      "sha256": "6544333262b3b2bbcd8bb3b0d1410b7a1846dfc89de00ef390effa5158fb6e14"
+    },
+    {
+      "file": "data/processed/transformed/discretized_profiles.csv",
+      "sha256": "14e9e4a9bc1b41f456139fe3248aee33ac1295cc154fee1ce4e8691fbbf8d375"
+    },
+    {
+      "file": "data/processed/transformed/spark_profiles.jsonl",
+      "sha256": "2cbd1be1beb42951c46d269772b678c1ef8d5afd43e11367d4d906cba481012a"
+    },
+    {
+      "file": "data/processed/transformed/profile_counts.csv",
+      "sha256": "0222d31e23c1d4222e21b405108e1ae316408d56f2823b73ea4b507ee8cad27c"
+    },
+    {
+      "file": "data/processed/transformed/transactions.jsonl",
+      "sha256": "5275f19c8e773da03a52f2da8b07fd3c1d0ef66390d3093e7f1dbe51251057f1"
+    },
+    {
+      "file": "data/processed/transformed/clustering_features.csv",
+      "sha256": "1a92b3652e344183f4bb7275890fc3f8b835547bdd58989d80f3c803ffb6c81d"
+    },
+    {
+      "file": "data/processed/transformed/transactions_onehot.csv",
+      "sha256": "fb2886136b46bd0c776b977d43ab7f4e235fe700ebae510edc87d5e04bb34181"
+    },
+    {
+      "file": "results/tables/k_medoids/run_summary.json",
+      "sha256": "dc234e50b9690f9a8c92146c7e010b7907ec0b2fb521c209e9632d3a02ea3c29"
+    }
+  ]
+}

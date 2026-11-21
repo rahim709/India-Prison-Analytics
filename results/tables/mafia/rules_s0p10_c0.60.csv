@@ -1,0 +1,2 @@
+antecedents,consequents,antecedent_support,consequent_support,support,confidence,lift,leverage,antecedent_count,consequent_count,support_count,antecedent_length,consequent_length,covered_states,covered_years
+"[""occupancy_ratio=over_150pct""]","[""illiterate_share=upper_tertile""]",0.2219679633867277,0.3340961098398169,0.14187643020594964,0.6391752577319587,1.9131478604716847,0.067717797129377,97,146,62,1,1,13,13

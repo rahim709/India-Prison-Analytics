@@ -1,0 +1,2 @@
+python_median_seconds,spark_median_seconds,python_min_seconds,python_max_seconds,spark_min_seconds,spark_max_seconds,speedup_python_over_spark,spark_over_python_ratio
+0.006449028998758877,0.1946662290029053,0.004757990001962753,0.006879333999677328,0.1848953420012549,0.19790099899910274,0.033128648105998026,30.18535488681615

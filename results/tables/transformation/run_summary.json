@@ -1,0 +1,18 @@
+{
+  "profiles": 437,
+  "numeric_features": 5,
+  "transactions": 437,
+  "items_per_transaction": 5,
+  "declared_items": 15,
+  "observed_items": 15,
+  "onehot_shape": [
+    437,
+    15
+  ],
+  "onehot_true_cells": 2185,
+  "fit_rows": 437,
+  "upstream_files_verified": 78,
+  "raw_cleaned_selected_unchanged": true,
+  "pyspark_executed": false,
+  "mining_or_clustering_executed": false
+}

@@ -1,0 +1,1109 @@
+source_record,TimePeriod,Area_Name,Indicator_Name,Data_Value
+2,2001,Tamil Nadu,Total Officials Trained,135
+3,2001,Puducherry,Total Officials Trained,94
+4,2002,Jammu & Kashmir,Total Officials Trained,183
+5,2002,Himachal Pradesh,Total Officials Trained,10
+6,2002,Punjab,Total Officials Trained,22
+7,2002,Chandigarh,Total Officials Trained,6
+8,2002,Uttarakhand,Total Officials Trained,32
+9,2002,Delhi,Total Officials Trained,252
+10,2002,Rajasthan,Total Officials Trained,215
+11,2002,Uttar Pradesh,Total Officials Trained,561
+12,2002,Bihar,Total Officials Trained,108
+13,2002,Nagaland,Total Officials Trained,4
+14,2002,Mizoram,Total Officials Trained,159
+15,2002,Tripura,Total Officials Trained,1
+16,2002,Meghalaya,Total Officials Trained,1
+17,2002,Assam,Total Officials Trained,28
+18,2002,West Bengal,Total Officials Trained,64
+19,2002,Jharkhand,Total Officials Trained,46
+20,2002,Odisha,Total Officials Trained,100
+21,2002,Chhattisgarh,Total Officials Trained,163
+22,2002,Madhya Pradesh,Total Officials Trained,523
+23,2002,Gujarat,Total Officials Trained,199
+24,2002,Daman & Diu,Total Officials Trained,4
+25,2002,Maharashtra,Total Officials Trained,155
+26,2002,Andhra Pradesh,Total Officials Trained,2092
+27,2002,Karnataka,Total Officials Trained,20
+28,2002,Goa,Total Officials Trained,40
+29,2002,Kerala,Total Officials Trained,537
+30,2002,Tamil Nadu,Total Officials Trained,306
+31,2002,Puducherry,Total Officials Trained,4
+32,2003,Jammu & Kashmir,Total Officials Trained,44
+33,2003,Himachal Pradesh,Total Officials Trained,10
+34,2003,Punjab,Total Officials Trained,51
+35,2003,Chandigarh,Total Officials Trained,29
+36,2003,Uttarakhand,Total Officials Trained,35
+37,2003,Haryana,Total Officials Trained,525
+38,2003,Delhi,Total Officials Trained,474
+39,2003,Rajasthan,Total Officials Trained,104
+40,2003,Uttar Pradesh,Total Officials Trained,467
+41,2003,Bihar,Total Officials Trained,19
+42,2003,Sikkim,Total Officials Trained,4
+43,2003,Mizoram,Total Officials Trained,3
+44,2003,Tripura,Total Officials Trained,4
+45,2003,Meghalaya,Total Officials Trained,9
+46,2003,Assam,Total Officials Trained,55
+47,2003,West Bengal,Total Officials Trained,92
+48,2003,Jharkhand,Total Officials Trained,32
+49,2003,Odisha,Total Officials Trained,131
+50,2003,Chhattisgarh,Total Officials Trained,143
+51,2003,Madhya Pradesh,Total Officials Trained,362
+52,2003,Gujarat,Total Officials Trained,220
+53,2003,Maharashtra,Total Officials Trained,197
+54,2003,Andhra Pradesh,Total Officials Trained,2395
+55,2003,Karnataka,Total Officials Trained,46
+56,2003,Goa,Total Officials Trained,40
+57,2003,Kerala,Total Officials Trained,78
+58,2003,Tamil Nadu,Total Officials Trained,86
+59,2004,Jammu & Kashmir,Total Officials Trained,35
+60,2004,Himachal Pradesh,Total Officials Trained,12
+61,2004,Chandigarh,Total Officials Trained,32
+62,2004,Uttarakhand,Total Officials Trained,33
+63,2004,Haryana,Total Officials Trained,89
+64,2004,Delhi,Total Officials Trained,114
+65,2004,Rajasthan,Total Officials Trained,169
+66,2004,Uttar Pradesh,Total Officials Trained,438
+67,2004,Bihar,Total Officials Trained,68
+68,2004,Tripura,Total Officials Trained,2
+69,2004,Meghalaya,Total Officials Trained,8
+70,2004,West Bengal,Total Officials Trained,194
+71,2004,Jharkhand,Total Officials Trained,18
+72,2004,Odisha,Total Officials Trained,23
+73,2004,Chhattisgarh,Total Officials Trained,210
+74,2004,Madhya Pradesh,Total Officials Trained,373
+75,2004,Gujarat,Total Officials Trained,354
+76,2004,Maharashtra,Total Officials Trained,470
+77,2004,Andhra Pradesh,Total Officials Trained,4393
+78,2004,Karnataka,Total Officials Trained,11
+79,2004,Goa,Total Officials Trained,29
+80,2004,Kerala,Total Officials Trained,35
+81,2004,Tamil Nadu,Total Officials Trained,191
+82,2004,Andaman & Nicobar Islands,Total Officials Trained,80
+83,2005,Jammu & Kashmir,Total Officials Trained,50
+84,2005,Himachal Pradesh,Total Officials Trained,14
+85,2005,Punjab,Total Officials Trained,597
+86,2005,Chandigarh,Total Officials Trained,52
+87,2005,Uttarakhand,Total Officials Trained,52
+88,2005,Delhi,Total Officials Trained,114
+89,2005,Rajasthan,Total Officials Trained,84
+90,2005,Uttar Pradesh,Total Officials Trained,498
+91,2005,Bihar,Total Officials Trained,159
+92,2005,Sikkim,Total Officials Trained,1
+93,2005,Mizoram,Total Officials Trained,4
+94,2005,Tripura,Total Officials Trained,5
+95,2005,Meghalaya,Total Officials Trained,6
+96,2005,Assam,Total Officials Trained,24
+97,2005,West Bengal,Total Officials Trained,195
+98,2005,Jharkhand,Total Officials Trained,6
+99,2005,Odisha,Total Officials Trained,79
+100,2005,Chhattisgarh,Total Officials Trained,284
+101,2005,Madhya Pradesh,Total Officials Trained,235
+102,2005,Gujarat,Total Officials Trained,105
+103,2005,Maharashtra,Total Officials Trained,608
+104,2005,Andhra Pradesh,Total Officials Trained,3089
+105,2005,Karnataka,Total Officials Trained,18
+106,2005,Goa,Total Officials Trained,3
+107,2005,Kerala,Total Officials Trained,66
+108,2005,Tamil Nadu,Total Officials Trained,143
+109,2005,Andaman & Nicobar Islands,Total Officials Trained,3
+110,2006,Jammu & Kashmir,Total Officials Trained,56
+111,2006,Himachal Pradesh,Total Officials Trained,3
+112,2006,Punjab,Total Officials Trained,557
+113,2006,Chandigarh,Total Officials Trained,56
+114,2006,Uttarakhand,Total Officials Trained,33
+115,2006,Haryana,Total Officials Trained,200
+116,2006,Delhi,Total Officials Trained,60
+117,2006,Rajasthan,Total Officials Trained,22
+118,2006,Uttar Pradesh,Total Officials Trained,248
+119,2006,Bihar,Total Officials Trained,22
+120,2006,Mizoram,Total Officials Trained,29
+121,2006,Tripura,Total Officials Trained,33
+122,2006,Meghalaya,Total Officials Trained,12
+123,2006,Assam,Total Officials Trained,24
+124,2006,West Bengal,Total Officials Trained,632
+125,2006,Jharkhand,Total Officials Trained,33
+126,2006,Odisha,Total Officials Trained,116
+127,2006,Chhattisgarh,Total Officials Trained,103
+128,2006,Madhya Pradesh,Total Officials Trained,293
+129,2006,Gujarat,Total Officials Trained,256
+130,2006,Maharashtra,Total Officials Trained,374
+131,2006,Andhra Pradesh,Total Officials Trained,987
+132,2006,Karnataka,Total Officials Trained,13
+133,2006,Kerala,Total Officials Trained,66
+134,2006,Tamil Nadu,Total Officials Trained,216
+135,2006,Andaman & Nicobar Islands,Total Officials Trained,36
+136,2007,Jammu & Kashmir,Total Officials Trained,20
+137,2007,Himachal Pradesh,Total Officials Trained,111
+138,2007,Punjab,Total Officials Trained,51
+139,2007,Chandigarh,Total Officials Trained,32
+140,2007,Uttarakhand,Total Officials Trained,34
+141,2007,Haryana,Total Officials Trained,346
+142,2007,Delhi,Total Officials Trained,49
+143,2007,Rajasthan,Total Officials Trained,22
+144,2007,Uttar Pradesh,Total Officials Trained,477
+145,2007,Bihar,Total Officials Trained,696
+146,2007,Nagaland,Total Officials Trained,4
+147,2007,Mizoram,Total Officials Trained,4
+148,2007,Tripura,Total Officials Trained,6
+149,2007,Meghalaya,Total Officials Trained,7
+150,2007,Assam,Total Officials Trained,11
+151,2007,West Bengal,Total Officials Trained,801
+152,2007,Jharkhand,Total Officials Trained,58
+153,2007,Odisha,Total Officials Trained,36
+154,2007,Chhattisgarh,Total Officials Trained,238
+155,2007,Madhya Pradesh,Total Officials Trained,216
+156,2007,Gujarat,Total Officials Trained,376
+157,2007,Maharashtra,Total Officials Trained,330
+158,2007,Andhra Pradesh,Total Officials Trained,2900
+159,2007,Karnataka,Total Officials Trained,37
+160,2007,Kerala,Total Officials Trained,42
+161,2007,Tamil Nadu,Total Officials Trained,116
+162,2001,Jammu & Kashmir,No. of Other Officials Trained,0
+163,2001,Punjab,No. of Other Officials Trained,0
+164,2001,Chandigarh,No. of Other Officials Trained,0
+165,2001,Uttarakhand,No. of Other Officials Trained,0
+166,2001,Haryana,No. of Other Officials Trained,0
+167,2001,Delhi,No. of Other Officials Trained,44
+168,2001,Rajasthan,No. of Other Officials Trained,0
+169,2001,Uttar Pradesh,No. of Other Officials Trained,1
+170,2001,Bihar,No. of Other Officials Trained,0
+171,2001,Sikkim,No. of Other Officials Trained,0
+172,2001,Nagaland,No. of Other Officials Trained,0
+173,2001,Mizoram,No. of Other Officials Trained,0
+174,2001,Tripura,No. of Other Officials Trained,0
+175,2001,Assam,No. of Other Officials Trained,0
+176,2001,West Bengal,No. of Other Officials Trained,0
+177,2001,Jharkhand,No. of Other Officials Trained,0
+178,2001,Odisha,No. of Other Officials Trained,0
+179,2001,Chhattisgarh,No. of Other Officials Trained,0
+180,2001,Madhya Pradesh,No. of Other Officials Trained,0
+181,2001,Gujarat,No. of Other Officials Trained,0
+182,2001,Daman & Diu,No. of Other Officials Trained,0
+183,2001,Maharashtra,No. of Other Officials Trained,0
+184,2001,Andhra Pradesh,No. of Other Officials Trained,31
+185,2001,Karnataka,No. of Other Officials Trained,0
+186,2001,Kerala,No. of Other Officials Trained,0
+187,2001,Tamil Nadu,No. of Other Officials Trained,5
+188,2001,Puducherry,No. of Other Officials Trained,0
+189,2002,Jammu & Kashmir,No. of Other Officials Trained,0
+190,2002,Himachal Pradesh,No. of Other Officials Trained,0
+191,2002,Punjab,No. of Other Officials Trained,0
+192,2002,Chandigarh,No. of Other Officials Trained,0
+193,2002,Uttarakhand,No. of Other Officials Trained,0
+194,2002,Delhi,No. of Other Officials Trained,33
+195,2002,Rajasthan,No. of Other Officials Trained,0
+196,2002,Uttar Pradesh,No. of Other Officials Trained,0
+197,2002,Bihar,No. of Other Officials Trained,0
+198,2002,Nagaland,No. of Other Officials Trained,0
+199,2002,Mizoram,No. of Other Officials Trained,0
+200,2002,Tripura,No. of Other Officials Trained,0
+201,2002,Meghalaya,No. of Other Officials Trained,0
+202,2002,Assam,No. of Other Officials Trained,0
+203,2002,West Bengal,No. of Other Officials Trained,0
+204,2002,Jharkhand,No. of Other Officials Trained,0
+205,2002,Odisha,No. of Other Officials Trained,4
+206,2002,Chhattisgarh,No. of Other Officials Trained,0
+207,2002,Madhya Pradesh,No. of Other Officials Trained,0
+208,2002,Gujarat,No. of Other Officials Trained,0
+209,2002,Daman & Diu,No. of Other Officials Trained,0
+210,2002,Maharashtra,No. of Other Officials Trained,41
+211,2002,Andhra Pradesh,No. of Other Officials Trained,54
+212,2002,Karnataka,No. of Other Officials Trained,0
+213,2002,Goa,No. of Other Officials Trained,0
+214,2002,Kerala,No. of Other Officials Trained,0
+215,2002,Tamil Nadu,No. of Other Officials Trained,1
+216,2002,Puducherry,No. of Other Officials Trained,0
+217,2003,Jammu & Kashmir,No. of Other Officials Trained,0
+218,2003,Himachal Pradesh,No. of Other Officials Trained,0
+219,2003,Punjab,No. of Other Officials Trained,0
+220,2003,Chandigarh,No. of Other Officials Trained,0
+221,2003,Uttarakhand,No. of Other Officials Trained,0
+222,2003,Haryana,No. of Other Officials Trained,0
+223,2003,Delhi,No. of Other Officials Trained,32
+224,2003,Rajasthan,No. of Other Officials Trained,0
+225,2003,Uttar Pradesh,No. of Other Officials Trained,23
+226,2003,Bihar,No. of Other Officials Trained,0
+227,2003,Sikkim,No. of Other Officials Trained,0
+228,2003,Mizoram,No. of Other Officials Trained,0
+229,2003,Tripura,No. of Other Officials Trained,0
+230,2003,Meghalaya,No. of Other Officials Trained,0
+231,2003,Assam,No. of Other Officials Trained,0
+232,2003,West Bengal,No. of Other Officials Trained,0
+233,2003,Jharkhand,No. of Other Officials Trained,0
+234,2003,Odisha,No. of Other Officials Trained,0
+235,2003,Chhattisgarh,No. of Other Officials Trained,0
+236,2003,Madhya Pradesh,No. of Other Officials Trained,6
+237,2003,Gujarat,No. of Other Officials Trained,0
+238,2003,Maharashtra,No. of Other Officials Trained,16
+239,2003,Andhra Pradesh,No. of Other Officials Trained,74
+240,2003,Karnataka,No. of Other Officials Trained,0
+241,2003,Goa,No. of Other Officials Trained,0
+242,2003,Kerala,No. of Other Officials Trained,0
+243,2003,Tamil Nadu,No. of Other Officials Trained,1
+244,2004,Jammu & Kashmir,No. of Other Officials Trained,0
+245,2004,Himachal Pradesh,No. of Other Officials Trained,0
+246,2004,Chandigarh,No. of Other Officials Trained,0
+247,2004,Uttarakhand,No. of Other Officials Trained,0
+248,2004,Haryana,No. of Other Officials Trained,0
+249,2004,Delhi,No. of Other Officials Trained,4
+250,2004,Rajasthan,No. of Other Officials Trained,0
+251,2004,Uttar Pradesh,No. of Other Officials Trained,41
+252,2004,Bihar,No. of Other Officials Trained,0
+253,2004,Tripura,No. of Other Officials Trained,0
+254,2004,Meghalaya,No. of Other Officials Trained,0
+255,2004,West Bengal,No. of Other Officials Trained,0
+256,2004,Jharkhand,No. of Other Officials Trained,1
+257,2004,Odisha,No. of Other Officials Trained,0
+258,2004,Chhattisgarh,No. of Other Officials Trained,0
+259,2004,Madhya Pradesh,No. of Other Officials Trained,12
+260,2004,Gujarat,No. of Other Officials Trained,0
+261,2004,Maharashtra,No. of Other Officials Trained,10
+262,2004,Andhra Pradesh,No. of Other Officials Trained,112
+263,2004,Karnataka,No. of Other Officials Trained,0
+264,2004,Goa,No. of Other Officials Trained,0
+265,2004,Kerala,No. of Other Officials Trained,0
+266,2004,Tamil Nadu,No. of Other Officials Trained,94
+267,2004,Andaman & Nicobar Islands,No. of Other Officials Trained,60
+268,2005,Jammu & Kashmir,No. of Other Officials Trained,0
+269,2005,Himachal Pradesh,No. of Other Officials Trained,0
+270,2005,Punjab,No. of Other Officials Trained,510
+271,2005,Chandigarh,No. of Other Officials Trained,0
+272,2005,Uttarakhand,No. of Other Officials Trained,0
+273,2005,Delhi,No. of Other Officials Trained,4
+274,2005,Rajasthan,No. of Other Officials Trained,1
+275,2005,Uttar Pradesh,No. of Other Officials Trained,0
+276,2005,Bihar,No. of Other Officials Trained,25
+277,2005,Sikkim,No. of Other Officials Trained,0
+278,2005,Mizoram,No. of Other Officials Trained,0
+279,2005,Tripura,No. of Other Officials Trained,0
+280,2005,Meghalaya,No. of Other Officials Trained,0
+281,2005,Assam,No. of Other Officials Trained,0
+282,2005,West Bengal,No. of Other Officials Trained,0
+283,2005,Jharkhand,No. of Other Officials Trained,0
+284,2005,Odisha,No. of Other Officials Trained,0
+285,2005,Chhattisgarh,No. of Other Officials Trained,0
+286,2005,Madhya Pradesh,No. of Other Officials Trained,15
+287,2005,Gujarat,No. of Other Officials Trained,37
+288,2005,Maharashtra,No. of Other Officials Trained,16
+289,2005,Andhra Pradesh,No. of Other Officials Trained,328
+290,2005,Karnataka,No. of Other Officials Trained,0
+291,2005,Goa,No. of Other Officials Trained,0
+292,2005,Kerala,No. of Other Officials Trained,0
+293,2005,Tamil Nadu,No. of Other Officials Trained,11
+294,2005,Andaman & Nicobar Islands,No. of Other Officials Trained,0
+295,2006,Jammu & Kashmir,No. of Other Officials Trained,0
+296,2006,Himachal Pradesh,No. of Other Officials Trained,0
+297,2006,Punjab,No. of Other Officials Trained,9
+298,2006,Chandigarh,No. of Other Officials Trained,0
+299,2006,Uttarakhand,No. of Other Officials Trained,0
+300,2006,Haryana,No. of Other Officials Trained,3
+301,2006,Delhi,No. of Other Officials Trained,5
+302,2006,Rajasthan,No. of Other Officials Trained,0
+303,2006,Uttar Pradesh,No. of Other Officials Trained,0
+304,2006,Bihar,No. of Other Officials Trained,0
+305,2006,Mizoram,No. of Other Officials Trained,0
+306,2006,Tripura,No. of Other Officials Trained,0
+307,2006,Meghalaya,No. of Other Officials Trained,5
+308,2006,Assam,No. of Other Officials Trained,0
+309,2006,West Bengal,No. of Other Officials Trained,0
+310,2006,Jharkhand,No. of Other Officials Trained,0
+311,2006,Odisha,No. of Other Officials Trained,0
+312,2006,Chhattisgarh,No. of Other Officials Trained,0
+313,2006,Madhya Pradesh,No. of Other Officials Trained,60
+314,2006,Gujarat,No. of Other Officials Trained,0
+315,2006,Maharashtra,No. of Other Officials Trained,0
+316,2006,Andhra Pradesh,No. of Other Officials Trained,14
+317,2006,Karnataka,No. of Other Officials Trained,0
+318,2006,Kerala,No. of Other Officials Trained,0
+319,2006,Tamil Nadu,No. of Other Officials Trained,79
+320,2006,Andaman & Nicobar Islands,No. of Other Officials Trained,36
+321,2007,Jammu & Kashmir,No. of Other Officials Trained,0
+322,2007,Himachal Pradesh,No. of Other Officials Trained,0
+323,2007,Punjab,No. of Other Officials Trained,0
+324,2007,Chandigarh,No. of Other Officials Trained,0
+325,2007,Uttarakhand,No. of Other Officials Trained,0
+326,2007,Haryana,No. of Other Officials Trained,4
+327,2007,Delhi,No. of Other Officials Trained,11
+328,2007,Rajasthan,No. of Other Officials Trained,0
+329,2007,Uttar Pradesh,No. of Other Officials Trained,0
+330,2007,Bihar,No. of Other Officials Trained,0
+331,2007,Nagaland,No. of Other Officials Trained,0
+332,2007,Mizoram,No. of Other Officials Trained,0
+333,2007,Tripura,No. of Other Officials Trained,0
+334,2007,Meghalaya,No. of Other Officials Trained,0
+335,2007,Assam,No. of Other Officials Trained,0
+336,2007,West Bengal,No. of Other Officials Trained,4
+337,2007,Jharkhand,No. of Other Officials Trained,0
+338,2007,Odisha,No. of Other Officials Trained,0
+339,2007,Chhattisgarh,No. of Other Officials Trained,0
+340,2007,Madhya Pradesh,No. of Other Officials Trained,14
+341,2007,Gujarat,No. of Other Officials Trained,0
+342,2007,Maharashtra,No. of Other Officials Trained,0
+343,2007,Andhra Pradesh,No. of Other Officials Trained,345
+344,2007,Karnataka,No. of Other Officials Trained,0
+345,2007,Kerala,No. of Other Officials Trained,6
+346,2007,Tamil Nadu,No. of Other Officials Trained,0
+347,2001,Jammu & Kashmir,No. of Officers Trained,0
+348,2001,Punjab,No. of Officers Trained,11
+349,2001,Chandigarh,No. of Officers Trained,3
+350,2001,Uttarakhand,No. of Officers Trained,3
+351,2001,Haryana,No. of Officers Trained,61
+352,2001,Delhi,No. of Officers Trained,123
+353,2001,Rajasthan,No. of Officers Trained,2
+354,2001,Uttar Pradesh,No. of Officers Trained,41
+355,2001,Bihar,No. of Officers Trained,26
+356,2001,Sikkim,No. of Officers Trained,4
+357,2001,Nagaland,No. of Officers Trained,4
+358,2001,Mizoram,No. of Officers Trained,18
+359,2001,Tripura,No. of Officers Trained,2
+360,2001,Assam,No. of Officers Trained,28
+361,2001,West Bengal,No. of Officers Trained,35
+362,2001,Jharkhand,No. of Officers Trained,0
+363,2001,Odisha,No. of Officers Trained,54
+364,2001,Chhattisgarh,No. of Officers Trained,20
+365,2001,Madhya Pradesh,No. of Officers Trained,53
+366,2001,Gujarat,No. of Officers Trained,2
+367,2001,Daman & Diu,No. of Officers Trained,0
+368,2001,Maharashtra,No. of Officers Trained,79
+369,2001,Andhra Pradesh,No. of Officers Trained,516
+370,2001,Karnataka,No. of Officers Trained,35
+371,2001,Kerala,No. of Officers Trained,50
+372,2001,Tamil Nadu,No. of Officers Trained,18
+373,2001,Puducherry,No. of Officers Trained,5
+374,2002,Jammu & Kashmir,No. of Officers Trained,3
+375,2002,Himachal Pradesh,No. of Officers Trained,10
+376,2002,Punjab,No. of Officers Trained,10
+377,2002,Chandigarh,No. of Officers Trained,6
+378,2002,Uttarakhand,No. of Officers Trained,3
+379,2002,Delhi,No. of Officers Trained,134
+380,2002,Rajasthan,No. of Officers Trained,32
+381,2002,Uttar Pradesh,No. of Officers Trained,153
+382,2002,Bihar,No. of Officers Trained,20
+383,2002,Nagaland,No. of Officers Trained,4
+384,2002,Mizoram,No. of Officers Trained,18
+385,2002,Tripura,No. of Officers Trained,1
+386,2002,Meghalaya,No. of Officers Trained,1
+387,2002,Assam,No. of Officers Trained,23
+388,2002,West Bengal,No. of Officers Trained,13
+389,2002,Jharkhand,No. of Officers Trained,1
+390,2002,Odisha,No. of Officers Trained,12
+391,2002,Chhattisgarh,No. of Officers Trained,23
+392,2002,Madhya Pradesh,No. of Officers Trained,477
+393,2002,Gujarat,No. of Officers Trained,8
+394,2002,Daman & Diu,No. of Officers Trained,0
+395,2002,Maharashtra,No. of Officers Trained,0
+396,2002,Andhra Pradesh,No. of Officers Trained,108
+397,2002,Karnataka,No. of Officers Trained,14
+398,2002,Goa,No. of Officers Trained,0
+399,2002,Kerala,No. of Officers Trained,60
+400,2002,Tamil Nadu,No. of Officers Trained,37
+401,2002,Puducherry,No. of Officers Trained,1
+402,2003,Jammu & Kashmir,No. of Officers Trained,5
+403,2003,Himachal Pradesh,No. of Officers Trained,10
+404,2003,Punjab,No. of Officers Trained,3
+405,2003,Chandigarh,No. of Officers Trained,3
+406,2003,Uttarakhand,No. of Officers Trained,3
+407,2003,Haryana,No. of Officers Trained,0
+408,2003,Delhi,No. of Officers Trained,141
+409,2003,Rajasthan,No. of Officers Trained,42
+410,2003,Uttar Pradesh,No. of Officers Trained,50
+411,2003,Bihar,No. of Officers Trained,0
+412,2003,Sikkim,No. of Officers Trained,4
+413,2003,Mizoram,No. of Officers Trained,3
+414,2003,Tripura,No. of Officers Trained,4
+415,2003,Meghalaya,No. of Officers Trained,4
+416,2003,Assam,No. of Officers Trained,50
+417,2003,West Bengal,No. of Officers Trained,16
+418,2003,Jharkhand,No. of Officers Trained,5
+419,2003,Odisha,No. of Officers Trained,28
+420,2003,Chhattisgarh,No. of Officers Trained,13
+421,2003,Madhya Pradesh,No. of Officers Trained,83
+422,2003,Gujarat,No. of Officers Trained,7
+423,2003,Maharashtra,No. of Officers Trained,4
+424,2003,Andhra Pradesh,No. of Officers Trained,133
+425,2003,Karnataka,No. of Officers Trained,46
+426,2003,Goa,No. of Officers Trained,0
+427,2003,Kerala,No. of Officers Trained,20
+428,2003,Tamil Nadu,No. of Officers Trained,41
+429,2004,Jammu & Kashmir,No. of Officers Trained,0
+430,2004,Himachal Pradesh,No. of Officers Trained,12
+431,2004,Chandigarh,No. of Officers Trained,6
+432,2004,Uttarakhand,No. of Officers Trained,3
+433,2004,Haryana,No. of Officers Trained,88
+434,2004,Delhi,No. of Officers Trained,106
+435,2004,Rajasthan,No. of Officers Trained,16
+436,2004,Uttar Pradesh,No. of Officers Trained,28
+437,2004,Bihar,No. of Officers Trained,12
+438,2004,Tripura,No. of Officers Trained,1
+439,2004,Meghalaya,No. of Officers Trained,3
+440,2004,West Bengal,No. of Officers Trained,48
+441,2004,Jharkhand,No. of Officers Trained,2
+442,2004,Odisha,No. of Officers Trained,0
+443,2004,Chhattisgarh,No. of Officers Trained,2
+444,2004,Madhya Pradesh,No. of Officers Trained,92
+445,2004,Gujarat,No. of Officers Trained,59
+446,2004,Maharashtra,No. of Officers Trained,40
+447,2004,Andhra Pradesh,No. of Officers Trained,3940
+448,2004,Karnataka,No. of Officers Trained,11
+449,2004,Goa,No. of Officers Trained,3
+450,2004,Kerala,No. of Officers Trained,0
+451,2004,Tamil Nadu,No. of Officers Trained,34
+452,2004,Andaman & Nicobar Islands,No. of Officers Trained,1
+453,2005,Jammu & Kashmir,No. of Officers Trained,0
+454,2005,Himachal Pradesh,No. of Officers Trained,14
+455,2005,Punjab,No. of Officers Trained,17
+456,2005,Chandigarh,No. of Officers Trained,6
+457,2005,Uttarakhand,No. of Officers Trained,5
+458,2005,Delhi,No. of Officers Trained,106
+459,2005,Rajasthan,No. of Officers Trained,33
+460,2005,Uttar Pradesh,No. of Officers Trained,8
+461,2005,Bihar,No. of Officers Trained,44
+462,2005,Sikkim,No. of Officers Trained,1
+463,2005,Mizoram,No. of Officers Trained,4
+464,2005,Tripura,No. of Officers Trained,5
+465,2005,Meghalaya,No. of Officers Trained,1
+466,2005,Assam,No. of Officers Trained,24
+467,2005,West Bengal,No. of Officers Trained,40
+468,2005,Jharkhand,No. of Officers Trained,2
+469,2005,Odisha,No. of Officers Trained,14
+470,2005,Chhattisgarh,No. of Officers Trained,9
+471,2005,Madhya Pradesh,No. of Officers Trained,66
+472,2005,Gujarat,No. of Officers Trained,9
+473,2005,Maharashtra,No. of Officers Trained,114
+474,2005,Andhra Pradesh,No. of Officers Trained,375
+475,2005,Karnataka,No. of Officers Trained,18
+476,2005,Goa,No. of Officers Trained,0
+477,2005,Kerala,No. of Officers Trained,6
+478,2005,Tamil Nadu,No. of Officers Trained,21
+479,2005,Andaman & Nicobar Islands,No. of Officers Trained,3
+480,2006,Jammu & Kashmir,No. of Officers Trained,8
+481,2006,Himachal Pradesh,No. of Officers Trained,3
+482,2006,Punjab,No. of Officers Trained,6
+483,2006,Chandigarh,No. of Officers Trained,6
+484,2006,Uttarakhand,No. of Officers Trained,3
+485,2006,Haryana,No. of Officers Trained,42
+486,2006,Delhi,No. of Officers Trained,23
+487,2006,Rajasthan,No. of Officers Trained,2
+488,2006,Uttar Pradesh,No. of Officers Trained,102
+489,2006,Bihar,No. of Officers Trained,21
+490,2006,Mizoram,No. of Officers Trained,6
+491,2006,Tripura,No. of Officers Trained,4
+492,2006,Meghalaya,No. of Officers Trained,2
+493,2006,Assam,No. of Officers Trained,17
+494,2006,West Bengal,No. of Officers Trained,53
+495,2006,Jharkhand,No. of Officers Trained,5
+496,2006,Odisha,No. of Officers Trained,69
+497,2006,Chhattisgarh,No. of Officers Trained,14
+498,2006,Madhya Pradesh,No. of Officers Trained,63
+499,2006,Gujarat,No. of Officers Trained,16
+500,2006,Maharashtra,No. of Officers Trained,63
+501,2006,Andhra Pradesh,No. of Officers Trained,716
+502,2006,Karnataka,No. of Officers Trained,13
+503,2006,Kerala,No. of Officers Trained,6
+504,2006,Tamil Nadu,No. of Officers Trained,6
+505,2006,Andaman & Nicobar Islands,No. of Officers Trained,0
+506,2007,Jammu & Kashmir,No. of Officers Trained,3
+507,2007,Himachal Pradesh,No. of Officers Trained,3
+508,2007,Punjab,No. of Officers Trained,20
+509,2007,Chandigarh,No. of Officers Trained,6
+510,2007,Uttarakhand,No. of Officers Trained,4
+511,2007,Haryana,No. of Officers Trained,15
+512,2007,Delhi,No. of Officers Trained,24
+513,2007,Rajasthan,No. of Officers Trained,2
+514,2007,Uttar Pradesh,No. of Officers Trained,21
+515,2007,Bihar,No. of Officers Trained,95
+516,2007,Nagaland,No. of Officers Trained,4
+517,2007,Mizoram,No. of Officers Trained,4
+518,2007,Tripura,No. of Officers Trained,2
+519,2007,Meghalaya,No. of Officers Trained,2
+520,2007,Assam,No. of Officers Trained,5
+521,2007,West Bengal,No. of Officers Trained,59
+522,2007,Jharkhand,No. of Officers Trained,13
+523,2007,Odisha,No. of Officers Trained,18
+524,2007,Chhattisgarh,No. of Officers Trained,17
+525,2007,Madhya Pradesh,No. of Officers Trained,36
+526,2007,Gujarat,No. of Officers Trained,41
+527,2007,Maharashtra,No. of Officers Trained,34
+528,2007,Andhra Pradesh,No. of Officers Trained,530
+529,2007,Karnataka,No. of Officers Trained,20
+530,2007,Kerala,No. of Officers Trained,13
+531,2007,Tamil Nadu,No. of Officers Trained,116
+532,2001,Jammu & Kashmir,No. of Jail Staff Trained,30
+533,2001,Punjab,No. of Jail Staff Trained,139
+534,2001,Chandigarh,No. of Jail Staff Trained,0
+535,2001,Uttarakhand,No. of Jail Staff Trained,29
+536,2001,Haryana,No. of Jail Staff Trained,25
+537,2001,Delhi,No. of Jail Staff Trained,612
+538,2001,Rajasthan,No. of Jail Staff Trained,110
+539,2001,Uttar Pradesh,No. of Jail Staff Trained,509
+540,2001,Bihar,No. of Jail Staff Trained,0
+541,2001,Sikkim,No. of Jail Staff Trained,0
+542,2001,Nagaland,No. of Jail Staff Trained,0
+543,2001,Mizoram,No. of Jail Staff Trained,141
+544,2001,Tripura,No. of Jail Staff Trained,2
+545,2001,Assam,No. of Jail Staff Trained,9
+546,2001,West Bengal,No. of Jail Staff Trained,96
+547,2001,Jharkhand,No. of Jail Staff Trained,10
+548,2001,Odisha,No. of Jail Staff Trained,79
+549,2001,Chhattisgarh,No. of Jail Staff Trained,106
+550,2001,Madhya Pradesh,No. of Jail Staff Trained,15
+551,2001,Gujarat,No. of Jail Staff Trained,225
+552,2001,Daman & Diu,No. of Jail Staff Trained,4
+553,2001,Maharashtra,No. of Jail Staff Trained,152
+554,2001,Andhra Pradesh,No. of Jail Staff Trained,105
+555,2001,Karnataka,No. of Jail Staff Trained,12
+556,2001,Kerala,No. of Jail Staff Trained,533
+557,2001,Tamil Nadu,No. of Jail Staff Trained,112
+558,2001,Puducherry,No. of Jail Staff Trained,89
+559,2002,Jammu & Kashmir,No. of Jail Staff Trained,180
+560,2002,Himachal Pradesh,No. of Jail Staff Trained,0
+561,2002,Punjab,No. of Jail Staff Trained,12
+562,2002,Chandigarh,No. of Jail Staff Trained,0
+563,2002,Uttarakhand,No. of Jail Staff Trained,29
+564,2002,Delhi,No. of Jail Staff Trained,85
+565,2002,Rajasthan,No. of Jail Staff Trained,183
+566,2002,Uttar Pradesh,No. of Jail Staff Trained,408
+567,2002,Bihar,No. of Jail Staff Trained,88
+568,2002,Nagaland,No. of Jail Staff Trained,0
+569,2002,Mizoram,No. of Jail Staff Trained,141
+570,2002,Tripura,No. of Jail Staff Trained,0
+571,2002,Meghalaya,No. of Jail Staff Trained,0
+572,2002,Assam,No. of Jail Staff Trained,5
+573,2002,West Bengal,No. of Jail Staff Trained,51
+574,2002,Jharkhand,No. of Jail Staff Trained,45
+575,2002,Odisha,No. of Jail Staff Trained,84
+576,2002,Chhattisgarh,No. of Jail Staff Trained,140
+577,2002,Madhya Pradesh,No. of Jail Staff Trained,46
+578,2002,Gujarat,No. of Jail Staff Trained,191
+579,2002,Daman & Diu,No. of Jail Staff Trained,4
+580,2002,Maharashtra,No. of Jail Staff Trained,114
+581,2002,Andhra Pradesh,No. of Jail Staff Trained,1930
+582,2002,Karnataka,No. of Jail Staff Trained,6
+583,2002,Goa,No. of Jail Staff Trained,40
+584,2002,Kerala,No. of Jail Staff Trained,477
+585,2002,Tamil Nadu,No. of Jail Staff Trained,268
+586,2002,Puducherry,No. of Jail Staff Trained,3
+587,2003,Jammu & Kashmir,No. of Jail Staff Trained,39
+588,2003,Himachal Pradesh,No. of Jail Staff Trained,0
+589,2003,Punjab,No. of Jail Staff Trained,48
+590,2003,Chandigarh,No. of Jail Staff Trained,26
+591,2003,Uttarakhand,No. of Jail Staff Trained,32
+592,2003,Haryana,No. of Jail Staff Trained,525
+593,2003,Delhi,No. of Jail Staff Trained,301
+594,2003,Rajasthan,No. of Jail Staff Trained,62
+595,2003,Uttar Pradesh,No. of Jail Staff Trained,394
+596,2003,Bihar,No. of Jail Staff Trained,19
+597,2003,Sikkim,No. of Jail Staff Trained,0
+598,2003,Mizoram,No. of Jail Staff Trained,0
+599,2003,Tripura,No. of Jail Staff Trained,0
+600,2003,Meghalaya,No. of Jail Staff Trained,5
+601,2003,Assam,No. of Jail Staff Trained,5
+602,2003,West Bengal,No. of Jail Staff Trained,76
+603,2003,Jharkhand,No. of Jail Staff Trained,27
+604,2003,Odisha,No. of Jail Staff Trained,103
+605,2003,Chhattisgarh,No. of Jail Staff Trained,130
+606,2003,Madhya Pradesh,No. of Jail Staff Trained,273
+607,2003,Gujarat,No. of Jail Staff Trained,213
+608,2003,Maharashtra,No. of Jail Staff Trained,177
+609,2003,Andhra Pradesh,No. of Jail Staff Trained,2188
+610,2003,Karnataka,No. of Jail Staff Trained,0
+611,2003,Goa,No. of Jail Staff Trained,40
+612,2003,Kerala,No. of Jail Staff Trained,58
+613,2003,Tamil Nadu,No. of Jail Staff Trained,44
+614,2004,Jammu & Kashmir,No. of Jail Staff Trained,35
+615,2004,Himachal Pradesh,No. of Jail Staff Trained,0
+616,2004,Chandigarh,No. of Jail Staff Trained,26
+617,2004,Uttarakhand,No. of Jail Staff Trained,30
+618,2004,Haryana,No. of Jail Staff Trained,1
+619,2004,Delhi,No. of Jail Staff Trained,4
+620,2004,Rajasthan,No. of Jail Staff Trained,153
+621,2004,Uttar Pradesh,No. of Jail Staff Trained,369
+622,2004,Bihar,No. of Jail Staff Trained,56
+623,2004,Tripura,No. of Jail Staff Trained,1
+624,2004,Meghalaya,No. of Jail Staff Trained,5
+625,2004,West Bengal,No. of Jail Staff Trained,146
+626,2004,Jharkhand,No. of Jail Staff Trained,15
+627,2004,Odisha,No. of Jail Staff Trained,23
+628,2004,Chhattisgarh,No. of Jail Staff Trained,208
+629,2004,Madhya Pradesh,No. of Jail Staff Trained,269
+630,2004,Gujarat,No. of Jail Staff Trained,295
+631,2004,Maharashtra,No. of Jail Staff Trained,420
+632,2004,Andhra Pradesh,No. of Jail Staff Trained,341
+633,2004,Karnataka,No. of Jail Staff Trained,0
+634,2004,Goa,No. of Jail Staff Trained,26
+635,2004,Kerala,No. of Jail Staff Trained,35
+636,2004,Tamil Nadu,No. of Jail Staff Trained,63
+637,2004,Andaman & Nicobar Islands,No. of Jail Staff Trained,19
+638,2005,Jammu & Kashmir,No. of Jail Staff Trained,50
+639,2005,Himachal Pradesh,No. of Jail Staff Trained,0
+640,2005,Punjab,No. of Jail Staff Trained,70
+641,2005,Chandigarh,No. of Jail Staff Trained,46
+642,2005,Uttarakhand,No. of Jail Staff Trained,47
+643,2005,Delhi,No. of Jail Staff Trained,4
+644,2005,Rajasthan,No. of Jail Staff Trained,50
+645,2005,Uttar Pradesh,No. of Jail Staff Trained,490
+646,2005,Bihar,No. of Jail Staff Trained,90
+647,2005,Sikkim,No. of Jail Staff Trained,0
+648,2005,Mizoram,No. of Jail Staff Trained,0
+649,2005,Tripura,No. of Jail Staff Trained,0
+650,2005,Meghalaya,No. of Jail Staff Trained,5
+651,2005,Assam,No. of Jail Staff Trained,0
+652,2005,West Bengal,No. of Jail Staff Trained,155
+653,2005,Jharkhand,No. of Jail Staff Trained,4
+654,2005,Odisha,No. of Jail Staff Trained,65
+655,2005,Chhattisgarh,No. of Jail Staff Trained,275
+656,2005,Madhya Pradesh,No. of Jail Staff Trained,154
+657,2005,Gujarat,No. of Jail Staff Trained,59
+658,2005,Maharashtra,No. of Jail Staff Trained,478
+659,2005,Andhra Pradesh,No. of Jail Staff Trained,2386
+660,2005,Karnataka,No. of Jail Staff Trained,0
+661,2005,Goa,No. of Jail Staff Trained,3
+662,2005,Kerala,No. of Jail Staff Trained,60
+663,2005,Tamil Nadu,No. of Jail Staff Trained,111
+664,2005,Andaman & Nicobar Islands,No. of Jail Staff Trained,0
+665,2006,Jammu & Kashmir,No. of Jail Staff Trained,48
+666,2006,Himachal Pradesh,No. of Jail Staff Trained,0
+667,2006,Punjab,No. of Jail Staff Trained,542
+668,2006,Chandigarh,No. of Jail Staff Trained,50
+669,2006,Uttarakhand,No. of Jail Staff Trained,30
+670,2006,Haryana,No. of Jail Staff Trained,155
+671,2006,Delhi,No. of Jail Staff Trained,32
+672,2006,Rajasthan,No. of Jail Staff Trained,20
+673,2006,Uttar Pradesh,No. of Jail Staff Trained,146
+674,2006,Bihar,No. of Jail Staff Trained,1
+675,2006,Mizoram,No. of Jail Staff Trained,23
+676,2006,Tripura,No. of Jail Staff Trained,29
+677,2006,Meghalaya,No. of Jail Staff Trained,5
+678,2006,Assam,No. of Jail Staff Trained,7
+679,2006,West Bengal,No. of Jail Staff Trained,579
+680,2006,Jharkhand,No. of Jail Staff Trained,28
+681,2006,Odisha,No. of Jail Staff Trained,47
+682,2006,Chhattisgarh,No. of Jail Staff Trained,89
+683,2006,Madhya Pradesh,No. of Jail Staff Trained,170
+684,2006,Gujarat,No. of Jail Staff Trained,240
+685,2006,Maharashtra,No. of Jail Staff Trained,311
+686,2006,Andhra Pradesh,No. of Jail Staff Trained,257
+687,2006,Karnataka,No. of Jail Staff Trained,0
+688,2006,Kerala,No. of Jail Staff Trained,60
+689,2006,Tamil Nadu,No. of Jail Staff Trained,131
+690,2006,Andaman & Nicobar Islands,No. of Jail Staff Trained,0
+691,2007,Jammu & Kashmir,No. of Jail Staff Trained,17
+692,2007,Himachal Pradesh,No. of Jail Staff Trained,108
+693,2007,Punjab,No. of Jail Staff Trained,31
+694,2007,Chandigarh,No. of Jail Staff Trained,26
+695,2007,Uttarakhand,No. of Jail Staff Trained,30
+696,2007,Haryana,No. of Jail Staff Trained,327
+697,2007,Delhi,No. of Jail Staff Trained,14
+698,2007,Rajasthan,No. of Jail Staff Trained,20
+699,2007,Uttar Pradesh,No. of Jail Staff Trained,456
+700,2007,Bihar,No. of Jail Staff Trained,601
+701,2007,Nagaland,No. of Jail Staff Trained,0
+702,2007,Mizoram,No. of Jail Staff Trained,0
+703,2007,Tripura,No. of Jail Staff Trained,4
+704,2007,Meghalaya,No. of Jail Staff Trained,5
+705,2007,Assam,No. of Jail Staff Trained,6
+706,2007,West Bengal,No. of Jail Staff Trained,738
+707,2007,Jharkhand,No. of Jail Staff Trained,45
+708,2007,Odisha,No. of Jail Staff Trained,18
+709,2007,Chhattisgarh,No. of Jail Staff Trained,221
+710,2007,Madhya Pradesh,No. of Jail Staff Trained,166
+711,2007,Gujarat,No. of Jail Staff Trained,335
+712,2007,Maharashtra,No. of Jail Staff Trained,296
+713,2007,Andhra Pradesh,No. of Jail Staff Trained,2025
+714,2007,Karnataka,No. of Jail Staff Trained,17
+715,2007,Kerala,No. of Jail Staff Trained,23
+716,2007,Tamil Nadu,No. of Jail Staff Trained,0
+717,2001,Jammu & Kashmir,Total Officials Trained,30
+718,2001,Punjab,Total Officials Trained,150
+719,2001,Chandigarh,Total Officials Trained,3
+720,2001,Uttarakhand,Total Officials Trained,32
+721,2001,Haryana,Total Officials Trained,86
+722,2001,Delhi,Total Officials Trained,779
+723,2001,Rajasthan,Total Officials Trained,112
+724,2001,Uttar Pradesh,Total Officials Trained,551
+725,2001,Bihar,Total Officials Trained,26
+726,2001,Sikkim,Total Officials Trained,4
+727,2001,Nagaland,Total Officials Trained,4
+728,2001,Mizoram,Total Officials Trained,159
+729,2001,Tripura,Total Officials Trained,4
+730,2001,Assam,Total Officials Trained,37
+731,2001,West Bengal,Total Officials Trained,131
+732,2001,Jharkhand,Total Officials Trained,10
+733,2001,Odisha,Total Officials Trained,133
+734,2001,Chhattisgarh,Total Officials Trained,126
+735,2001,Madhya Pradesh,Total Officials Trained,68
+736,2001,Gujarat,Total Officials Trained,227
+737,2001,Daman & Diu,Total Officials Trained,4
+738,2001,Maharashtra,Total Officials Trained,231
+739,2001,Andhra Pradesh,Total Officials Trained,652
+740,2001,Karnataka,Total Officials Trained,47
+741,2001,Kerala,Total Officials Trained,583
+742,2008,Jammu & Kashmir,Total Officials Trained,1
+743,2008,Himachal Pradesh,Total Officials Trained,70
+744,2008,Punjab,Total Officials Trained,358
+745,2008,Chandigarh,Total Officials Trained,2
+746,2008,Uttarakhand,Total Officials Trained,1
+747,2008,Haryana,Total Officials Trained,340
+748,2008,Delhi,Total Officials Trained,557
+749,2008,Rajasthan,Total Officials Trained,43
+750,2008,Uttar Pradesh,Total Officials Trained,258
+751,2008,Bihar,Total Officials Trained,469
+752,2008,Nagaland,Total Officials Trained,15
+753,2008,Mizoram,Total Officials Trained,19
+754,2008,Tripura,Total Officials Trained,6
+755,2008,Meghalaya,Total Officials Trained,6
+756,2008,Assam,Total Officials Trained,0
+757,2008,West Bengal,Total Officials Trained,455
+758,2008,Jharkhand,Total Officials Trained,57
+759,2008,Odisha,Total Officials Trained,117
+760,2008,Chhattisgarh,Total Officials Trained,172
+761,2008,Madhya Pradesh,Total Officials Trained,300
+762,2008,Gujarat,Total Officials Trained,420
+763,2008,Maharashtra,Total Officials Trained,378
+764,2008,Andhra Pradesh,Total Officials Trained,1782
+765,2008,Karnataka,Total Officials Trained,72
+766,2008,Kerala,Total Officials Trained,517
+767,2008,Tamil Nadu,Total Officials Trained,151
+768,2008,Jammu & Kashmir,No. of Other Officials Trained,0
+769,2008,Himachal Pradesh,No. of Other Officials Trained,0
+770,2008,Punjab,No. of Other Officials Trained,0
+771,2008,Chandigarh,No. of Other Officials Trained,0
+772,2008,Uttarakhand,No. of Other Officials Trained,0
+773,2008,Haryana,No. of Other Officials Trained,69
+774,2008,Delhi,No. of Other Officials Trained,22
+775,2008,Rajasthan,No. of Other Officials Trained,26
+776,2008,Uttar Pradesh,No. of Other Officials Trained,30
+777,2008,Bihar,No. of Other Officials Trained,0
+778,2008,Nagaland,No. of Other Officials Trained,0
+779,2008,Mizoram,No. of Other Officials Trained,0
+780,2008,Tripura,No. of Other Officials Trained,0
+781,2008,Meghalaya,No. of Other Officials Trained,0
+782,2008,Assam,No. of Other Officials Trained,0
+783,2008,West Bengal,No. of Other Officials Trained,0
+784,2008,Jharkhand,No. of Other Officials Trained,16
+785,2008,Odisha,No. of Other Officials Trained,0
+786,2008,Chhattisgarh,No. of Other Officials Trained,0
+787,2008,Madhya Pradesh,No. of Other Officials Trained,26
+788,2008,Gujarat,No. of Other Officials Trained,0
+789,2008,Maharashtra,No. of Other Officials Trained,0
+790,2008,Andhra Pradesh,No. of Other Officials Trained,367
+791,2008,Karnataka,No. of Other Officials Trained,0
+792,2008,Kerala,No. of Other Officials Trained,5
+793,2008,Tamil Nadu,No. of Other Officials Trained,112
+794,2008,Jammu & Kashmir,No. of Officers Trained,1
+795,2008,Himachal Pradesh,No. of Officers Trained,6
+796,2008,Punjab,No. of Officers Trained,2
+797,2008,Chandigarh,No. of Officers Trained,2
+798,2008,Uttarakhand,No. of Officers Trained,1
+799,2008,Haryana,No. of Officers Trained,92
+800,2008,Delhi,No. of Officers Trained,27
+801,2008,Rajasthan,No. of Officers Trained,12
+802,2008,Uttar Pradesh,No. of Officers Trained,33
+803,2008,Bihar,No. of Officers Trained,55
+804,2008,Nagaland,No. of Officers Trained,15
+805,2008,Mizoram,No. of Officers Trained,7
+806,2008,Tripura,No. of Officers Trained,0
+807,2008,Meghalaya,No. of Officers Trained,1
+808,2008,Assam,No. of Officers Trained,0
+809,2008,West Bengal,No. of Officers Trained,48
+810,2008,Jharkhand,No. of Officers Trained,15
+811,2008,Odisha,No. of Officers Trained,68
+812,2008,Chhattisgarh,No. of Officers Trained,16
+813,2008,Madhya Pradesh,No. of Officers Trained,25
+814,2008,Gujarat,No. of Officers Trained,9
+815,2008,Maharashtra,No. of Officers Trained,36
+816,2008,Andhra Pradesh,No. of Officers Trained,359
+817,2008,Karnataka,No. of Officers Trained,72
+818,2008,Kerala,No. of Officers Trained,149
+819,2008,Tamil Nadu,No. of Officers Trained,22
+820,2008,Jammu & Kashmir,No. of Jail Staff Trained,0
+821,2008,Himachal Pradesh,No. of Jail Staff Trained,64
+822,2008,Punjab,No. of Jail Staff Trained,356
+823,2008,Chandigarh,No. of Jail Staff Trained,0
+824,2008,Uttarakhand,No. of Jail Staff Trained,0
+825,2008,Haryana,No. of Jail Staff Trained,179
+826,2008,Delhi,No. of Jail Staff Trained,508
+827,2008,Rajasthan,No. of Jail Staff Trained,5
+828,2008,Uttar Pradesh,No. of Jail Staff Trained,195
+829,2008,Bihar,No. of Jail Staff Trained,414
+830,2008,Nagaland,No. of Jail Staff Trained,0
+831,2008,Mizoram,No. of Jail Staff Trained,12
+832,2008,Tripura,No. of Jail Staff Trained,6
+833,2008,Meghalaya,No. of Jail Staff Trained,5
+834,2008,Assam,No. of Jail Staff Trained,0
+835,2008,West Bengal,No. of Jail Staff Trained,407
+836,2008,Jharkhand,No. of Jail Staff Trained,26
+837,2008,Odisha,No. of Jail Staff Trained,49
+838,2008,Chhattisgarh,No. of Jail Staff Trained,156
+839,2008,Madhya Pradesh,No. of Jail Staff Trained,249
+840,2008,Gujarat,No. of Jail Staff Trained,411
+841,2008,Maharashtra,No. of Jail Staff Trained,342
+842,2008,Andhra Pradesh,No. of Jail Staff Trained,1056
+843,2008,Karnataka,No. of Jail Staff Trained,0
+844,2008,Kerala,No. of Jail Staff Trained,363
+845,2008,Tamil Nadu,No. of Jail Staff Trained,17
+846,2009,Jammu & Kashmir,Total Officials Trained,30
+847,2009,Himachal Pradesh,Total Officials Trained,20
+848,2009,Punjab,Total Officials Trained,408
+849,2009,Chandigarh,Total Officials Trained,2
+850,2009,Uttarakhand,Total Officials Trained,33
+851,2009,Haryana,Total Officials Trained,499
+852,2009,Delhi,Total Officials Trained,262
+853,2009,Rajasthan,Total Officials Trained,26
+854,2009,Uttar Pradesh,Total Officials Trained,514
+855,2009,Bihar,Total Officials Trained,457
+856,2009,Sikkim,Total Officials Trained,22
+857,2009,Arunachal Pradesh,Total Officials Trained,2
+858,2009,Nagaland,Total Officials Trained,15
+859,2009,Manipur,Total Officials Trained,0
+860,2009,Mizoram,Total Officials Trained,37
+861,2009,Tripura,Total Officials Trained,0
+862,2009,Assam,Total Officials Trained,0
+863,2009,West Bengal,Total Officials Trained,402
+864,2009,Jharkhand,Total Officials Trained,129
+865,2009,Odisha,Total Officials Trained,194
+866,2009,Chhattisgarh,Total Officials Trained,160
+867,2009,Madhya Pradesh,Total Officials Trained,217
+868,2009,Gujarat,Total Officials Trained,200
+869,2009,Maharashtra,Total Officials Trained,268
+870,2009,Andhra Pradesh,Total Officials Trained,2194
+871,2009,Karnataka,Total Officials Trained,23
+872,2009,Goa,Total Officials Trained,29
+873,2009,Lakshadweep,Total Officials Trained,0
+874,2009,Kerala,Total Officials Trained,681
+875,2009,Tamil Nadu,Total Officials Trained,189
+876,2009,Andaman & Nicobar Islands,Total Officials Trained,0
+877,2010,Jammu & Kashmir,Total Officials Trained,175
+878,2010,Himachal Pradesh,Total Officials Trained,8
+879,2010,Punjab,Total Officials Trained,251
+880,2010,Chandigarh,Total Officials Trained,2
+881,2010,Uttarakhand,Total Officials Trained,34
+882,2010,Haryana,Total Officials Trained,322
+883,2010,Delhi,Total Officials Trained,208
+884,2010,Rajasthan,Total Officials Trained,303
+885,2010,Uttar Pradesh,Total Officials Trained,303
+886,2010,Bihar,Total Officials Trained,12
+887,2010,Sikkim,Total Officials Trained,0
+888,2010,Arunachal Pradesh,Total Officials Trained,0
+889,2010,Nagaland,Total Officials Trained,54
+890,2010,Manipur,Total Officials Trained,0
+891,2010,Mizoram,Total Officials Trained,76
+892,2010,Tripura,Total Officials Trained,2
+893,2010,Meghalaya,Total Officials Trained,1
+894,2010,Assam,Total Officials Trained,0
+895,2010,West Bengal,Total Officials Trained,281
+896,2010,Jharkhand,Total Officials Trained,13
+897,2010,Odisha,Total Officials Trained,137
+898,2010,Chhattisgarh,Total Officials Trained,107
+899,2010,Madhya Pradesh,Total Officials Trained,218
+900,2010,Gujarat,Total Officials Trained,414
+901,2010,Daman & Diu,Total Officials Trained,0
+902,2010,Dadra & Nagar Haveli,Total Officials Trained,0
+903,2010,Maharashtra,Total Officials Trained,218
+904,2010,Andhra Pradesh,Total Officials Trained,1363
+905,2010,Karnataka,Total Officials Trained,289
+906,2010,Goa,Total Officials Trained,2
+907,2010,Lakshadweep,Total Officials Trained,0
+908,2010,Kerala,Total Officials Trained,480
+909,2010,Tamil Nadu,Total Officials Trained,368
+910,2010,Puducherry,Total Officials Trained,0
+911,2010,Andaman & Nicobar Islands,Total Officials Trained,0
+912,2009,Jammu & Kashmir,No. of Other Officials Trained,0
+913,2009,Himachal Pradesh,No. of Other Officials Trained,2
+914,2009,Punjab,No. of Other Officials Trained,0
+915,2009,Chandigarh,No. of Other Officials Trained,0
+916,2009,Uttarakhand,No. of Other Officials Trained,0
+917,2009,Haryana,No. of Other Officials Trained,1
+918,2009,Delhi,No. of Other Officials Trained,19
+919,2009,Rajasthan,No. of Other Officials Trained,0
+920,2009,Uttar Pradesh,No. of Other Officials Trained,0
+921,2009,Bihar,No. of Other Officials Trained,0
+922,2009,Sikkim,No. of Other Officials Trained,0
+923,2009,Arunachal Pradesh,No. of Other Officials Trained,0
+924,2009,Nagaland,No. of Other Officials Trained,0
+925,2009,Manipur,No. of Other Officials Trained,0
+926,2009,Mizoram,No. of Other Officials Trained,26
+927,2009,Tripura,No. of Other Officials Trained,0
+928,2009,Assam,No. of Other Officials Trained,0
+929,2009,West Bengal,No. of Other Officials Trained,0
+930,2009,Jharkhand,No. of Other Officials Trained,0
+931,2009,Odisha,No. of Other Officials Trained,0
+932,2009,Chhattisgarh,No. of Other Officials Trained,0
+933,2009,Madhya Pradesh,No. of Other Officials Trained,29
+934,2009,Gujarat,No. of Other Officials Trained,0
+935,2009,Maharashtra,No. of Other Officials Trained,8
+936,2009,Andhra Pradesh,No. of Other Officials Trained,322
+937,2009,Karnataka,No. of Other Officials Trained,0
+938,2009,Goa,No. of Other Officials Trained,2
+939,2009,Lakshadweep,No. of Other Officials Trained,0
+940,2009,Kerala,No. of Other Officials Trained,11
+941,2009,Tamil Nadu,No. of Other Officials Trained,17
+942,2009,Andaman & Nicobar Islands,No. of Other Officials Trained,0
+943,2010,Jammu & Kashmir,No. of Other Officials Trained,0
+944,2010,Himachal Pradesh,No. of Other Officials Trained,0
+945,2010,Punjab,No. of Other Officials Trained,0
+946,2010,Chandigarh,No. of Other Officials Trained,0
+947,2010,Uttarakhand,No. of Other Officials Trained,0
+948,2010,Haryana,No. of Other Officials Trained,0
+949,2010,Delhi,No. of Other Officials Trained,0
+950,2010,Rajasthan,No. of Other Officials Trained,0
+951,2010,Uttar Pradesh,No. of Other Officials Trained,0
+952,2010,Bihar,No. of Other Officials Trained,0
+953,2010,Sikkim,No. of Other Officials Trained,0
+954,2010,Arunachal Pradesh,No. of Other Officials Trained,0
+955,2010,Nagaland,No. of Other Officials Trained,18
+956,2010,Manipur,No. of Other Officials Trained,0
+957,2010,Mizoram,No. of Other Officials Trained,0
+958,2010,Tripura,No. of Other Officials Trained,0
+959,2010,Meghalaya,No. of Other Officials Trained,0
+960,2010,Assam,No. of Other Officials Trained,0
+961,2010,West Bengal,No. of Other Officials Trained,5
+962,2010,Jharkhand,No. of Other Officials Trained,0
+963,2010,Odisha,No. of Other Officials Trained,0
+964,2010,Chhattisgarh,No. of Other Officials Trained,0
+965,2010,Madhya Pradesh,No. of Other Officials Trained,2
+966,2010,Gujarat,No. of Other Officials Trained,0
+967,2010,Daman & Diu,No. of Other Officials Trained,0
+968,2010,Dadra & Nagar Haveli,No. of Other Officials Trained,0
+969,2010,Maharashtra,No. of Other Officials Trained,2
+970,2010,Andhra Pradesh,No. of Other Officials Trained,10
+971,2010,Karnataka,No. of Other Officials Trained,0
+972,2010,Goa,No. of Other Officials Trained,0
+973,2010,Lakshadweep,No. of Other Officials Trained,0
+974,2010,Kerala,No. of Other Officials Trained,30
+975,2010,Tamil Nadu,No. of Other Officials Trained,14
+976,2010,Puducherry,No. of Other Officials Trained,0
+977,2010,Andaman & Nicobar Islands,No. of Other Officials Trained,0
+978,2009,Jammu & Kashmir,No. of Officers Trained,0
+979,2009,Himachal Pradesh,No. of Officers Trained,9
+980,2009,Punjab,No. of Officers Trained,0
+981,2009,Chandigarh,No. of Officers Trained,2
+982,2009,Uttarakhand,No. of Officers Trained,4
+983,2009,Haryana,No. of Officers Trained,140
+984,2009,Delhi,No. of Officers Trained,10
+985,2009,Rajasthan,No. of Officers Trained,8
+986,2009,Uttar Pradesh,No. of Officers Trained,21
+987,2009,Bihar,No. of Officers Trained,20
+988,2009,Sikkim,No. of Officers Trained,0
+989,2009,Arunachal Pradesh,No. of Officers Trained,2
+990,2009,Nagaland,No. of Officers Trained,15
+991,2009,Manipur,No. of Officers Trained,0
+992,2009,Mizoram,No. of Officers Trained,3
+993,2009,Tripura,No. of Officers Trained,0
+994,2009,Assam,No. of Officers Trained,0
+995,2009,West Bengal,No. of Officers Trained,25
+996,2009,Jharkhand,No. of Officers Trained,2
+997,2009,Odisha,No. of Officers Trained,61
+998,2009,Chhattisgarh,No. of Officers Trained,10
+999,2009,Madhya Pradesh,No. of Officers Trained,21
+1000,2009,Gujarat,No. of Officers Trained,1
+1001,2009,Maharashtra,No. of Officers Trained,14
+1002,2009,Andhra Pradesh,No. of Officers Trained,341
+1003,2009,Karnataka,No. of Officers Trained,23
+1004,2009,Goa,No. of Officers Trained,4
+1005,2009,Lakshadweep,No. of Officers Trained,0
+1006,2009,Kerala,No. of Officers Trained,153
+1007,2009,Tamil Nadu,No. of Officers Trained,15
+1008,2009,Andaman & Nicobar Islands,No. of Officers Trained,0
+1009,2010,Jammu & Kashmir,No. of Officers Trained,10
+1010,2010,Himachal Pradesh,No. of Officers Trained,4
+1011,2010,Punjab,No. of Officers Trained,0
+1012,2010,Chandigarh,No. of Officers Trained,2
+1013,2010,Uttarakhand,No. of Officers Trained,4
+1014,2010,Haryana,No. of Officers Trained,77
+1015,2010,Delhi,No. of Officers Trained,19
+1016,2010,Rajasthan,No. of Officers Trained,10
+1017,2010,Uttar Pradesh,No. of Officers Trained,255
+1018,2010,Bihar,No. of Officers Trained,12
+1019,2010,Sikkim,No. of Officers Trained,0
+1020,2010,Arunachal Pradesh,No. of Officers Trained,0
+1021,2010,Nagaland,No. of Officers Trained,9
+1022,2010,Manipur,No. of Officers Trained,0
+1023,2010,Mizoram,No. of Officers Trained,5
+1024,2010,Tripura,No. of Officers Trained,0
+1025,2010,Meghalaya,No. of Officers Trained,1
+1026,2010,Assam,No. of Officers Trained,0
+1027,2010,West Bengal,No. of Officers Trained,52
+1028,2010,Jharkhand,No. of Officers Trained,2
+1029,2010,Odisha,No. of Officers Trained,137
+1030,2010,Chhattisgarh,No. of Officers Trained,6
+1031,2010,Madhya Pradesh,No. of Officers Trained,16
+1032,2010,Gujarat,No. of Officers Trained,15
+1033,2010,Daman & Diu,No. of Officers Trained,0
+1034,2010,Dadra & Nagar Haveli,No. of Officers Trained,0
+1035,2010,Maharashtra,No. of Officers Trained,9
+1036,2010,Andhra Pradesh,No. of Officers Trained,498
+1037,2010,Karnataka,No. of Officers Trained,117
+1038,2010,Goa,No. of Officers Trained,2
+1039,2010,Lakshadweep,No. of Officers Trained,0
+1040,2010,Kerala,No. of Officers Trained,90
+1041,2010,Tamil Nadu,No. of Officers Trained,5
+1042,2010,Puducherry,No. of Officers Trained,0
+1043,2010,Andaman & Nicobar Islands,No. of Officers Trained,0
+1044,2009,Jammu & Kashmir,No. of Jail Staff Trained,30
+1045,2009,Himachal Pradesh,No. of Jail Staff Trained,9
+1046,2009,Punjab,No. of Jail Staff Trained,408
+1047,2009,Chandigarh,No. of Jail Staff Trained,0
+1048,2009,Uttarakhand,No. of Jail Staff Trained,29
+1049,2009,Haryana,No. of Jail Staff Trained,358
+1050,2009,Delhi,No. of Jail Staff Trained,233
+1051,2009,Rajasthan,No. of Jail Staff Trained,18
+1052,2009,Uttar Pradesh,No. of Jail Staff Trained,493
+1053,2009,Bihar,No. of Jail Staff Trained,437
+1054,2009,Sikkim,No. of Jail Staff Trained,22
+1055,2009,Arunachal Pradesh,No. of Jail Staff Trained,0
+1056,2009,Nagaland,No. of Jail Staff Trained,0
+1057,2009,Manipur,No. of Jail Staff Trained,0
+1058,2009,Mizoram,No. of Jail Staff Trained,8
+1059,2009,Tripura,No. of Jail Staff Trained,0
+1060,2009,Assam,No. of Jail Staff Trained,0
+1061,2009,West Bengal,No. of Jail Staff Trained,377
+1062,2009,Jharkhand,No. of Jail Staff Trained,127
+1063,2009,Odisha,No. of Jail Staff Trained,133
+1064,2009,Chhattisgarh,No. of Jail Staff Trained,150
+1065,2009,Madhya Pradesh,No. of Jail Staff Trained,167
+1066,2009,Gujarat,No. of Jail Staff Trained,199
+1067,2009,Maharashtra,No. of Jail Staff Trained,246
+1068,2009,Andhra Pradesh,No. of Jail Staff Trained,1531
+1069,2009,Karnataka,No. of Jail Staff Trained,0
+1070,2009,Goa,No. of Jail Staff Trained,23
+1071,2009,Lakshadweep,No. of Jail Staff Trained,0
+1072,2009,Kerala,No. of Jail Staff Trained,517
+1073,2009,Tamil Nadu,No. of Jail Staff Trained,157
+1074,2009,Andaman & Nicobar Islands,No. of Jail Staff Trained,0
+1075,2010,Jammu & Kashmir,No. of Jail Staff Trained,165
+1076,2010,Himachal Pradesh,No. of Jail Staff Trained,4
+1077,2010,Punjab,No. of Jail Staff Trained,251
+1078,2010,Chandigarh,No. of Jail Staff Trained,0
+1079,2010,Uttarakhand,No. of Jail Staff Trained,30
+1080,2010,Haryana,No. of Jail Staff Trained,245
+1081,2010,Delhi,No. of Jail Staff Trained,189
+1082,2010,Rajasthan,No. of Jail Staff Trained,293
+1083,2010,Uttar Pradesh,No. of Jail Staff Trained,48
+1084,2010,Bihar,No. of Jail Staff Trained,0
+1085,2010,Sikkim,No. of Jail Staff Trained,0
+1086,2010,Arunachal Pradesh,No. of Jail Staff Trained,0
+1087,2010,Nagaland,No. of Jail Staff Trained,27
+1088,2010,Manipur,No. of Jail Staff Trained,0
+1089,2010,Mizoram,No. of Jail Staff Trained,71
+1090,2010,Tripura,No. of Jail Staff Trained,2
+1091,2010,Meghalaya,No. of Jail Staff Trained,0
+1092,2010,Assam,No. of Jail Staff Trained,0
+1093,2010,West Bengal,No. of Jail Staff Trained,224
+1094,2010,Jharkhand,No. of Jail Staff Trained,11
+1095,2010,Odisha,No. of Jail Staff Trained,0
+1096,2010,Chhattisgarh,No. of Jail Staff Trained,101
+1097,2010,Madhya Pradesh,No. of Jail Staff Trained,200
+1098,2010,Gujarat,No. of Jail Staff Trained,399
+1099,2010,Daman & Diu,No. of Jail Staff Trained,0
+1100,2010,Dadra & Nagar Haveli,No. of Jail Staff Trained,0
+1101,2010,Maharashtra,No. of Jail Staff Trained,207
+1102,2010,Andhra Pradesh,No. of Jail Staff Trained,855
+1103,2010,Karnataka,No. of Jail Staff Trained,172
+1104,2010,Goa,No. of Jail Staff Trained,0
+1105,2010,Lakshadweep,No. of Jail Staff Trained,0
+1106,2010,Kerala,No. of Jail Staff Trained,360
+1107,2010,Tamil Nadu,No. of Jail Staff Trained,349
+1108,2010,Puducherry,No. of Jail Staff Trained,0
+1109,2010,Andaman & Nicobar Islands,No. of Jail Staff Trained,0

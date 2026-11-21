@@ -1,0 +1,12 @@
+year,legal_status,category,prisoners,status_population,share_within_status,covered_states,source,dimension
+2013,under_trial,Others,4293,278503,0.015414555678035784,35,Religion.csv,religion
+2013,under_trial,Sikh,11666,278503,0.04188823818773945,35,Religion.csv,religion
+2013,under_trial,Christian,12406,278503,0.0445453011278155,35,Religion.csv,religion
+2013,under_trial,Muslim,57936,278503,0.20802648445438648,35,Religion.csv,religion
+2013,under_trial,Hindu,192202,278503,0.6901254205520228,35,Religion.csv,religion
+2013,convicts,Holding technical degree/diploma etc,1584,129608,0.012221467810628973,35,Education.csv,education
+2013,convicts,Post-Graduate,2063,129608,0.015917227331646196,35,Education.csv,education
+2013,convicts,Graduate,6002,129608,0.04630886982285044,35,Education.csv,education
+2013,convicts,Class X and above but below graduate,27706,129608,0.21376766866242825,35,Education.csv,education
+2013,convicts,Illiterate,36507,129608,0.2816724276279242,35,Education.csv,education
+2013,convicts,Below Class X,55746,129608,0.4301123387445219,35,Education.csv,education

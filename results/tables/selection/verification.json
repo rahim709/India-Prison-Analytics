@@ -1,0 +1,20 @@
+{
+  "phase": 2,
+  "phase2_tests_passed": 9,
+  "phase1_regression_tests_passed": 14,
+  "total_tests_passed": 23,
+  "notebook_cells_executed": 15,
+  "phase2_cells_executed": 8,
+  "notebook_outputs_match_pipeline": true,
+  "independently_reconstructed_cohort_keys": 437,
+  "raw_files_unchanged": 37,
+  "cleaned_files_unchanged": 37,
+  "selected_files_verified": 4,
+  "descriptive_loaders_verified": 27,
+  "determinism": {
+    "files_compared": 17,
+    "all_identical": true
+  },
+  "features_computed": false,
+  "later_phases_started": false
+}

@@ -1,0 +1,1249 @@
+year,legal_status,category,prisoners,status_population,share_within_status,covered_states,source,dimension
+2001,convicts,age_16_18,404,70095,0.0057636065339895853,33,Age_group.csv,age_group
+2001,convicts,age_18_30,28401,70095,0.4051786860689065,33,Age_group.csv,age_group
+2001,convicts,age_30_50,32269,70095,0.46036093872601469,33,Age_group.csv,age_group
+2001,convicts,age_50_above,9021,70095,0.12869676867108923,33,Age_group.csv,age_group
+2001,detenues,age_16_18,11,3000,0.0036666666666666666,33,Age_group.csv,age_group
+2001,detenues,age_18_30,1468,3000,0.48933333333333334,33,Age_group.csv,age_group
+2001,detenues,age_30_50,1405,3000,0.46833333333333332,33,Age_group.csv,age_group
+2001,detenues,age_50_above,116,3000,0.038666666666666669,33,Age_group.csv,age_group
+2001,others,age_16_18,75,13302,0.0056382498872350022,33,Age_group.csv,age_group
+2001,others,age_18_30,5782,13302,0.43467147797323713,33,Age_group.csv,age_group
+2001,others,age_30_50,6567,13302,0.49368516012629682,33,Age_group.csv,age_group
+2001,others,age_50_above,878,13302,0.066005112013231088,33,Age_group.csv,age_group
+2001,under_trial,age_16_18,4161,173942,0.023921767025790207,33,Age_group.csv,age_group
+2001,under_trial,age_18_30,81539,173942,0.46877119959526736,33,Age_group.csv,age_group
+2001,under_trial,age_30_50,72670,173942,0.41778293914063308,33,Age_group.csv,age_group
+2001,under_trial,age_50_above,15572,173942,0.089524094238309315,33,Age_group.csv,age_group
+2002,convicts,age_16_18,401,82121,0.004883038443272732,34,Age_group.csv,age_group
+2002,convicts,age_18_30,33603,82121,0.4091888798236748,34,Age_group.csv,age_group
+2002,convicts,age_30_50,38475,82121,0.46851597033645476,34,Age_group.csv,age_group
+2002,convicts,age_50_above,9642,82121,0.1174121113965977,34,Age_group.csv,age_group
+2002,detenues,age_16_18,52,4832,0.010761589403973509,34,Age_group.csv,age_group
+2002,detenues,age_18_30,2177,4832,0.45053807947019869,34,Age_group.csv,age_group
+2002,detenues,age_30_50,2209,4832,0.45716059602649006,34,Age_group.csv,age_group
+2002,detenues,age_50_above,394,4832,0.081539735099337748,34,Age_group.csv,age_group
+2002,others,age_16_18,81,12366,0.0065502183406113534,34,Age_group.csv,age_group
+2002,others,age_18_30,5664,12366,0.45803008248423094,34,Age_group.csv,age_group
+2002,others,age_30_50,5395,12366,0.43627688824195376,34,Age_group.csv,age_group
+2002,others,age_50_above,1226,12366,0.099142810933203943,34,Age_group.csv,age_group
+2002,under_trial,age_16_18,3343,223038,0.014988477299832315,34,Age_group.csv,age_group
+2002,under_trial,age_18_30,105762,223038,0.47418825491620265,34,Age_group.csv,age_group
+2002,under_trial,age_30_50,91102,223038,0.40845954501026732,34,Age_group.csv,age_group
+2002,under_trial,age_50_above,22831,223038,0.10236372277369775,34,Age_group.csv,age_group
+2003,convicts,age_16_18,185,91766,0.0020159972102957524,34,Age_group.csv,age_group
+2003,convicts,age_18_30,35656,91766,0.38855349475840728,34,Age_group.csv,age_group
+2003,convicts,age_30_50,43260,91766,0.47141642874267159,34,Age_group.csv,age_group
+2003,convicts,age_50_above,12665,91766,0.13801407928862541,34,Age_group.csv,age_group
+2003,detenues,age_16_18,26,4008,0.0064870259481037921,34,Age_group.csv,age_group
+2003,detenues,age_18_30,1249,4008,0.31162674650698602,34,Age_group.csv,age_group
+2003,detenues,age_30_50,2334,4008,0.58233532934131738,34,Age_group.csv,age_group
+2003,detenues,age_50_above,399,4008,0.099550898203592808,34,Age_group.csv,age_group
+2003,others,age_16_18,6,13087,0.00045847023764040653,34,Age_group.csv,age_group
+2003,others,age_18_30,2016,13087,0.1540459998471766,34,Age_group.csv,age_group
+2003,others,age_30_50,10877,13087,0.83113012913578366,34,Age_group.csv,age_group
+2003,others,age_50_above,188,13087,0.014365400779399405,34,Age_group.csv,age_group
+2003,under_trial,age_16_18,1935,217658,0.0088900936331308758,34,Age_group.csv,age_group
+2003,under_trial,age_18_30,102441,217658,0.47065120510158137,34,Age_group.csv,age_group
+2003,under_trial,age_30_50,90320,217658,0.41496292348546804,34,Age_group.csv,age_group
+2003,under_trial,age_50_above,22962,217658,0.10549577777981972,34,Age_group.csv,age_group
+2004,convicts,age_16_18,118,97973,0.0012044134608514591,33,Age_group.csv,age_group
+2004,convicts,age_18_30,36465,97973,0.37219438008430894,33,Age_group.csv,age_group
+2004,convicts,age_30_50,47115,97973,0.48089779837302116,33,Age_group.csv,age_group
+2004,convicts,age_50_above,14275,97973,0.14570340808181845,33,Age_group.csv,age_group
+2004,detenues,age_16_18,44,4491,0.0097973725228234238,33,Age_group.csv,age_group
+2004,detenues,age_18_30,1657,4491,0.36896014250723669,33,Age_group.csv,age_group
+2004,detenues,age_30_50,2475,4491,0.55110220440881763,33,Age_group.csv,age_group
+2004,detenues,age_50_above,315,4491,0.070140280561122245,33,Age_group.csv,age_group
+2004,others,age_16_18,20,11240,0.0017793594306049821,33,Age_group.csv,age_group
+2004,others,age_18_30,2197,11240,0.1954626334519573,33,Age_group.csv,age_group
+2004,others,age_30_50,8297,11240,0.7381672597864769,33,Age_group.csv,age_group
+2004,others,age_50_above,726,11240,0.06459074733096086,33,Age_group.csv,age_group
+2004,under_trial,age_16_18,840,216422,0.0038813059670458642,33,Age_group.csv,age_group
+2004,under_trial,age_18_30,100277,216422,0.46334014102078347,33,Age_group.csv,age_group
+2004,under_trial,age_30_50,93275,216422,0.43098668342405116,33,Age_group.csv,age_group
+2004,under_trial,age_50_above,22030,216422,0.1017918695881195,33,Age_group.csv,age_group
+2005,convicts,age_16_18,94,108572,0.00086578491692148988,34,Age_group.csv,age_group
+2005,convicts,age_18_30,39279,108572,0.3617783590612681,34,Age_group.csv,age_group
+2005,convicts,age_30_50,52535,108572,0.48387245330287737,34,Age_group.csv,age_group
+2005,convicts,age_50_above,16664,108572,0.15348340271893307,34,Age_group.csv,age_group
+2005,detenues,age_16_18,13,2542,0.0051140833988985055,34,Age_group.csv,age_group
+2005,detenues,age_18_30,1092,2542,0.42958300550747441,34,Age_group.csv,age_group
+2005,detenues,age_30_50,1093,2542,0.42997639653815894,34,Age_group.csv,age_group
+2005,detenues,age_50_above,344,2542,0.13532651455546812,34,Age_group.csv,age_group
+2005,others,age_16_18,21,10178,0.0020632737276478678,34,Age_group.csv,age_group
+2005,others,age_18_30,4169,10178,0.40960896050304579,34,Age_group.csv,age_group
+2005,others,age_30_50,4957,10178,0.48703085085478481,34,Age_group.csv,age_group
+2005,others,age_50_above,1031,10178,0.10129691491452152,34,Age_group.csv,age_group
+2005,under_trial,age_16_18,1242,237076,0.0052388263679157736,34,Age_group.csv,age_group
+2005,under_trial,age_18_30,110017,237076,0.46405793922623967,34,Age_group.csv,age_group
+2005,under_trial,age_30_50,101135,237076,0.42659315999932512,34,Age_group.csv,age_group
+2005,under_trial,age_50_above,24682,237076,0.10411007440651943,34,Age_group.csv,age_group
+2006,convicts,age_16_18,64,116675,0.00054853224769659307,34,Age_group.csv,age_group
+2006,convicts,age_18_30,44371,116675,0.38029569316477396,34,Age_group.csv,age_group
+2006,convicts,age_30_50,56479,116675,0.48407113777587313,34,Age_group.csv,age_group
+2006,convicts,age_50_above,15761,116675,0.13508463681165631,34,Age_group.csv,age_group
+2006,detenues,age_16_18,29,2275,0.012747252747252748,34,Age_group.csv,age_group
+2006,detenues,age_18_30,990,2275,0.43516483516483517,34,Age_group.csv,age_group
+2006,detenues,age_30_50,1064,2275,0.46769230769230768,34,Age_group.csv,age_group
+2006,detenues,age_50_above,192,2275,0.084395604395604396,34,Age_group.csv,age_group
+2006,others,age_16_18,3,9077,0.00033050567368073151,34,Age_group.csv,age_group
+2006,others,age_18_30,3168,9077,0.34901399140685246,34,Age_group.csv,age_group
+2006,others,age_30_50,4935,9077,0.54368183320480334,34,Age_group.csv,age_group
+2006,others,age_50_above,971,9077,0.10697366971466343,34,Age_group.csv,age_group
+2006,under_trial,age_16_18,567,245244,0.0023119831677839214,34,Age_group.csv,age_group
+2006,under_trial,age_18_30,106335,245244,0.4335885893232862,34,Age_group.csv,age_group
+2006,under_trial,age_30_50,109039,245244,0.44461434326629806,34,Age_group.csv,age_group
+2006,under_trial,age_50_above,29303,245244,0.11948508424263182,34,Age_group.csv,age_group
+2007,convicts,age_16_18,75,120115,0.00062440161511884444,34,Age_group.csv,age_group
+2007,convicts,age_18_30,41995,120115,0.34962327769221163,34,Age_group.csv,age_group
+2007,convicts,age_30_50,59578,120115,0.4960079923406735,34,Age_group.csv,age_group
+2007,convicts,age_50_above,18467,120115,0.153744328351996,34,Age_group.csv,age_group
+2007,detenues,age_16_18,37,4687,0.007894175378707062,34,Age_group.csv,age_group
+2007,detenues,age_18_30,2280,4687,0.48645188820140817,34,Age_group.csv,age_group
+2007,detenues,age_30_50,1892,4687,0.40366972477064222,34,Age_group.csv,age_group
+2007,detenues,age_50_above,478,4687,0.10198421164924258,34,Age_group.csv,age_group
+2007,others,age_16_18,26,867,0.029988465974625143,34,Age_group.csv,age_group
+2007,others,age_18_30,367,867,0.42329873125720879,34,Age_group.csv,age_group
+2007,others,age_30_50,384,867,0.44290657439446368,34,Age_group.csv,age_group
+2007,others,age_50_above,90,867,0.10380622837370242,34,Age_group.csv,age_group
+2007,under_trial,age_16_18,357,250727,0.0014238594168158993,34,Age_group.csv,age_group
+2007,under_trial,age_18_30,118087,250727,0.47097839482784065,34,Age_group.csv,age_group
+2007,under_trial,age_30_50,109020,250727,0.43481555636209901,34,Age_group.csv,age_group
+2007,under_trial,age_50_above,23263,250727,0.092782189393244452,34,Age_group.csv,age_group
+2008,convicts,age_16_18,4,123307,3.2439358673879014e-05,34,Age_group.csv,age_group
+2008,convicts,age_18_30,42268,123307,0.34278670310687959,34,Age_group.csv,age_group
+2008,convicts,age_30_50,61675,123307,0.50017436155287209,34,Age_group.csv,age_group
+2008,convicts,age_50_above,19360,123307,0.15700649598157446,34,Age_group.csv,age_group
+2008,detenues,age_16_18,42,2978,0.014103425117528543,34,Age_group.csv,age_group
+2008,detenues,age_18_30,1172,2978,0.39355271994627267,34,Age_group.csv,age_group
+2008,detenues,age_30_50,1460,2978,0.49026192075218267,34,Age_group.csv,age_group
+2008,detenues,age_50_above,304,2978,0.10208193418401612,34,Age_group.csv,age_group
+2008,others,age_16_18,2,540,0.0037037037037037038,34,Age_group.csv,age_group
+2008,others,age_18_30,226,540,0.41851851851851851,34,Age_group.csv,age_group
+2008,others,age_30_50,269,540,0.49814814814814817,34,Age_group.csv,age_group
+2008,others,age_50_above,43,540,0.079629629629629634,34,Age_group.csv,age_group
+2008,under_trial,age_16_18,126,257928,0.00048850842095468497,34,Age_group.csv,age_group
+2008,under_trial,age_18_30,116414,257928,0.45134301045252939,34,Age_group.csv,age_group
+2008,under_trial,age_30_50,113955,257928,0.44180934214199313,34,Age_group.csv,age_group
+2008,under_trial,age_50_above,27433,257928,0.10635913898452282,34,Age_group.csv,age_group
+2009,convicts,age_16_18,0,123941,0,35,Age_group.csv,age_group
+2009,convicts,age_18_30,44770,123941,0.36122025802599622,35,Age_group.csv,age_group
+2009,convicts,age_30_50,59869,123941,0.48304435174800914,35,Age_group.csv,age_group
+2009,convicts,age_50_above,19302,123941,0.15573539022599461,35,Age_group.csv,age_group
+2009,detenues,age_16_18,49,2232,0.021953405017921146,35,Age_group.csv,age_group
+2009,detenues,age_18_30,973,2232,0.43593189964157708,35,Age_group.csv,age_group
+2009,detenues,age_30_50,1071,2232,0.47983870967741937,35,Age_group.csv,age_group
+2009,detenues,age_50_above,139,2232,0.062275985663082435,35,Age_group.csv,age_group
+2009,others,age_16_18,1,592,0.0016891891891891893,35,Age_group.csv,age_group
+2009,others,age_18_30,217,592,0.36655405405405406,35,Age_group.csv,age_group
+2009,others,age_30_50,329,592,0.5557432432432432,35,Age_group.csv,age_group
+2009,others,age_50_above,45,592,0.076013513513513514,35,Age_group.csv,age_group
+2009,under_trial,age_16_18,14,250204,5.5954341257533855e-05,35,Age_group.csv,age_group
+2009,under_trial,age_18_30,117238,250204,0.468569647167911,35,Age_group.csv,age_group
+2009,under_trial,age_30_50,105009,250204,0.41969353007945515,35,Age_group.csv,age_group
+2009,under_trial,age_50_above,27943,250204,0.11168086841137631,35,Age_group.csv,age_group
+2010,convicts,age_16_18,0,125789,0,35,Age_group.csv,age_group
+2010,convicts,age_18_30,45924,125789,0.36508756727535796,35,Age_group.csv,age_group
+2010,convicts,age_30_50,59745,125789,0.47496203960600686,35,Age_group.csv,age_group
+2010,convicts,age_50_above,20120,125789,0.15995039311863518,35,Age_group.csv,age_group
+2010,detenues,age_16_18,31,2325,0.013333333333333334,35,Age_group.csv,age_group
+2010,detenues,age_18_30,1120,2325,0.48172043010752691,35,Age_group.csv,age_group
+2010,detenues,age_30_50,1027,2325,0.44172043010752687,35,Age_group.csv,age_group
+2010,detenues,age_50_above,147,2325,0.063225806451612909,35,Age_group.csv,age_group
+2010,others,age_16_18,0,786,0,35,Age_group.csv,age_group
+2010,others,age_18_30,322,786,0.40966921119592875,35,Age_group.csv,age_group
+2010,others,age_30_50,383,786,0.48727735368956743,35,Age_group.csv,age_group
+2010,others,age_50_above,81,786,0.10305343511450382,35,Age_group.csv,age_group
+2010,under_trial,age_16_18,226,240098,0.00094128230972352958,35,Age_group.csv,age_group
+2010,under_trial,age_18_30,112678,240098,0.46930003581870738,35,Age_group.csv,age_group
+2010,under_trial,age_30_50,100889,240098,0.42019925197211139,35,Age_group.csv,age_group
+2010,under_trial,age_50_above,26305,240098,0.10955942989945772,35,Age_group.csv,age_group
+2011,convicts,age_16_18,0,128592,0,35,Age_group.csv,age_group
+2011,convicts,age_18_30,46480,128592,0.36145327858653725,35,Age_group.csv,age_group
+2011,convicts,age_30_50,61133,128592,0.47540282443697895,35,Age_group.csv,age_group
+2011,convicts,age_50_above,20979,128592,0.16314389697648377,35,Age_group.csv,age_group
+2011,detenues,age_16_18,29,2450,0.011836734693877551,35,Age_group.csv,age_group
+2011,detenues,age_18_30,1074,2450,0.43836734693877549,35,Age_group.csv,age_group
+2011,detenues,age_30_50,1176,2450,0.47999999999999998,35,Age_group.csv,age_group
+2011,detenues,age_50_above,171,2450,0.069795918367346943,35,Age_group.csv,age_group
+2011,others,age_16_18,1,684,0.0014619883040935672,35,Age_group.csv,age_group
+2011,others,age_18_30,286,684,0.41812865497076024,35,Age_group.csv,age_group
+2011,others,age_30_50,308,684,0.45029239766081869,35,Age_group.csv,age_group
+2011,others,age_50_above,89,684,0.13011695906432749,35,Age_group.csv,age_group
+2011,under_trial,age_16_18,65,241200,0.00026948590381426201,35,Age_group.csv,age_group
+2011,under_trial,age_18_30,116307,241200,0.48220149253731343,35,Age_group.csv,age_group
+2011,under_trial,age_30_50,98609,241200,0.40882669983416253,35,Age_group.csv,age_group
+2011,under_trial,age_50_above,26219,241200,0.10870232172470978,35,Age_group.csv,age_group
+2012,convicts,age_16_18,0,127789,0,35,Age_group.csv,age_group
+2012,convicts,age_18_30,43622,127789,0.34135958494080088,35,Age_group.csv,age_group
+2012,convicts,age_30_50,62135,127789,0.48623120925901292,35,Age_group.csv,age_group
+2012,convicts,age_50_above,22032,127789,0.17240920580018623,35,Age_group.csv,age_group
+2012,detenues,age_16_18,0,1922,0,35,Age_group.csv,age_group
+2012,detenues,age_18_30,855,1922,0.44484911550468265,35,Age_group.csv,age_group
+2012,detenues,age_30_50,878,1922,0.45681581685744016,35,Age_group.csv,age_group
+2012,detenues,age_50_above,189,1922,0.098335067637877208,35,Age_group.csv,age_group
+2012,others,age_16_18,15,567,0.026455026455026454,35,Age_group.csv,age_group
+2012,others,age_18_30,233,567,0.41093474426807758,35,Age_group.csv,age_group
+2012,others,age_30_50,267,567,0.47089947089947087,35,Age_group.csv,age_group
+2012,others,age_50_above,52,567,0.091710758377425039,35,Age_group.csv,age_group
+2012,under_trial,age_16_18,91,254857,0.00035706298041646883,35,Age_group.csv,age_group
+2012,under_trial,age_18_30,117984,254857,0.46294196353249079,35,Age_group.csv,age_group
+2012,under_trial,age_30_50,106191,254857,0.41666895553192573,35,Age_group.csv,age_group
+2012,under_trial,age_50_above,30591,254857,0.12003201795516702,35,Age_group.csv,age_group
+2013,convicts,age_16_18,27,123718,0.00021823825150746052,34,Age_group.csv,age_group
+2013,convicts,age_18_30,39644,123718,0.32043841639858389,34,Age_group.csv,age_group
+2013,convicts,age_30_50,62158,123718,0.50241678656299005,34,Age_group.csv,age_group
+2013,convicts,age_50_above,21889,123718,0.17692655878691863,34,Age_group.csv,age_group
+2013,detenues,age_16_18,0,3113,0,34,Age_group.csv,age_group
+2013,detenues,age_18_30,1586,3113,0.50947638933504658,34,Age_group.csv,age_group
+2013,detenues,age_30_50,1387,3113,0.44555091551557985,34,Age_group.csv,age_group
+2013,detenues,age_50_above,140,3113,0.044972695149373597,34,Age_group.csv,age_group
+2013,others,age_16_18,3,351,0.0085470085470085479,34,Age_group.csv,age_group
+2013,others,age_18_30,103,351,0.29344729344729342,34,Age_group.csv,age_group
+2013,others,age_30_50,207,351,0.58974358974358976,34,Age_group.csv,age_group
+2013,others,age_50_above,38,351,0.10826210826210826,34,Age_group.csv,age_group
+2013,under_trial,age_16_18,3,262032,1.1448983330280271e-05,34,Age_group.csv,age_group
+2013,under_trial,age_18_30,122145,262032,0.46614535629236126,34,Age_group.csv,age_group
+2013,under_trial,age_30_50,110965,262032,0.42347881174818341,34,Age_group.csv,age_group
+2013,under_trial,age_50_above,28919,262032,0.11036438297612505,34,Age_group.csv,age_group
+2001,convicts,Foreigners,681,70095,0.0097153862615022464,33,Age_group.csv,nationality
+2001,convicts,Indians,69414,70095,0.99028461373849774,33,Age_group.csv,nationality
+2001,detenues,Foreigners,60,3000,0.02,33,Age_group.csv,nationality
+2001,detenues,Indians,2940,3000,0.97999999999999998,33,Age_group.csv,nationality
+2001,others,Foreigners,62,13302,0.0046609532401142685,33,Age_group.csv,nationality
+2001,others,Indians,13240,13302,0.99533904675988571,33,Age_group.csv,nationality
+2001,under_trial,Foreigners,1424,173942,0.0081866369249519958,33,Age_group.csv,nationality
+2001,under_trial,Indians,172518,173942,0.99181336307504797,33,Age_group.csv,nationality
+2002,convicts,Foreigners,613,82121,0.0074645949269979668,34,Age_group.csv,nationality
+2002,convicts,Indians,81508,82121,0.99253540507300209,34,Age_group.csv,nationality
+2002,detenues,Foreigners,119,4832,0.02462748344370861,34,Age_group.csv,nationality
+2002,detenues,Indians,4713,4832,0.97537251655629142,34,Age_group.csv,nationality
+2002,others,Foreigners,69,12366,0.0055798156234837457,34,Age_group.csv,nationality
+2002,others,Indians,12297,12366,0.99442018437651625,34,Age_group.csv,nationality
+2002,under_trial,Foreigners,2057,223038,0.0092226436750688229,34,Age_group.csv,nationality
+2002,under_trial,Indians,220981,223038,0.99077735632493114,34,Age_group.csv,nationality
+2003,convicts,Foreigners,585,91766,0.0063749100974217028,34,Age_group.csv,nationality
+2003,convicts,Indians,91181,91766,0.99362508990257825,34,Age_group.csv,nationality
+2003,detenues,Foreigners,124,4008,0.030938123752495009,34,Age_group.csv,nationality
+2003,detenues,Indians,3884,4008,0.96906187624750495,34,Age_group.csv,nationality
+2003,others,Foreigners,6,13087,0.00045847023764040653,34,Age_group.csv,nationality
+2003,others,Indians,13081,13087,0.99954152976235955,34,Age_group.csv,nationality
+2003,under_trial,Foreigners,1490,217658,0.0068456018156925081,34,Age_group.csv,nationality
+2003,under_trial,Indians,216168,217658,0.99315439818430751,34,Age_group.csv,nationality
+2004,convicts,Foreigners,777,97973,0.0079307564328947779,33,Age_group.csv,nationality
+2004,convicts,Indians,97196,97973,0.99206924356710524,33,Age_group.csv,nationality
+2004,detenues,Foreigners,145,4491,0.032286795813849925,33,Age_group.csv,nationality
+2004,detenues,Indians,4346,4491,0.96771320418615003,33,Age_group.csv,nationality
+2004,others,Foreigners,9,11240,0.000800711743772242,33,Age_group.csv,nationality
+2004,others,Indians,11231,11240,0.99919928825622772,33,Age_group.csv,nationality
+2004,under_trial,Foreigners,1575,216422,0.0072774486882109949,33,Age_group.csv,nationality
+2004,under_trial,Indians,214847,216422,0.99272255131178899,33,Age_group.csv,nationality
+2005,convicts,Foreigners,1390,108572,0.012802564197030542,34,Age_group.csv,nationality
+2005,convicts,Indians,107182,108572,0.98719743580296948,34,Age_group.csv,nationality
+2005,detenues,Foreigners,106,2542,0.041699449252557044,34,Age_group.csv,nationality
+2005,detenues,Indians,2436,2542,0.95830055074744291,34,Age_group.csv,nationality
+2005,others,Foreigners,83,10178,0.0081548437807034777,34,Age_group.csv,nationality
+2005,others,Indians,10095,10178,0.99184515621929648,34,Age_group.csv,nationality
+2005,under_trial,Foreigners,2342,237076,0.0098786886905464916,34,Age_group.csv,nationality
+2005,under_trial,Indians,234734,237076,0.99012131130945347,34,Age_group.csv,nationality
+2006,convicts,Foreigners,676,116675,0.0057938718662952646,34,Age_group.csv,nationality
+2006,convicts,Indians,115999,116675,0.99420612813370468,34,Age_group.csv,nationality
+2006,detenues,Foreigners,110,2275,0.048351648351648353,34,Age_group.csv,nationality
+2006,detenues,Indians,2165,2275,0.9516483516483516,34,Age_group.csv,nationality
+2006,others,Foreigners,220,9077,0.024237082736586979,34,Age_group.csv,nationality
+2006,others,Indians,8857,9077,0.97576291726341302,34,Age_group.csv,nationality
+2006,under_trial,Foreigners,2772,245244,0.011303028820276948,34,Age_group.csv,nationality
+2006,under_trial,Indians,242472,245244,0.98869697117972311,34,Age_group.csv,nationality
+2007,convicts,Foreigners,1088,120115,0.0090579860966573701,34,Age_group.csv,nationality
+2007,convicts,Indians,119027,120115,0.99094201390334258,34,Age_group.csv,nationality
+2007,detenues,Foreigners,96,4687,0.020482184766375078,34,Age_group.csv,nationality
+2007,detenues,Indians,4591,4687,0.97951781523362491,34,Age_group.csv,nationality
+2007,others,Foreigners,145,867,0.16724336793540945,34,Age_group.csv,nationality
+2007,others,Indians,722,867,0.8327566320645905,34,Age_group.csv,nationality
+2007,under_trial,Foreigners,3366,250727,0.013424960215692765,34,Age_group.csv,nationality
+2007,under_trial,Indians,247361,250727,0.98657503978430727,34,Age_group.csv,nationality
+2008,convicts,Foreigners,1847,123307,0.014978873867663636,34,Age_group.csv,nationality
+2008,convicts,Indians,121460,123307,0.98502112613233639,34,Age_group.csv,nationality
+2008,detenues,Foreigners,102,2978,0.034251175285426462,34,Age_group.csv,nationality
+2008,detenues,Indians,2876,2978,0.96574882471457357,34,Age_group.csv,nationality
+2008,others,Foreigners,135,540,0.25,34,Age_group.csv,nationality
+2008,others,Indians,405,540,0.75,34,Age_group.csv,nationality
+2008,under_trial,Foreigners,3142,257928,0.012181694116187464,34,Age_group.csv,nationality
+2008,under_trial,Indians,254786,257928,0.98781830588381259,34,Age_group.csv,nationality
+2009,convicts,Foreigners,2042,123941,0.016475581123276399,35,Age_group.csv,nationality
+2009,convicts,Indians,121899,123941,0.98352441887672359,35,Age_group.csv,nationality
+2009,detenues,Foreigners,109,2232,0.048835125448028677,35,Age_group.csv,nationality
+2009,detenues,Indians,2123,2232,0.9511648745519713,35,Age_group.csv,nationality
+2009,others,Foreigners,215,592,0.36317567567567566,35,Age_group.csv,nationality
+2009,others,Indians,377,592,0.63682432432432434,35,Age_group.csv,nationality
+2009,under_trial,Foreigners,2896,250204,0.011574555162987003,35,Age_group.csv,nationality
+2009,under_trial,Indians,247308,250204,0.988425444837013,35,Age_group.csv,nationality
+2010,convicts,Foreigners,1715,125789,0.013633942554595394,35,Age_group.csv,nationality
+2010,convicts,Indians,124074,125789,0.98636605744540462,35,Age_group.csv,nationality
+2010,detenues,Foreigners,136,2325,0.058494623655913978,35,Age_group.csv,nationality
+2010,detenues,Indians,2189,2325,0.94150537634408604,35,Age_group.csv,nationality
+2010,others,Foreigners,373,786,0.47455470737913485,35,Age_group.csv,nationality
+2010,others,Indians,413,786,0.52544529262086515,35,Age_group.csv,nationality
+2010,under_trial,Foreigners,2884,240098,0.012011761863905571,35,Age_group.csv,nationality
+2010,under_trial,Indians,237214,240098,0.98798823813609438,35,Age_group.csv,nationality
+2011,convicts,Foreigners,2020,128592,0.015708597735473437,35,Age_group.csv,nationality
+2011,convicts,Indians,126572,128592,0.9842914022645266,35,Age_group.csv,nationality
+2011,detenues,Foreigners,137,2450,0.055918367346938773,35,Age_group.csv,nationality
+2011,detenues,Indians,2313,2450,0.94408163265306122,35,Age_group.csv,nationality
+2011,others,Foreigners,265,684,0.38742690058479534,35,Age_group.csv,nationality
+2011,others,Indians,419,684,0.61257309941520466,35,Age_group.csv,nationality
+2011,under_trial,Foreigners,3601,241200,0.014929519071310116,35,Age_group.csv,nationality
+2011,under_trial,Indians,237599,241200,0.98507048092868987,35,Age_group.csv,nationality
+2012,convicts,Foreigners,2483,127789,0.019430467411123024,35,Age_group.csv,nationality
+2012,convicts,Indians,125306,127789,0.98056953258887702,35,Age_group.csv,nationality
+2012,detenues,Foreigners,95,1922,0.049427679500520294,35,Age_group.csv,nationality
+2012,detenues,Indians,1827,1922,0.95057232049947971,35,Age_group.csv,nationality
+2012,others,Foreigners,282,567,0.49735449735449733,35,Age_group.csv,nationality
+2012,others,Indians,285,567,0.50264550264550267,35,Age_group.csv,nationality
+2012,under_trial,Foreigners,3984,254857,0.015632295758013316,35,Age_group.csv,nationality
+2012,under_trial,Indians,250873,254857,0.98436770424198672,35,Age_group.csv,nationality
+2013,convicts,Foreigners,1576,123718,0.01273864756947251,34,Age_group.csv,nationality
+2013,convicts,Indians,122142,123718,0.98726135243052748,34,Age_group.csv,nationality
+2013,detenues,Foreigners,41,3113,0.013170575008030838,34,Age_group.csv,nationality
+2013,detenues,Indians,3072,3113,0.98682942499196913,34,Age_group.csv,nationality
+2013,others,Foreigners,2,351,0.0056980056980056983,34,Age_group.csv,nationality
+2013,others,Indians,349,351,0.99430199430199429,34,Age_group.csv,nationality
+2013,under_trial,Foreigners,2252,262032,0.0085943701532637234,34,Age_group.csv,nationality
+2013,under_trial,Indians,259780,262032,0.9914056298467363,34,Age_group.csv,nationality
+2001,convicts,Below Class X,32819,75663,0.43375229636678431,34,Education.csv,education
+2001,convicts,Class X and above but below graduate,12298,75663,0.16253651057980784,34,Education.csv,education
+2001,convicts,Graduate,3134,75663,0.041420509363889878,34,Education.csv,education
+2001,convicts,Holding technical degree/diploma etc,441,75663,0.0058284762697751874,34,Education.csv,education
+2001,convicts,Illiterate,26370,75663,0.34851909123349589,34,Education.csv,education
+2001,convicts,Post-Graduate,601,75663,0.0079431161862469103,34,Education.csv,education
+2001,detenues,Below Class X,1215,3510,0.34615384615384615,34,Education.csv,education
+2001,detenues,Class X and above but below graduate,792,3510,0.22564102564102564,34,Education.csv,education
+2001,detenues,Graduate,153,3510,0.043589743589743588,34,Education.csv,education
+2001,detenues,Holding technical degree/diploma etc,233,3510,0.066381766381766377,34,Education.csv,education
+2001,detenues,Illiterate,1107,3510,0.31538461538461537,34,Education.csv,education
+2001,detenues,Post-Graduate,10,3510,0.0028490028490028491,34,Education.csv,education
+2001,others,Below Class X,4853,13645,0.35566141443752292,34,Education.csv,education
+2001,others,Class X and above but below graduate,1692,13645,0.12400146573836571,34,Education.csv,education
+2001,others,Graduate,102,13645,0.0074752656650787837,34,Education.csv,education
+2001,others,Holding technical degree/diploma etc,12,13645,0.00087944301942103329,34,Education.csv,education
+2001,others,Illiterate,6964,13645,0.51037009893733964,34,Education.csv,education
+2001,others,Post-Graduate,22,13645,0.0016123122022718944,34,Education.csv,education
+2001,under_trial,Below Class X,83877,220817,0.3798484718115,34,Education.csv,education
+2001,under_trial,Class X and above but below graduate,34357,220817,0.15559037574099821,34,Education.csv,education
+2001,under_trial,Graduate,8211,220817,0.037184637052400854,34,Education.csv,education
+2001,under_trial,Holding technical degree/diploma etc,2377,220817,0.010764569756857488,34,Education.csv,education
+2001,under_trial,Illiterate,89805,220817,0.40669423096953589,34,Education.csv,education
+2001,under_trial,Post-Graduate,2190,220817,0.009917714668707573,34,Education.csv,education
+2002,convicts,Below Class X,35873,76539,0.46868916500084923,33,Education.csv,education
+2002,convicts,Class X and above but below graduate,10860,76539,0.14188844902598674,33,Education.csv,education
+2002,convicts,Graduate,2372,76539,0.030990736748585688,33,Education.csv,education
+2002,convicts,Holding technical degree/diploma etc,416,76539,0.0054351376422477433,33,Education.csv,education
+2002,convicts,Illiterate,26308,76539,0.34372019493330197,33,Education.csv,education
+2002,convicts,Post-Graduate,710,76539,0.0092763166490285997,33,Education.csv,education
+2002,detenues,Below Class X,1167,2932,0.39802182810368347,33,Education.csv,education
+2002,detenues,Class X and above but below graduate,641,2932,0.21862210095497953,33,Education.csv,education
+2002,detenues,Graduate,111,2932,0.037858117326057296,33,Education.csv,education
+2002,detenues,Holding technical degree/diploma etc,37,2932,0.0126193724420191,33,Education.csv,education
+2002,detenues,Illiterate,947,2932,0.32298772169167805,33,Education.csv,education
+2002,detenues,Post-Graduate,29,2932,0.0098908594815825378,33,Education.csv,education
+2002,others,Below Class X,165,520,0.31730769230769229,33,Education.csv,education
+2002,others,Class X and above but below graduate,58,520,0.11153846153846154,33,Education.csv,education
+2002,others,Graduate,7,520,0.013461538461538462,33,Education.csv,education
+2002,others,Holding technical degree/diploma etc,1,520,0.0019230769230769232,33,Education.csv,education
+2002,others,Illiterate,289,520,0.55576923076923079,33,Education.csv,education
+2002,others,Post-Graduate,0,520,0,33,Education.csv,education
+2002,under_trial,Below Class X,89581,220471,0.40631647699697465,33,Education.csv,education
+2002,under_trial,Class X and above but below graduate,32619,220471,0.14795143125399712,33,Education.csv,education
+2002,under_trial,Graduate,7817,220471,0.035455910301128039,33,Education.csv,education
+2002,under_trial,Holding technical degree/diploma etc,981,220471,0.0044495647953699128,33,Education.csv,education
+2002,under_trial,Illiterate,87670,220471,0.3976486703466669,33,Education.csv,education
+2002,under_trial,Post-Graduate,1803,220471,0.0081779463058633556,33,Education.csv,education
+2003,convicts,Below Class X,39466,88993,0.44347308215252884,33,Education.csv,education
+2003,convicts,Class X and above but below graduate,12978,88993,0.14583169462766735,33,Education.csv,education
+2003,convicts,Graduate,3382,88993,0.038002988999134762,33,Education.csv,education
+2003,convicts,Holding technical degree/diploma etc,891,88993,0.010012023417572168,33,Education.csv,education
+2003,convicts,Illiterate,31425,88993,0.35311766093962449,33,Education.csv,education
+2003,convicts,Post-Graduate,851,88993,0.0095625498634724082,33,Education.csv,education
+2003,detenues,Below Class X,1327,3875,0.34245161290322579,33,Education.csv,education
+2003,detenues,Class X and above but below graduate,865,3875,0.22322580645161291,33,Education.csv,education
+2003,detenues,Graduate,157,3875,0.040516129032258062,33,Education.csv,education
+2003,detenues,Holding technical degree/diploma etc,352,3875,0.09083870967741936,33,Education.csv,education
+2003,detenues,Illiterate,1123,3875,0.28980645161290325,33,Education.csv,education
+2003,detenues,Post-Graduate,51,3875,0.013161290322580645,33,Education.csv,education
+2003,others,Below Class X,5992,13066,0.45859482626664627,33,Education.csv,education
+2003,others,Class X and above but below graduate,3491,13066,0.2671819990815858,33,Education.csv,education
+2003,others,Graduate,127,13066,0.0097198836675340579,33,Education.csv,education
+2003,others,Holding technical degree/diploma etc,36,13066,0.002755242614419103,33,Education.csv,education
+2003,others,Illiterate,3341,13066,0.25570182152150622,33,Education.csv,education
+2003,others,Post-Graduate,79,13066,0.0060462268483085875,33,Education.csv,education
+2003,under_trial,Below Class X,79059,209683,0.37704058030455495,33,Education.csv,education
+2003,under_trial,Class X and above but below graduate,31441,209683,0.14994539376105837,33,Education.csv,education
+2003,under_trial,Graduate,8382,209683,0.039974628367583448,33,Education.csv,education
+2003,under_trial,Holding technical degree/diploma etc,5658,209683,0.026983589513694482,33,Education.csv,education
+2003,under_trial,Illiterate,82789,209683,0.394829337619168,33,Education.csv,education
+2003,under_trial,Post-Graduate,2354,209683,0.011226470433940759,33,Education.csv,education
+2004,convicts,Below Class X,43587,98527,0.44238635094948592,34,Education.csv,education
+2004,convicts,Class X and above but below graduate,15850,98527,0.16086960934566161,34,Education.csv,education
+2004,convicts,Graduate,4072,98527,0.041328772823692995,34,Education.csv,education
+2004,convicts,Holding technical degree/diploma etc,558,98527,0.0056634222091406419,34,Education.csv,education
+2004,convicts,Illiterate,33507,98527,0.34007936910694531,34,Education.csv,education
+2004,convicts,Post-Graduate,953,98527,0.0096724755650735329,34,Education.csv,education
+2004,detenues,Below Class X,1422,4491,0.31663326653306612,34,Education.csv,education
+2004,detenues,Class X and above but below graduate,1154,4491,0.256958361166778,34,Education.csv,education
+2004,detenues,Graduate,149,4491,0.033177466043197504,34,Education.csv,education
+2004,detenues,Holding technical degree/diploma etc,22,4491,0.0048986862614117119,34,Education.csv,education
+2004,detenues,Illiterate,1732,4491,0.38566020930750389,34,Education.csv,education
+2004,detenues,Post-Graduate,12,4491,0.0026720106880427524,34,Education.csv,education
+2004,others,Below Class X,4702,11243,0.41821577870675086,34,Education.csv,education
+2004,others,Class X and above but below graduate,2845,11243,0.25304633994485459,34,Education.csv,education
+2004,others,Graduate,74,11243,0.0065818731655252153,34,Education.csv,education
+2004,others,Holding technical degree/diploma etc,48,11243,0.0042693231343947343,34,Education.csv,education
+2004,others,Illiterate,3571,11243,0.31761985235257495,34,Education.csv,education
+2004,others,Post-Graduate,3,11243,0.00026683269589967089,34,Education.csv,education
+2004,under_trial,Below Class X,89000,217130,0.40989269101459958,34,Education.csv,education
+2004,under_trial,Class X and above but below graduate,33984,217130,0.15651453046561967,34,Education.csv,education
+2004,under_trial,Graduate,7936,217130,0.036549532538110809,34,Education.csv,education
+2004,under_trial,Holding technical degree/diploma etc,948,217130,0.0043660479896835995,34,Education.csv,education
+2004,under_trial,Illiterate,83572,217130,0.38489384239856306,34,Education.csv,education
+2004,under_trial,Post-Graduate,1690,217130,0.0077833555934232945,34,Education.csv,education
+2005,convicts,Below Class X,49977,108572,0.4603120509892053,34,Education.csv,education
+2005,convicts,Class X and above but below graduate,19450,108572,0.17914379398003169,34,Education.csv,education
+2005,convicts,Graduate,5359,108572,0.049358950742364516,34,Education.csv,education
+2005,convicts,Holding technical degree/diploma etc,743,108572,0.0068433850348156066,34,Education.csv,education
+2005,convicts,Illiterate,31775,108572,0.29266293335298238,34,Education.csv,education
+2005,convicts,Post-Graduate,1268,108572,0.011678885900600523,34,Education.csv,education
+2005,detenues,Below Class X,963,2542,0.37883556254917389,34,Education.csv,education
+2005,detenues,Class X and above but below graduate,461,2542,0.18135326514555469,34,Education.csv,education
+2005,detenues,Graduate,143,2542,0.056254917387883553,34,Education.csv,education
+2005,detenues,Holding technical degree/diploma etc,14,2542,0.0055074744295830055,34,Education.csv,education
+2005,detenues,Illiterate,948,2542,0.37293469708890636,34,Education.csv,education
+2005,detenues,Post-Graduate,13,2542,0.0051140833988985055,34,Education.csv,education
+2005,others,Below Class X,4755,10178,0.4671841226174101,34,Education.csv,education
+2005,others,Class X and above but below graduate,652,10178,0.064059736686971902,34,Education.csv,education
+2005,others,Graduate,205,10178,0.020141481627038712,34,Education.csv,education
+2005,others,Holding technical degree/diploma etc,26,10178,0.0025545293770878365,34,Education.csv,education
+2005,others,Illiterate,4529,10178,0.44497936726272352,34,Education.csv,education
+2005,others,Post-Graduate,11,10178,0.0010807624287679308,34,Education.csv,education
+2005,under_trial,Below Class X,113885,237076,0.48037338237527205,34,Education.csv,education
+2005,under_trial,Class X and above but below graduate,28763,237076,0.12132396362347939,34,Education.csv,education
+2005,under_trial,Graduate,8398,237076,0.035423239804957062,34,Education.csv,education
+2005,under_trial,Holding technical degree/diploma etc,1802,237076,0.0076009380958005027,34,Education.csv,education
+2005,under_trial,Illiterate,82628,237076,0.34852958544939178,34,Education.csv,education
+2005,under_trial,Post-Graduate,1600,237076,0.0067488906510992253,34,Education.csv,education
+2006,convicts,Below Class X,52932,116675,0.4536704521105635,34,Education.csv,education
+2006,convicts,Class X and above but below graduate,19368,116675,0.16599957145918148,34,Education.csv,education
+2006,convicts,Graduate,5680,116675,0.048682236983072641,34,Education.csv,education
+2006,convicts,Holding technical degree/diploma etc,719,116675,0.0061624169702164128,34,Education.csv,education
+2006,convicts,Illiterate,36337,116675,0.31143775444611099,34,Education.csv,education
+2006,convicts,Post-Graduate,1639,116675,0.014047568030854938,34,Education.csv,education
+2006,detenues,Below Class X,939,2275,0.41274725274725277,34,Education.csv,education
+2006,detenues,Class X and above but below graduate,386,2275,0.16967032967032966,34,Education.csv,education
+2006,detenues,Graduate,72,2275,0.031648351648351648,34,Education.csv,education
+2006,detenues,Holding technical degree/diploma etc,10,2275,0.0043956043956043956,34,Education.csv,education
+2006,detenues,Illiterate,855,2275,0.37582417582417582,34,Education.csv,education
+2006,detenues,Post-Graduate,13,2275,0.0057142857142857143,34,Education.csv,education
+2006,others,Below Class X,4596,9077,0.50633469207888071,34,Education.csv,education
+2006,others,Class X and above but below graduate,679,9077,0.074804450809738895,34,Education.csv,education
+2006,others,Graduate,212,9077,0.023355734273438362,34,Education.csv,education
+2006,others,Holding technical degree/diploma etc,9,9077,0.0009915170210421946,34,Education.csv,education
+2006,others,Illiterate,3564,9077,0.39264074033270907,34,Education.csv,education
+2006,others,Post-Graduate,17,9077,0.001872865484190812,34,Education.csv,education
+2006,under_trial,Below Class X,103548,245244,0.42222439692714198,34,Education.csv,education
+2006,under_trial,Class X and above but below graduate,35313,245244,0.1439912903067965,34,Education.csv,education
+2006,under_trial,Graduate,9559,245244,0.038977508114367732,34,Education.csv,education
+2006,under_trial,Holding technical degree/diploma etc,1032,245244,0.0042080540196702057,34,Education.csv,education
+2006,under_trial,Illiterate,93313,245244,0.38049045032702128,34,Education.csv,education
+2006,under_trial,Post-Graduate,2479,245244,0.010108300305002364,34,Education.csv,education
+2007,convicts,Below Class X,52834,120115,0.43986179910918705,34,Education.csv,education
+2007,convicts,Class X and above but below graduate,20521,120115,0.17084460725138409,34,Education.csv,education
+2007,convicts,Graduate,5340,120115,0.044457394996461723,34,Education.csv,education
+2007,convicts,Holding technical degree/diploma etc,3653,120115,0.03041252133372185,34,Education.csv,education
+2007,convicts,Illiterate,36421,120115,0.30321774965657911,34,Education.csv,education
+2007,convicts,Post-Graduate,1346,120115,0.011205927652666195,34,Education.csv,education
+2007,detenues,Below Class X,1941,4687,0.41412417324514617,34,Education.csv,education
+2007,detenues,Class X and above but below graduate,805,4687,0.1717516535097077,34,Education.csv,education
+2007,detenues,Graduate,199,4687,0.042457862171965011,34,Education.csv,education
+2007,detenues,Holding technical degree/diploma etc,54,4687,0.011521228931085982,34,Education.csv,education
+2007,detenues,Illiterate,1632,4687,0.34819714102837634,34,Education.csv,education
+2007,detenues,Post-Graduate,56,4687,0.011947941113718797,34,Education.csv,education
+2007,others,Below Class X,359,867,0.41407151095732408,34,Education.csv,education
+2007,others,Class X and above but below graduate,86,867,0.09919261822376009,34,Education.csv,education
+2007,others,Graduate,24,867,0.02768166089965398,34,Education.csv,education
+2007,others,Holding technical degree/diploma etc,3,867,0.0034602076124567475,34,Education.csv,education
+2007,others,Illiterate,379,867,0.43713956170703577,34,Education.csv,education
+2007,others,Post-Graduate,16,867,0.01845444059976932,34,Education.csv,education
+2007,under_trial,Below Class X,108642,250727,0.43330794050899984,34,Education.csv,education
+2007,under_trial,Class X and above but below graduate,39861,250727,0.15898168127086432,34,Education.csv,education
+2007,under_trial,Graduate,9762,250727,0.038934777666545684,34,Education.csv,education
+2007,under_trial,Holding technical degree/diploma etc,1344,250727,0.0053604119221304447,34,Education.csv,education
+2007,under_trial,Illiterate,88312,250727,0.3522237333833213,34,Education.csv,education
+2007,under_trial,Post-Graduate,2806,250727,0.011191455248138414,34,Education.csv,education
+2008,convicts,Below Class X,55833,123307,0.45279667820967179,34,Education.csv,education
+2008,convicts,Class X and above but below graduate,21487,123307,0.1742561249564096,34,Education.csv,education
+2008,convicts,Graduate,5593,123307,0.045358333265751338,34,Education.csv,education
+2008,convicts,Holding technical degree/diploma etc,1201,123307,0.0097399174418321757,34,Education.csv,education
+2008,convicts,Illiterate,37731,123307,0.30599236053103229,34,Education.csv,education
+2008,convicts,Post-Graduate,1462,123307,0.01185658559530278,34,Education.csv,education
+2008,detenues,Below Class X,1291,2978,0.43351242444593685,34,Education.csv,education
+2008,detenues,Class X and above but below graduate,669,2978,0.22464741437206179,34,Education.csv,education
+2008,detenues,Graduate,100,2978,0.033579583613163197,34,Education.csv,education
+2008,detenues,Holding technical degree/diploma etc,40,2978,0.013431833445265278,34,Education.csv,education
+2008,detenues,Illiterate,864,2978,0.29012760241773,34,Education.csv,education
+2008,detenues,Post-Graduate,14,2978,0.0047011417058428475,34,Education.csv,education
+2008,others,Below Class X,244,540,0.45185185185185184,34,Education.csv,education
+2008,others,Class X and above but below graduate,62,540,0.11481481481481481,34,Education.csv,education
+2008,others,Graduate,27,540,0.050000000000000003,34,Education.csv,education
+2008,others,Holding technical degree/diploma etc,4,540,0.0074074074074074077,34,Education.csv,education
+2008,others,Illiterate,199,540,0.36851851851851852,34,Education.csv,education
+2008,others,Post-Graduate,4,540,0.0074074074074074077,34,Education.csv,education
+2008,under_trial,Below Class X,108077,257928,0.41902003659936105,34,Education.csv,education
+2008,under_trial,Class X and above but below graduate,41903,257928,0.16246006637511243,34,Education.csv,education
+2008,under_trial,Graduate,10783,257928,0.041806240501225146,34,Education.csv,education
+2008,under_trial,Holding technical degree/diploma etc,2933,257928,0.01137139046555628,34,Education.csv,education
+2008,under_trial,Illiterate,90809,257928,0.35207112062280949,34,Education.csv,education
+2008,under_trial,Post-Graduate,3423,257928,0.01327114543593561,34,Education.csv,education
+2009,convicts,Below Class X,55134,123941,0.44484069032846274,35,Education.csv,education
+2009,convicts,Class X and above but below graduate,23143,123941,0.18672594218216731,35,Education.csv,education
+2009,convicts,Graduate,5337,123941,0.043060811192422201,35,Education.csv,education
+2009,convicts,Holding technical degree/diploma etc,843,123941,0.0068016233530470141,35,Education.csv,education
+2009,convicts,Illiterate,38151,123941,0.30781581558967575,35,Education.csv,education
+2009,convicts,Post-Graduate,1333,123941,0.010755117354224995,35,Education.csv,education
+2009,detenues,Below Class X,1046,2232,0.46863799283154123,35,Education.csv,education
+2009,detenues,Class X and above but below graduate,401,2232,0.17965949820788529,35,Education.csv,education
+2009,detenues,Graduate,124,2232,0.055555555555555552,35,Education.csv,education
+2009,detenues,Holding technical degree/diploma etc,23,2232,0.010304659498207885,35,Education.csv,education
+2009,detenues,Illiterate,619,2232,0.27732974910394265,35,Education.csv,education
+2009,detenues,Post-Graduate,19,2232,0.008512544802867384,35,Education.csv,education
+2009,others,Below Class X,219,592,0.36993243243243246,35,Education.csv,education
+2009,others,Class X and above but below graduate,60,592,0.10135135135135136,35,Education.csv,education
+2009,others,Graduate,14,592,0.02364864864864865,35,Education.csv,education
+2009,others,Holding technical degree/diploma etc,5,592,0.0084459459459459464,35,Education.csv,education
+2009,others,Illiterate,290,592,0.48986486486486486,35,Education.csv,education
+2009,others,Post-Graduate,4,592,0.0067567567567567571,35,Education.csv,education
+2009,under_trial,Below Class X,107465,250204,0.42950952023149108,35,Education.csv,education
+2009,under_trial,Class X and above but below graduate,43958,250204,0.17568863807133378,35,Education.csv,education
+2009,under_trial,Graduate,10934,250204,0.043700340522133937,35,Education.csv,education
+2009,under_trial,Holding technical degree/diploma etc,1439,250204,0.0057513069335422299,35,Education.csv,education
+2009,under_trial,Illiterate,83173,250204,0.33242074467234739,35,Education.csv,education
+2009,under_trial,Post-Graduate,3235,250204,0.012929449569151572,35,Education.csv,education
+2010,convicts,Below Class X,51902,117650,0.44115597110072247,34,Education.csv,education
+2010,convicts,Class X and above but below graduate,21597,117650,0.1835699107522312,34,Education.csv,education
+2010,convicts,Graduate,5150,117650,0.04377390565235869,34,Education.csv,education
+2010,convicts,Holding technical degree/diploma etc,1021,117650,0.0086782830429239267,34,Education.csv,education
+2010,convicts,Illiterate,36710,117650,0.31202719932001699,34,Education.csv,education
+2010,convicts,Post-Graduate,1270,117650,0.010794730131746706,34,Education.csv,education
+2010,detenues,Below Class X,957,2248,0.42571174377224197,34,Education.csv,education
+2010,detenues,Class X and above but below graduate,524,2248,0.23309608540925267,34,Education.csv,education
+2010,detenues,Graduate,109,2248,0.048487544483985762,34,Education.csv,education
+2010,detenues,Holding technical degree/diploma etc,20,2248,0.0088967971530249119,34,Education.csv,education
+2010,detenues,Illiterate,608,2248,0.27046263345195731,34,Education.csv,education
+2010,detenues,Post-Graduate,30,2248,0.013345195729537367,34,Education.csv,education
+2010,others,Below Class X,218,786,0.27735368956743001,34,Education.csv,education
+2010,others,Class X and above but below graduate,66,786,0.083969465648854963,34,Education.csv,education
+2010,others,Graduate,11,786,0.013994910941475827,34,Education.csv,education
+2010,others,Holding technical degree/diploma etc,6,786,0.0076335877862595417,34,Education.csv,education
+2010,others,Illiterate,480,786,0.61068702290076338,34,Education.csv,education
+2010,others,Post-Graduate,5,786,0.0063613231552162846,34,Education.csv,education
+2010,under_trial,Below Class X,95009,224033,0.42408484464342305,34,Education.csv,education
+2010,under_trial,Class X and above but below graduate,40630,224033,0.1813572107680565,34,Education.csv,education
+2010,under_trial,Graduate,9505,224033,0.042426785339659781,34,Education.csv,education
+2010,under_trial,Holding technical degree/diploma etc,1367,224033,0.0061017796485339218,34,Education.csv,education
+2010,under_trial,Illiterate,74924,224033,0.33443287372842395,34,Education.csv,education
+2010,under_trial,Post-Graduate,2598,224033,0.0115965058719028,34,Education.csv,education
+2011,convicts,Below Class X,57098,128592,0.44402451163369416,35,Education.csv,education
+2011,convicts,Class X and above but below graduate,25479,128592,0.19813829787234041,35,Education.csv,education
+2011,convicts,Graduate,5620,128592,0.043704118452158769,35,Education.csv,education
+2011,convicts,Holding technical degree/diploma etc,969,128592,0.007535460992907801,35,Education.csv,education
+2011,convicts,Illiterate,37912,128592,0.29482393928082617,35,Education.csv,education
+2011,convicts,Post-Graduate,1514,128592,0.011773671768072664,35,Education.csv,education
+2011,detenues,Below Class X,985,2450,0.4020408163265306,35,Education.csv,education
+2011,detenues,Class X and above but below graduate,581,2450,0.23714285714285716,35,Education.csv,education
+2011,detenues,Graduate,121,2450,0.049387755102040819,35,Education.csv,education
+2011,detenues,Holding technical degree/diploma etc,16,2450,0.0065306122448979594,35,Education.csv,education
+2011,detenues,Illiterate,711,2450,0.29020408163265304,35,Education.csv,education
+2011,detenues,Post-Graduate,36,2450,0.014693877551020407,35,Education.csv,education
+2011,others,Below Class X,229,684,0.33479532163742692,35,Education.csv,education
+2011,others,Class X and above but below graduate,98,684,0.14327485380116958,35,Education.csv,education
+2011,others,Graduate,16,684,0.023391812865497075,35,Education.csv,education
+2011,others,Holding technical degree/diploma etc,3,684,0.0043859649122807015,35,Education.csv,education
+2011,others,Illiterate,333,684,0.48684210526315791,35,Education.csv,education
+2011,others,Post-Graduate,5,684,0.0073099415204678359,35,Education.csv,education
+2011,under_trial,Below Class X,102852,241200,0.42641791044776117,35,Education.csv,education
+2011,under_trial,Class X and above but below graduate,48644,241200,0.20167495854063019,35,Education.csv,education
+2011,under_trial,Graduate,10698,241200,0.044353233830845773,35,Education.csv,education
+2011,under_trial,Holding technical degree/diploma etc,1649,241200,0.0068366500829187393,35,Education.csv,education
+2011,under_trial,Illiterate,74203,241200,0.30764096185737977,35,Education.csv,education
+2011,under_trial,Post-Graduate,3154,241200,0.013076285240464345,35,Education.csv,education
+2012,convicts,Below Class X,58014,127789,0.4539827371683009,35,Education.csv,education
+2012,convicts,Class X and above but below graduate,24417,127789,0.19107278404244496,35,Education.csv,education
+2012,convicts,Graduate,5356,127789,0.041912840698338664,35,Education.csv,education
+2012,convicts,Holding technical degree/diploma etc,1167,127789,0.0091322414292309972,35,Education.csv,education
+2012,convicts,Illiterate,37255,127789,0.29153526516366823,35,Education.csv,education
+2012,convicts,Post-Graduate,1580,127789,0.012364131498016261,35,Education.csv,education
+2012,detenues,Below Class X,830,1922,0.43184183142559834,35,Education.csv,education
+2012,detenues,Class X and above but below graduate,323,1922,0.16805411030176898,35,Education.csv,education
+2012,detenues,Graduate,93,1922,0.048387096774193547,35,Education.csv,education
+2012,detenues,Holding technical degree/diploma etc,6,1922,0.0031217481789802288,35,Education.csv,education
+2012,detenues,Illiterate,654,1922,0.34027055150884494,35,Education.csv,education
+2012,detenues,Post-Graduate,16,1922,0.0083246618106139446,35,Education.csv,education
+2012,others,Below Class X,252,567,0.44444444444444442,35,Education.csv,education
+2012,others,Class X and above but below graduate,82,567,0.14462081128747795,35,Education.csv,education
+2012,others,Graduate,16,567,0.02821869488536155,35,Education.csv,education
+2012,others,Holding technical degree/diploma etc,5,567,0.0088183421516754845,35,Education.csv,education
+2012,others,Illiterate,207,567,0.36507936507936506,35,Education.csv,education
+2012,others,Post-Graduate,5,567,0.0088183421516754845,35,Education.csv,education
+2012,under_trial,Below Class X,110385,254857,0.43312524278320785,35,Education.csv,education
+2012,under_trial,Class X and above but below graduate,49871,254857,0.19568228457527162,35,Education.csv,education
+2012,under_trial,Graduate,12459,254857,0.048886238164931706,35,Education.csv,education
+2012,under_trial,Holding technical degree/diploma etc,2045,254857,0.0080241076368316351,35,Education.csv,education
+2012,under_trial,Illiterate,76626,254857,0.30066272458672905,35,Education.csv,education
+2012,under_trial,Post-Graduate,3471,254857,0.013619402253028169,35,Education.csv,education
+2013,convicts,Below Class X,55746,129608,0.43011233874452193,35,Education.csv,education
+2013,convicts,Class X and above but below graduate,27706,129608,0.21376766866242825,35,Education.csv,education
+2013,convicts,Graduate,6002,129608,0.046308869822850443,35,Education.csv,education
+2013,convicts,Holding technical degree/diploma etc,1584,129608,0.012221467810628973,35,Education.csv,education
+2013,convicts,Illiterate,36507,129608,0.28167242762792422,35,Education.csv,education
+2013,convicts,Post-Graduate,2063,129608,0.015917227331646196,35,Education.csv,education
+2013,detenues,Below Class X,1182,3113,0.37969804047542566,35,Education.csv,education
+2013,detenues,Class X and above but below graduate,566,3113,0.18181818181818182,35,Education.csv,education
+2013,detenues,Graduate,136,3113,0.043687761002248637,35,Education.csv,education
+2013,detenues,Holding technical degree/diploma etc,24,3113,0.0077096048827497588,35,Education.csv,education
+2013,detenues,Illiterate,1152,3113,0.37006103437198845,35,Education.csv,education
+2013,detenues,Post-Graduate,53,3113,0.017025377449405719,35,Education.csv,education
+2013,others,Below Class X,344,768,0.44791666666666669,35,Education.csv,education
+2013,others,Class X and above but below graduate,52,768,0.067708333333333329,35,Education.csv,education
+2013,others,Graduate,14,768,0.018229166666666668,35,Education.csv,education
+2013,others,Holding technical degree/diploma etc,0,768,0,35,Education.csv,education
+2013,others,Illiterate,357,768,0.46484375,35,Education.csv,education
+2013,others,Post-Graduate,1,768,0.0013020833333333333,35,Education.csv,education
+2013,under_trial,Below Class X,117373,278503,0.4214424979264137,35,Education.csv,education
+2013,under_trial,Class X and above but below graduate,56806,278503,0.20396907753237847,35,Education.csv,education
+2013,under_trial,Graduate,16233,278503,0.058286625278722311,35,Education.csv,education
+2013,under_trial,Holding technical degree/diploma etc,2642,278503,0.0094864328211904363,35,Education.csv,education
+2013,under_trial,Illiterate,80393,278503,0.28866116343450521,35,Education.csv,education
+2013,under_trial,Post-Graduate,5056,278503,0.018154203006789871,35,Education.csv,education
+2001,convicts,OBC,21389,73102,0.29259117397608819,31,Caste.csv,caste
+2001,convicts,Others,23453,73102,0.32082569560340346,31,Caste.csv,caste
+2001,convicts,SC,17152,73102,0.23463106344559656,31,Caste.csv,caste
+2001,convicts,ST,11108,73102,0.15195206697491176,31,Caste.csv,caste
+2001,detenues,OBC,867,3044,0.28482260183968461,31,Caste.csv,caste
+2001,detenues,Others,981,3044,0.32227332457293034,31,Caste.csv,caste
+2001,detenues,SC,845,3044,0.2775952693823916,31,Caste.csv,caste
+2001,detenues,ST,351,3044,0.11530880420499343,31,Caste.csv,caste
+2001,others,OBC,6949,13642,0.50938278844744167,31,Caste.csv,caste
+2001,others,Others,1550,13642,0.11361970385573963,31,Caste.csv,caste
+2001,others,SC,4423,13642,0.32421932267995895,31,Caste.csv,caste
+2001,others,ST,720,13642,0.052778185016859699,31,Caste.csv,caste
+2001,under_trial,OBC,61209,210794,0.29037354004383426,31,Caste.csv,caste
+2001,under_trial,Others,66974,210794,0.31772251582113342,31,Caste.csv,caste
+2001,under_trial,SC,54878,210794,0.26033947835327381,31,Caste.csv,caste
+2001,under_trial,ST,27733,210794,0.13156446578175848,31,Caste.csv,caste
+2002,convicts,OBC,22922,79651,0.28778044217900589,32,Caste.csv,caste
+2002,convicts,Others,26838,79651,0.33694492222319872,32,Caste.csv,caste
+2002,convicts,SC,17232,79651,0.21634379982674418,32,Caste.csv,caste
+2002,convicts,ST,12659,79651,0.15893083577105122,32,Caste.csv,caste
+2002,detenues,OBC,1157,4780,0.24205020920502093,32,Caste.csv,caste
+2002,detenues,Others,1694,4780,0.35439330543933056,32,Caste.csv,caste
+2002,detenues,SC,1386,4780,0.2899581589958159,32,Caste.csv,caste
+2002,detenues,ST,543,4780,0.11359832635983264,32,Caste.csv,caste
+2002,others,OBC,4718,12366,0.38153000161733786,32,Caste.csv,caste
+2002,others,Others,1376,12366,0.11127284489729905,32,Caste.csv,caste
+2002,others,SC,5192,12366,0.4198609089438784,32,Caste.csv,caste
+2002,others,ST,1080,12366,0.087336244541484712,32,Caste.csv,caste
+2002,under_trial,OBC,56614,213188,0.26555903709402029,32,Caste.csv,caste
+2002,under_trial,Others,76232,213188,0.35758110212582322,32,Caste.csv,caste
+2002,under_trial,SC,49249,213188,0.23101206446891945,32,Caste.csv,caste
+2002,under_trial,ST,31093,213188,0.14584779631123704,32,Caste.csv,caste
+2003,convicts,OBC,25523,86559,0.29486246375304703,31,Caste.csv,caste
+2003,convicts,Others,29286,86559,0.33833570166013932,31,Caste.csv,caste
+2003,convicts,SC,17942,86559,0.20728058318603496,31,Caste.csv,caste
+2003,convicts,ST,13808,86559,0.15952125140077866,31,Caste.csv,caste
+2003,detenues,OBC,631,3438,0.1835369400814427,31,Caste.csv,caste
+2003,detenues,Others,1415,3438,0.41157649796393253,31,Caste.csv,caste
+2003,detenues,SC,1050,3438,0.30541012216404889,31,Caste.csv,caste
+2003,detenues,ST,342,3438,0.09947643979057591,31,Caste.csv,caste
+2003,others,OBC,4399,13066,0.33667534057860093,31,Caste.csv,caste
+2003,others,Others,2148,13066,0.16439614266033981,31,Caste.csv,caste
+2003,others,SC,4929,13066,0.37723863462421553,31,Caste.csv,caste
+2003,others,ST,1590,13066,0.12168988213684372,31,Caste.csv,caste
+2003,under_trial,OBC,50914,198487,0.2565105019472308,31,Caste.csv,caste
+2003,under_trial,Others,74872,198487,0.37721362104319173,31,Caste.csv,caste
+2003,under_trial,SC,44413,198487,0.22375772720631579,31,Caste.csv,caste
+2003,under_trial,ST,28288,198487,0.14251814980326166,31,Caste.csv,caste
+2004,convicts,OBC,28169,95819,0.29398136069046849,32,Caste.csv,caste
+2004,convicts,Others,31757,95819,0.33142696124985649,32,Caste.csv,caste
+2004,convicts,SC,20257,95819,0.21140901073899748,32,Caste.csv,caste
+2004,convicts,ST,15636,95819,0.16318266732067752,32,Caste.csv,caste
+2004,detenues,OBC,1160,4025,0.28819875776397513,32,Caste.csv,caste
+2004,detenues,Others,1458,4025,0.36223602484472051,32,Caste.csv,caste
+2004,detenues,SC,940,4025,0.23354037267080746,32,Caste.csv,caste
+2004,detenues,ST,467,4025,0.1160248447204969,32,Caste.csv,caste
+2004,others,OBC,3426,11242,0.30475004447607185,32,Caste.csv,caste
+2004,others,Others,2449,11242,0.21784380003558085,32,Caste.csv,caste
+2004,others,SC,3985,11242,0.35447429283045723,32,Caste.csv,caste
+2004,others,ST,1382,11242,0.12293186265789005,32,Caste.csv,caste
+2004,under_trial,OBC,55080,205656,0.26782588400046681,32,Caste.csv,caste
+2004,under_trial,Others,81033,205656,0.39402205624927061,32,Caste.csv,caste
+2004,under_trial,SC,44470,205656,0.21623487765978139,32,Caste.csv,caste
+2004,under_trial,ST,25073,205656,0.12191718209048119,32,Caste.csv,caste
+2005,convicts,OBC,31220,106062,0.29435613131941696,33,Caste.csv,caste
+2005,convicts,Others,36459,106062,0.34375176783390848,33,Caste.csv,caste
+2005,convicts,SC,22052,106062,0.20791612453093475,33,Caste.csv,caste
+2005,convicts,ST,16331,106062,0.15397597631573984,33,Caste.csv,caste
+2005,detenues,OBC,598,2526,0.23673792557403009,33,Caste.csv,caste
+2005,detenues,Others,842,2526,0.33333333333333331,33,Caste.csv,caste
+2005,detenues,SC,787,2526,0.31155977830562154,33,Caste.csv,caste
+2005,detenues,ST,299,2526,0.11836896278701504,33,Caste.csv,caste
+2005,others,OBC,3487,10178,0.34260168991943407,33,Caste.csv,caste
+2005,others,Others,503,10178,0.04942031833366084,33,Caste.csv,caste
+2005,others,SC,5556,10178,0.54588327765769307,33,Caste.csv,caste
+2005,others,ST,632,10178,0.062094714089212029,33,Caste.csv,caste
+2005,under_trial,OBC,66080,227285,0.29073630023978703,33,Caste.csv,caste
+2005,under_trial,Others,90355,227285,0.3975405328112282,33,Caste.csv,caste
+2005,under_trial,SC,43684,227285,0.19219922124205294,33,Caste.csv,caste
+2005,under_trial,ST,27166,227285,0.11952394570693183,33,Caste.csv,caste
+2006,convicts,OBC,32801,114226,0.28715879046801956,33,Caste.csv,caste
+2006,convicts,Others,39010,114226,0.34151594207973668,33,Caste.csv,caste
+2006,convicts,SC,24454,114226,0.21408435907761805,33,Caste.csv,caste
+2006,convicts,ST,17961,114226,0.15724090837462573,33,Caste.csv,caste
+2006,detenues,OBC,564,2258,0.24977856510186006,33,Caste.csv,caste
+2006,detenues,Others,823,2258,0.36448184233835251,33,Caste.csv,caste
+2006,detenues,SC,588,2258,0.2604074402125775,33,Caste.csv,caste
+2006,detenues,ST,283,2258,0.12533215234720993,33,Caste.csv,caste
+2006,others,OBC,3264,9077,0.35959017296463591,33,Caste.csv,caste
+2006,others,Others,470,9077,0.051779222209981268,33,Caste.csv,caste
+2006,others,SC,4694,9077,0.51713121075245128,33,Caste.csv,caste
+2006,others,ST,649,9077,0.071499394072931585,33,Caste.csv,caste
+2006,under_trial,OBC,65537,234310,0.27970210405018991,33,Caste.csv,caste
+2006,under_trial,Others,84153,234310,0.35915240493363493,33,Caste.csv,caste
+2006,under_trial,SC,54210,234310,0.23136016388545089,33,Caste.csv,caste
+2006,under_trial,ST,30410,234310,0.12978532713072424,33,Caste.csv,caste
+2007,convicts,OBC,35352,117847,0.29998218028460633,33,Caste.csv,caste
+2007,convicts,Others,38367,117847,0.32556620024268756,33,Caste.csv,caste
+2007,convicts,SC,26083,117847,0.22132935076836915,33,Caste.csv,caste
+2007,convicts,ST,18045,117847,0.15312226870433698,33,Caste.csv,caste
+2007,detenues,OBC,1536,4664,0.32933104631217841,33,Caste.csv,caste
+2007,detenues,Others,1701,4664,0.36470840480274441,33,Caste.csv,caste
+2007,detenues,SC,1031,4664,0.22105488850771871,33,Caste.csv,caste
+2007,detenues,ST,396,4664,0.084905660377358486,33,Caste.csv,caste
+2007,others,OBC,141,867,0.16262975778546712,33,Caste.csv,caste
+2007,others,Others,437,867,0.50403690888119956,33,Caste.csv,caste
+2007,others,SC,181,867,0.20876585928489041,33,Caste.csv,caste
+2007,others,ST,108,867,0.1245674740484429,33,Caste.csv,caste
+2007,under_trial,OBC,68115,241413,0.28215133402095166,33,Caste.csv,caste
+2007,under_trial,Others,89033,241413,0.36879952612328248,33,Caste.csv,caste
+2007,under_trial,SC,54324,241413,0.22502516434491929,33,Caste.csv,caste
+2007,under_trial,ST,29941,241413,0.12402397551084655,33,Caste.csv,caste
+2008,convicts,OBC,36677,121329,0.30229376323879698,33,Caste.csv,caste
+2008,convicts,Others,41203,121329,0.33959729330992589,33,Caste.csv,caste
+2008,convicts,SC,25491,121329,0.21009816284647528,33,Caste.csv,caste
+2008,convicts,ST,17958,121329,0.14801078060480183,33,Caste.csv,caste
+2008,detenues,OBC,1139,2959,0.38492734031767489,33,Caste.csv,caste
+2008,detenues,Others,834,2959,0.28185197701926329,33,Caste.csv,caste
+2008,detenues,SC,600,2959,0.20277120648867861,33,Caste.csv,caste
+2008,detenues,ST,386,2959,0.13044947617438324,33,Caste.csv,caste
+2008,others,OBC,72,536,0.13432835820895522,33,Caste.csv,caste
+2008,others,Others,335,536,0.625,33,Caste.csv,caste
+2008,others,SC,91,536,0.16977611940298507,33,Caste.csv,caste
+2008,others,ST,38,536,0.070895522388059698,33,Caste.csv,caste
+2008,under_trial,OBC,76087,248376,0.30633797146262121,33,Caste.csv,caste
+2008,under_trial,Others,88914,248376,0.3579814474828486,33,Caste.csv,caste
+2008,under_trial,SC,54069,248376,0.21769011498695526,33,Caste.csv,caste
+2008,under_trial,ST,29306,248376,0.11799046606757496,33,Caste.csv,caste
+2009,convicts,OBC,36966,121646,0.30388175525705735,34,Caste.csv,caste
+2009,convicts,Others,38897,121646,0.31975568452723474,34,Caste.csv,caste
+2009,convicts,SC,26865,121646,0.22084573269980107,34,Caste.csv,caste
+2009,convicts,ST,18918,121646,0.15551682751590681,34,Caste.csv,caste
+2009,detenues,OBC,945,2217,0.42625169147496617,34,Caste.csv,caste
+2009,detenues,Others,616,2217,0.27785295444294089,34,Caste.csv,caste
+2009,detenues,SC,397,2217,0.17907081641858366,34,Caste.csv,caste
+2009,detenues,ST,259,2217,0.11682453766350925,34,Caste.csv,caste
+2009,others,OBC,62,587,0.10562180579216354,34,Caste.csv,caste
+2009,others,Others,378,587,0.64395229982964219,34,Caste.csv,caste
+2009,others,SC,95,587,0.16183986371379896,34,Caste.csv,caste
+2009,others,ST,52,587,0.088586030664395229,34,Caste.csv,caste
+2009,under_trial,OBC,75288,241273,0.31204486204424037,34,Caste.csv,caste
+2009,under_trial,Others,77251,241273,0.32018087394776873,34,Caste.csv,caste
+2009,under_trial,SC,57003,241273,0.23625934107836352,34,Caste.csv,caste
+2009,under_trial,ST,31731,241273,0.13151492292962744,34,Caste.csv,caste
+2010,convicts,OBC,36170,123038,0.29397421934686846,34,Caste.csv,caste
+2010,convicts,Others,41784,123038,0.33960239925876556,34,Caste.csv,caste
+2010,convicts,SC,27355,123038,0.22232968676343895,34,Caste.csv,caste
+2010,convicts,ST,17729,123038,0.14409369463092703,34,Caste.csv,caste
+2010,detenues,OBC,907,2312,0.39230103806228372,34,Caste.csv,caste
+2010,detenues,Others,775,2312,0.33520761245674741,34,Caste.csv,caste
+2010,detenues,SC,386,2312,0.16695501730103807,34,Caste.csv,caste
+2010,detenues,ST,244,2312,0.10553633217993079,34,Caste.csv,caste
+2010,others,OBC,54,781,0.069142125480153652,34,Caste.csv,caste
+2010,others,Others,569,781,0.72855313700384128,34,Caste.csv,caste
+2010,others,SC,123,781,0.15749039692701663,34,Caste.csv,caste
+2010,others,ST,35,781,0.044814340588988477,34,Caste.csv,caste
+2010,under_trial,OBC,70123,232011,0.30223998000094821,34,Caste.csv,caste
+2010,under_trial,Others,81219,232011,0.35006529862808228,34,Caste.csv,caste
+2010,under_trial,SC,50960,232011,0.21964475822267049,34,Caste.csv,caste
+2010,under_trial,ST,29709,232011,0.128049963148299,34,Caste.csv,caste
+2011,convicts,OBC,36964,128592,0.28745178549209904,35,Caste.csv,caste
+2011,convicts,Others,45303,128592,0.35230029861888762,35,Caste.csv,caste
+2011,convicts,SC,28033,128592,0.2179995645141222,35,Caste.csv,caste
+2011,convicts,ST,18292,128592,0.14224835137489114,35,Caste.csv,caste
+2011,detenues,OBC,1042,2450,0.42530612244897958,35,Caste.csv,caste
+2011,detenues,Others,619,2450,0.25265306122448977,35,Caste.csv,caste
+2011,detenues,SC,536,2450,0.21877551020408162,35,Caste.csv,caste
+2011,detenues,ST,253,2450,0.10326530612244898,35,Caste.csv,caste
+2011,others,OBC,75,684,0.10964912280701754,35,Caste.csv,caste
+2011,others,Others,479,684,0.70029239766081874,35,Caste.csv,caste
+2011,others,SC,87,684,0.12719298245614036,35,Caste.csv,caste
+2011,others,ST,43,684,0.062865497076023388,35,Caste.csv,caste
+2011,under_trial,OBC,71104,241200,0.29479270315091211,35,Caste.csv,caste
+2011,under_trial,Others,84650,241200,0.35095356550580431,35,Caste.csv,caste
+2011,under_trial,SC,53794,241200,0.22302653399668326,35,Caste.csv,caste
+2011,under_trial,ST,31652,241200,0.13122719734660032,35,Caste.csv,caste
+2012,convicts,OBC,37451,127789,0.29306904350139684,35,Caste.csv,caste
+2012,convicts,Others,44744,127789,0.35013968338432888,35,Caste.csv,caste
+2012,convicts,SC,27898,127789,0.21831300033649217,35,Caste.csv,caste
+2012,convicts,ST,17696,127789,0.13847827277778213,35,Caste.csv,caste
+2012,detenues,OBC,680,1922,0.35379812695109258,35,Caste.csv,caste
+2012,detenues,Others,627,1922,0.32622268470343391,35,Caste.csv,caste
+2012,detenues,SC,374,1922,0.19458896982310095,35,Caste.csv,caste
+2012,detenues,ST,241,1922,0.12539021852237253,35,Caste.csv,caste
+2012,others,OBC,62,567,0.10934744268077601,35,Caste.csv,caste
+2012,others,Others,343,567,0.60493827160493829,35,Caste.csv,caste
+2012,others,SC,124,567,0.21869488536155202,35,Caste.csv,caste
+2012,others,ST,38,567,0.067019400352733682,35,Caste.csv,caste
+2012,under_trial,OBC,75723,254857,0.29711956116567328,35,Caste.csv,caste
+2012,under_trial,Others,88037,254857,0.34543685282334802,35,Caste.csv,caste
+2012,under_trial,SC,57197,254857,0.22442781638330514,35,Caste.csv,caste
+2012,under_trial,ST,33900,254857,0.13301576962767356,35,Caste.csv,caste
+2013,convicts,OBC,41446,129608,0.31977964323189928,35,Caste.csv,caste
+2013,convicts,Others,43855,129608,0.33836645886056416,35,Caste.csv,caste
+2013,convicts,SC,29130,129608,0.22475464477501389,35,Caste.csv,caste
+2013,convicts,ST,15177,129608,0.11709925313252269,35,Caste.csv,caste
+2013,detenues,OBC,822,3113,0.26405396723417923,35,Caste.csv,caste
+2013,detenues,Others,820,3113,0.26341150016061676,35,Caste.csv,caste
+2013,detenues,SC,964,3113,0.30966912945711533,35,Caste.csv,caste
+2013,detenues,ST,507,3113,0.16286540314808867,35,Caste.csv,caste
+2013,others,OBC,126,768,0.1640625,35,Caste.csv,caste
+2013,others,Others,532,768,0.69270833333333337,35,Caste.csv,caste
+2013,others,SC,69,768,0.08984375,35,Caste.csv,caste
+2013,others,ST,41,768,0.053385416666666664,35,Caste.csv,caste
+2013,under_trial,OBC,87848,278503,0.31542927724297404,35,Caste.csv,caste
+2013,under_trial,Others,99748,278503,0.35815772181987265,35,Caste.csv,caste
+2013,under_trial,SC,59326,278503,0.21301745403101582,35,Caste.csv,caste
+2013,under_trial,ST,31581,278503,0.11339554690613746,35,Caste.csv,caste
+2001,convicts,Christian,2974,75663,0.039305869447418158,34,Religion.csv,religion
+2001,convicts,Hindu,53334,75663,0.70488878315689307,34,Religion.csv,religion
+2001,convicts,Muslim,13267,75663,0.17534329857393971,34,Religion.csv,religion
+2001,convicts,Others,2989,75663,0.039504116939587379,34,Religion.csv,religion
+2001,convicts,Sikh,3099,75663,0.040957931882161694,34,Religion.csv,religion
+2001,detenues,Christian,258,3510,0.073504273504273507,34,Religion.csv,religion
+2001,detenues,Hindu,1902,3510,0.54188034188034184,34,Religion.csv,religion
+2001,detenues,Muslim,962,3510,0.27407407407407408,34,Religion.csv,religion
+2001,detenues,Others,365,3510,0.10398860398860399,34,Religion.csv,religion
+2001,detenues,Sikh,23,3510,0.0065527065527065526,34,Religion.csv,religion
+2001,others,Christian,1293,13645,0.094759985342616343,34,Religion.csv,religion
+2001,others,Hindu,10702,13645,0.78431659948699162,34,Religion.csv,religion
+2001,others,Muslim,1220,13645,0.089410040307805055,34,Religion.csv,religion
+2001,others,Others,364,13645,0.026676438255771345,34,Religion.csv,religion
+2001,others,Sikh,66,13645,0.0048369366068156837,34,Religion.csv,religion
+2001,under_trial,Christian,7391,220817,0.033471154847679298,34,Religion.csv,religion
+2001,under_trial,Hindu,147660,220817,0.66869851505998179,34,Religion.csv,religion
+2001,under_trial,Muslim,53236,220817,0.24108651054945951,34,Religion.csv,religion
+2001,under_trial,Others,5189,220817,0.023499096536951411,34,Religion.csv,religion
+2001,under_trial,Sikh,7341,220817,0.033244723005927984,34,Religion.csv,religion
+2002,convicts,Christian,3670,82121,0.044690152336186846,34,Religion.csv,religion
+2002,convicts,Hindu,60024,82121,0.73092144518454472,34,Religion.csv,religion
+2002,convicts,Muslim,13678,82121,0.16655910181317812,34,Religion.csv,religion
+2002,convicts,Others,1430,82121,0.017413329111920214,34,Religion.csv,religion
+2002,convicts,Sikh,3319,82121,0.040415971554170066,34,Religion.csv,religion
+2002,detenues,Christian,327,4832,0.067673841059602655,34,Religion.csv,religion
+2002,detenues,Hindu,2870,4832,0.5939569536423841,34,Religion.csv,religion
+2002,detenues,Muslim,1516,4832,0.31374172185430466,34,Religion.csv,religion
+2002,detenues,Others,75,4832,0.015521523178807946,34,Religion.csv,religion
+2002,detenues,Sikh,44,4832,0.0091059602649006619,34,Religion.csv,religion
+2002,others,Christian,485,12366,0.039220443150574158,34,Religion.csv,religion
+2002,others,Hindu,10873,12366,0.87926572861070673,34,Religion.csv,religion
+2002,others,Muslim,905,12366,0.07318453825004044,34,Religion.csv,religion
+2002,others,Others,65,12366,0.0052563480511078767,34,Religion.csv,religion
+2002,others,Sikh,38,12366,0.0030729419375707585,34,Religion.csv,religion
+2002,under_trial,Christian,7052,223038,0.031617930576852374,34,Religion.csv,religion
+2002,under_trial,Hindu,148828,223038,0.66727642823196043,34,Religion.csv,religion
+2002,under_trial,Muslim,55135,223038,0.2472000286946619,34,Religion.csv,religion
+2002,under_trial,Others,4264,223038,0.019117818488329344,34,Religion.csv,religion
+2002,under_trial,Sikh,7759,223038,0.034787794008195913,34,Religion.csv,religion
+2003,convicts,Christian,4951,88993,0.055633589158697878,33,Religion.csv,religion
+2003,convicts,Hindu,62223,88993,0.69918982391873519,33,Religion.csv,religion
+2003,convicts,Muslim,16834,88993,0.18916094524288427,33,Religion.csv,religion
+2003,convicts,Others,1485,88993,0.016686705695953614,33,Religion.csv,religion
+2003,convicts,Sikh,3500,88993,0.039328935983729059,33,Religion.csv,religion
+2003,detenues,Christian,342,3875,0.088258064516129026,33,Religion.csv,religion
+2003,detenues,Hindu,1901,3875,0.4905806451612903,33,Religion.csv,religion
+2003,detenues,Muslim,1297,3875,0.33470967741935481,33,Religion.csv,religion
+2003,detenues,Others,308,3875,0.07948387096774194,33,Religion.csv,religion
+2003,detenues,Sikh,27,3875,0.0069677419354838713,33,Religion.csv,religion
+2003,others,Christian,2700,13066,0.20664319608143272,33,Religion.csv,religion
+2003,others,Hindu,8475,13066,0.64863003214449722,33,Religion.csv,religion
+2003,others,Muslim,1833,13066,0.14028776978417265,33,Religion.csv,religion
+2003,others,Others,44,13066,0.0033675187509566813,33,Religion.csv,religion
+2003,others,Sikh,14,13066,0.0010714832389407624,33,Religion.csv,religion
+2003,under_trial,Christian,7392,209683,0.035253215568262566,33,Religion.csv,religion
+2003,under_trial,Hindu,142245,209683,0.67838117539333187,33,Religion.csv,religion
+2003,under_trial,Muslim,48326,209683,0.2304717120605867,33,Religion.csv,religion
+2003,under_trial,Others,3747,209683,0.017869832079853876,33,Religion.csv,religion
+2003,under_trial,Sikh,7973,209683,0.038024064897965025,33,Religion.csv,religion
+2004,convicts,Christian,4753,98527,0.048240583799364641,34,Religion.csv,religion
+2004,convicts,Hindu,69666,98527,0.70707521796055905,34,Religion.csv,religion
+2004,convicts,Muslim,18851,98527,0.19132826534858466,34,Religion.csv,religion
+2004,convicts,Others,1148,98527,0.011651628487622682,34,Religion.csv,religion
+2004,convicts,Sikh,4109,98527,0.041704304403868991,34,Religion.csv,religion
+2004,detenues,Christian,185,4491,0.041193498107325761,34,Religion.csv,religion
+2004,detenues,Hindu,2513,4491,0.55956357158761971,34,Religion.csv,religion
+2004,detenues,Muslim,1275,4491,0.28390113560454244,34,Religion.csv,religion
+2004,detenues,Others,504,4491,0.11222444889779559,34,Religion.csv,religion
+2004,detenues,Sikh,14,4491,0.0031173458027165444,34,Religion.csv,religion
+2004,others,Christian,1507,11243,0.13403895757360135,34,Religion.csv,religion
+2004,others,Hindu,7402,11243,0.65836520501645468,34,Religion.csv,religion
+2004,others,Muslim,2287,11243,0.2034154585075158,34,Religion.csv,religion
+2004,others,Others,44,11243,0.0039135462065285065,34,Religion.csv,religion
+2004,others,Sikh,3,11243,0.00026683269589967089,34,Religion.csv,religion
+2004,under_trial,Christian,7248,217130,0.033380923870492331,34,Religion.csv,religion
+2004,under_trial,Hindu,151119,217130,0.69598397273522772,34,Religion.csv,religion
+2004,under_trial,Muslim,48917,217130,0.22528899737484456,34,Religion.csv,religion
+2004,under_trial,Others,1669,217130,0.0076866393404872654,34,Religion.csv,religion
+2004,under_trial,Sikh,8177,217130,0.037659466678948095,34,Religion.csv,religion
+2005,convicts,Christian,4529,108572,0.041714254135504551,34,Religion.csv,religion
+2005,convicts,Hindu,78718,108572,0.72503039457687068,34,Religion.csv,religion
+2005,convicts,Muslim,19561,108572,0.1801661570202262,34,Religion.csv,religion
+2005,convicts,Others,1606,108572,0.014792027410382051,34,Religion.csv,religion
+2005,convicts,Sikh,4158,108572,0.038297166857016542,34,Religion.csv,religion
+2005,detenues,Christian,117,2542,0.046026750590086547,34,Religion.csv,religion
+2005,detenues,Hindu,1336,2542,0.52557041699449247,34,Religion.csv,religion
+2005,detenues,Muslim,946,2542,0.37214791502753736,34,Religion.csv,religion
+2005,detenues,Others,53,2542,0.020849724626278522,34,Religion.csv,religion
+2005,detenues,Sikh,90,2542,0.035405192761605038,34,Religion.csv,religion
+2005,others,Christian,506,10178,0.049715071723324816,34,Religion.csv,religion
+2005,others,Hindu,7958,10178,0.78188249164865398,34,Religion.csv,religion
+2005,others,Muslim,1254,10178,0.12320691687954412,34,Religion.csv,religion
+2005,others,Others,450,10178,0.04421300844959717,34,Religion.csv,religion
+2005,others,Sikh,10,10178,0.00098251129887993722,34,Religion.csv,religion
+2005,under_trial,Christian,6883,237076,0.029032883969697481,34,Religion.csv,religion
+2005,under_trial,Hindu,167785,237076,0.70772663618417719,34,Religion.csv,religion
+2005,under_trial,Muslim,51674,237076,0.21796385969056337,34,Religion.csv,religion
+2005,under_trial,Others,2984,237076,0.012586681064300055,34,Religion.csv,religion
+2005,under_trial,Sikh,7750,237076,0.032689939091261874,34,Religion.csv,religion
+2006,convicts,Christian,4043,116675,0.034651810584958219,34,Religion.csv,religion
+2006,convicts,Hindu,86506,116675,0.74142704092564815,34,Religion.csv,religion
+2006,convicts,Muslim,20621,116675,0.17673880437111636,34,Religion.csv,religion
+2006,convicts,Others,1269,116675,0.01087636597385901,34,Religion.csv,religion
+2006,convicts,Sikh,4236,116675,0.036305978144418258,34,Religion.csv,religion
+2006,detenues,Christian,119,2275,0.052307692307692305,34,Religion.csv,religion
+2006,detenues,Hindu,1139,2275,0.5006593406593407,34,Religion.csv,religion
+2006,detenues,Muslim,918,2275,0.4035164835164835,34,Religion.csv,religion
+2006,detenues,Others,55,2275,0.024175824175824177,34,Religion.csv,religion
+2006,detenues,Sikh,44,2275,0.019340659340659341,34,Religion.csv,religion
+2006,others,Christian,522,9077,0.057507987220447282,34,Religion.csv,religion
+2006,others,Hindu,6883,9077,0.75829018398149173,34,Religion.csv,religion
+2006,others,Muslim,1218,9077,0.13418530351437699,34,Religion.csv,religion
+2006,others,Others,445,9077,0.049025008262641841,34,Religion.csv,religion
+2006,others,Sikh,9,9077,0.0009915170210421946,34,Religion.csv,religion
+2006,under_trial,Christian,6415,245244,0.026157622612581755,34,Religion.csv,religion
+2006,under_trial,Hindu,173008,245244,0.70545252890998356,34,Religion.csv,religion
+2006,under_trial,Muslim,54776,245244,0.22335306878047984,34,Religion.csv,religion
+2006,under_trial,Others,2841,245244,0.011584381269266527,34,Religion.csv,religion
+2006,under_trial,Sikh,8204,245244,0.033452398427688344,34,Religion.csv,religion
+2007,convicts,Christian,4480,120115,0.037297589809765642,34,Religion.csv,religion
+2007,convicts,Hindu,90546,120115,0.75382758190067856,34,Religion.csv,religion
+2007,convicts,Muslim,19624,120115,0.16337676393456271,34,Religion.csv,religion
+2007,convicts,Others,1308,120115,0.010889564167672647,34,Religion.csv,religion
+2007,convicts,Sikh,4157,120115,0.034608500187320486,34,Religion.csv,religion
+2007,detenues,Christian,174,4687,0.037123959889054835,34,Religion.csv,religion
+2007,detenues,Hindu,2959,4687,0.63132067420524851,34,Religion.csv,religion
+2007,detenues,Muslim,1439,4687,0.30701941540430977,34,Religion.csv,religion
+2007,detenues,Others,53,4687,0.011307872839769575,34,Religion.csv,religion
+2007,detenues,Sikh,62,4687,0.01322807766161724,34,Religion.csv,religion
+2007,others,Christian,16,867,0.01845444059976932,34,Religion.csv,religion
+2007,others,Hindu,443,867,0.51095732410611305,34,Religion.csv,religion
+2007,others,Muslim,353,867,0.4071510957324106,34,Religion.csv,religion
+2007,others,Others,24,867,0.02768166089965398,34,Religion.csv,religion
+2007,others,Sikh,31,867,0.035755478662053058,34,Religion.csv,religion
+2007,under_trial,Christian,7663,250727,0.030563122439944641,34,Religion.csv,religion
+2007,under_trial,Hindu,174222,250727,0.69486732581652555,34,Religion.csv,religion
+2007,under_trial,Muslim,55695,250727,0.22213403422846362,34,Religion.csv,religion
+2007,under_trial,Others,4515,250727,0.018007633800906961,34,Religion.csv,religion
+2007,under_trial,Sikh,8632,250727,0.034427883714159224,34,Religion.csv,religion
+2008,convicts,Christian,4063,123307,0.032950278572992611,34,Religion.csv,religion
+2008,convicts,Hindu,91440,123307,0.74156373928487429,34,Religion.csv,religion
+2008,convicts,Muslim,21743,123307,0.17633224391153787,34,Religion.csv,religion
+2008,convicts,Others,1255,123307,0.010177848783929543,34,Religion.csv,religion
+2008,convicts,Sikh,4806,123307,0.038975889446665642,34,Religion.csv,religion
+2008,detenues,Christian,288,2978,0.096709200805910001,34,Religion.csv,religion
+2008,detenues,Hindu,1745,2978,0.58596373404969782,34,Religion.csv,religion
+2008,detenues,Muslim,734,2978,0.24647414372061788,34,Religion.csv,religion
+2008,detenues,Others,57,2978,0.019140362659503023,34,Religion.csv,religion
+2008,detenues,Sikh,154,2978,0.051712558764271326,34,Religion.csv,religion
+2008,others,Christian,7,540,0.012962962962962963,34,Religion.csv,religion
+2008,others,Hindu,300,540,0.55555555555555558,34,Religion.csv,religion
+2008,others,Muslim,205,540,0.37962962962962965,34,Religion.csv,religion
+2008,others,Others,18,540,0.033333333333333333,34,Religion.csv,religion
+2008,others,Sikh,10,540,0.018518518518518517,34,Religion.csv,religion
+2008,under_trial,Christian,7762,257928,0.030093669551192581,34,Religion.csv,religion
+2008,under_trial,Hindu,179933,257928,0.69760941037808999,34,Religion.csv,religion
+2008,under_trial,Muslim,58506,257928,0.22683074346329207,34,Religion.csv,religion
+2008,under_trial,Others,3361,257928,0.013030768276418225,34,Religion.csv,religion
+2008,under_trial,Sikh,8366,257928,0.032435408331007103,34,Religion.csv,religion
+2009,convicts,Christian,4164,123941,0.033596630654908387,35,Religion.csv,religion
+2009,convicts,Hindu,90057,123941,0.72661185564099051,35,Religion.csv,religion
+2009,convicts,Muslim,22946,123941,0.18513647622659168,35,Religion.csv,religion
+2009,convicts,Others,1738,123941,0.014022801171525162,35,Religion.csv,religion
+2009,convicts,Sikh,5036,123941,0.040632236305984296,35,Religion.csv,religion
+2009,detenues,Christian,281,2232,0.12589605734767026,35,Religion.csv,religion
+2009,detenues,Hindu,1246,2232,0.55824372759856633,35,Religion.csv,religion
+2009,detenues,Muslim,676,2232,0.30286738351254483,35,Religion.csv,religion
+2009,detenues,Others,15,2232,0.0067204301075268818,35,Religion.csv,religion
+2009,detenues,Sikh,14,2232,0.0062724014336917565,35,Religion.csv,religion
+2009,others,Christian,10,592,0.016891891891891893,35,Religion.csv,religion
+2009,others,Hindu,286,592,0.48310810810810811,35,Religion.csv,religion
+2009,others,Muslim,272,592,0.45945945945945948,35,Religion.csv,religion
+2009,others,Others,6,592,0.010135135135135136,35,Religion.csv,religion
+2009,others,Sikh,18,592,0.030405405405405407,35,Religion.csv,religion
+2009,under_trial,Christian,7266,250204,0.029040303112660069,35,Religion.csv,religion
+2009,under_trial,Hindu,173732,250204,0.69436140109670508,35,Religion.csv,religion
+2009,under_trial,Muslim,56229,250204,0.22473261818356222,35,Religion.csv,religion
+2009,under_trial,Others,3088,250204,0.012341928985947466,35,Religion.csv,religion
+2009,under_trial,Sikh,9889,250204,0.039523748621125163,35,Religion.csv,religion
+2010,convicts,Christian,4170,125789,0.033150752450532242,35,Religion.csv,religion
+2010,convicts,Hindu,91727,125789,0.72921320624219921,35,Religion.csv,religion
+2010,convicts,Muslim,22672,125789,0.18023833562553165,35,Religion.csv,religion
+2010,convicts,Others,1720,125789,0.013673691658253107,35,Religion.csv,religion
+2010,convicts,Sikh,5500,125789,0.043724014023483769,35,Religion.csv,religion
+2010,detenues,Christian,243,2325,0.10451612903225807,35,Religion.csv,religion
+2010,detenues,Hindu,1345,2325,0.57849462365591398,35,Religion.csv,religion
+2010,detenues,Muslim,717,2325,0.30838709677419357,35,Religion.csv,religion
+2010,detenues,Others,12,2325,0.0051612903225806452,35,Religion.csv,religion
+2010,detenues,Sikh,8,2325,0.0034408602150537634,35,Religion.csv,religion
+2010,others,Christian,4,786,0.0050890585241730284,35,Religion.csv,religion
+2010,others,Hindu,406,786,0.51653944020356235,35,Religion.csv,religion
+2010,others,Muslim,349,786,0.44402035623409669,35,Religion.csv,religion
+2010,others,Others,18,786,0.022900763358778626,35,Religion.csv,religion
+2010,others,Sikh,9,786,0.011450381679389313,35,Religion.csv,religion
+2010,under_trial,Christian,7198,240098,0.029979425068097195,35,Religion.csv,religion
+2010,under_trial,Hindu,167813,240098,0.69893543469749853,35,Religion.csv,religion
+2010,under_trial,Muslim,53312,240098,0.2220426659114195,35,Religion.csv,religion
+2010,under_trial,Others,3089,240098,0.012865579888212313,35,Religion.csv,religion
+2010,under_trial,Sikh,8686,240098,0.036176894434772469,35,Religion.csv,religion
+2011,convicts,Christian,4951,128592,0.03850161751897474,35,Religion.csv,religion
+2011,convicts,Hindu,92166,128592,0.71673198954833894,35,Religion.csv,religion
+2011,convicts,Muslim,22943,128592,0.1784170088341421,35,Religion.csv,religion
+2011,convicts,Others,2251,128592,0.017504976981460744,35,Religion.csv,religion
+2011,convicts,Sikh,6281,128592,0.048844407117083488,35,Religion.csv,religion
+2011,detenues,Christian,254,2450,0.1036734693877551,35,Religion.csv,religion
+2011,detenues,Hindu,1485,2450,0.60612244897959189,35,Religion.csv,religion
+2011,detenues,Muslim,650,2450,0.26530612244897961,35,Religion.csv,religion
+2011,detenues,Others,13,2450,0.0053061224489795921,35,Religion.csv,religion
+2011,detenues,Sikh,48,2450,0.019591836734693877,35,Religion.csv,religion
+2011,others,Christian,15,684,0.021929824561403508,35,Religion.csv,religion
+2011,others,Hindu,393,684,0.57456140350877194,35,Religion.csv,religion
+2011,others,Muslim,254,684,0.37134502923976609,35,Religion.csv,religion
+2011,others,Others,15,684,0.021929824561403508,35,Religion.csv,religion
+2011,others,Sikh,7,684,0.01023391812865497,35,Religion.csv,religion
+2011,under_trial,Christian,7699,241200,0.031919568822553895,35,Religion.csv,religion
+2011,under_trial,Hindu,170068,241200,0.7050912106135987,35,Religion.csv,religion
+2011,under_trial,Muslim,51206,241200,0.21229684908789387,35,Religion.csv,religion
+2011,under_trial,Others,3694,241200,0.015315091210613599,35,Religion.csv,religion
+2011,under_trial,Sikh,8533,241200,0.035377280265339969,35,Religion.csv,religion
+2012,convicts,Christian,5108,127789,0.039972141577131054,35,Religion.csv,religion
+2012,convicts,Hindu,91188,127789,0.71358254622854866,35,Religion.csv,religion
+2012,convicts,Muslim,22687,127789,0.17753484259208538,35,Religion.csv,religion
+2012,convicts,Others,2484,127789,0.019438292810805311,35,Religion.csv,religion
+2012,convicts,Sikh,6322,127789,0.049472176791429623,35,Religion.csv,religion
+2012,detenues,Christian,116,1922,0.060353798126951096,35,Religion.csv,religion
+2012,detenues,Hindu,1203,1922,0.62591050988553587,35,Religion.csv,religion
+2012,detenues,Muslim,543,1922,0.28251821019771073,35,Religion.csv,religion
+2012,detenues,Others,28,1922,0.014568158168574402,35,Religion.csv,religion
+2012,detenues,Sikh,32,1922,0.016649323621227889,35,Religion.csv,religion
+2012,others,Christian,2,567,0.0035273368606701938,35,Religion.csv,religion
+2012,others,Hindu,314,567,0.55379188712522043,35,Religion.csv,religion
+2012,others,Muslim,226,567,0.3985890652557319,35,Religion.csv,religion
+2012,others,Others,15,567,0.026455026455026454,35,Religion.csv,religion
+2012,others,Sikh,10,567,0.017636684303350969,35,Religion.csv,religion
+2012,under_trial,Christian,8929,254857,0.03503533353998517,35,Religion.csv,religion
+2012,under_trial,Hindu,178119,254857,0.69889781328352762,35,Religion.csv,religion
+2012,under_trial,Muslim,53638,254857,0.21046312245690721,35,Religion.csv,religion
+2012,under_trial,Others,4043,254857,0.015863798129931689,35,Religion.csv,religion
+2012,under_trial,Sikh,10128,254857,0.039739932589648315,35,Religion.csv,religion
+2013,convicts,Christian,5047,129608,0.038940497500154311,35,Religion.csv,religion
+2013,convicts,Hindu,93273,129608,0.71965465094747239,35,Religion.csv,religion
+2013,convicts,Muslim,22145,129608,0.17086136658230974,35,Religion.csv,religion
+2013,convicts,Others,2307,129608,0.017799827171162273,35,Religion.csv,religion
+2013,convicts,Sikh,6836,129608,0.052743657798901306,35,Religion.csv,religion
+2013,detenues,Christian,248,3113,0.079665917121747504,35,Religion.csv,religion
+2013,detenues,Hindu,2144,3113,0.68872470285897847,35,Religion.csv,religion
+2013,detenues,Muslim,613,3113,0.1969161580469001,35,Religion.csv,religion
+2013,detenues,Others,29,3113,0.0093157725666559582,35,Religion.csv,religion
+2013,detenues,Sikh,79,3113,0.025377449405717956,35,Religion.csv,religion
+2013,others,Christian,4,768,0.005208333333333333,35,Religion.csv,religion
+2013,others,Hindu,368,768,0.47916666666666669,35,Religion.csv,religion
+2013,others,Muslim,392,768,0.51041666666666663,35,Religion.csv,religion
+2013,others,Others,4,768,0.005208333333333333,35,Religion.csv,religion
+2013,others,Sikh,0,768,0,35,Religion.csv,religion
+2013,under_trial,Christian,12406,278503,0.044545301127815497,35,Religion.csv,religion
+2013,under_trial,Hindu,192202,278503,0.69012542055202275,35,Religion.csv,religion
+2013,under_trial,Muslim,57936,278503,0.20802648445438648,35,Religion.csv,religion
+2013,under_trial,Others,4293,278503,0.015414555678035784,35,Religion.csv,religion
+2013,under_trial,Sikh,11666,278503,0.04188823818773945,35,Religion.csv,religion
+2001,convicts,Belongs to State,69798,73442,0.95038261485253672,33,Domicile.csv,domicile
+2001,convicts,Belongs to other Country,765,73442,0.010416382996105771,33,Domicile.csv,domicile
+2001,convicts,Belongs to other State,2879,73442,0.039201002151357536,33,Domicile.csv,domicile
+2001,detenues,Belongs to State,3217,3460,0.92976878612716762,33,Domicile.csv,domicile
+2001,detenues,Belongs to other Country,55,3460,0.015895953757225433,33,Domicile.csv,domicile
+2001,detenues,Belongs to other State,188,3460,0.054335260115606937,33,Domicile.csv,domicile
+2001,others,Belongs to State,13571,13645,0.99457676804690365,33,Domicile.csv,domicile
+2001,others,Belongs to other Country,60,13645,0.0043972150971051671,33,Domicile.csv,domicile
+2001,others,Belongs to other State,14,13645,0.0010260168559912055,33,Domicile.csv,domicile
+2001,under_trial,Belongs to State,200970,212065,0.94768113550090771,33,Domicile.csv,domicile
+2001,under_trial,Belongs to other Country,1314,212065,0.0061962134251290881,33,Domicile.csv,domicile
+2001,under_trial,Belongs to other State,9781,212065,0.04612265107396317,33,Domicile.csv,domicile
+2002,convicts,Belongs to State,75465,82121,0.91894886813360777,34,Domicile.csv,domicile
+2002,convicts,Belongs to other Country,729,82121,0.0088771447011117745,34,Domicile.csv,domicile
+2002,convicts,Belongs to other State,5927,82121,0.072173987165280507,34,Domicile.csv,domicile
+2002,detenues,Belongs to State,4537,4832,0.9389486754966887,34,Domicile.csv,domicile
+2002,detenues,Belongs to other Country,55,4832,0.011382450331125827,34,Domicile.csv,domicile
+2002,detenues,Belongs to other State,240,4832,0.049668874172185427,34,Domicile.csv,domicile
+2002,others,Belongs to State,12251,12366,0.99070030729419378,34,Domicile.csv,domicile
+2002,others,Belongs to other Country,61,12366,0.0049328804787320069,34,Domicile.csv,domicile
+2002,others,Belongs to other State,54,12366,0.0043668122270742356,34,Domicile.csv,domicile
+2002,under_trial,Belongs to State,206059,223038,0.92387395869762101,34,Domicile.csv,domicile
+2002,under_trial,Belongs to other Country,2177,223038,0.0097606685856221811,34,Domicile.csv,domicile
+2002,under_trial,Belongs to other State,14802,223038,0.066365372716756785,34,Domicile.csv,domicile
+2003,convicts,Belongs to State,81773,88993,0.91887002348499325,33,Domicile.csv,domicile
+2003,convicts,Belongs to other Country,723,88993,0.008124234490353174,33,Domicile.csv,domicile
+2003,convicts,Belongs to other State,6497,88993,0.073005742024653625,33,Domicile.csv,domicile
+2003,detenues,Belongs to State,3423,3875,0.88335483870967746,33,Domicile.csv,domicile
+2003,detenues,Belongs to other Country,76,3875,0.019612903225806451,33,Domicile.csv,domicile
+2003,detenues,Belongs to other State,376,3875,0.097032258064516125,33,Domicile.csv,domicile
+2003,others,Belongs to State,12903,13066,0.98752487371804687,33,Domicile.csv,domicile
+2003,others,Belongs to other Country,91,13066,0.0069646410531149549,33,Domicile.csv,domicile
+2003,others,Belongs to other State,72,13066,0.0055104852288382061,33,Domicile.csv,domicile
+2003,under_trial,Belongs to State,193042,209683,0.92063734303686995,33,Domicile.csv,domicile
+2003,under_trial,Belongs to other Country,1337,209683,0.0063762918310020364,33,Domicile.csv,domicile
+2003,under_trial,Belongs to other State,15304,209683,0.072986365132128028,33,Domicile.csv,domicile
+2004,convicts,Belongs to State,91169,98527,0.9253199630558121,34,Domicile.csv,domicile
+2004,convicts,Belongs to other Country,688,98527,0.0069828574908400746,34,Domicile.csv,domicile
+2004,convicts,Belongs to other State,6670,98527,0.067697179453347814,34,Domicile.csv,domicile
+2004,detenues,Belongs to State,4274,4491,0.95168114005789362,34,Domicile.csv,domicile
+2004,detenues,Belongs to other Country,143,4491,0.031841460699176129,34,Domicile.csv,domicile
+2004,detenues,Belongs to other State,74,4491,0.016477399242930305,34,Domicile.csv,domicile
+2004,others,Belongs to State,11122,11243,0.98923774793204655,34,Domicile.csv,domicile
+2004,others,Belongs to other Country,56,11243,0.0049808769901271898,34,Domicile.csv,domicile
+2004,others,Belongs to other State,65,11243,0.005781375077826203,34,Domicile.csv,domicile
+2004,under_trial,Belongs to State,200284,217130,0.92241514300188832,34,Domicile.csv,domicile
+2004,under_trial,Belongs to other Country,1336,217130,0.0061529959010730899,34,Domicile.csv,domicile
+2004,under_trial,Belongs to other State,15510,217130,0.07143186109703864,34,Domicile.csv,domicile
+2005,convicts,Belongs to State,101057,108572,0.93078325903547876,34,Domicile.csv,domicile
+2005,convicts,Belongs to other Country,1176,108572,0.010831521939358215,34,Domicile.csv,domicile
+2005,convicts,Belongs to other State,6339,108572,0.058385219025163027,34,Domicile.csv,domicile
+2005,detenues,Belongs to State,2400,2542,0.9441384736428009,34,Domicile.csv,domicile
+2005,detenues,Belongs to other Country,94,2542,0.036978756884343038,34,Domicile.csv,domicile
+2005,detenues,Belongs to other State,48,2542,0.018882769472856019,34,Domicile.csv,domicile
+2005,others,Belongs to State,10099,10178,0.99223816073884852,34,Domicile.csv,domicile
+2005,others,Belongs to other Country,76,10178,0.0074670858714875219,34,Domicile.csv,domicile
+2005,others,Belongs to other State,3,10178,0.00029475338966398112,34,Domicile.csv,domicile
+2005,under_trial,Belongs to State,218869,237076,0.92320184244714776,34,Domicile.csv,domicile
+2005,under_trial,Belongs to other Country,4173,237076,0.017601950429398168,34,Domicile.csv,domicile
+2005,under_trial,Belongs to other State,14034,237076,0.059196207123454081,34,Domicile.csv,domicile
+2006,convicts,Belongs to State,109205,116675,0.93597600171416329,34,Domicile.csv,domicile
+2006,convicts,Belongs to other Country,745,116675,0.0063852581958431538,34,Domicile.csv,domicile
+2006,convicts,Belongs to other State,6725,116675,0.057638740089993569,34,Domicile.csv,domicile
+2006,detenues,Belongs to State,2043,2275,0.89802197802197803,34,Domicile.csv,domicile
+2006,detenues,Belongs to other Country,102,2275,0.044835164835164837,34,Domicile.csv,domicile
+2006,detenues,Belongs to other State,130,2275,0.057142857142857141,34,Domicile.csv,domicile
+2006,others,Belongs to State,8833,9077,0.97311887187396717,34,Domicile.csv,domicile
+2006,others,Belongs to other Country,233,9077,0.025669273989203482,34,Domicile.csv,domicile
+2006,others,Belongs to other State,11,9077,0.0012118541368293489,34,Domicile.csv,domicile
+2006,under_trial,Belongs to State,225656,245244,0.92012852506075582,34,Domicile.csv,domicile
+2006,under_trial,Belongs to other Country,2735,245244,0.011152158666470943,34,Domicile.csv,domicile
+2006,under_trial,Belongs to other State,16853,245244,0.068719316272773237,34,Domicile.csv,domicile
+2007,convicts,Belongs to State,113120,120115,0.94176414269658248,34,Domicile.csv,domicile
+2007,convicts,Belongs to other Country,969,120115,0.0080672688673354698,34,Domicile.csv,domicile
+2007,convicts,Belongs to other State,6026,120115,0.050168588436082087,34,Domicile.csv,domicile
+2007,detenues,Belongs to State,4250,4687,0.90676338809473012,34,Domicile.csv,domicile
+2007,detenues,Belongs to other Country,102,4687,0.021762321314273522,34,Domicile.csv,domicile
+2007,detenues,Belongs to other State,335,4687,0.071474290590996373,34,Domicile.csv,domicile
+2007,others,Belongs to State,502,867,0.57900807381776243,34,Domicile.csv,domicile
+2007,others,Belongs to other Country,310,867,0.35755478662053058,34,Domicile.csv,domicile
+2007,others,Belongs to other State,55,867,0.063437139561707032,34,Domicile.csv,domicile
+2007,under_trial,Belongs to State,232985,250727,0.92923777654580475,34,Domicile.csv,domicile
+2007,under_trial,Belongs to other Country,2862,250727,0.011414805744893848,34,Domicile.csv,domicile
+2007,under_trial,Belongs to other State,14880,250727,0.059347417709301353,34,Domicile.csv,domicile
+2008,convicts,Belongs to State,115428,123307,0.93610257325212676,34,Domicile.csv,domicile
+2008,convicts,Belongs to other Country,1220,123307,0.0098940043955331007,34,Domicile.csv,domicile
+2008,convicts,Belongs to other State,6659,123307,0.054003422352340097,34,Domicile.csv,domicile
+2008,detenues,Belongs to State,2690,2978,0.90329079919408994,34,Domicile.csv,domicile
+2008,detenues,Belongs to other Country,91,2978,0.030557421087978508,34,Domicile.csv,domicile
+2008,detenues,Belongs to other State,197,2978,0.0661517797179315,34,Domicile.csv,domicile
+2008,others,Belongs to State,369,540,0.68333333333333335,34,Domicile.csv,domicile
+2008,others,Belongs to other Country,136,540,0.25185185185185183,34,Domicile.csv,domicile
+2008,others,Belongs to other State,35,540,0.064814814814814811,34,Domicile.csv,domicile
+2008,under_trial,Belongs to State,238111,257928,0.92316848112651595,34,Domicile.csv,domicile
+2008,under_trial,Belongs to other Country,2605,257928,0.010099717750690115,34,Domicile.csv,domicile
+2008,under_trial,Belongs to other State,17212,257928,0.066731801122793963,34,Domicile.csv,domicile
+2009,convicts,Belongs to State,115334,123941,0.93055566761604314,35,Domicile.csv,domicile
+2009,convicts,Belongs to other Country,2072,123941,0.016717631776409742,35,Domicile.csv,domicile
+2009,convicts,Belongs to other State,6535,123941,0.052726700607547139,35,Domicile.csv,domicile
+2009,detenues,Belongs to State,2074,2232,0.92921146953405021,35,Domicile.csv,domicile
+2009,detenues,Belongs to other Country,109,2232,0.048835125448028677,35,Domicile.csv,domicile
+2009,detenues,Belongs to other State,49,2232,0.021953405017921146,35,Domicile.csv,domicile
+2009,others,Belongs to State,367,592,0.61993243243243246,35,Domicile.csv,domicile
+2009,others,Belongs to other Country,215,592,0.36317567567567566,35,Domicile.csv,domicile
+2009,others,Belongs to other State,10,592,0.016891891891891893,35,Domicile.csv,domicile
+2009,under_trial,Belongs to State,231913,250204,0.92689565314703204,35,Domicile.csv,domicile
+2009,under_trial,Belongs to other Country,2799,250204,0.011186871512845519,35,Domicile.csv,domicile
+2009,under_trial,Belongs to other State,15492,250204,0.061917475340122458,35,Domicile.csv,domicile
+2010,convicts,Belongs to State,117471,125789,0.93387339115502943,35,Domicile.csv,domicile
+2010,convicts,Belongs to other Country,1715,125789,0.013633942554595394,35,Domicile.csv,domicile
+2010,convicts,Belongs to other State,6603,125789,0.052492666290375155,35,Domicile.csv,domicile
+2010,detenues,Belongs to State,2155,2325,0.92688172043010753,35,Domicile.csv,domicile
+2010,detenues,Belongs to other Country,136,2325,0.058494623655913978,35,Domicile.csv,domicile
+2010,detenues,Belongs to other State,34,2325,0.014623655913978495,35,Domicile.csv,domicile
+2010,others,Belongs to State,393,786,0.5,35,Domicile.csv,domicile
+2010,others,Belongs to other Country,373,786,0.47455470737913485,35,Domicile.csv,domicile
+2010,others,Belongs to other State,20,786,0.025445292620865138,35,Domicile.csv,domicile
+2010,under_trial,Belongs to State,222405,240098,0.92630925705336986,35,Domicile.csv,domicile
+2010,under_trial,Belongs to other Country,2884,240098,0.012011761863905571,35,Domicile.csv,domicile
+2010,under_trial,Belongs to other State,14809,240098,0.061678981082724557,35,Domicile.csv,domicile
+2011,convicts,Belongs to State,118996,128592,0.92537638422296875,35,Domicile.csv,domicile
+2011,convicts,Belongs to other Country,2020,128592,0.015708597735473437,35,Domicile.csv,domicile
+2011,convicts,Belongs to other State,7576,128592,0.058915018041557798,35,Domicile.csv,domicile
+2011,detenues,Belongs to State,2274,2450,0.92816326530612248,35,Domicile.csv,domicile
+2011,detenues,Belongs to other Country,137,2450,0.055918367346938773,35,Domicile.csv,domicile
+2011,detenues,Belongs to other State,39,2450,0.015918367346938776,35,Domicile.csv,domicile
+2011,others,Belongs to State,396,684,0.57894736842105265,35,Domicile.csv,domicile
+2011,others,Belongs to other Country,265,684,0.38742690058479534,35,Domicile.csv,domicile
+2011,others,Belongs to other State,23,684,0.033625730994152045,35,Domicile.csv,domicile
+2011,under_trial,Belongs to State,220983,241200,0.91618159203980098,35,Domicile.csv,domicile
+2011,under_trial,Belongs to other Country,3601,241200,0.014929519071310116,35,Domicile.csv,domicile
+2011,under_trial,Belongs to other State,16616,241200,0.068888888888888888,35,Domicile.csv,domicile
+2012,convicts,Belongs to State,116861,127789,0.9144840322719483,35,Domicile.csv,domicile
+2012,convicts,Belongs to other Country,2483,127789,0.019430467411123024,35,Domicile.csv,domicile
+2012,convicts,Belongs to other State,8445,127789,0.066085500316928683,35,Domicile.csv,domicile
+2012,detenues,Belongs to State,1756,1922,0.91363163371488032,35,Domicile.csv,domicile
+2012,detenues,Belongs to other Country,95,1922,0.049427679500520294,35,Domicile.csv,domicile
+2012,detenues,Belongs to other State,71,1922,0.036940686784599379,35,Domicile.csv,domicile
+2012,others,Belongs to State,251,567,0.44268077601410932,35,Domicile.csv,domicile
+2012,others,Belongs to other Country,282,567,0.49735449735449733,35,Domicile.csv,domicile
+2012,others,Belongs to other State,34,567,0.059964726631393295,35,Domicile.csv,domicile
+2012,under_trial,Belongs to State,231168,254857,0.90704983579026666,35,Domicile.csv,domicile
+2012,under_trial,Belongs to other Country,3984,254857,0.015632295758013316,35,Domicile.csv,domicile
+2012,under_trial,Belongs to other State,19705,254857,0.077317868451719979,35,Domicile.csv,domicile
+2013,convicts,Belongs to State,117725,129608,0.9083158447009444,35,Domicile.csv,domicile
+2013,convicts,Belongs to other Country,2353,129608,0.018154743534349732,35,Domicile.csv,domicile
+2013,convicts,Belongs to other State,9530,129608,0.073529411764705885,35,Domicile.csv,domicile
+2013,detenues,Belongs to State,2571,3113,0.82589142306456798,35,Domicile.csv,domicile
+2013,detenues,Belongs to other Country,41,3113,0.013170575008030838,35,Domicile.csv,domicile
+2013,detenues,Belongs to other State,501,3113,0.16093800192740121,35,Domicile.csv,domicile
+2013,others,Belongs to State,335,768,0.43619791666666669,35,Domicile.csv,domicile
+2013,others,Belongs to other Country,418,768,0.54427083333333337,35,Domicile.csv,domicile
+2013,others,Belongs to other State,15,768,0.01953125,35,Domicile.csv,domicile
+2013,under_trial,Belongs to State,254199,278503,0.91273343554647524,35,Domicile.csv,domicile
+2013,under_trial,Belongs to other Country,4389,278503,0.01575925573512673,35,Domicile.csv,domicile
+2013,under_trial,Belongs to other State,19915,278503,0.071507308718398013,35,Domicile.csv,domicile

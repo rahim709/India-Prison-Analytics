@@ -1,0 +1,38 @@
+file,bytes,rows,blank_records,header_columns,record_widths,schema_matches,sha256
+Age_group.csv,375058,7152,0,10,{10: 7152},True,341224d23b72711586c7d13456ced1e472b257612531ca163ac63d9784a6f286
+Caste.csv,140223,3568,0,9,{9: 3568},True,3b7807047b6567e1c9f20d20918dffc928589e45a43d0215be4a60ad7921fe00
+Death_sentence.csv,10165,446,0,5,{5: 446},True,bfd8cb1e769261287b71bbe8264ea0130ee1d3f166d2cc360e0cad1ffe48c513
+Domicile.csv,150512,2676,0,9,{9: 2676},True,d675f3b88319ad23b4c67b76c7b83a31822e45dd57bbc047a809e9c17ec96403
+Education.csv,292129,5346,0,9,{9: 5346},True,55564aa9ccc3cc0155bd11c27bdf65a03f72b86745c0d963b71ccafc63c07341
+Education_facilities.csv,12938,445,0,6,{6: 445},True,c7f30794ef1c2396cf53746111b9639e25885282d53893a841ae6f42222ecba1
+IPC_crime_inmates_convicted.csv,616103,9391,0,18,{18: 9391},True,d6d61d6ad382170ba57710b6b7506f8e165ce1cdea944ef39c8c2aba8b01270c
+IPC_crime_inmates_under_trial.csv,638964,9390,0,18,{18: 9390},True,665181e7e9881ce02f83fb2f11e8bd36841ea27f85efb195187e0ff423313f30
+Inmates_death.csv,242585,4023,0,6,{6: 4023},True,e93e86073fa770aec9d3cd37d453fb35a673f1968692669af813958e51630a1b
+Inmates_escapee.csv,88443,1788,0,6,{6: 1788},True,6f04883bda31c58219c5061b40bd234e7f8f4da6419ecf50136b1d0f39858d23
+Jail wise population of prison inmates.csv,263177,4023,0,18,{18: 4023},True,570856062c5488d504a47f0b265ced633cd1936af96e71690d01783f1f5f7bfa
+Other Prison data/Budget.CSV,43597,1026,0,4,{4: 1026},True,2e15edc047037e9efeab602ff99e07375971af9c4d8fc7235dcf0060e43a0e02
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,104751,3390,0,4,{4: 3390},True,b5372f48355b303bbf89c404fc1916208048a9b37454ea9abbcbc0175f8c5b5f
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,100933,1341,0,6,{6: 1341},True,f3f69ead69492ad3299d164441f864b8c7fdefbdb13b07b9d04b71d6a042b73e
+Other Prison data/Expenditure.CSV,80545,1368,0,4,{4: 1368},True,8851c8110196e315a6306421e370dd281b3b59eb5fe907883ec33d671b24796d
+Other Prison data/Expenditure_on_inmates.CSV,127641,2394,0,4,{4: 2394},True,25913e3eea81c53c9b829a7d3222548af87ef09e6553c55410aab87f46776bf3
+Other Prison data/Inmates_released.csv,598680,8485,0,6,{6: 8485},True,45ce9541dc793057fc4ec1f2f973c333c0c6670772752821e45e620cbb2463b1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,22871,442,0,17,{17: 442},True,0799ea410063ed252ba363a67991d7974e6f2ad422396160c20f0771ee350325
+Other Prison data/Movements_outside_jail_premises.CSV,70967,1025,0,4,{4: 1025},True,ebb4aefc5bd1f3644eef602314a9969c3bdf3557746f50a2df2b2551574fcaaa
+Other Prison data/Number_of_vehicles_available.CSV,81316,3051,0,4,{4: 3051},True,720e27fe55ac7175b2a994d737f52ee3e0d83dd140256325dbce969312f5dd71
+Other Prison data/Number_of_women_prisoners_with_children.csv,18115,446,1,12,{12: 446},True,e279032b5f04521c2aa701079dd36d688b2f149b82ac8a7c80af8e2581c191d3
+Other Prison data/Period_of_detention_of_undertrials.csv,133372,3576,0,6,{6: 3576},True,ce2d173fc715d56da25cf7d0fcc4bc91538d2567e0383209f42d1feed91789c3
+Other Prison data/Population_and_capacity_of_jails.csv,191693,4023,0,10,{10: 4023},True,e44751ea03c1f973bde378634e04c6a0372b077c0d8ee88dea8815189b80b290
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,692445,9458,0,18,{18: 9458},True,c605a8d29b6c5341af172f50ae71cf2a32d2e0a4696b71ea540591584cdbf074
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,708459,9457,0,18,{18: 9457},True,3e78b52a44076cf710fce68fef436d7d9a5d5acd9e7c837e89bbaa253e76736c
+Other Prison data/Strength_of_officials.CSV,2231750,36612,0,5,{5: 36612},True,0fea1e8af4df5875d1126ec6b74ff3a7cfbc2265cf478c3a607d38e8f6e8a7f1
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,2296,36,0,9,{9: 36},True,d2bfcd579c72ce65d52129559256880dbcdd73cdd30f1cb8fe74d71a2ab7bdc0
+Other Prison data/Training_of_Jail_Officers.CSV,51547,1108,0,4,{4: 1108},True,19243ab6606b3afcb771d5f9d3c4b7349faef13ffd97f4f83bbb5d22e5034c7c
+Other Prison data/Value_of_goods_produced_by_inmates.csv,71130,1954,0,4,{4: 1954},True,5d6565d1fd71d007e3ddfacd9a91ea87e8425468923324952e6c0355b4dff3c1
+Prison_details_2015.csv,178844,1397,0,14,{14: 1397},True,c47081284794d5589215e7f9c1d0d5c3f2019fcda95da36b926ff7479c060a89
+Recidivism.csv,10775,447,0,4,{4: 447},True,3731947a6fcc2a1532abdbcf9e7de79e3df0741aa85dd509c62088b1170c2cd3
+Rehabilitation.csv,11052,445,0,5,{5: 445},True,c97f1f4e4e38ab34a24b7485a67db18352fbe3ae4b8185d644fe5144909d1058
+Religion.csv,184122,4460,0,8,{9: 4460},False,5abf91ddb691cd34aca01475fd86ca8420494cc6166cecf00377f84bde35027a
+Sentence_period.csv,459029,8940,0,9,{9: 8940},True,05264f5dd1a287afbd4c3f7c09c3bb0337591cd06ed47eb0962e751e34a2e1f2
+Tranquillity.csv,59451,1336,0,8,{8: 1336},True,8b124fa1f30067ece627186aaeba087c40210dc95b4533823c115c1eb9f1db4f
+Vocational_training.csv,139166,4122,0,4,{4: 4122},True,9b71ced448f9de967d57c581eb0abf42c4e67bed1a654bb14e654e19c2cbdf5a
+Wages.csv,11033,445,0,5,{5: 445},True,a777d732849e91d7a3a6d2de0b457667736b19b6d56f1f5758ce268e6373977d

@@ -1,0 +1,342 @@
+[
+  {
+    "file": "data/raw/Age_group.csv",
+    "sha256": "341224d23b72711586c7d13456ced1e472b257612531ca163ac63d9784a6f286"
+  },
+  {
+    "file": "data/raw/Caste.csv",
+    "sha256": "3b7807047b6567e1c9f20d20918dffc928589e45a43d0215be4a60ad7921fe00"
+  },
+  {
+    "file": "data/raw/Death_sentence.csv",
+    "sha256": "bfd8cb1e769261287b71bbe8264ea0130ee1d3f166d2cc360e0cad1ffe48c513"
+  },
+  {
+    "file": "data/raw/Domicile.csv",
+    "sha256": "d675f3b88319ad23b4c67b76c7b83a31822e45dd57bbc047a809e9c17ec96403"
+  },
+  {
+    "file": "data/raw/Education.csv",
+    "sha256": "55564aa9ccc3cc0155bd11c27bdf65a03f72b86745c0d963b71ccafc63c07341"
+  },
+  {
+    "file": "data/raw/Education_facilities.csv",
+    "sha256": "c7f30794ef1c2396cf53746111b9639e25885282d53893a841ae6f42222ecba1"
+  },
+  {
+    "file": "data/raw/IPC_crime_inmates_convicted.csv",
+    "sha256": "d6d61d6ad382170ba57710b6b7506f8e165ce1cdea944ef39c8c2aba8b01270c"
+  },
+  {
+    "file": "data/raw/IPC_crime_inmates_under_trial.csv",
+    "sha256": "665181e7e9881ce02f83fb2f11e8bd36841ea27f85efb195187e0ff423313f30"
+  },
+  {
+    "file": "data/raw/Inmates_death.csv",
+    "sha256": "e93e86073fa770aec9d3cd37d453fb35a673f1968692669af813958e51630a1b"
+  },
+  {
+    "file": "data/raw/Inmates_escapee.csv",
+    "sha256": "6f04883bda31c58219c5061b40bd234e7f8f4da6419ecf50136b1d0f39858d23"
+  },
+  {
+    "file": "data/raw/Jail wise population of prison inmates.csv",
+    "sha256": "570856062c5488d504a47f0b265ced633cd1936af96e71690d01783f1f5f7bfa"
+  },
+  {
+    "file": "data/raw/Other Prison data/Budget.CSV",
+    "sha256": "2e15edc047037e9efeab602ff99e07375971af9c4d8fc7235dcf0060e43a0e02"
+  },
+  {
+    "file": "data/raw/Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV",
+    "sha256": "b5372f48355b303bbf89c404fc1916208048a9b37454ea9abbcbc0175f8c5b5f"
+  },
+  {
+    "file": "data/raw/Other Prison data/Details_of_inmates_parole_during_the_year.csv",
+    "sha256": "f3f69ead69492ad3299d164441f864b8c7fdefbdb13b07b9d04b71d6a042b73e"
+  },
+  {
+    "file": "data/raw/Other Prison data/Expenditure.CSV",
+    "sha256": "8851c8110196e315a6306421e370dd281b3b59eb5fe907883ec33d671b24796d"
+  },
+  {
+    "file": "data/raw/Other Prison data/Expenditure_on_inmates.CSV",
+    "sha256": "25913e3eea81c53c9b829a7d3222548af87ef09e6553c55410aab87f46776bf3"
+  },
+  {
+    "file": "data/raw/Other Prison data/Inmates_released.csv",
+    "sha256": "45ce9541dc793057fc4ec1f2f973c333c0c6670772752821e45e620cbb2463b1"
+  },
+  {
+    "file": "data/raw/Other Prison data/Inmates_suffering_from_mental_ilness.csv",
+    "sha256": "0799ea410063ed252ba363a67991d7974e6f2ad422396160c20f0771ee350325"
+  },
+  {
+    "file": "data/raw/Other Prison data/Movements_outside_jail_premises.CSV",
+    "sha256": "ebb4aefc5bd1f3644eef602314a9969c3bdf3557746f50a2df2b2551574fcaaa"
+  },
+  {
+    "file": "data/raw/Other Prison data/Number_of_vehicles_available.CSV",
+    "sha256": "720e27fe55ac7175b2a994d737f52ee3e0d83dd140256325dbce969312f5dd71"
+  },
+  {
+    "file": "data/raw/Other Prison data/Number_of_women_prisoners_with_children.csv",
+    "sha256": "e279032b5f04521c2aa701079dd36d688b2f149b82ac8a7c80af8e2581c191d3"
+  },
+  {
+    "file": "data/raw/Other Prison data/Period_of_detention_of_undertrials.csv",
+    "sha256": "ce2d173fc715d56da25cf7d0fcc4bc91538d2567e0383209f42d1feed91789c3"
+  },
+  {
+    "file": "data/raw/Other Prison data/Population_and_capacity_of_jails.csv",
+    "sha256": "e44751ea03c1f973bde378634e04c6a0372b077c0d8ee88dea8815189b80b290"
+  },
+  {
+    "file": "data/raw/Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv",
+    "sha256": "c605a8d29b6c5341af172f50ae71cf2a32d2e0a4696b71ea540591584cdbf074"
+  },
+  {
+    "file": "data/raw/Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv",
+    "sha256": "3e78b52a44076cf710fce68fef436d7d9a5d5acd9e7c837e89bbaa253e76736c"
+  },
+  {
+    "file": "data/raw/Other Prison data/Strength_of_officials.CSV",
+    "sha256": "0fea1e8af4df5875d1126ec6b74ff3a7cfbc2265cf478c3a607d38e8f6e8a7f1"
+  },
+  {
+    "file": "data/raw/Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv",
+    "sha256": "d2bfcd579c72ce65d52129559256880dbcdd73cdd30f1cb8fe74d71a2ab7bdc0"
+  },
+  {
+    "file": "data/raw/Other Prison data/Training_of_Jail_Officers.CSV",
+    "sha256": "19243ab6606b3afcb771d5f9d3c4b7349faef13ffd97f4f83bbb5d22e5034c7c"
+  },
+  {
+    "file": "data/raw/Other Prison data/Value_of_goods_produced_by_inmates.csv",
+    "sha256": "5d6565d1fd71d007e3ddfacd9a91ea87e8425468923324952e6c0355b4dff3c1"
+  },
+  {
+    "file": "data/raw/Prison_details_2015.csv",
+    "sha256": "c47081284794d5589215e7f9c1d0d5c3f2019fcda95da36b926ff7479c060a89"
+  },
+  {
+    "file": "data/raw/Recidivism.csv",
+    "sha256": "3731947a6fcc2a1532abdbcf9e7de79e3df0741aa85dd509c62088b1170c2cd3"
+  },
+  {
+    "file": "data/raw/Rehabilitation.csv",
+    "sha256": "c97f1f4e4e38ab34a24b7485a67db18352fbe3ae4b8185d644fe5144909d1058"
+  },
+  {
+    "file": "data/raw/Religion.csv",
+    "sha256": "5abf91ddb691cd34aca01475fd86ca8420494cc6166cecf00377f84bde35027a"
+  },
+  {
+    "file": "data/raw/Sentence_period.csv",
+    "sha256": "05264f5dd1a287afbd4c3f7c09c3bb0337591cd06ed47eb0962e751e34a2e1f2"
+  },
+  {
+    "file": "data/raw/Tranquillity.csv",
+    "sha256": "8b124fa1f30067ece627186aaeba087c40210dc95b4533823c115c1eb9f1db4f"
+  },
+  {
+    "file": "data/raw/Vocational_training.csv",
+    "sha256": "9b71ced448f9de967d57c581eb0abf42c4e67bed1a654bb14e654e19c2cbdf5a"
+  },
+  {
+    "file": "data/raw/Wages.csv",
+    "sha256": "a777d732849e91d7a3a6d2de0b457667736b19b6d56f1f5758ce268e6373977d"
+  },
+  {
+    "file": "data/processed/cleaned/Age_group.csv",
+    "sha256": "a9a6b51ef00d734f5b288d73daa4dd21d949659b8778d033459f98484e9e613e"
+  },
+  {
+    "file": "data/processed/cleaned/Caste.csv",
+    "sha256": "fc7162a97896b006c805f5a540e10c21553d9e1befdae03863d126aa8b4fc747"
+  },
+  {
+    "file": "data/processed/cleaned/Death_sentence.csv",
+    "sha256": "1d057b166b3098f9eded14ed74ea649d19c758e07d7d1c59456ebbf39f920182"
+  },
+  {
+    "file": "data/processed/cleaned/Domicile.csv",
+    "sha256": "1b152206d27e469d5372cbccb3217f26bafec3024e865fe03c4576dfe6b61cff"
+  },
+  {
+    "file": "data/processed/cleaned/Education.csv",
+    "sha256": "269f27e4d1eb17cd84d4b85021b787c90c4caebb58e88526578bc67d619e99a2"
+  },
+  {
+    "file": "data/processed/cleaned/Education_facilities.csv",
+    "sha256": "c1756e2cff64a19b7789e118b6bb5f16b3f981393726e3accf1d9ec760c033a2"
+  },
+  {
+    "file": "data/processed/cleaned/IPC_crime_inmates_convicted.csv",
+    "sha256": "a548bf2fab2aedefbf9a94a60a352f298d05ed18877ad5bb3b92481f268f860a"
+  },
+  {
+    "file": "data/processed/cleaned/IPC_crime_inmates_under_trial.csv",
+    "sha256": "23ff0600dede9cd7977254720a347e8216af47ea977841ac9f2672f4c26d731f"
+  },
+  {
+    "file": "data/processed/cleaned/Inmates_death.csv",
+    "sha256": "110d650f3ddc2c5b3990308aa5f27abebc560ce9cff6e5353ff421e2fae448d4"
+  },
+  {
+    "file": "data/processed/cleaned/Inmates_escapee.csv",
+    "sha256": "879fd87d6d29ffb223acd63a470d580fd4cdea1c87bf00ebb13d4e68552b0b47"
+  },
+  {
+    "file": "data/processed/cleaned/Jail wise population of prison inmates.csv",
+    "sha256": "ad953300250d3162bff3cc14110b982f375b085e0d03ce0438385bd737dee7f4"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Budget.CSV",
+    "sha256": "94177fa1f2fa619cbb0b7d566ab3fef9d64a17f3e3425b911023e598f2e55294"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV",
+    "sha256": "afd854ce2ab98f625d8ef0cc40fbe7915e6ca0363ed0deaea960f056a7d856ab"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Details_of_inmates_parole_during_the_year.csv",
+    "sha256": "af1744071425664cb0fd9553a6ad891822814d51c315b66cf3f54840dd0fb863"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Expenditure.CSV",
+    "sha256": "70af6f55d27179c72d69f0118fa7cb0225e66d1be34a9c5d19f0414f33ea12bf"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Expenditure_on_inmates.CSV",
+    "sha256": "35e6e67c67f89b4b3c7571f3040b126eddd66495329d1b92f9a4501521b8758b"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Inmates_released.csv",
+    "sha256": "b30af94e68e268477e1830f91ac5efaa08a964a0ee266db7ca3c7301bc44d679"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Inmates_suffering_from_mental_ilness.csv",
+    "sha256": "30ade43cad54856773ad966284daaed9dd0d623a7cde8e66cc5c97f80e41b8fc"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Movements_outside_jail_premises.CSV",
+    "sha256": "aba1125665230b99f4db3aeb14d3090f5f67dd3d96f90888936cff0d65da1de2"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Number_of_vehicles_available.CSV",
+    "sha256": "c1770c56b42e0f1f77d51d709d7c27203f7882f3a3001acef166c4c9b9bdf2b3"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Number_of_women_prisoners_with_children.csv",
+    "sha256": "d7c8ba4c8b7d0a328a3a67bb97a191bad3c8fe36285b68c7d99c6901e7108f43"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Period_of_detention_of_undertrials.csv",
+    "sha256": "d013d727f510e4b2943e5294b439760eb536d8b3823da139417f68d35036276c"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Population_and_capacity_of_jails.csv",
+    "sha256": "445383114b76a0ddf0e0decbf3e19828c4c9d3444e1291fb3725f7899a57eccc"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv",
+    "sha256": "fd266085b326c5a38dcacab8c1869b0b99c1c914ec60029e6f28bddcb15b1891"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv",
+    "sha256": "075403b5fe60eeb135c5ec6058d419454303ac2e14c8bfd11ee057591ee6ef1e"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Strength_of_officials.CSV",
+    "sha256": "2ada0472a74b214c593961d06faf4b3770e6b008f8ea760e89533fc84a6a146c"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv",
+    "sha256": "8752fa96e6e405ebb27cd7f3e2a41568a0a7d2f3f4e259caf7667f5ba1c59ab2"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Training_of_Jail_Officers.CSV",
+    "sha256": "114401729a778edccd52a5f2ac23548c536b6307525a8fe1a99ed02a8c78cc39"
+  },
+  {
+    "file": "data/processed/cleaned/Other Prison data/Value_of_goods_produced_by_inmates.csv",
+    "sha256": "0a4ce8152ee41159cdbfc8067e3c60e60cac0ab78cf7848afe3a824ac3fc4d5c"
+  },
+  {
+    "file": "data/processed/cleaned/Prison_details_2015.csv",
+    "sha256": "e4431332d972e02d452e05446a6850e679f8deb1190f01e3c74bda6129b7364e"
+  },
+  {
+    "file": "data/processed/cleaned/Recidivism.csv",
+    "sha256": "413f3ce98c6d7f85c117b2cfabd8ad7a0c76e33b9a4203579b6d8f60051d2e41"
+  },
+  {
+    "file": "data/processed/cleaned/Rehabilitation.csv",
+    "sha256": "08cac40bbdcc0f7f52fcbf19ff2d19cb0f4473090d684b8aea19d43431667dce"
+  },
+  {
+    "file": "data/processed/cleaned/Religion.csv",
+    "sha256": "f49264a651a959717f10faf67927ccf59e17a15df545130d76f0e9359e4253a9"
+  },
+  {
+    "file": "data/processed/cleaned/Sentence_period.csv",
+    "sha256": "f4ac2fcb0350c76d5cc5030f7ef96e3e7b7e790ac55b830ee9d896ccfc89a8a5"
+  },
+  {
+    "file": "data/processed/cleaned/Tranquillity.csv",
+    "sha256": "cf9da7f716afc7e0f430d85284ce986c44a5e3b84ddc3434298833bc5d9222b9"
+  },
+  {
+    "file": "data/processed/cleaned/Vocational_training.csv",
+    "sha256": "0ff8e9edf0b186a143a6b55d74ca35ef2c3210c66c8dfb45c9ab0f2a80efca3b"
+  },
+  {
+    "file": "data/processed/cleaned/Wages.csv",
+    "sha256": "6d779f0dbf58e968c1c905c1197d9c80cf65a04829fbb2b5a03bd43ad7394e7f"
+  },
+  {
+    "file": "data/processed/selected/population_capacity_reference.csv",
+    "sha256": "6ef3717542bf2ff50ddd9647a4dfeb29cc64ab6ada8c68f78b7fd2517a817999"
+  },
+  {
+    "file": "data/processed/selected/profile_base_counts.csv",
+    "sha256": "582260f8847f6520d55c36f2d8128ce7fb9746c5c009ef25373dc69af8c18b29"
+  },
+  {
+    "file": "data/processed/selected/profile_age_counts.csv",
+    "sha256": "7e30d47b0056bcc80c97dae2b5f0defcc8e5953b8a395e9c8ba04fb3a238afc9"
+  },
+  {
+    "file": "data/processed/selected/profile_education_counts.csv",
+    "sha256": "b44b863efcc312630f40711c8f01eeff669faf56bb942b12deb06d00b385ff79"
+  },
+  {
+    "file": "data/processed/transformed/profile_counts.csv",
+    "sha256": "0222d31e23c1d4222e21b405108e1ae316408d56f2823b73ea4b507ee8cad27c"
+  },
+  {
+    "file": "data/processed/transformed/profile_features.csv",
+    "sha256": "6544333262b3b2bbcd8bb3b0d1410b7a1846dfc89de00ef390effa5158fb6e14"
+  },
+  {
+    "file": "data/processed/transformed/clustering_features.csv",
+    "sha256": "1a92b3652e344183f4bb7275890fc3f8b835547bdd58989d80f3c803ffb6c81d"
+  },
+  {
+    "file": "data/processed/transformed/discretized_profiles.csv",
+    "sha256": "14e9e4a9bc1b41f456139fe3248aee33ac1295cc154fee1ce4e8691fbbf8d375"
+  },
+  {
+    "file": "data/processed/transformed/transactions_onehot.csv",
+    "sha256": "fb2886136b46bd0c776b977d43ab7f4e235fe700ebae510edc87d5e04bb34181"
+  },
+  {
+    "file": "data/processed/transformed/transactions.jsonl",
+    "sha256": "5275f19c8e773da03a52f2da8b07fd3c1d0ef66390d3093e7f1dbe51251057f1"
+  },
+  {
+    "file": "data/processed/transformed/spark_profiles.jsonl",
+    "sha256": "2cbd1be1beb42951c46d269772b678c1ef8d5afd43e11367d4d906cba481012a"
+  }
+]

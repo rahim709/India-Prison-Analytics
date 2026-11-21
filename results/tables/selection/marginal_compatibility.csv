@@ -1,0 +1,2236 @@
+file,state,year,present,rows,expected_rows,grid_complete,missing_measure_cells,mismatch_fields,compatible
+Age_group.csv,Andaman & Nicobar Islands,2001,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2002,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2003,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2004,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2005,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2006,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2007,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2008,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2009,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2010,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2011,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2012,True,16,16,True,0,,True
+Age_group.csv,Andaman & Nicobar Islands,2013,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2001,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2002,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2003,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2004,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2005,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2006,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2007,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2008,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2009,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2010,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2011,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2012,True,16,16,True,0,,True
+Age_group.csv,Andhra Pradesh,2013,True,16,16,True,0,,True
+Age_group.csv,Arunachal Pradesh,2009,True,16,16,True,0,,True
+Age_group.csv,Arunachal Pradesh,2010,True,16,16,True,0,,True
+Age_group.csv,Arunachal Pradesh,2011,True,16,16,True,0,,True
+Age_group.csv,Arunachal Pradesh,2012,True,16,16,True,0,,True
+Age_group.csv,Arunachal Pradesh,2013,True,16,16,True,0,,True
+Age_group.csv,Assam,2001,True,16,16,True,0,,True
+Age_group.csv,Assam,2002,True,16,16,True,0,,True
+Age_group.csv,Assam,2003,True,16,16,True,0,,True
+Age_group.csv,Assam,2004,True,16,16,True,0,,True
+Age_group.csv,Assam,2005,True,16,16,True,0,,True
+Age_group.csv,Assam,2006,True,16,16,True,0,,True
+Age_group.csv,Assam,2007,True,16,16,True,0,,True
+Age_group.csv,Assam,2008,True,16,16,True,0,,True
+Age_group.csv,Assam,2009,True,16,16,True,0,,True
+Age_group.csv,Assam,2010,True,16,16,True,0,,True
+Age_group.csv,Assam,2011,True,16,16,True,0,,True
+Age_group.csv,Assam,2012,True,16,16,True,0,,True
+Age_group.csv,Assam,2013,True,16,16,True,0,,True
+Age_group.csv,Bihar,2001,True,16,16,True,0,,True
+Age_group.csv,Bihar,2002,True,16,16,True,0,,True
+Age_group.csv,Bihar,2003,True,16,16,True,0,,True
+Age_group.csv,Bihar,2004,True,16,16,True,0,,True
+Age_group.csv,Bihar,2005,True,16,16,True,0,,True
+Age_group.csv,Bihar,2006,True,16,16,True,0,,True
+Age_group.csv,Bihar,2007,True,16,16,True,0,,True
+Age_group.csv,Bihar,2008,True,16,16,True,0,,True
+Age_group.csv,Bihar,2009,True,16,16,True,0,,True
+Age_group.csv,Bihar,2010,True,16,16,True,0,,True
+Age_group.csv,Bihar,2011,True,16,16,True,0,,True
+Age_group.csv,Bihar,2012,True,16,16,True,0,,True
+Age_group.csv,Bihar,2013,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2001,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2002,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2003,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2004,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2005,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2006,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2007,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2008,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2009,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2010,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2011,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2012,True,16,16,True,0,,True
+Age_group.csv,Chandigarh,2013,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2001,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2002,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2003,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2004,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2005,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2006,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2007,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2008,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2009,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2010,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2011,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2012,True,16,16,True,0,,True
+Age_group.csv,Chhattisgarh,2013,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2001,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2002,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2003,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2004,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2005,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2006,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2007,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2008,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2009,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2010,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2011,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2012,True,16,16,True,0,,True
+Age_group.csv,Dadra & Nagar Haveli,2013,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2001,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2002,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2003,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2004,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2005,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2006,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2007,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2008,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2009,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2010,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2011,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2012,True,16,16,True,0,,True
+Age_group.csv,Daman & Diu,2013,True,16,16,True,0,,True
+Age_group.csv,Delhi,2001,True,16,16,True,0,,True
+Age_group.csv,Delhi,2002,True,16,16,True,0,,True
+Age_group.csv,Delhi,2003,True,16,16,True,0,,True
+Age_group.csv,Delhi,2004,True,16,16,True,0,,True
+Age_group.csv,Delhi,2005,True,16,16,True,0,,True
+Age_group.csv,Delhi,2006,True,16,16,True,0,,True
+Age_group.csv,Delhi,2007,True,16,16,True,0,,True
+Age_group.csv,Delhi,2008,True,16,16,True,0,,True
+Age_group.csv,Delhi,2009,True,16,16,True,0,,True
+Age_group.csv,Delhi,2010,True,16,16,True,0,,True
+Age_group.csv,Delhi,2011,True,16,16,True,0,,True
+Age_group.csv,Delhi,2012,True,16,16,True,0,,True
+Age_group.csv,Delhi,2013,True,16,16,True,0,,True
+Age_group.csv,Goa,2001,True,16,16,True,0,,True
+Age_group.csv,Goa,2002,True,16,16,True,0,,True
+Age_group.csv,Goa,2003,True,16,16,True,0,,True
+Age_group.csv,Goa,2004,True,16,16,True,0,,True
+Age_group.csv,Goa,2005,True,16,16,True,0,,True
+Age_group.csv,Goa,2006,True,16,16,True,0,,True
+Age_group.csv,Goa,2007,True,16,16,True,0,,True
+Age_group.csv,Goa,2008,True,16,16,True,0,,True
+Age_group.csv,Goa,2009,True,16,16,True,0,,True
+Age_group.csv,Goa,2010,True,16,16,True,0,,True
+Age_group.csv,Goa,2011,True,16,16,True,0,,True
+Age_group.csv,Goa,2012,True,16,16,True,0,,True
+Age_group.csv,Goa,2013,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2001,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2002,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2003,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2004,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2005,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2006,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2007,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2008,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2009,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2010,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2011,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2012,True,16,16,True,0,,True
+Age_group.csv,Gujarat,2013,True,16,16,True,0,,True
+Age_group.csv,Haryana,2001,True,16,16,True,0,,True
+Age_group.csv,Haryana,2002,True,16,16,True,0,,True
+Age_group.csv,Haryana,2003,True,16,16,True,0,,True
+Age_group.csv,Haryana,2004,True,16,16,True,0,,True
+Age_group.csv,Haryana,2005,True,16,16,True,0,,True
+Age_group.csv,Haryana,2006,True,16,16,True,0,,True
+Age_group.csv,Haryana,2007,True,16,16,True,0,,True
+Age_group.csv,Haryana,2008,True,16,16,True,0,,True
+Age_group.csv,Haryana,2009,True,16,16,True,0,,True
+Age_group.csv,Haryana,2010,True,16,16,True,0,,True
+Age_group.csv,Haryana,2011,True,16,16,True,0,,True
+Age_group.csv,Haryana,2012,True,16,16,True,0,,True
+Age_group.csv,Haryana,2013,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2001,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2002,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2003,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2004,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2005,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2006,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2007,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2008,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2009,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2010,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2011,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2012,True,16,16,True,0,,True
+Age_group.csv,Himachal Pradesh,2013,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2001,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2002,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2003,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2004,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2005,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2006,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2007,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2008,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2009,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2010,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2011,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2012,True,16,16,True,0,,True
+Age_group.csv,Jammu & Kashmir,2013,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2001,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2002,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2003,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2004,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2005,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2006,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2007,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2008,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2009,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2010,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2011,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2012,True,16,16,True,0,,True
+Age_group.csv,Jharkhand,2013,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2001,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2002,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2003,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2004,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2005,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2006,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2007,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2008,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2009,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2010,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2011,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2012,True,16,16,True,0,,True
+Age_group.csv,Karnataka,2013,True,16,16,True,0,,True
+Age_group.csv,Kerala,2001,True,16,16,True,0,,True
+Age_group.csv,Kerala,2002,True,16,16,True,0,,True
+Age_group.csv,Kerala,2003,True,16,16,True,0,,True
+Age_group.csv,Kerala,2004,True,16,16,True,0,,True
+Age_group.csv,Kerala,2005,True,16,16,True,0,,True
+Age_group.csv,Kerala,2006,True,16,16,True,0,,True
+Age_group.csv,Kerala,2007,True,16,16,True,0,,True
+Age_group.csv,Kerala,2008,True,16,16,True,0,,True
+Age_group.csv,Kerala,2009,True,16,16,True,0,,True
+Age_group.csv,Kerala,2010,True,16,16,True,0,,True
+Age_group.csv,Kerala,2011,True,16,16,True,0,,True
+Age_group.csv,Kerala,2012,True,16,16,True,0,,True
+Age_group.csv,Kerala,2013,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2001,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2002,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2003,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2004,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2005,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2006,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2007,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2008,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2009,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2010,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2011,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2012,True,16,16,True,0,,True
+Age_group.csv,Lakshadweep,2013,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2001,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2002,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2003,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2004,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2005,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2006,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2007,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2008,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2009,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2010,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2011,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2012,True,16,16,True,0,,True
+Age_group.csv,Madhya Pradesh,2013,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2001,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2002,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2003,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2004,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2005,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2006,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2007,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2008,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2009,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2010,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2011,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2012,True,16,16,True,0,,True
+Age_group.csv,Maharashtra,2013,True,16,16,True,0,,True
+Age_group.csv,Manipur,2001,True,16,16,True,0,,True
+Age_group.csv,Manipur,2002,True,16,16,True,0,,True
+Age_group.csv,Manipur,2003,True,16,16,True,0,,True
+Age_group.csv,Manipur,2004,True,16,16,True,0,,True
+Age_group.csv,Manipur,2005,True,16,16,True,0,,True
+Age_group.csv,Manipur,2006,True,16,16,True,0,,True
+Age_group.csv,Manipur,2007,True,16,16,True,0,,True
+Age_group.csv,Manipur,2008,True,16,16,True,0,,True
+Age_group.csv,Manipur,2009,True,16,16,True,0,,True
+Age_group.csv,Manipur,2010,True,16,16,True,0,,True
+Age_group.csv,Manipur,2011,True,16,16,True,0,,True
+Age_group.csv,Manipur,2012,True,16,16,True,0,,True
+Age_group.csv,Manipur,2013,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2001,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2002,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2003,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2004,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2005,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2006,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2007,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2008,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2009,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2010,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2011,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2012,True,16,16,True,0,,True
+Age_group.csv,Meghalaya,2013,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2001,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2002,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2003,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2004,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2005,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2006,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2007,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2008,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2009,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2010,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2011,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2012,True,16,16,True,0,,True
+Age_group.csv,Mizoram,2013,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2001,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2002,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2003,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2004,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2005,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2006,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2007,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2008,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2009,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2010,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2011,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2012,True,16,16,True,0,,True
+Age_group.csv,Nagaland,2013,True,16,16,True,0,,True
+Age_group.csv,Odisha,2001,True,16,16,True,0,,True
+Age_group.csv,Odisha,2002,True,16,16,True,0,,True
+Age_group.csv,Odisha,2003,True,16,16,True,0,,True
+Age_group.csv,Odisha,2004,True,16,16,True,0,,True
+Age_group.csv,Odisha,2005,True,16,16,True,0,,True
+Age_group.csv,Odisha,2006,True,16,16,True,0,,True
+Age_group.csv,Odisha,2007,True,16,16,True,0,,True
+Age_group.csv,Odisha,2008,True,16,16,True,0,,True
+Age_group.csv,Odisha,2009,True,16,16,True,0,,True
+Age_group.csv,Odisha,2010,True,16,16,True,0,,True
+Age_group.csv,Odisha,2011,True,16,16,True,0,,True
+Age_group.csv,Odisha,2012,True,16,16,True,0,,True
+Age_group.csv,Odisha,2013,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2001,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2002,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2003,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2004,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2005,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2006,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2007,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2008,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2009,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2010,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2011,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2012,True,16,16,True,0,,True
+Age_group.csv,Puducherry,2013,True,16,16,True,0,,True
+Age_group.csv,Punjab,2001,True,16,16,True,0,,True
+Age_group.csv,Punjab,2002,True,16,16,True,0,,True
+Age_group.csv,Punjab,2003,True,16,16,True,0,,True
+Age_group.csv,Punjab,2004,True,16,16,True,0,,True
+Age_group.csv,Punjab,2005,True,16,16,True,0,,True
+Age_group.csv,Punjab,2006,True,16,16,True,0,,True
+Age_group.csv,Punjab,2007,True,16,16,True,0,,True
+Age_group.csv,Punjab,2008,True,16,16,True,0,,True
+Age_group.csv,Punjab,2009,True,16,16,True,0,,True
+Age_group.csv,Punjab,2010,True,16,16,True,0,,True
+Age_group.csv,Punjab,2011,True,16,16,True,0,,True
+Age_group.csv,Punjab,2012,True,16,16,True,0,,True
+Age_group.csv,Punjab,2013,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2001,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2002,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2003,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2004,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2005,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2006,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2007,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2008,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2009,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2010,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2011,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2012,True,16,16,True,0,,True
+Age_group.csv,Rajasthan,2013,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2001,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2002,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2003,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2004,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2005,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2006,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2007,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2008,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2009,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2010,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2011,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2012,True,16,16,True,0,,True
+Age_group.csv,Sikkim,2013,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2001,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2002,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2003,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2004,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2005,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2006,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2007,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2008,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2009,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2010,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2011,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2012,True,16,16,True,0,,True
+Age_group.csv,Tamil Nadu,2013,True,16,16,True,0,,True
+Age_group.csv,Tripura,2001,True,16,16,True,0,,True
+Age_group.csv,Tripura,2002,True,16,16,True,0,,True
+Age_group.csv,Tripura,2003,True,16,16,True,0,,True
+Age_group.csv,Tripura,2004,True,16,16,True,0,male_detenues;male_others,False
+Age_group.csv,Tripura,2005,True,16,16,True,0,,True
+Age_group.csv,Tripura,2006,True,16,16,True,0,,True
+Age_group.csv,Tripura,2007,True,16,16,True,0,,True
+Age_group.csv,Tripura,2008,True,16,16,True,0,,True
+Age_group.csv,Tripura,2009,True,16,16,True,0,,True
+Age_group.csv,Tripura,2010,True,16,16,True,0,,True
+Age_group.csv,Tripura,2011,True,16,16,True,0,,True
+Age_group.csv,Tripura,2012,True,16,16,True,0,,True
+Age_group.csv,Tripura,2013,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2001,True,16,16,True,0,male_detenues;male_others,False
+Age_group.csv,Uttar Pradesh,2002,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2003,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2004,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2005,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2006,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2007,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2008,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2009,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2010,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2011,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2012,True,16,16,True,0,,True
+Age_group.csv,Uttar Pradesh,2013,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2001,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2002,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2003,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2004,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2005,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2006,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2007,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2008,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2009,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2010,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2011,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2012,True,16,16,True,0,,True
+Age_group.csv,Uttarakhand,2013,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2001,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2002,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2003,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2004,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2005,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2006,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2007,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2008,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2009,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2010,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2011,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2012,True,16,16,True,0,,True
+Age_group.csv,West Bengal,2013,True,16,16,True,1,,False
+Education.csv,Andaman & Nicobar Islands,2001,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2002,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2003,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2004,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2005,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2006,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2007,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2008,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2009,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2010,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2011,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2012,True,12,12,True,0,,True
+Education.csv,Andaman & Nicobar Islands,2013,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2001,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2002,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2003,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2004,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2005,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2006,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2007,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2008,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2009,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2010,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2011,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2012,True,12,12,True,0,,True
+Education.csv,Andhra Pradesh,2013,True,12,12,True,0,,True
+Education.csv,Arunachal Pradesh,2009,True,12,12,True,0,,True
+Education.csv,Arunachal Pradesh,2010,True,12,12,True,0,,True
+Education.csv,Arunachal Pradesh,2011,True,12,12,True,0,,True
+Education.csv,Arunachal Pradesh,2012,True,12,12,True,0,,True
+Education.csv,Arunachal Pradesh,2013,True,12,12,True,0,,True
+Education.csv,Assam,2001,True,12,12,True,0,,True
+Education.csv,Assam,2002,True,12,12,True,0,,True
+Education.csv,Assam,2003,True,12,12,True,0,,True
+Education.csv,Assam,2004,True,12,12,True,0,,True
+Education.csv,Assam,2005,True,12,12,True,0,,True
+Education.csv,Assam,2006,True,12,12,True,0,,True
+Education.csv,Assam,2007,True,12,12,True,0,,True
+Education.csv,Assam,2008,True,12,12,True,0,,True
+Education.csv,Assam,2009,True,12,12,True,0,,True
+Education.csv,Assam,2010,True,12,12,True,0,,True
+Education.csv,Assam,2011,True,12,12,True,0,,True
+Education.csv,Assam,2012,True,12,12,True,0,,True
+Education.csv,Assam,2013,True,12,12,True,0,,True
+Education.csv,Bihar,2001,True,12,12,True,0,,True
+Education.csv,Bihar,2002,True,12,12,True,0,,True
+Education.csv,Bihar,2003,True,12,12,True,0,,True
+Education.csv,Bihar,2004,True,12,12,True,0,,True
+Education.csv,Bihar,2005,True,12,12,True,0,,True
+Education.csv,Bihar,2006,True,12,12,True,0,,True
+Education.csv,Bihar,2007,True,12,12,True,0,,True
+Education.csv,Bihar,2008,True,12,12,True,0,,True
+Education.csv,Bihar,2009,True,12,12,True,0,,True
+Education.csv,Bihar,2010,True,12,12,True,0,,True
+Education.csv,Bihar,2011,True,12,12,True,0,,True
+Education.csv,Bihar,2012,True,12,12,True,0,,True
+Education.csv,Bihar,2013,True,12,12,True,0,,True
+Education.csv,Chandigarh,2001,True,12,12,True,0,,True
+Education.csv,Chandigarh,2002,True,12,12,True,0,,True
+Education.csv,Chandigarh,2003,True,12,12,True,0,,True
+Education.csv,Chandigarh,2004,True,12,12,True,0,,True
+Education.csv,Chandigarh,2005,True,12,12,True,0,,True
+Education.csv,Chandigarh,2006,True,12,12,True,0,,True
+Education.csv,Chandigarh,2007,True,12,12,True,0,,True
+Education.csv,Chandigarh,2008,True,12,12,True,0,,True
+Education.csv,Chandigarh,2009,True,12,12,True,0,,True
+Education.csv,Chandigarh,2010,True,12,12,True,0,,True
+Education.csv,Chandigarh,2011,True,12,12,True,0,,True
+Education.csv,Chandigarh,2012,True,12,12,True,0,,True
+Education.csv,Chandigarh,2013,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2001,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2002,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2003,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2004,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2005,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2006,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2007,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2008,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2009,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2010,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2011,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2012,True,12,12,True,0,,True
+Education.csv,Chhattisgarh,2013,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2001,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2002,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2003,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2004,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2005,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2006,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2007,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2008,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2009,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2010,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2011,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2012,True,12,12,True,0,,True
+Education.csv,Dadra & Nagar Haveli,2013,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2001,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2002,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2003,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2004,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2005,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2006,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2007,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2008,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2009,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2010,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2011,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2012,True,12,12,True,0,,True
+Education.csv,Daman & Diu,2013,True,12,12,True,0,,True
+Education.csv,Delhi,2001,True,12,12,True,0,,True
+Education.csv,Delhi,2002,True,12,12,True,0,,True
+Education.csv,Delhi,2003,True,12,12,True,0,,True
+Education.csv,Delhi,2004,True,12,12,True,0,,True
+Education.csv,Delhi,2005,True,12,12,True,0,,True
+Education.csv,Delhi,2006,True,12,12,True,0,,True
+Education.csv,Delhi,2007,True,12,12,True,0,,True
+Education.csv,Delhi,2008,True,12,12,True,0,,True
+Education.csv,Delhi,2009,True,12,12,True,0,,True
+Education.csv,Delhi,2010,True,12,12,True,0,,True
+Education.csv,Delhi,2011,True,12,12,True,0,,True
+Education.csv,Delhi,2012,True,12,12,True,0,,True
+Education.csv,Delhi,2013,True,12,12,True,0,,True
+Education.csv,Goa,2001,True,12,12,True,0,,True
+Education.csv,Goa,2002,True,12,12,True,0,,True
+Education.csv,Goa,2003,True,12,12,True,0,,True
+Education.csv,Goa,2004,True,12,12,True,0,,True
+Education.csv,Goa,2005,True,12,12,True,0,,True
+Education.csv,Goa,2006,True,12,12,True,0,,True
+Education.csv,Goa,2007,True,12,12,True,0,,True
+Education.csv,Goa,2008,True,12,12,True,0,,True
+Education.csv,Goa,2009,True,12,12,True,0,,True
+Education.csv,Goa,2010,True,12,12,True,0,,True
+Education.csv,Goa,2011,True,12,12,True,0,,True
+Education.csv,Goa,2012,True,12,12,True,0,,True
+Education.csv,Goa,2013,True,12,12,True,0,,True
+Education.csv,Gujarat,2001,True,12,12,True,0,,True
+Education.csv,Gujarat,2002,True,12,12,True,0,,True
+Education.csv,Gujarat,2003,True,12,12,True,0,,True
+Education.csv,Gujarat,2004,True,12,12,True,0,,True
+Education.csv,Gujarat,2005,True,12,12,True,0,,True
+Education.csv,Gujarat,2006,True,12,12,True,0,,True
+Education.csv,Gujarat,2007,True,12,12,True,0,,True
+Education.csv,Gujarat,2008,True,12,12,True,0,,True
+Education.csv,Gujarat,2009,True,12,12,True,0,,True
+Education.csv,Gujarat,2010,True,12,12,True,0,,True
+Education.csv,Gujarat,2011,True,12,12,True,0,,True
+Education.csv,Gujarat,2012,True,12,12,True,0,,True
+Education.csv,Gujarat,2013,True,12,12,True,0,,True
+Education.csv,Haryana,2001,True,12,12,True,0,,True
+Education.csv,Haryana,2002,True,12,12,True,0,,True
+Education.csv,Haryana,2003,True,12,12,True,0,,True
+Education.csv,Haryana,2004,True,12,12,True,0,,True
+Education.csv,Haryana,2005,True,12,12,True,0,,True
+Education.csv,Haryana,2006,True,12,12,True,0,,True
+Education.csv,Haryana,2007,True,12,12,True,0,,True
+Education.csv,Haryana,2008,True,12,12,True,0,,True
+Education.csv,Haryana,2009,True,12,12,True,0,,True
+Education.csv,Haryana,2010,True,12,12,True,0,,True
+Education.csv,Haryana,2011,True,12,12,True,0,,True
+Education.csv,Haryana,2012,True,12,12,True,0,,True
+Education.csv,Haryana,2013,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2001,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2002,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2003,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2004,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2005,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2006,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2007,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2008,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2009,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2010,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2011,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2012,True,12,12,True,0,,True
+Education.csv,Himachal Pradesh,2013,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2001,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2002,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2003,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2004,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2005,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2006,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2007,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2008,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2009,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2010,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2011,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2012,True,12,12,True,0,,True
+Education.csv,Jammu & Kashmir,2013,True,12,12,True,0,,True
+Education.csv,Jharkhand,2001,True,12,12,True,0,,True
+Education.csv,Jharkhand,2002,True,12,12,True,0,,True
+Education.csv,Jharkhand,2003,True,12,12,True,0,,True
+Education.csv,Jharkhand,2004,True,12,12,True,0,,True
+Education.csv,Jharkhand,2005,True,12,12,True,0,,True
+Education.csv,Jharkhand,2006,True,12,12,True,0,,True
+Education.csv,Jharkhand,2007,True,12,12,True,0,,True
+Education.csv,Jharkhand,2008,True,12,12,True,0,,True
+Education.csv,Jharkhand,2009,True,12,12,True,0,,True
+Education.csv,Jharkhand,2010,True,12,12,True,0,,True
+Education.csv,Jharkhand,2011,True,12,12,True,0,,True
+Education.csv,Jharkhand,2012,True,12,12,True,0,,True
+Education.csv,Jharkhand,2013,True,12,12,True,0,,True
+Education.csv,Karnataka,2001,True,12,12,True,0,,True
+Education.csv,Karnataka,2002,True,12,12,True,0,,True
+Education.csv,Karnataka,2003,False,0,12,False,0,,False
+Education.csv,Karnataka,2004,True,12,12,True,0,,True
+Education.csv,Karnataka,2005,True,12,12,True,0,,True
+Education.csv,Karnataka,2006,True,12,12,True,0,,True
+Education.csv,Karnataka,2007,True,12,12,True,0,,True
+Education.csv,Karnataka,2008,True,12,12,True,0,,True
+Education.csv,Karnataka,2009,True,12,12,True,0,,True
+Education.csv,Karnataka,2010,True,12,12,True,0,,True
+Education.csv,Karnataka,2011,True,12,12,True,0,,True
+Education.csv,Karnataka,2012,True,12,12,True,0,,True
+Education.csv,Karnataka,2013,True,12,12,True,0,,True
+Education.csv,Kerala,2001,True,12,12,True,0,,True
+Education.csv,Kerala,2002,True,12,12,True,0,,True
+Education.csv,Kerala,2003,True,12,12,True,0,,True
+Education.csv,Kerala,2004,True,12,12,True,0,,True
+Education.csv,Kerala,2005,True,12,12,True,0,,True
+Education.csv,Kerala,2006,True,12,12,True,0,,True
+Education.csv,Kerala,2007,True,12,12,True,0,,True
+Education.csv,Kerala,2008,True,12,12,True,0,,True
+Education.csv,Kerala,2009,True,12,12,True,0,,True
+Education.csv,Kerala,2010,True,12,12,True,0,,True
+Education.csv,Kerala,2011,True,12,12,True,0,,True
+Education.csv,Kerala,2012,True,12,12,True,0,,True
+Education.csv,Kerala,2013,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2001,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2002,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2003,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2004,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2005,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2006,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2007,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2008,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2009,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2010,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2011,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2012,True,12,12,True,0,,True
+Education.csv,Lakshadweep,2013,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2001,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2002,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2003,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2004,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2005,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2006,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2007,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2008,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2009,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2010,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2011,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2012,True,12,12,True,0,,True
+Education.csv,Madhya Pradesh,2013,True,12,12,True,0,,True
+Education.csv,Maharashtra,2001,True,12,12,True,0,,True
+Education.csv,Maharashtra,2002,True,12,12,True,0,,True
+Education.csv,Maharashtra,2003,True,12,12,True,0,,True
+Education.csv,Maharashtra,2004,True,12,12,True,0,,True
+Education.csv,Maharashtra,2005,True,12,12,True,0,,True
+Education.csv,Maharashtra,2006,True,12,12,True,0,,True
+Education.csv,Maharashtra,2007,True,12,12,True,0,,True
+Education.csv,Maharashtra,2008,True,12,12,True,0,,True
+Education.csv,Maharashtra,2009,True,12,12,True,0,,True
+Education.csv,Maharashtra,2010,True,10,12,False,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial,False
+Education.csv,Maharashtra,2011,True,12,12,True,0,,True
+Education.csv,Maharashtra,2012,True,12,12,True,0,,True
+Education.csv,Maharashtra,2013,True,12,12,True,0,,True
+Education.csv,Manipur,2001,True,12,12,True,0,,True
+Education.csv,Manipur,2002,True,12,12,True,0,,True
+Education.csv,Manipur,2003,True,12,12,True,0,,True
+Education.csv,Manipur,2004,True,12,12,True,0,,True
+Education.csv,Manipur,2005,True,12,12,True,0,,True
+Education.csv,Manipur,2006,True,12,12,True,0,,True
+Education.csv,Manipur,2007,True,12,12,True,0,,True
+Education.csv,Manipur,2008,True,12,12,True,0,,True
+Education.csv,Manipur,2009,True,12,12,True,0,,True
+Education.csv,Manipur,2010,True,12,12,True,0,,True
+Education.csv,Manipur,2011,True,12,12,True,0,,True
+Education.csv,Manipur,2012,True,12,12,True,0,,True
+Education.csv,Manipur,2013,True,12,12,True,0,,True
+Education.csv,Meghalaya,2001,True,12,12,True,0,,True
+Education.csv,Meghalaya,2002,True,12,12,True,0,,True
+Education.csv,Meghalaya,2003,True,12,12,True,0,,True
+Education.csv,Meghalaya,2004,True,12,12,True,0,,True
+Education.csv,Meghalaya,2005,True,12,12,True,0,,True
+Education.csv,Meghalaya,2006,True,12,12,True,0,,True
+Education.csv,Meghalaya,2007,True,12,12,True,0,,True
+Education.csv,Meghalaya,2008,True,12,12,True,0,,True
+Education.csv,Meghalaya,2009,True,12,12,True,0,,True
+Education.csv,Meghalaya,2010,True,12,12,True,0,,True
+Education.csv,Meghalaya,2011,True,12,12,True,0,,True
+Education.csv,Meghalaya,2012,True,12,12,True,0,,True
+Education.csv,Meghalaya,2013,True,12,12,True,0,,True
+Education.csv,Mizoram,2001,True,12,12,True,0,,True
+Education.csv,Mizoram,2002,True,12,12,True,0,,True
+Education.csv,Mizoram,2003,True,12,12,True,0,,True
+Education.csv,Mizoram,2004,True,12,12,True,0,,True
+Education.csv,Mizoram,2005,True,12,12,True,0,,True
+Education.csv,Mizoram,2006,True,12,12,True,0,,True
+Education.csv,Mizoram,2007,True,12,12,True,0,,True
+Education.csv,Mizoram,2008,True,12,12,True,0,,True
+Education.csv,Mizoram,2009,True,12,12,True,0,,True
+Education.csv,Mizoram,2010,True,12,12,True,0,,True
+Education.csv,Mizoram,2011,True,12,12,True,0,,True
+Education.csv,Mizoram,2012,True,12,12,True,0,,True
+Education.csv,Mizoram,2013,True,12,12,True,0,,True
+Education.csv,Nagaland,2001,True,12,12,True,0,,True
+Education.csv,Nagaland,2002,True,12,12,True,0,,True
+Education.csv,Nagaland,2003,True,12,12,True,0,,True
+Education.csv,Nagaland,2004,True,12,12,True,0,,True
+Education.csv,Nagaland,2005,True,12,12,True,0,,True
+Education.csv,Nagaland,2006,True,12,12,True,0,,True
+Education.csv,Nagaland,2007,True,12,12,True,0,,True
+Education.csv,Nagaland,2008,True,12,12,True,0,,True
+Education.csv,Nagaland,2009,True,12,12,True,0,,True
+Education.csv,Nagaland,2010,True,12,12,True,0,,True
+Education.csv,Nagaland,2011,True,12,12,True,0,,True
+Education.csv,Nagaland,2012,True,12,12,True,0,,True
+Education.csv,Nagaland,2013,True,12,12,True,0,,True
+Education.csv,Odisha,2001,True,12,12,True,0,,True
+Education.csv,Odisha,2002,True,12,12,True,0,,True
+Education.csv,Odisha,2003,True,12,12,True,0,,True
+Education.csv,Odisha,2004,True,12,12,True,0,,True
+Education.csv,Odisha,2005,True,12,12,True,0,,True
+Education.csv,Odisha,2006,True,12,12,True,0,,True
+Education.csv,Odisha,2007,True,12,12,True,0,,True
+Education.csv,Odisha,2008,True,12,12,True,0,,True
+Education.csv,Odisha,2009,True,12,12,True,0,,True
+Education.csv,Odisha,2010,True,12,12,True,0,,True
+Education.csv,Odisha,2011,True,12,12,True,0,,True
+Education.csv,Odisha,2012,True,12,12,True,0,,True
+Education.csv,Odisha,2013,True,12,12,True,0,,True
+Education.csv,Puducherry,2001,True,12,12,True,0,,True
+Education.csv,Puducherry,2002,True,12,12,True,0,,True
+Education.csv,Puducherry,2003,True,12,12,True,0,,True
+Education.csv,Puducherry,2004,True,12,12,True,0,,True
+Education.csv,Puducherry,2005,True,12,12,True,0,,True
+Education.csv,Puducherry,2006,True,12,12,True,0,,True
+Education.csv,Puducherry,2007,True,12,12,True,0,,True
+Education.csv,Puducherry,2008,True,12,12,True,0,,True
+Education.csv,Puducherry,2009,True,12,12,True,0,,True
+Education.csv,Puducherry,2010,True,12,12,True,0,,True
+Education.csv,Puducherry,2011,True,12,12,True,0,,True
+Education.csv,Puducherry,2012,True,12,12,True,0,,True
+Education.csv,Puducherry,2013,True,12,12,True,0,,True
+Education.csv,Punjab,2001,True,12,12,True,0,,True
+Education.csv,Punjab,2002,True,12,12,True,0,,True
+Education.csv,Punjab,2003,True,12,12,True,0,,True
+Education.csv,Punjab,2004,True,12,12,True,0,,True
+Education.csv,Punjab,2005,True,12,12,True,0,,True
+Education.csv,Punjab,2006,True,12,12,True,0,,True
+Education.csv,Punjab,2007,True,12,12,True,0,,True
+Education.csv,Punjab,2008,True,12,12,True,0,,True
+Education.csv,Punjab,2009,True,12,12,True,0,,True
+Education.csv,Punjab,2010,True,12,12,True,0,,True
+Education.csv,Punjab,2011,True,12,12,True,0,,True
+Education.csv,Punjab,2012,True,12,12,True,0,,True
+Education.csv,Punjab,2013,True,12,12,True,0,,True
+Education.csv,Rajasthan,2001,True,12,12,True,0,,True
+Education.csv,Rajasthan,2002,True,12,12,True,0,,True
+Education.csv,Rajasthan,2003,True,12,12,True,0,,True
+Education.csv,Rajasthan,2004,True,12,12,True,0,,True
+Education.csv,Rajasthan,2005,True,12,12,True,0,,True
+Education.csv,Rajasthan,2006,True,12,12,True,0,,True
+Education.csv,Rajasthan,2007,True,12,12,True,0,,True
+Education.csv,Rajasthan,2008,True,12,12,True,0,,True
+Education.csv,Rajasthan,2009,True,12,12,True,0,,True
+Education.csv,Rajasthan,2010,True,12,12,True,0,,True
+Education.csv,Rajasthan,2011,True,12,12,True,0,,True
+Education.csv,Rajasthan,2012,True,12,12,True,0,,True
+Education.csv,Rajasthan,2013,True,12,12,True,0,,True
+Education.csv,Sikkim,2001,True,12,12,True,0,,True
+Education.csv,Sikkim,2002,True,12,12,True,0,,True
+Education.csv,Sikkim,2003,True,12,12,True,0,,True
+Education.csv,Sikkim,2004,True,12,12,True,0,,True
+Education.csv,Sikkim,2005,True,12,12,True,0,,True
+Education.csv,Sikkim,2006,True,12,12,True,0,,True
+Education.csv,Sikkim,2007,True,12,12,True,0,,True
+Education.csv,Sikkim,2008,True,12,12,True,0,,True
+Education.csv,Sikkim,2009,True,12,12,True,0,,True
+Education.csv,Sikkim,2010,True,12,12,True,0,,True
+Education.csv,Sikkim,2011,True,12,12,True,0,,True
+Education.csv,Sikkim,2012,True,12,12,True,0,,True
+Education.csv,Sikkim,2013,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2001,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2002,True,8,12,False,0,male_convicts;male_under_trial;male_detenues;male_others;female_detenues;female_others,False
+Education.csv,Tamil Nadu,2003,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2004,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2005,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2006,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2007,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2008,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2009,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2010,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2011,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2012,True,12,12,True,0,,True
+Education.csv,Tamil Nadu,2013,True,12,12,True,0,,True
+Education.csv,Tripura,2001,True,12,12,True,0,,True
+Education.csv,Tripura,2002,True,12,12,True,0,,True
+Education.csv,Tripura,2003,True,12,12,True,0,,True
+Education.csv,Tripura,2004,True,12,12,True,0,,True
+Education.csv,Tripura,2005,True,12,12,True,0,,True
+Education.csv,Tripura,2006,True,12,12,True,0,,True
+Education.csv,Tripura,2007,True,12,12,True,0,,True
+Education.csv,Tripura,2008,True,12,12,True,0,,True
+Education.csv,Tripura,2009,True,12,12,True,0,,True
+Education.csv,Tripura,2010,True,12,12,True,0,,True
+Education.csv,Tripura,2011,True,12,12,True,0,,True
+Education.csv,Tripura,2012,True,12,12,True,0,,True
+Education.csv,Tripura,2013,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2001,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2002,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2003,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2004,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2005,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2006,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2007,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2008,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2009,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2010,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2011,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2012,True,12,12,True,0,,True
+Education.csv,Uttar Pradesh,2013,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2001,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2002,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2003,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2004,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2005,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2006,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2007,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2008,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2009,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2010,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2011,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2012,True,12,12,True,0,,True
+Education.csv,Uttarakhand,2013,True,12,12,True,0,,True
+Education.csv,West Bengal,2001,True,12,12,True,0,,True
+Education.csv,West Bengal,2002,True,12,12,True,0,,True
+Education.csv,West Bengal,2003,True,12,12,True,0,,True
+Education.csv,West Bengal,2004,True,12,12,True,0,,True
+Education.csv,West Bengal,2005,True,12,12,True,0,,True
+Education.csv,West Bengal,2006,True,12,12,True,0,,True
+Education.csv,West Bengal,2007,True,12,12,True,0,,True
+Education.csv,West Bengal,2008,True,12,12,True,0,,True
+Education.csv,West Bengal,2009,True,12,12,True,0,,True
+Education.csv,West Bengal,2010,True,12,12,True,0,,True
+Education.csv,West Bengal,2011,True,12,12,True,0,,True
+Education.csv,West Bengal,2012,True,12,12,True,0,,True
+Education.csv,West Bengal,2013,True,12,12,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2001,True,8,8,True,0,male_convicts;male_under_trial;female_convicts;female_under_trial,False
+Caste.csv,Andaman & Nicobar Islands,2002,True,8,8,True,0,male_convicts;male_under_trial;female_convicts;female_under_trial,False
+Caste.csv,Andaman & Nicobar Islands,2003,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2004,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2005,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2006,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2007,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2008,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2009,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2010,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2011,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2012,True,8,8,True,0,,True
+Caste.csv,Andaman & Nicobar Islands,2013,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2001,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2002,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2003,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2004,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2005,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2006,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2007,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2008,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2009,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2010,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2011,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2012,True,8,8,True,0,,True
+Caste.csv,Andhra Pradesh,2013,True,8,8,True,0,,True
+Caste.csv,Arunachal Pradesh,2009,True,8,8,True,0,,True
+Caste.csv,Arunachal Pradesh,2010,True,8,8,True,0,,True
+Caste.csv,Arunachal Pradesh,2011,True,8,8,True,0,,True
+Caste.csv,Arunachal Pradesh,2012,True,8,8,True,0,,True
+Caste.csv,Arunachal Pradesh,2013,True,8,8,True,0,,True
+Caste.csv,Assam,2001,True,8,8,True,0,,True
+Caste.csv,Assam,2002,True,8,8,True,0,,True
+Caste.csv,Assam,2003,True,8,8,True,0,,True
+Caste.csv,Assam,2004,True,8,8,True,0,,True
+Caste.csv,Assam,2005,True,8,8,True,0,,True
+Caste.csv,Assam,2006,True,8,8,True,0,,True
+Caste.csv,Assam,2007,True,8,8,True,0,,True
+Caste.csv,Assam,2008,True,8,8,True,0,,True
+Caste.csv,Assam,2009,True,8,8,True,0,,True
+Caste.csv,Assam,2010,True,8,8,True,0,,True
+Caste.csv,Assam,2011,True,8,8,True,0,,True
+Caste.csv,Assam,2012,True,8,8,True,0,,True
+Caste.csv,Assam,2013,True,8,8,True,0,,True
+Caste.csv,Bihar,2001,True,8,8,True,0,,True
+Caste.csv,Bihar,2002,True,8,8,True,0,,True
+Caste.csv,Bihar,2003,True,8,8,True,0,,True
+Caste.csv,Bihar,2004,True,8,8,True,0,,True
+Caste.csv,Bihar,2005,True,8,8,True,0,,True
+Caste.csv,Bihar,2006,True,8,8,True,0,,True
+Caste.csv,Bihar,2007,True,8,8,True,0,,True
+Caste.csv,Bihar,2008,True,8,8,True,0,,True
+Caste.csv,Bihar,2009,True,8,8,True,0,,True
+Caste.csv,Bihar,2010,True,8,8,True,0,,True
+Caste.csv,Bihar,2011,True,8,8,True,0,,True
+Caste.csv,Bihar,2012,True,8,8,True,0,,True
+Caste.csv,Bihar,2013,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2001,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2002,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2003,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2004,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2005,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2006,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2007,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2008,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2009,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2010,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2011,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2012,True,8,8,True,0,,True
+Caste.csv,Chandigarh,2013,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2001,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2002,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2003,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2004,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2005,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2006,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2007,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2008,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2009,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2010,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2011,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2012,True,8,8,True,0,,True
+Caste.csv,Chhattisgarh,2013,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2001,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2002,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2003,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2004,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2005,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2006,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2007,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2008,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2009,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2010,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2011,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2012,True,8,8,True,0,,True
+Caste.csv,Dadra & Nagar Haveli,2013,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2001,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2002,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2003,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2004,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2005,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2006,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2007,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2008,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2009,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2010,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2011,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2012,True,8,8,True,0,,True
+Caste.csv,Daman & Diu,2013,True,8,8,True,0,,True
+Caste.csv,Delhi,2001,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial;female_detenues,False
+Caste.csv,Delhi,2002,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial;female_detenues,False
+Caste.csv,Delhi,2003,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial;female_detenues,False
+Caste.csv,Delhi,2004,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial,False
+Caste.csv,Delhi,2005,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial,False
+Caste.csv,Delhi,2006,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial;female_detenues,False
+Caste.csv,Delhi,2007,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial,False
+Caste.csv,Delhi,2008,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;male_others;female_convicts;female_under_trial,False
+Caste.csv,Delhi,2009,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;male_others;female_convicts;female_under_trial,False
+Caste.csv,Delhi,2010,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;male_others;female_convicts;female_under_trial,False
+Caste.csv,Delhi,2011,True,8,8,True,0,,True
+Caste.csv,Delhi,2012,True,8,8,True,0,,True
+Caste.csv,Delhi,2013,True,8,8,True,0,,True
+Caste.csv,Goa,2001,True,8,8,True,0,,True
+Caste.csv,Goa,2002,True,8,8,True,0,,True
+Caste.csv,Goa,2003,True,8,8,True,0,,True
+Caste.csv,Goa,2004,True,8,8,True,0,,True
+Caste.csv,Goa,2005,True,8,8,True,0,,True
+Caste.csv,Goa,2006,True,8,8,True,0,,True
+Caste.csv,Goa,2007,True,8,8,True,0,,True
+Caste.csv,Goa,2008,True,8,8,True,0,,True
+Caste.csv,Goa,2009,True,8,8,True,0,,True
+Caste.csv,Goa,2010,True,8,8,True,0,,True
+Caste.csv,Goa,2011,True,8,8,True,0,,True
+Caste.csv,Goa,2012,True,8,8,True,0,,True
+Caste.csv,Goa,2013,True,8,8,True,0,,True
+Caste.csv,Gujarat,2001,True,8,8,True,0,,True
+Caste.csv,Gujarat,2002,True,8,8,True,0,,True
+Caste.csv,Gujarat,2003,True,8,8,True,0,,True
+Caste.csv,Gujarat,2004,True,8,8,True,0,,True
+Caste.csv,Gujarat,2005,True,8,8,True,0,,True
+Caste.csv,Gujarat,2006,True,8,8,True,0,,True
+Caste.csv,Gujarat,2007,True,8,8,True,0,,True
+Caste.csv,Gujarat,2008,True,8,8,True,0,,True
+Caste.csv,Gujarat,2009,True,8,8,True,0,,True
+Caste.csv,Gujarat,2010,True,8,8,True,0,,True
+Caste.csv,Gujarat,2011,True,8,8,True,0,,True
+Caste.csv,Gujarat,2012,True,8,8,True,0,,True
+Caste.csv,Gujarat,2013,True,8,8,True,0,,True
+Caste.csv,Haryana,2001,True,8,8,True,0,,True
+Caste.csv,Haryana,2002,True,8,8,True,0,,True
+Caste.csv,Haryana,2003,True,8,8,True,0,,True
+Caste.csv,Haryana,2004,True,8,8,True,0,,True
+Caste.csv,Haryana,2005,True,8,8,True,0,,True
+Caste.csv,Haryana,2006,True,8,8,True,0,,True
+Caste.csv,Haryana,2007,True,8,8,True,0,,True
+Caste.csv,Haryana,2008,True,8,8,True,0,,True
+Caste.csv,Haryana,2009,True,8,8,True,0,,True
+Caste.csv,Haryana,2010,True,8,8,True,0,,True
+Caste.csv,Haryana,2011,True,8,8,True,0,,True
+Caste.csv,Haryana,2012,True,8,8,True,0,,True
+Caste.csv,Haryana,2013,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2001,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2002,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2003,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2004,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2005,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2006,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2007,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2008,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2009,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2010,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2011,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2012,True,8,8,True,0,,True
+Caste.csv,Himachal Pradesh,2013,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2001,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;male_others;female_convicts;female_under_trial;female_detenues,False
+Caste.csv,Jammu & Kashmir,2002,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2003,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial,False
+Caste.csv,Jammu & Kashmir,2004,True,8,8,True,0,male_convicts;male_under_trial;male_detenues;male_others;female_convicts;female_under_trial;female_detenues,False
+Caste.csv,Jammu & Kashmir,2005,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2006,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2007,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2008,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2009,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2010,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2011,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2012,True,8,8,True,0,,True
+Caste.csv,Jammu & Kashmir,2013,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2001,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2002,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2003,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2004,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2005,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2006,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2007,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2008,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2009,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2010,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2011,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2012,True,8,8,True,0,,True
+Caste.csv,Jharkhand,2013,True,8,8,True,0,,True
+Caste.csv,Karnataka,2001,True,8,8,True,0,,True
+Caste.csv,Karnataka,2002,True,8,8,True,0,,True
+Caste.csv,Karnataka,2003,False,0,8,False,0,,False
+Caste.csv,Karnataka,2004,True,8,8,True,0,,True
+Caste.csv,Karnataka,2005,True,8,8,True,0,,True
+Caste.csv,Karnataka,2006,True,8,8,True,0,,True
+Caste.csv,Karnataka,2007,True,8,8,True,0,,True
+Caste.csv,Karnataka,2008,True,8,8,True,0,,True
+Caste.csv,Karnataka,2009,True,8,8,True,0,,True
+Caste.csv,Karnataka,2010,True,8,8,True,0,,True
+Caste.csv,Karnataka,2011,True,8,8,True,0,,True
+Caste.csv,Karnataka,2012,True,8,8,True,0,,True
+Caste.csv,Karnataka,2013,True,8,8,True,0,,True
+Caste.csv,Kerala,2001,True,8,8,True,0,,True
+Caste.csv,Kerala,2002,True,8,8,True,0,,True
+Caste.csv,Kerala,2003,True,8,8,True,0,,True
+Caste.csv,Kerala,2004,True,8,8,True,0,,True
+Caste.csv,Kerala,2005,True,8,8,True,0,,True
+Caste.csv,Kerala,2006,True,8,8,True,0,,True
+Caste.csv,Kerala,2007,True,8,8,True,0,,True
+Caste.csv,Kerala,2008,True,8,8,True,0,,True
+Caste.csv,Kerala,2009,True,8,8,True,0,,True
+Caste.csv,Kerala,2010,True,8,8,True,0,,True
+Caste.csv,Kerala,2011,True,8,8,True,0,,True
+Caste.csv,Kerala,2012,True,8,8,True,0,,True
+Caste.csv,Kerala,2013,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2001,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2002,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2003,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2004,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2005,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2006,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2007,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2008,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2009,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2010,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2011,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2012,True,8,8,True,0,,True
+Caste.csv,Lakshadweep,2013,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2001,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2002,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2003,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2004,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2005,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2006,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2007,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2008,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2009,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2010,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2011,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2012,True,8,8,True,0,,True
+Caste.csv,Madhya Pradesh,2013,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2001,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2002,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2003,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2004,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2005,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2006,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2007,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2008,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2009,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2010,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2011,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2012,True,8,8,True,0,,True
+Caste.csv,Maharashtra,2013,True,8,8,True,0,,True
+Caste.csv,Manipur,2001,True,8,8,True,0,,True
+Caste.csv,Manipur,2002,True,8,8,True,0,,True
+Caste.csv,Manipur,2003,True,8,8,True,0,,True
+Caste.csv,Manipur,2004,True,8,8,True,0,,True
+Caste.csv,Manipur,2005,True,8,8,True,0,,True
+Caste.csv,Manipur,2006,True,8,8,True,0,,True
+Caste.csv,Manipur,2007,True,8,8,True,0,,True
+Caste.csv,Manipur,2008,True,8,8,True,0,,True
+Caste.csv,Manipur,2009,True,8,8,True,0,,True
+Caste.csv,Manipur,2010,True,8,8,True,0,,True
+Caste.csv,Manipur,2011,True,8,8,True,0,,True
+Caste.csv,Manipur,2012,True,8,8,True,0,,True
+Caste.csv,Manipur,2013,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2001,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2002,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2003,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2004,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2005,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2006,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2007,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2008,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2009,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2010,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2011,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2012,True,8,8,True,0,,True
+Caste.csv,Meghalaya,2013,True,8,8,True,0,,True
+Caste.csv,Mizoram,2001,True,8,8,True,0,,True
+Caste.csv,Mizoram,2002,True,8,8,True,0,,True
+Caste.csv,Mizoram,2003,True,8,8,True,0,,True
+Caste.csv,Mizoram,2004,True,8,8,True,0,,True
+Caste.csv,Mizoram,2005,True,8,8,True,0,,True
+Caste.csv,Mizoram,2006,True,8,8,True,0,,True
+Caste.csv,Mizoram,2007,True,8,8,True,0,,True
+Caste.csv,Mizoram,2008,True,8,8,True,0,,True
+Caste.csv,Mizoram,2009,True,8,8,True,0,,True
+Caste.csv,Mizoram,2010,True,8,8,True,0,,True
+Caste.csv,Mizoram,2011,True,8,8,True,0,,True
+Caste.csv,Mizoram,2012,True,8,8,True,0,,True
+Caste.csv,Mizoram,2013,True,8,8,True,0,,True
+Caste.csv,Nagaland,2001,True,8,8,True,0,,True
+Caste.csv,Nagaland,2002,True,8,8,True,0,,True
+Caste.csv,Nagaland,2003,True,8,8,True,0,,True
+Caste.csv,Nagaland,2004,True,8,8,True,0,,True
+Caste.csv,Nagaland,2005,True,8,8,True,0,,True
+Caste.csv,Nagaland,2006,True,8,8,True,0,,True
+Caste.csv,Nagaland,2007,True,8,8,True,0,,True
+Caste.csv,Nagaland,2008,True,8,8,True,0,,True
+Caste.csv,Nagaland,2009,True,8,8,True,0,,True
+Caste.csv,Nagaland,2010,True,8,8,True,0,,True
+Caste.csv,Nagaland,2011,True,8,8,True,0,,True
+Caste.csv,Nagaland,2012,True,8,8,True,0,,True
+Caste.csv,Nagaland,2013,True,8,8,True,0,,True
+Caste.csv,Odisha,2001,True,8,8,True,0,,True
+Caste.csv,Odisha,2002,True,8,8,True,0,,True
+Caste.csv,Odisha,2003,True,8,8,True,0,,True
+Caste.csv,Odisha,2004,True,8,8,True,0,,True
+Caste.csv,Odisha,2005,True,8,8,True,0,,True
+Caste.csv,Odisha,2006,True,8,8,True,0,,True
+Caste.csv,Odisha,2007,True,8,8,True,0,,True
+Caste.csv,Odisha,2008,True,8,8,True,0,,True
+Caste.csv,Odisha,2009,True,8,8,True,0,,True
+Caste.csv,Odisha,2010,True,8,8,True,0,,True
+Caste.csv,Odisha,2011,True,8,8,True,0,,True
+Caste.csv,Odisha,2012,True,8,8,True,0,,True
+Caste.csv,Odisha,2013,True,8,8,True,0,,True
+Caste.csv,Puducherry,2001,True,8,8,True,0,,True
+Caste.csv,Puducherry,2002,True,8,8,True,0,,True
+Caste.csv,Puducherry,2003,True,8,8,True,0,,True
+Caste.csv,Puducherry,2004,True,8,8,True,0,,True
+Caste.csv,Puducherry,2005,True,8,8,True,0,,True
+Caste.csv,Puducherry,2006,True,8,8,True,0,,True
+Caste.csv,Puducherry,2007,True,8,8,True,0,,True
+Caste.csv,Puducherry,2008,True,8,8,True,0,,True
+Caste.csv,Puducherry,2009,True,8,8,True,0,,True
+Caste.csv,Puducherry,2010,True,8,8,True,0,,True
+Caste.csv,Puducherry,2011,True,8,8,True,0,,True
+Caste.csv,Puducherry,2012,True,8,8,True,0,,True
+Caste.csv,Puducherry,2013,True,8,8,True,0,,True
+Caste.csv,Punjab,2001,True,8,8,True,0,,True
+Caste.csv,Punjab,2002,True,8,8,True,0,,True
+Caste.csv,Punjab,2003,True,8,8,True,0,,True
+Caste.csv,Punjab,2004,True,8,8,True,0,,True
+Caste.csv,Punjab,2005,True,8,8,True,0,,True
+Caste.csv,Punjab,2006,True,8,8,True,0,,True
+Caste.csv,Punjab,2007,True,8,8,True,0,,True
+Caste.csv,Punjab,2008,True,8,8,True,0,,True
+Caste.csv,Punjab,2009,True,8,8,True,0,,True
+Caste.csv,Punjab,2010,True,8,8,True,0,,True
+Caste.csv,Punjab,2011,True,8,8,True,0,,True
+Caste.csv,Punjab,2012,True,8,8,True,0,,True
+Caste.csv,Punjab,2013,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2001,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2002,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2003,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2004,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2005,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2006,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2007,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2008,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2009,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2010,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2011,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2012,True,8,8,True,0,,True
+Caste.csv,Rajasthan,2013,True,8,8,True,0,,True
+Caste.csv,Sikkim,2001,True,8,8,True,0,,True
+Caste.csv,Sikkim,2002,True,8,8,True,0,,True
+Caste.csv,Sikkim,2003,True,8,8,True,0,,True
+Caste.csv,Sikkim,2004,True,8,8,True,0,,True
+Caste.csv,Sikkim,2005,True,8,8,True,0,,True
+Caste.csv,Sikkim,2006,True,8,8,True,0,,True
+Caste.csv,Sikkim,2007,True,8,8,True,0,,True
+Caste.csv,Sikkim,2008,True,8,8,True,0,,True
+Caste.csv,Sikkim,2009,True,8,8,True,0,,True
+Caste.csv,Sikkim,2010,True,8,8,True,0,,True
+Caste.csv,Sikkim,2011,True,8,8,True,0,,True
+Caste.csv,Sikkim,2012,True,8,8,True,0,,True
+Caste.csv,Sikkim,2013,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2001,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2002,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2003,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2004,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2005,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2006,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2007,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2008,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2009,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2010,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2011,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2012,True,8,8,True,0,,True
+Caste.csv,Tamil Nadu,2013,True,8,8,True,0,,True
+Caste.csv,Tripura,2001,True,8,8,True,0,,True
+Caste.csv,Tripura,2002,True,8,8,True,0,,True
+Caste.csv,Tripura,2003,True,8,8,True,0,,True
+Caste.csv,Tripura,2004,True,8,8,True,0,,True
+Caste.csv,Tripura,2005,True,8,8,True,0,,True
+Caste.csv,Tripura,2006,True,8,8,True,0,,True
+Caste.csv,Tripura,2007,True,8,8,True,0,,True
+Caste.csv,Tripura,2008,True,8,8,True,0,,True
+Caste.csv,Tripura,2009,True,8,8,True,0,,True
+Caste.csv,Tripura,2010,True,8,8,True,0,,True
+Caste.csv,Tripura,2011,True,8,8,True,0,,True
+Caste.csv,Tripura,2012,True,8,8,True,0,,True
+Caste.csv,Tripura,2013,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2001,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2002,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2003,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2004,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2005,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2006,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2007,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2008,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2009,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2010,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2011,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2012,True,8,8,True,0,,True
+Caste.csv,Uttar Pradesh,2013,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2001,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2002,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2003,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2004,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2005,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2006,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2007,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2008,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2009,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2010,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2011,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2012,True,8,8,True,0,,True
+Caste.csv,Uttarakhand,2013,True,8,8,True,0,,True
+Caste.csv,West Bengal,2001,True,8,8,True,0,,True
+Caste.csv,West Bengal,2002,True,8,8,True,0,,True
+Caste.csv,West Bengal,2003,True,8,8,True,0,,True
+Caste.csv,West Bengal,2004,True,8,8,True,0,,True
+Caste.csv,West Bengal,2005,True,8,8,True,0,,True
+Caste.csv,West Bengal,2006,True,8,8,True,0,,True
+Caste.csv,West Bengal,2007,True,8,8,True,0,,True
+Caste.csv,West Bengal,2008,True,8,8,True,0,,True
+Caste.csv,West Bengal,2009,True,8,8,True,0,,True
+Caste.csv,West Bengal,2010,True,8,8,True,0,,True
+Caste.csv,West Bengal,2011,True,8,8,True,0,,True
+Caste.csv,West Bengal,2012,True,8,8,True,0,,True
+Caste.csv,West Bengal,2013,True,8,8,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2001,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2002,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2003,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2004,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2005,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2006,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2007,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2008,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2009,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2010,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2011,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2012,True,10,10,True,0,,True
+Religion.csv,Andaman & Nicobar Islands,2013,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2001,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2002,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2003,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2004,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2005,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2006,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2007,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2008,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2009,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2010,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2011,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2012,True,10,10,True,0,,True
+Religion.csv,Andhra Pradesh,2013,True,10,10,True,0,,True
+Religion.csv,Arunachal Pradesh,2009,True,10,10,True,0,,True
+Religion.csv,Arunachal Pradesh,2010,True,10,10,True,0,,True
+Religion.csv,Arunachal Pradesh,2011,True,10,10,True,0,,True
+Religion.csv,Arunachal Pradesh,2012,True,10,10,True,0,,True
+Religion.csv,Arunachal Pradesh,2013,True,10,10,True,0,,True
+Religion.csv,Assam,2001,True,10,10,True,0,,True
+Religion.csv,Assam,2002,True,10,10,True,0,,True
+Religion.csv,Assam,2003,True,10,10,True,0,,True
+Religion.csv,Assam,2004,True,10,10,True,0,,True
+Religion.csv,Assam,2005,True,10,10,True,0,,True
+Religion.csv,Assam,2006,True,10,10,True,0,,True
+Religion.csv,Assam,2007,True,10,10,True,0,,True
+Religion.csv,Assam,2008,True,10,10,True,0,,True
+Religion.csv,Assam,2009,True,10,10,True,0,,True
+Religion.csv,Assam,2010,True,10,10,True,0,,True
+Religion.csv,Assam,2011,True,10,10,True,0,,True
+Religion.csv,Assam,2012,True,10,10,True,0,,True
+Religion.csv,Assam,2013,True,10,10,True,0,,True
+Religion.csv,Bihar,2001,True,10,10,True,0,,True
+Religion.csv,Bihar,2002,True,10,10,True,0,,True
+Religion.csv,Bihar,2003,True,10,10,True,0,,True
+Religion.csv,Bihar,2004,True,10,10,True,0,,True
+Religion.csv,Bihar,2005,True,10,10,True,0,,True
+Religion.csv,Bihar,2006,True,10,10,True,0,,True
+Religion.csv,Bihar,2007,True,10,10,True,0,,True
+Religion.csv,Bihar,2008,True,10,10,True,0,,True
+Religion.csv,Bihar,2009,True,10,10,True,0,,True
+Religion.csv,Bihar,2010,True,10,10,True,0,,True
+Religion.csv,Bihar,2011,True,10,10,True,0,,True
+Religion.csv,Bihar,2012,True,10,10,True,0,,True
+Religion.csv,Bihar,2013,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2001,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2002,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2003,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2004,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2005,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2006,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2007,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2008,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2009,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2010,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2011,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2012,True,10,10,True,0,,True
+Religion.csv,Chandigarh,2013,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2001,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2002,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2003,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2004,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2005,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2006,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2007,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2008,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2009,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2010,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2011,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2012,True,10,10,True,0,,True
+Religion.csv,Chhattisgarh,2013,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2001,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2002,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2003,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2004,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2005,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2006,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2007,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2008,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2009,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2010,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2011,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2012,True,10,10,True,0,,True
+Religion.csv,Dadra & Nagar Haveli,2013,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2001,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2002,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2003,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2004,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2005,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2006,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2007,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2008,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2009,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2010,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2011,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2012,True,10,10,True,0,,True
+Religion.csv,Daman & Diu,2013,True,10,10,True,0,,True
+Religion.csv,Delhi,2001,True,10,10,True,0,,True
+Religion.csv,Delhi,2002,True,10,10,True,0,,True
+Religion.csv,Delhi,2003,True,10,10,True,0,,True
+Religion.csv,Delhi,2004,True,10,10,True,0,,True
+Religion.csv,Delhi,2005,True,10,10,True,0,,True
+Religion.csv,Delhi,2006,True,10,10,True,0,,True
+Religion.csv,Delhi,2007,True,10,10,True,0,,True
+Religion.csv,Delhi,2008,True,10,10,True,0,,True
+Religion.csv,Delhi,2009,True,10,10,True,0,,True
+Religion.csv,Delhi,2010,True,10,10,True,0,,True
+Religion.csv,Delhi,2011,True,10,10,True,0,,True
+Religion.csv,Delhi,2012,True,10,10,True,0,,True
+Religion.csv,Delhi,2013,True,10,10,True,0,,True
+Religion.csv,Goa,2001,True,10,10,True,0,,True
+Religion.csv,Goa,2002,True,10,10,True,0,,True
+Religion.csv,Goa,2003,True,10,10,True,0,,True
+Religion.csv,Goa,2004,True,10,10,True,0,,True
+Religion.csv,Goa,2005,True,10,10,True,0,,True
+Religion.csv,Goa,2006,True,10,10,True,0,,True
+Religion.csv,Goa,2007,True,10,10,True,0,,True
+Religion.csv,Goa,2008,True,10,10,True,0,,True
+Religion.csv,Goa,2009,True,10,10,True,0,,True
+Religion.csv,Goa,2010,True,10,10,True,0,,True
+Religion.csv,Goa,2011,True,10,10,True,0,,True
+Religion.csv,Goa,2012,True,10,10,True,0,,True
+Religion.csv,Goa,2013,True,10,10,True,0,,True
+Religion.csv,Gujarat,2001,True,10,10,True,0,,True
+Religion.csv,Gujarat,2002,True,10,10,True,0,,True
+Religion.csv,Gujarat,2003,True,10,10,True,0,,True
+Religion.csv,Gujarat,2004,True,10,10,True,0,,True
+Religion.csv,Gujarat,2005,True,10,10,True,0,,True
+Religion.csv,Gujarat,2006,True,10,10,True,0,,True
+Religion.csv,Gujarat,2007,True,10,10,True,0,,True
+Religion.csv,Gujarat,2008,True,10,10,True,0,,True
+Religion.csv,Gujarat,2009,True,10,10,True,0,,True
+Religion.csv,Gujarat,2010,True,10,10,True,0,,True
+Religion.csv,Gujarat,2011,True,10,10,True,0,,True
+Religion.csv,Gujarat,2012,True,10,10,True,0,,True
+Religion.csv,Gujarat,2013,True,10,10,True,0,,True
+Religion.csv,Haryana,2001,True,10,10,True,0,,True
+Religion.csv,Haryana,2002,True,10,10,True,0,,True
+Religion.csv,Haryana,2003,True,10,10,True,0,,True
+Religion.csv,Haryana,2004,True,10,10,True,0,,True
+Religion.csv,Haryana,2005,True,10,10,True,0,,True
+Religion.csv,Haryana,2006,True,10,10,True,0,,True
+Religion.csv,Haryana,2007,True,10,10,True,0,,True
+Religion.csv,Haryana,2008,True,10,10,True,0,,True
+Religion.csv,Haryana,2009,True,10,10,True,0,,True
+Religion.csv,Haryana,2010,True,10,10,True,0,,True
+Religion.csv,Haryana,2011,True,10,10,True,0,,True
+Religion.csv,Haryana,2012,True,10,10,True,0,,True
+Religion.csv,Haryana,2013,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2001,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2002,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2003,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2004,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2005,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2006,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2007,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2008,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2009,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2010,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2011,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2012,True,10,10,True,0,,True
+Religion.csv,Himachal Pradesh,2013,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2001,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2002,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2003,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2004,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2005,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2006,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2007,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2008,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2009,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2010,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2011,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2012,True,10,10,True,0,,True
+Religion.csv,Jammu & Kashmir,2013,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2001,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2002,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2003,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2004,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2005,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2006,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2007,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2008,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2009,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2010,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2011,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2012,True,10,10,True,0,,True
+Religion.csv,Jharkhand,2013,True,10,10,True,0,,True
+Religion.csv,Karnataka,2001,True,10,10,True,0,,True
+Religion.csv,Karnataka,2002,True,10,10,True,0,,True
+Religion.csv,Karnataka,2003,False,0,10,False,0,,False
+Religion.csv,Karnataka,2004,True,10,10,True,0,,True
+Religion.csv,Karnataka,2005,True,10,10,True,0,,True
+Religion.csv,Karnataka,2006,True,10,10,True,0,,True
+Religion.csv,Karnataka,2007,True,10,10,True,0,,True
+Religion.csv,Karnataka,2008,True,10,10,True,0,,True
+Religion.csv,Karnataka,2009,True,10,10,True,0,,True
+Religion.csv,Karnataka,2010,True,10,10,True,0,,True
+Religion.csv,Karnataka,2011,True,10,10,True,0,,True
+Religion.csv,Karnataka,2012,True,10,10,True,0,,True
+Religion.csv,Karnataka,2013,True,10,10,True,0,,True
+Religion.csv,Kerala,2001,True,10,10,True,0,,True
+Religion.csv,Kerala,2002,True,10,10,True,0,,True
+Religion.csv,Kerala,2003,True,10,10,True,0,,True
+Religion.csv,Kerala,2004,True,10,10,True,0,,True
+Religion.csv,Kerala,2005,True,10,10,True,0,,True
+Religion.csv,Kerala,2006,True,10,10,True,0,,True
+Religion.csv,Kerala,2007,True,10,10,True,0,,True
+Religion.csv,Kerala,2008,True,10,10,True,0,,True
+Religion.csv,Kerala,2009,True,10,10,True,0,,True
+Religion.csv,Kerala,2010,True,10,10,True,0,,True
+Religion.csv,Kerala,2011,True,10,10,True,0,,True
+Religion.csv,Kerala,2012,True,10,10,True,0,,True
+Religion.csv,Kerala,2013,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2001,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2002,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2003,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2004,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2005,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2006,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2007,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2008,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2009,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2010,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2011,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2012,True,10,10,True,0,,True
+Religion.csv,Lakshadweep,2013,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2001,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2002,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2003,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2004,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2005,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2006,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2007,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2008,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2009,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2010,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2011,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2012,True,10,10,True,0,,True
+Religion.csv,Madhya Pradesh,2013,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2001,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2002,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2003,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2004,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2005,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2006,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2007,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2008,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2009,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2010,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2011,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2012,True,10,10,True,0,,True
+Religion.csv,Maharashtra,2013,True,10,10,True,0,,True
+Religion.csv,Manipur,2001,True,10,10,True,0,,True
+Religion.csv,Manipur,2002,True,10,10,True,0,,True
+Religion.csv,Manipur,2003,True,10,10,True,0,,True
+Religion.csv,Manipur,2004,True,10,10,True,0,,True
+Religion.csv,Manipur,2005,True,10,10,True,0,,True
+Religion.csv,Manipur,2006,True,10,10,True,0,,True
+Religion.csv,Manipur,2007,True,10,10,True,0,,True
+Religion.csv,Manipur,2008,True,10,10,True,0,,True
+Religion.csv,Manipur,2009,True,10,10,True,0,,True
+Religion.csv,Manipur,2010,True,10,10,True,0,,True
+Religion.csv,Manipur,2011,True,10,10,True,0,,True
+Religion.csv,Manipur,2012,True,10,10,True,0,,True
+Religion.csv,Manipur,2013,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2001,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2002,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2003,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2004,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2005,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2006,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2007,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2008,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2009,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2010,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2011,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2012,True,10,10,True,0,,True
+Religion.csv,Meghalaya,2013,True,10,10,True,0,,True
+Religion.csv,Mizoram,2001,True,10,10,True,0,,True
+Religion.csv,Mizoram,2002,True,10,10,True,0,,True
+Religion.csv,Mizoram,2003,True,10,10,True,0,,True
+Religion.csv,Mizoram,2004,True,10,10,True,0,,True
+Religion.csv,Mizoram,2005,True,10,10,True,0,,True
+Religion.csv,Mizoram,2006,True,10,10,True,0,,True
+Religion.csv,Mizoram,2007,True,10,10,True,0,,True
+Religion.csv,Mizoram,2008,True,10,10,True,0,,True
+Religion.csv,Mizoram,2009,True,10,10,True,0,,True
+Religion.csv,Mizoram,2010,True,10,10,True,0,,True
+Religion.csv,Mizoram,2011,True,10,10,True,0,,True
+Religion.csv,Mizoram,2012,True,10,10,True,0,,True
+Religion.csv,Mizoram,2013,True,10,10,True,0,,True
+Religion.csv,Nagaland,2001,True,10,10,True,0,,True
+Religion.csv,Nagaland,2002,True,10,10,True,0,,True
+Religion.csv,Nagaland,2003,True,10,10,True,0,,True
+Religion.csv,Nagaland,2004,True,10,10,True,0,,True
+Religion.csv,Nagaland,2005,True,10,10,True,0,,True
+Religion.csv,Nagaland,2006,True,10,10,True,0,,True
+Religion.csv,Nagaland,2007,True,10,10,True,0,,True
+Religion.csv,Nagaland,2008,True,10,10,True,0,,True
+Religion.csv,Nagaland,2009,True,10,10,True,0,,True
+Religion.csv,Nagaland,2010,True,10,10,True,0,,True
+Religion.csv,Nagaland,2011,True,10,10,True,0,,True
+Religion.csv,Nagaland,2012,True,10,10,True,0,,True
+Religion.csv,Nagaland,2013,True,10,10,True,0,,True
+Religion.csv,Odisha,2001,True,10,10,True,0,,True
+Religion.csv,Odisha,2002,True,10,10,True,0,,True
+Religion.csv,Odisha,2003,True,10,10,True,0,,True
+Religion.csv,Odisha,2004,True,10,10,True,0,,True
+Religion.csv,Odisha,2005,True,10,10,True,0,,True
+Religion.csv,Odisha,2006,True,10,10,True,0,,True
+Religion.csv,Odisha,2007,True,10,10,True,0,,True
+Religion.csv,Odisha,2008,True,10,10,True,0,,True
+Religion.csv,Odisha,2009,True,10,10,True,0,,True
+Religion.csv,Odisha,2010,True,10,10,True,0,,True
+Religion.csv,Odisha,2011,True,10,10,True,0,,True
+Religion.csv,Odisha,2012,True,10,10,True,0,,True
+Religion.csv,Odisha,2013,True,10,10,True,0,,True
+Religion.csv,Puducherry,2001,True,10,10,True,0,,True
+Religion.csv,Puducherry,2002,True,10,10,True,0,,True
+Religion.csv,Puducherry,2003,True,10,10,True,0,,True
+Religion.csv,Puducherry,2004,True,10,10,True,0,,True
+Religion.csv,Puducherry,2005,True,10,10,True,0,,True
+Religion.csv,Puducherry,2006,True,10,10,True,0,,True
+Religion.csv,Puducherry,2007,True,10,10,True,0,,True
+Religion.csv,Puducherry,2008,True,10,10,True,0,,True
+Religion.csv,Puducherry,2009,True,10,10,True,0,,True
+Religion.csv,Puducherry,2010,True,10,10,True,0,,True
+Religion.csv,Puducherry,2011,True,10,10,True,0,,True
+Religion.csv,Puducherry,2012,True,10,10,True,0,,True
+Religion.csv,Puducherry,2013,True,10,10,True,0,,True
+Religion.csv,Punjab,2001,True,10,10,True,0,,True
+Religion.csv,Punjab,2002,True,10,10,True,0,,True
+Religion.csv,Punjab,2003,True,10,10,True,0,,True
+Religion.csv,Punjab,2004,True,10,10,True,0,,True
+Religion.csv,Punjab,2005,True,10,10,True,0,,True
+Religion.csv,Punjab,2006,True,10,10,True,0,,True
+Religion.csv,Punjab,2007,True,10,10,True,0,,True
+Religion.csv,Punjab,2008,True,10,10,True,0,,True
+Religion.csv,Punjab,2009,True,10,10,True,0,,True
+Religion.csv,Punjab,2010,True,10,10,True,0,,True
+Religion.csv,Punjab,2011,True,10,10,True,0,,True
+Religion.csv,Punjab,2012,True,10,10,True,0,,True
+Religion.csv,Punjab,2013,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2001,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2002,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2003,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2004,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2005,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2006,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2007,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2008,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2009,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2010,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2011,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2012,True,10,10,True,0,,True
+Religion.csv,Rajasthan,2013,True,10,10,True,0,,True
+Religion.csv,Sikkim,2001,True,10,10,True,0,,True
+Religion.csv,Sikkim,2002,True,10,10,True,0,,True
+Religion.csv,Sikkim,2003,True,10,10,True,0,,True
+Religion.csv,Sikkim,2004,True,10,10,True,0,,True
+Religion.csv,Sikkim,2005,True,10,10,True,0,,True
+Religion.csv,Sikkim,2006,True,10,10,True,0,,True
+Religion.csv,Sikkim,2007,True,10,10,True,0,,True
+Religion.csv,Sikkim,2008,True,10,10,True,0,,True
+Religion.csv,Sikkim,2009,True,10,10,True,0,,True
+Religion.csv,Sikkim,2010,True,10,10,True,0,,True
+Religion.csv,Sikkim,2011,True,10,10,True,0,,True
+Religion.csv,Sikkim,2012,True,10,10,True,0,,True
+Religion.csv,Sikkim,2013,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2001,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2002,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2003,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2004,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2005,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2006,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2007,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2008,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2009,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2010,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2011,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2012,True,10,10,True,0,,True
+Religion.csv,Tamil Nadu,2013,True,10,10,True,0,,True
+Religion.csv,Tripura,2001,True,10,10,True,0,,True
+Religion.csv,Tripura,2002,True,10,10,True,0,,True
+Religion.csv,Tripura,2003,True,10,10,True,0,,True
+Religion.csv,Tripura,2004,True,10,10,True,0,,True
+Religion.csv,Tripura,2005,True,10,10,True,0,,True
+Religion.csv,Tripura,2006,True,10,10,True,0,,True
+Religion.csv,Tripura,2007,True,10,10,True,0,,True
+Religion.csv,Tripura,2008,True,10,10,True,0,,True
+Religion.csv,Tripura,2009,True,10,10,True,0,,True
+Religion.csv,Tripura,2010,True,10,10,True,0,,True
+Religion.csv,Tripura,2011,True,10,10,True,0,,True
+Religion.csv,Tripura,2012,True,10,10,True,0,,True
+Religion.csv,Tripura,2013,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2001,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2002,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2003,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2004,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2005,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2006,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2007,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2008,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2009,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2010,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2011,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2012,True,10,10,True,0,,True
+Religion.csv,Uttar Pradesh,2013,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2001,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2002,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2003,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2004,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2005,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2006,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2007,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2008,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2009,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2010,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2011,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2012,True,10,10,True,0,,True
+Religion.csv,Uttarakhand,2013,True,10,10,True,0,,True
+Religion.csv,West Bengal,2001,True,10,10,True,0,,True
+Religion.csv,West Bengal,2002,True,10,10,True,0,,True
+Religion.csv,West Bengal,2003,True,10,10,True,0,,True
+Religion.csv,West Bengal,2004,True,10,10,True,0,,True
+Religion.csv,West Bengal,2005,True,10,10,True,0,,True
+Religion.csv,West Bengal,2006,True,10,10,True,0,,True
+Religion.csv,West Bengal,2007,True,10,10,True,0,,True
+Religion.csv,West Bengal,2008,True,10,10,True,0,,True
+Religion.csv,West Bengal,2009,True,10,10,True,0,,True
+Religion.csv,West Bengal,2010,True,10,10,True,0,,True
+Religion.csv,West Bengal,2011,True,10,10,True,0,,True
+Religion.csv,West Bengal,2012,True,10,10,True,0,,True
+Religion.csv,West Bengal,2013,True,10,10,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2001,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2002,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2003,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2004,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2005,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2006,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2007,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2008,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2009,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2010,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2011,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2012,True,6,6,True,0,,True
+Domicile.csv,Andaman & Nicobar Islands,2013,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2001,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2002,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2003,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2004,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2005,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2006,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2007,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2008,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2009,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2010,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2011,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2012,True,6,6,True,0,,True
+Domicile.csv,Andhra Pradesh,2013,True,6,6,True,0,,True
+Domicile.csv,Arunachal Pradesh,2009,True,6,6,True,0,,True
+Domicile.csv,Arunachal Pradesh,2010,True,6,6,True,0,,True
+Domicile.csv,Arunachal Pradesh,2011,True,6,6,True,0,,True
+Domicile.csv,Arunachal Pradesh,2012,True,6,6,True,0,,True
+Domicile.csv,Arunachal Pradesh,2013,True,6,6,True,0,,True
+Domicile.csv,Assam,2001,True,6,6,True,0,,True
+Domicile.csv,Assam,2002,True,6,6,True,0,,True
+Domicile.csv,Assam,2003,True,6,6,True,0,,True
+Domicile.csv,Assam,2004,True,6,6,True,0,,True
+Domicile.csv,Assam,2005,True,6,6,True,0,,True
+Domicile.csv,Assam,2006,True,6,6,True,0,,True
+Domicile.csv,Assam,2007,True,6,6,True,0,,True
+Domicile.csv,Assam,2008,True,6,6,True,0,,True
+Domicile.csv,Assam,2009,True,6,6,True,0,,True
+Domicile.csv,Assam,2010,True,6,6,True,0,,True
+Domicile.csv,Assam,2011,True,6,6,True,0,,True
+Domicile.csv,Assam,2012,True,6,6,True,0,,True
+Domicile.csv,Assam,2013,True,6,6,True,0,,True
+Domicile.csv,Bihar,2001,True,6,6,True,0,,True
+Domicile.csv,Bihar,2002,True,6,6,True,0,,True
+Domicile.csv,Bihar,2003,True,6,6,True,0,,True
+Domicile.csv,Bihar,2004,True,6,6,True,0,,True
+Domicile.csv,Bihar,2005,True,6,6,True,0,,True
+Domicile.csv,Bihar,2006,True,6,6,True,0,,True
+Domicile.csv,Bihar,2007,True,6,6,True,0,,True
+Domicile.csv,Bihar,2008,True,6,6,True,0,,True
+Domicile.csv,Bihar,2009,True,6,6,True,0,,True
+Domicile.csv,Bihar,2010,True,6,6,True,0,,True
+Domicile.csv,Bihar,2011,True,6,6,True,0,,True
+Domicile.csv,Bihar,2012,True,6,6,True,0,,True
+Domicile.csv,Bihar,2013,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2001,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2002,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2003,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2004,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2005,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2006,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2007,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2008,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2009,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2010,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2011,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2012,True,6,6,True,0,,True
+Domicile.csv,Chandigarh,2013,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2001,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2002,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2003,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2004,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2005,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2006,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2007,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2008,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2009,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2010,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2011,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2012,True,6,6,True,0,,True
+Domicile.csv,Chhattisgarh,2013,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2001,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2002,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2003,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2004,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2005,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2006,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2007,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2008,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2009,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2010,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2011,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2012,True,6,6,True,0,,True
+Domicile.csv,Dadra & Nagar Haveli,2013,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2001,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2002,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2003,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2004,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2005,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2006,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2007,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2008,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2009,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2010,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2011,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2012,True,6,6,True,0,,True
+Domicile.csv,Daman & Diu,2013,True,6,6,True,0,,True
+Domicile.csv,Delhi,2001,True,6,6,True,0,male_convicts;male_under_trial;male_detenues;female_convicts;female_under_trial;female_detenues,False
+Domicile.csv,Delhi,2002,True,6,6,True,0,,True
+Domicile.csv,Delhi,2003,True,6,6,True,0,,True
+Domicile.csv,Delhi,2004,True,6,6,True,0,,True
+Domicile.csv,Delhi,2005,True,6,6,True,0,,True
+Domicile.csv,Delhi,2006,True,6,6,True,0,,True
+Domicile.csv,Delhi,2007,True,6,6,True,0,,True
+Domicile.csv,Delhi,2008,True,6,6,True,0,,True
+Domicile.csv,Delhi,2009,True,6,6,True,0,,True
+Domicile.csv,Delhi,2010,True,6,6,True,0,,True
+Domicile.csv,Delhi,2011,True,6,6,True,0,,True
+Domicile.csv,Delhi,2012,True,6,6,True,0,,True
+Domicile.csv,Delhi,2013,True,6,6,True,0,,True
+Domicile.csv,Goa,2001,True,6,6,True,0,,True
+Domicile.csv,Goa,2002,True,6,6,True,0,,True
+Domicile.csv,Goa,2003,True,6,6,True,0,,True
+Domicile.csv,Goa,2004,True,6,6,True,0,,True
+Domicile.csv,Goa,2005,True,6,6,True,0,,True
+Domicile.csv,Goa,2006,True,6,6,True,0,,True
+Domicile.csv,Goa,2007,True,6,6,True,0,,True
+Domicile.csv,Goa,2008,True,6,6,True,0,,True
+Domicile.csv,Goa,2009,True,6,6,True,0,,True
+Domicile.csv,Goa,2010,True,6,6,True,0,,True
+Domicile.csv,Goa,2011,True,6,6,True,0,,True
+Domicile.csv,Goa,2012,True,6,6,True,0,,True
+Domicile.csv,Goa,2013,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2001,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2002,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2003,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2004,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2005,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2006,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2007,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2008,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2009,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2010,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2011,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2012,True,6,6,True,0,,True
+Domicile.csv,Gujarat,2013,True,6,6,True,0,,True
+Domicile.csv,Haryana,2001,True,6,6,True,0,,True
+Domicile.csv,Haryana,2002,True,6,6,True,0,,True
+Domicile.csv,Haryana,2003,True,6,6,True,0,,True
+Domicile.csv,Haryana,2004,True,6,6,True,0,,True
+Domicile.csv,Haryana,2005,True,6,6,True,0,,True
+Domicile.csv,Haryana,2006,True,6,6,True,0,,True
+Domicile.csv,Haryana,2007,True,6,6,True,0,,True
+Domicile.csv,Haryana,2008,True,6,6,True,0,,True
+Domicile.csv,Haryana,2009,True,6,6,True,0,,True
+Domicile.csv,Haryana,2010,True,6,6,True,0,,True
+Domicile.csv,Haryana,2011,True,6,6,True,0,,True
+Domicile.csv,Haryana,2012,True,6,6,True,0,,True
+Domicile.csv,Haryana,2013,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2001,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2002,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2003,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2004,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2005,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2006,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2007,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2008,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2009,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2010,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2011,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2012,True,6,6,True,0,,True
+Domicile.csv,Himachal Pradesh,2013,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2001,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2002,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2003,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2004,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2005,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2006,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2007,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2008,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2009,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2010,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2011,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2012,True,6,6,True,0,,True
+Domicile.csv,Jammu & Kashmir,2013,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2001,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2002,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2003,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2004,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2005,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2006,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2007,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2008,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2009,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2010,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2011,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2012,True,6,6,True,0,,True
+Domicile.csv,Jharkhand,2013,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2001,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2002,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2003,False,0,6,False,0,,False
+Domicile.csv,Karnataka,2004,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2005,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2006,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2007,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2008,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2009,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2010,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2011,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2012,True,6,6,True,0,,True
+Domicile.csv,Karnataka,2013,True,6,6,True,0,,True
+Domicile.csv,Kerala,2001,True,6,6,True,0,,True
+Domicile.csv,Kerala,2002,True,6,6,True,0,,True
+Domicile.csv,Kerala,2003,True,6,6,True,0,,True
+Domicile.csv,Kerala,2004,True,6,6,True,0,,True
+Domicile.csv,Kerala,2005,True,6,6,True,0,,True
+Domicile.csv,Kerala,2006,True,6,6,True,0,,True
+Domicile.csv,Kerala,2007,True,6,6,True,0,,True
+Domicile.csv,Kerala,2008,True,6,6,True,0,,True
+Domicile.csv,Kerala,2009,True,6,6,True,0,,True
+Domicile.csv,Kerala,2010,True,6,6,True,0,,True
+Domicile.csv,Kerala,2011,True,6,6,True,0,,True
+Domicile.csv,Kerala,2012,True,6,6,True,0,,True
+Domicile.csv,Kerala,2013,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2001,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2002,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2003,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2004,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2005,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2006,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2007,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2008,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2009,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2010,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2011,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2012,True,6,6,True,0,,True
+Domicile.csv,Lakshadweep,2013,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2001,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2002,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2003,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2004,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2005,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2006,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2007,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2008,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2009,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2010,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2011,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2012,True,6,6,True,0,,True
+Domicile.csv,Madhya Pradesh,2013,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2001,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2002,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2003,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2004,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2005,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2006,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2007,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2008,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2009,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2010,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2011,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2012,True,6,6,True,0,,True
+Domicile.csv,Maharashtra,2013,True,6,6,True,0,,True
+Domicile.csv,Manipur,2001,True,6,6,True,0,,True
+Domicile.csv,Manipur,2002,True,6,6,True,0,,True
+Domicile.csv,Manipur,2003,True,6,6,True,0,,True
+Domicile.csv,Manipur,2004,True,6,6,True,0,,True
+Domicile.csv,Manipur,2005,True,6,6,True,0,,True
+Domicile.csv,Manipur,2006,True,6,6,True,0,,True
+Domicile.csv,Manipur,2007,True,6,6,True,0,,True
+Domicile.csv,Manipur,2008,True,6,6,True,0,,True
+Domicile.csv,Manipur,2009,True,6,6,True,0,,True
+Domicile.csv,Manipur,2010,True,6,6,True,0,,True
+Domicile.csv,Manipur,2011,True,6,6,True,0,,True
+Domicile.csv,Manipur,2012,True,6,6,True,0,,True
+Domicile.csv,Manipur,2013,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2001,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2002,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2003,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2004,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2005,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2006,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2007,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2008,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2009,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2010,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2011,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2012,True,6,6,True,0,,True
+Domicile.csv,Meghalaya,2013,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2001,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2002,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2003,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2004,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2005,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2006,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2007,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2008,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2009,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2010,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2011,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2012,True,6,6,True,0,,True
+Domicile.csv,Mizoram,2013,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2001,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2002,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2003,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2004,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2005,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2006,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2007,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2008,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2009,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2010,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2011,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2012,True,6,6,True,0,,True
+Domicile.csv,Nagaland,2013,True,6,6,True,0,,True
+Domicile.csv,Odisha,2001,True,6,6,True,0,,True
+Domicile.csv,Odisha,2002,True,6,6,True,0,,True
+Domicile.csv,Odisha,2003,True,6,6,True,0,,True
+Domicile.csv,Odisha,2004,True,6,6,True,0,,True
+Domicile.csv,Odisha,2005,True,6,6,True,0,,True
+Domicile.csv,Odisha,2006,True,6,6,True,0,,True
+Domicile.csv,Odisha,2007,True,6,6,True,0,,True
+Domicile.csv,Odisha,2008,True,6,6,True,0,,True
+Domicile.csv,Odisha,2009,True,6,6,True,0,,True
+Domicile.csv,Odisha,2010,True,6,6,True,0,,True
+Domicile.csv,Odisha,2011,True,6,6,True,0,,True
+Domicile.csv,Odisha,2012,True,6,6,True,0,,True
+Domicile.csv,Odisha,2013,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2001,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2002,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2003,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2004,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2005,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2006,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2007,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2008,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2009,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2010,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2011,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2012,True,6,6,True,0,,True
+Domicile.csv,Puducherry,2013,True,6,6,True,0,,True
+Domicile.csv,Punjab,2001,True,6,6,True,0,,True
+Domicile.csv,Punjab,2002,True,6,6,True,0,,True
+Domicile.csv,Punjab,2003,True,6,6,True,0,,True
+Domicile.csv,Punjab,2004,True,6,6,True,0,,True
+Domicile.csv,Punjab,2005,True,6,6,True,0,,True
+Domicile.csv,Punjab,2006,True,6,6,True,0,,True
+Domicile.csv,Punjab,2007,True,6,6,True,0,,True
+Domicile.csv,Punjab,2008,True,6,6,True,0,,True
+Domicile.csv,Punjab,2009,True,6,6,True,0,,True
+Domicile.csv,Punjab,2010,True,6,6,True,0,,True
+Domicile.csv,Punjab,2011,True,6,6,True,0,,True
+Domicile.csv,Punjab,2012,True,6,6,True,0,,True
+Domicile.csv,Punjab,2013,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2001,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2002,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2003,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2004,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2005,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2006,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2007,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2008,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2009,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2010,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2011,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2012,True,6,6,True,0,,True
+Domicile.csv,Rajasthan,2013,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2001,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2002,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2003,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2004,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2005,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2006,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2007,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2008,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2009,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2010,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2011,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2012,True,6,6,True,0,,True
+Domicile.csv,Sikkim,2013,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2001,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2002,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2003,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2004,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2005,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2006,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2007,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2008,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2009,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2010,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2011,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2012,True,6,6,True,0,,True
+Domicile.csv,Tamil Nadu,2013,True,6,6,True,0,,True
+Domicile.csv,Tripura,2001,True,6,6,True,0,,True
+Domicile.csv,Tripura,2002,True,6,6,True,0,,True
+Domicile.csv,Tripura,2003,True,6,6,True,0,,True
+Domicile.csv,Tripura,2004,True,6,6,True,0,,True
+Domicile.csv,Tripura,2005,True,6,6,True,0,,True
+Domicile.csv,Tripura,2006,True,6,6,True,0,,True
+Domicile.csv,Tripura,2007,True,6,6,True,0,,True
+Domicile.csv,Tripura,2008,True,6,6,True,0,,True
+Domicile.csv,Tripura,2009,True,6,6,True,0,,True
+Domicile.csv,Tripura,2010,True,6,6,True,0,,True
+Domicile.csv,Tripura,2011,True,6,6,True,0,,True
+Domicile.csv,Tripura,2012,True,6,6,True,0,,True
+Domicile.csv,Tripura,2013,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2001,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2002,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2003,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2004,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2005,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2006,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2007,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2008,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2009,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2010,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2011,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2012,True,6,6,True,0,,True
+Domicile.csv,Uttar Pradesh,2013,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2001,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2002,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2003,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2004,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2005,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2006,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2007,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2008,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2009,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2010,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2011,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2012,True,6,6,True,0,,True
+Domicile.csv,Uttarakhand,2013,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2001,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2002,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2003,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2004,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2005,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2006,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2007,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2008,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2009,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2010,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2011,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2012,True,6,6,True,0,,True
+Domicile.csv,West Bengal,2013,True,6,6,True,0,,True

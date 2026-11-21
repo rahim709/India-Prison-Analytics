@@ -1,0 +1,14 @@
+{
+  "files_reviewed": 37,
+  "descriptive_candidate_files": 27,
+  "deferred_files": 10,
+  "primary_source_files": 4,
+  "reference_state_years": 447,
+  "profile_state_years": 437,
+  "profile_excluded_state_years": 10,
+  "profile_age_rows": 6992,
+  "profile_education_rows": 5244,
+  "planned_features": 5,
+  "features_computed": false,
+  "cleaned_hashes_unchanged": true
+}

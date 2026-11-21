@@ -1,0 +1,623 @@
+file,stage,column,rows,dtype,missing,invalid_numeric,negative,noninteger,requires_integer
+Age_group.csv,before,state_name,7152,string,0,0,0,0,False
+Age_group.csv,before,is_state,7152,string,0,0,0,0,True
+Age_group.csv,before,year,7152,string,0,0,0,0,True
+Age_group.csv,before,category,7152,string,0,0,0,0,False
+Age_group.csv,before,type,7152,string,0,0,0,0,False
+Age_group.csv,before,gender,7152,string,0,0,0,0,False
+Age_group.csv,before,age_16_18,7152,string,1,0,0,0,True
+Age_group.csv,before,age_18_30,7152,string,0,0,0,0,True
+Age_group.csv,before,age_30_50,7152,string,0,0,0,0,True
+Age_group.csv,before,age_50_above,7152,string,0,0,0,0,True
+Age_group.csv,after,state_name,7152,string,0,0,0,0,False
+Age_group.csv,after,is_state,7152,Int64,0,0,0,0,True
+Age_group.csv,after,year,7152,Int64,0,0,0,0,True
+Age_group.csv,after,category,7152,string,0,0,0,0,False
+Age_group.csv,after,type,7152,string,0,0,0,0,False
+Age_group.csv,after,gender,7152,string,0,0,0,0,False
+Age_group.csv,after,age_16_18,7152,Int64,1,0,0,0,True
+Age_group.csv,after,age_18_30,7152,Int64,0,0,0,0,True
+Age_group.csv,after,age_30_50,7152,Int64,0,0,0,0,True
+Age_group.csv,after,age_50_above,7152,Int64,0,0,0,0,True
+Caste.csv,before,state_name,3568,string,0,0,0,0,False
+Caste.csv,before,is_state,3568,string,0,0,0,0,True
+Caste.csv,before,year,3568,string,0,0,0,0,True
+Caste.csv,before,gender,3568,string,0,0,0,0,False
+Caste.csv,before,caste,3568,string,0,0,0,0,False
+Caste.csv,before,convicts,3568,string,0,0,0,0,True
+Caste.csv,before,under_trial,3568,string,0,0,0,0,True
+Caste.csv,before,detenues,3568,string,0,0,0,0,True
+Caste.csv,before,others,3568,string,0,0,0,0,True
+Caste.csv,after,state_name,3568,string,0,0,0,0,False
+Caste.csv,after,is_state,3568,Int64,0,0,0,0,True
+Caste.csv,after,year,3568,Int64,0,0,0,0,True
+Caste.csv,after,gender,3568,string,0,0,0,0,False
+Caste.csv,after,caste,3568,string,0,0,0,0,False
+Caste.csv,after,convicts,3568,Int64,0,0,0,0,True
+Caste.csv,after,under_trial,3568,Int64,0,0,0,0,True
+Caste.csv,after,detenues,3568,Int64,0,0,0,0,True
+Caste.csv,after,others,3568,Int64,0,0,0,0,True
+Death_sentence.csv,before,state_name,446,string,0,0,0,0,False
+Death_sentence.csv,before,year,446,string,0,0,0,0,True
+Death_sentence.csv,before,no_capital_punishment,446,string,0,0,0,0,True
+Death_sentence.csv,before,no_life_imprisonment,446,string,0,0,0,0,True
+Death_sentence.csv,before,no_executed,446,string,0,0,0,0,True
+Death_sentence.csv,after,state_name,446,string,0,0,0,0,False
+Death_sentence.csv,after,year,446,Int64,0,0,0,0,True
+Death_sentence.csv,after,no_capital_punishment,446,Int64,0,0,0,0,True
+Death_sentence.csv,after,no_life_imprisonment,446,Int64,0,0,0,0,True
+Death_sentence.csv,after,no_executed,446,Int64,0,0,0,0,True
+Domicile.csv,before,state_name,2676,string,0,0,0,0,False
+Domicile.csv,before,is_state,2676,string,0,0,0,0,True
+Domicile.csv,before,year,2676,string,0,0,0,0,True
+Domicile.csv,before,gender,2676,string,0,0,0,0,False
+Domicile.csv,before,domicile,2676,string,0,0,0,0,False
+Domicile.csv,before,convicts,2676,string,0,0,0,0,True
+Domicile.csv,before,under_trial,2676,string,0,0,0,0,True
+Domicile.csv,before,detenues,2676,string,0,0,0,0,True
+Domicile.csv,before,others,2676,string,0,0,0,0,True
+Domicile.csv,after,state_name,2676,string,0,0,0,0,False
+Domicile.csv,after,is_state,2676,Int64,0,0,0,0,True
+Domicile.csv,after,year,2676,Int64,0,0,0,0,True
+Domicile.csv,after,gender,2676,string,0,0,0,0,False
+Domicile.csv,after,domicile,2676,string,0,0,0,0,False
+Domicile.csv,after,convicts,2676,Int64,0,0,0,0,True
+Domicile.csv,after,under_trial,2676,Int64,0,0,0,0,True
+Domicile.csv,after,detenues,2676,Int64,0,0,0,0,True
+Domicile.csv,after,others,2676,Int64,0,0,0,0,True
+Education.csv,before,state_name,5346,string,0,0,0,0,False
+Education.csv,before,is_state,5346,string,0,0,0,0,True
+Education.csv,before,year,5346,string,0,0,0,0,True
+Education.csv,before,gender,5346,string,0,0,0,0,False
+Education.csv,before,education,5346,string,0,0,0,0,False
+Education.csv,before,convicts,5346,string,0,0,0,0,True
+Education.csv,before,under_trial,5346,string,0,0,0,0,True
+Education.csv,before,detenues,5346,string,0,0,0,0,True
+Education.csv,before,others,5346,string,0,0,0,0,True
+Education.csv,after,state_name,5346,string,0,0,0,0,False
+Education.csv,after,is_state,5346,Int64,0,0,0,0,True
+Education.csv,after,year,5346,Int64,0,0,0,0,True
+Education.csv,after,gender,5346,string,0,0,0,0,False
+Education.csv,after,education,5346,string,0,0,0,0,False
+Education.csv,after,convicts,5346,Int64,0,0,0,0,True
+Education.csv,after,under_trial,5346,Int64,0,0,0,0,True
+Education.csv,after,detenues,5346,Int64,0,0,0,0,True
+Education.csv,after,others,5346,Int64,0,0,0,0,True
+Education_facilities.csv,before,state_name,445,string,0,0,0,0,False
+Education_facilities.csv,before,year,445,string,0,0,0,0,True
+Education_facilities.csv,before,elementary_education,445,string,0,0,0,0,True
+Education_facilities.csv,before,adult_education,445,string,0,0,0,0,True
+Education_facilities.csv,before,higher_education,445,string,0,0,0,0,True
+Education_facilities.csv,before,computer_course,445,string,0,0,0,0,True
+Education_facilities.csv,after,state_name,445,string,0,0,0,0,False
+Education_facilities.csv,after,year,445,Int64,0,0,0,0,True
+Education_facilities.csv,after,elementary_education,445,Int64,0,0,0,0,True
+Education_facilities.csv,after,adult_education,445,Int64,0,0,0,0,True
+Education_facilities.csv,after,higher_education,445,Int64,0,0,0,0,True
+Education_facilities.csv,after,computer_course,445,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,STATE/UT,9391,string,0,0,0,0,False
+IPC_crime_inmates_convicted.csv,before,YEAR,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,CRIME HEAD,9391,string,0,0,0,0,False
+IPC_crime_inmates_convicted.csv,before,Male 16-18 years,9391,string,1,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Female 16-18 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Total 16-18 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Male 18-30 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Female 18-30 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Total 18-30 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Male 30-50 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Female 30-50 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Total 30-50 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Male Above 50 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Female Above 50 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Total Above 50 years,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Total Male,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Total Female,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,before,Grand Total,9391,string,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,STATE/UT,9385,string,0,0,0,0,False
+IPC_crime_inmates_convicted.csv,after,YEAR,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,CRIME HEAD,9385,string,0,0,0,0,False
+IPC_crime_inmates_convicted.csv,after,Male 16-18 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Female 16-18 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Total 16-18 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Male 18-30 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Female 18-30 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Total 18-30 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Male 30-50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Female 30-50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Total 30-50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Male Above 50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Female Above 50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Total Above 50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Total Male,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Total Female,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_convicted.csv,after,Grand Total,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,STATE/UT,9390,string,0,0,0,0,False
+IPC_crime_inmates_under_trial.csv,before,YEAR,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,CRIME HEAD,9390,string,0,0,0,0,False
+IPC_crime_inmates_under_trial.csv,before,Male 16-18 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Female 16-18 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Total 16-18 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Male 18-30 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Female 18-30 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Total 18-30 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Male 30-50 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Female 30-50 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Total 30-50 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Male Above 50 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Female Above 50 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Total Above 50 years,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Total Male,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Total Female,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,before,Grand Total,9390,string,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,STATE/UT,9385,string,0,0,0,0,False
+IPC_crime_inmates_under_trial.csv,after,YEAR,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,CRIME HEAD,9385,string,0,0,0,0,False
+IPC_crime_inmates_under_trial.csv,after,Male 16-18 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Female 16-18 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Total 16-18 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Male 18-30 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Female 18-30 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Total 18-30 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Male 30-50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Female 30-50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Total 30-50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Male Above 50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Female Above 50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Total Above 50 years,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Total Male,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Total Female,9385,Int64,0,0,0,0,True
+IPC_crime_inmates_under_trial.csv,after,Grand Total,9385,Int64,0,0,0,0,True
+Inmates_death.csv,before,state_name,4023,string,0,0,0,0,False
+Inmates_death.csv,before,year,4023,string,0,0,0,0,True
+Inmates_death.csv,before,details,4023,string,0,0,0,0,False
+Inmates_death.csv,before,Male,4023,string,0,0,0,0,True
+Inmates_death.csv,before,Female,4023,string,0,0,0,0,True
+Inmates_death.csv,before,Total,4023,string,0,0,0,0,True
+Inmates_death.csv,after,state_name,4023,string,0,0,0,0,False
+Inmates_death.csv,after,year,4023,Int64,0,0,0,0,True
+Inmates_death.csv,after,details,4023,string,0,0,0,0,False
+Inmates_death.csv,after,Male,4023,Int64,0,0,0,0,True
+Inmates_death.csv,after,Female,4023,Int64,0,0,0,0,True
+Inmates_death.csv,after,Total,4023,Int64,0,0,0,0,True
+Inmates_escapee.csv,before,state_name,1788,string,0,0,0,0,False
+Inmates_escapee.csv,before,year,1788,string,0,0,0,0,True
+Inmates_escapee.csv,before,detail,1788,string,0,0,0,0,False
+Inmates_escapee.csv,before,male,1788,string,0,0,0,0,True
+Inmates_escapee.csv,before,female,1788,string,0,0,0,0,True
+Inmates_escapee.csv,before,total,1788,string,0,0,0,0,True
+Inmates_escapee.csv,after,state_name,1788,string,0,0,0,0,False
+Inmates_escapee.csv,after,year,1788,Int64,0,0,0,0,True
+Inmates_escapee.csv,after,detail,1788,string,0,0,0,0,False
+Inmates_escapee.csv,after,male,1788,Int64,0,0,0,0,True
+Inmates_escapee.csv,after,female,1788,Int64,0,0,0,0,True
+Inmates_escapee.csv,after,total,1788,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,State_UT_name,4023,string,0,0,0,0,False
+Jail wise population of prison inmates.csv,before,Year,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Jail_Type,4023,string,0,0,0,0,False
+Jail wise population of prison inmates.csv,before,Male Convicts,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Female_Convicts,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Total_Convicts,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Male_Under_trial,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Female_Under_trial,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Total_Under_trial,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Male_Detenues,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Female_Detenues,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Total_Detenues,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Male_Others,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Female_Others,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Total_Others,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Total_Male,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Total_Female,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,before,Grand_Total,4023,string,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,State_UT_name,4023,string,0,0,0,0,False
+Jail wise population of prison inmates.csv,after,Year,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Jail_Type,4023,string,0,0,0,0,False
+Jail wise population of prison inmates.csv,after,Male Convicts,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Female_Convicts,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Total_Convicts,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Male_Under_trial,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Female_Under_trial,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Total_Under_trial,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Male_Detenues,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Female_Detenues,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Total_Detenues,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Male_Others,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Female_Others,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Total_Others,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Total_Male,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Total_Female,4023,Int64,0,0,0,0,True
+Jail wise population of prison inmates.csv,after,Grand_Total,4023,Int64,0,0,0,0,True
+Other Prison data/Budget.CSV,before,TimePeriod,1026,string,0,0,0,0,True
+Other Prison data/Budget.CSV,before,Area_Name,1026,string,0,0,0,0,False
+Other Prison data/Budget.CSV,before,Indicator_Name,1026,string,0,0,0,0,False
+Other Prison data/Budget.CSV,before,Data_Value,1026,string,0,0,0,0,False
+Other Prison data/Budget.CSV,after,TimePeriod,1026,Int64,0,0,0,0,True
+Other Prison data/Budget.CSV,after,Area_Name,1026,string,0,0,0,0,False
+Other Prison data/Budget.CSV,after,Indicator_Name,1026,string,0,0,0,0,False
+Other Prison data/Budget.CSV,after,Data_Value,1026,Float64,0,0,0,0,False
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,before,TimePeriod,3390,string,0,0,0,0,True
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,before,Area_Name,3390,string,0,0,0,0,False
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,before,Electronic_equipments_used,3390,string,0,0,0,0,False
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,before,Data_Value,3390,string,0,0,0,0,True
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,after,TimePeriod,3390,Int64,0,0,0,0,True
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,after,Area_Name,3390,string,0,0,0,0,False
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,after,Electronic_equipments_used,3390,string,0,0,0,0,False
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,after,Data_Value,3390,Int64,0,0,0,0,True
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,before,STATE/UT,1341,string,0,0,0,0,False
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,before,YEAR,1341,string,0,0,0,0,True
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,before,DETAILS,1341,string,0,0,0,0,False
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,before,Male,1341,string,0,0,0,0,True
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,before,Female,1341,string,0,0,0,0,True
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,before,Total,1341,string,0,0,0,0,True
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,after,STATE/UT,1341,string,0,0,0,0,False
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,after,YEAR,1341,Int64,0,0,0,0,True
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,after,DETAILS,1341,string,0,0,0,0,False
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,after,Male,1341,Int64,0,0,0,0,True
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,after,Female,1341,Int64,0,0,0,0,True
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,after,Total,1341,Int64,0,0,0,0,True
+Other Prison data/Expenditure.CSV,before,TimePeriod,1368,string,0,0,0,0,True
+Other Prison data/Expenditure.CSV,before,Area_Name,1368,string,0,0,0,0,False
+Other Prison data/Expenditure.CSV,before,Indicator_Name,1368,string,0,0,0,0,False
+Other Prison data/Expenditure.CSV,before,Data_Value,1368,string,0,0,0,0,False
+Other Prison data/Expenditure.CSV,after,TimePeriod,1368,Int64,0,0,0,0,True
+Other Prison data/Expenditure.CSV,after,Area_Name,1368,string,0,0,0,0,False
+Other Prison data/Expenditure.CSV,after,Indicator_Name,1368,string,0,0,0,0,False
+Other Prison data/Expenditure.CSV,after,Data_Value,1368,Float64,0,0,0,0,False
+Other Prison data/Expenditure_on_inmates.CSV,before,TimePeriod,2394,string,0,0,0,0,True
+Other Prison data/Expenditure_on_inmates.CSV,before,Area_Name,2394,string,0,0,0,0,False
+Other Prison data/Expenditure_on_inmates.CSV,before,Indicator_Name,2394,string,0,0,0,0,False
+Other Prison data/Expenditure_on_inmates.CSV,before,Data_Value,2394,string,0,0,0,0,False
+Other Prison data/Expenditure_on_inmates.CSV,after,TimePeriod,2394,Int64,0,0,0,0,True
+Other Prison data/Expenditure_on_inmates.CSV,after,Area_Name,2394,string,0,0,0,0,False
+Other Prison data/Expenditure_on_inmates.CSV,after,Indicator_Name,2394,string,0,0,0,0,False
+Other Prison data/Expenditure_on_inmates.CSV,after,Data_Value,2394,Float64,0,0,0,0,False
+Other Prison data/Inmates_released.csv,before,state_name,8485,string,0,0,0,0,False
+Other Prison data/Inmates_released.csv,before,year,8485,string,0,0,0,0,True
+Other Prison data/Inmates_released.csv,before,details,8485,string,0,0,0,0,False
+Other Prison data/Inmates_released.csv,before,male,8485,string,0,0,0,0,True
+Other Prison data/Inmates_released.csv,before,female,8485,string,0,0,0,0,True
+Other Prison data/Inmates_released.csv,before,total,8485,string,0,0,0,0,True
+Other Prison data/Inmates_released.csv,after,state_name,8485,string,0,0,0,0,False
+Other Prison data/Inmates_released.csv,after,year,8485,Int64,0,0,0,0,True
+Other Prison data/Inmates_released.csv,after,details,8485,string,0,0,0,0,False
+Other Prison data/Inmates_released.csv,after,male,8485,Int64,0,0,0,0,True
+Other Prison data/Inmates_released.csv,after,female,8485,Int64,0,0,0,0,True
+Other Prison data/Inmates_released.csv,after,total,8485,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,STATE/UT,442,string,0,0,0,0,False
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,YEAR,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Male Convicts,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Female Convicts,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Total Convicts,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Male Under trial,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Female Under trial,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Total Under trial,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Male Detenues,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Female Detenues,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Total Detenues,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Male Others,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Female Others,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Total Others,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Total Male,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Total Female,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,Grand Total,442,string,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,STATE/UT,442,string,0,0,0,0,False
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,YEAR,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Male Convicts,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Female Convicts,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Total Convicts,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Male Under trial,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Female Under trial,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Total Under trial,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Male Detenues,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Female Detenues,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Total Detenues,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Male Others,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Female Others,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Total Others,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Total Male,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Total Female,442,Int64,0,0,0,0,True
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,Grand Total,442,Int64,0,0,0,0,True
+Other Prison data/Movements_outside_jail_premises.CSV,before,TimePeriod,1025,string,0,0,0,0,True
+Other Prison data/Movements_outside_jail_premises.CSV,before,Area_Name,1025,string,0,0,0,0,False
+Other Prison data/Movements_outside_jail_premises.CSV,before,Indicator_Name,1025,string,0,0,0,0,False
+Other Prison data/Movements_outside_jail_premises.CSV,before,Data_Value,1025,string,0,0,0,0,True
+Other Prison data/Movements_outside_jail_premises.CSV,after,TimePeriod,1025,Int64,0,0,0,0,True
+Other Prison data/Movements_outside_jail_premises.CSV,after,Area_Name,1025,string,0,0,0,0,False
+Other Prison data/Movements_outside_jail_premises.CSV,after,Indicator_Name,1025,string,0,0,0,0,False
+Other Prison data/Movements_outside_jail_premises.CSV,after,Data_Value,1025,Int64,0,0,0,0,True
+Other Prison data/Number_of_vehicles_available.CSV,before,TimePeriod,3051,string,0,0,0,0,True
+Other Prison data/Number_of_vehicles_available.CSV,before,Area_Name,3051,string,0,0,0,0,False
+Other Prison data/Number_of_vehicles_available.CSV,before,Number of Vehicles Available,3051,string,0,0,0,0,False
+Other Prison data/Number_of_vehicles_available.CSV,before,Data_Value,3051,string,0,0,0,0,True
+Other Prison data/Number_of_vehicles_available.CSV,after,TimePeriod,3051,Int64,0,0,0,0,True
+Other Prison data/Number_of_vehicles_available.CSV,after,Area_Name,3051,string,0,0,0,0,False
+Other Prison data/Number_of_vehicles_available.CSV,after,Number of Vehicles Available,3051,string,0,0,0,0,False
+Other Prison data/Number_of_vehicles_available.CSV,after,Data_Value,3051,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,STATE/UT,446,string,0,0,0,0,False
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,YEAR,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,No. of Convict Women Prisoners with Children,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,No. of Children of Convict Women Prisoners,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,No. of Under trial Women Prisoners with Children,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,No. of children of Under trial Women Prisoners,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,No. of Detenues Women Prisoners with Children,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,No. of children of Detenues Women Prisoners,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,No. of Other Women Prisoners with Children,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,No. of children of  Other Women Prisoners,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,Total No. of Women Prisoners with Children,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,Total No. of children of  Women Prisoners,446,string,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,STATE/UT,446,string,0,0,0,0,False
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,YEAR,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,No. of Convict Women Prisoners with Children,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,No. of Children of Convict Women Prisoners,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,No. of Under trial Women Prisoners with Children,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,No. of children of Under trial Women Prisoners,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,No. of Detenues Women Prisoners with Children,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,No. of children of Detenues Women Prisoners,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,No. of Other Women Prisoners with Children,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,No. of children of  Other Women Prisoners,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,Total No. of Women Prisoners with Children,446,Int64,0,0,0,0,True
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,Total No. of children of  Women Prisoners,446,Int64,0,0,0,0,True
+Other Prison data/Period_of_detention_of_undertrials.csv,before,STATE/UT,3576,string,0,0,0,0,False
+Other Prison data/Period_of_detention_of_undertrials.csv,before,YEAR,3576,string,0,0,0,0,True
+Other Prison data/Period_of_detention_of_undertrials.csv,before,PERIOD OF DETENTION,3576,string,0,0,0,0,False
+Other Prison data/Period_of_detention_of_undertrials.csv,before,Male,3576,string,0,0,0,0,True
+Other Prison data/Period_of_detention_of_undertrials.csv,before,Female,3576,string,0,0,0,0,True
+Other Prison data/Period_of_detention_of_undertrials.csv,before,Total,3576,string,0,0,0,0,True
+Other Prison data/Period_of_detention_of_undertrials.csv,after,STATE/UT,3576,string,0,0,0,0,False
+Other Prison data/Period_of_detention_of_undertrials.csv,after,YEAR,3576,Int64,0,0,0,0,True
+Other Prison data/Period_of_detention_of_undertrials.csv,after,PERIOD OF DETENTION,3576,string,0,0,0,0,False
+Other Prison data/Period_of_detention_of_undertrials.csv,after,Male,3576,Int64,0,0,0,0,True
+Other Prison data/Period_of_detention_of_undertrials.csv,after,Female,3576,Int64,0,0,0,0,True
+Other Prison data/Period_of_detention_of_undertrials.csv,after,Total,3576,Int64,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,before,STATE/UT,4023,string,0,0,0,0,False
+Other Prison data/Population_and_capacity_of_jails.csv,before,Year,4023,string,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,before,TYPE OF JAIL,4023,string,0,0,0,0,False
+Other Prison data/Population_and_capacity_of_jails.csv,before,Number of Central Jails,4023,string,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,before,Total Capacity of male Inmates,4023,string,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,before,Total Capacity of female Inmates,4023,string,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,before,Total Capacity of Inmates,4023,string,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,before,Male Inmate population,4023,string,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,before,Female Inmate population,4023,string,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,before,Total Inmate population,4023,string,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,after,STATE/UT,4023,string,0,0,0,0,False
+Other Prison data/Population_and_capacity_of_jails.csv,after,Year,4023,Int64,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,after,TYPE OF JAIL,4023,string,0,0,0,0,False
+Other Prison data/Population_and_capacity_of_jails.csv,after,Number of Central Jails,4023,Int64,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,after,Total Capacity of male Inmates,4023,Int64,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,after,Total Capacity of female Inmates,4023,Int64,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,after,Total Capacity of Inmates,4023,Int64,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,after,Male Inmate population,4023,Int64,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,after,Female Inmate population,4023,Int64,0,0,0,0,True
+Other Prison data/Population_and_capacity_of_jails.csv,after,Total Inmate population,4023,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,STATE/UT,9458,string,0,0,0,0,False
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,YEAR,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,CRIME HEAD,9458,string,0,0,0,0,False
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Male 16-18 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Female 16-18 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Total 16-18 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Male 18-30 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Female 18-30 years,9458,string,1,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Total 18-30 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Male 30-50 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Female 30-50 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Total 30-50 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Male Above 50 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Female Above 50 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Total Above 50 years,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Total Male,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Total Female,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,before,Grand Total,9458,string,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,STATE/UT,9456,string,0,0,0,0,False
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,YEAR,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,CRIME HEAD,9456,string,0,0,0,0,False
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Male 16-18 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Female 16-18 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Total 16-18 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Male 18-30 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Female 18-30 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Total 18-30 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Male 30-50 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Female 30-50 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Total 30-50 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Male Above 50 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Female Above 50 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Total Above 50 years,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Total Male,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Total Female,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,after,Grand Total,9456,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,STATE/UT,9457,string,0,0,0,0,False
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Year,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,CRIME HEAD,9457,string,0,0,0,0,False
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Male 16-18 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Female 16-18 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Total 16-18 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Male 18-30 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Female 18-30 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Total 18-30 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Male 30-50 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Female 30-50 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Total 30-50 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Male Above 50 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Female Above 50 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Total Above 50 years,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Total Male,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Total Female,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,before,Grand Total,9457,string,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,STATE/UT,9457,string,0,0,0,0,False
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Year,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,CRIME HEAD,9457,string,0,0,0,0,False
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Male 16-18 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Female 16-18 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Total 16-18 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Male 18-30 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Female 18-30 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Total 18-30 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Male 30-50 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Female 30-50 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Total 30-50 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Male Above 50 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Female Above 50 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Total Above 50 years,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Total Male,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Total Female,9457,Int64,0,0,0,0,True
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,after,Grand Total,9457,Int64,0,0,0,0,True
+Other Prison data/Strength_of_officials.CSV,before,TimePeriod,36612,string,0,0,0,0,True
+Other Prison data/Strength_of_officials.CSV,before,Area_Name,36612,string,0,0,0,0,False
+Other Prison data/Strength_of_officials.CSV,before,Indicator_Name,36612,string,0,0,0,0,False
+Other Prison data/Strength_of_officials.CSV,before,Data_Value,36612,string,0,0,0,0,True
+Other Prison data/Strength_of_officials.CSV,before,Subgroup_Val,36612,string,0,0,0,0,False
+Other Prison data/Strength_of_officials.CSV,after,TimePeriod,36612,Int64,0,0,0,0,True
+Other Prison data/Strength_of_officials.CSV,after,Area_Name,36612,string,0,0,0,0,False
+Other Prison data/Strength_of_officials.CSV,after,Indicator_Name,36612,string,0,0,0,0,False
+Other Prison data/Strength_of_officials.CSV,after,Data_Value,36612,Int64,0,0,0,0,True
+Other Prison data/Strength_of_officials.CSV,after,Subgroup_Val,36612,string,0,0,0,0,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,S.No. (Col. No. 1),36,string,0,0,0,0,True
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,State/UT (Col. No. 2),36,string,0,0,0,0,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,Total Annual Budget - Plan (Col. No. 3),36,string,0,0,0,12,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,Total Annual Budget - Non-Plan (Col. No. 4),36,string,0,0,0,26,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,Total Annual Budget - Total (Col. No. 5),36,string,0,0,0,28,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,Actual Expenditure - Plan (Col. No. 6),36,string,0,0,0,18,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,Actual Expenditure - Non-Plan (Col. No. 7),36,string,0,0,0,29,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,Actual Expenditure - Expenditure on Account of Funds made Available by Other Agencies (Col. No. 8),36,string,0,0,0,1,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,before,Actual Expenditure - Total (Col. No. 9) = (Col.6+7+8),36,string,0,0,0,27,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,S.No. (Col. No. 1),36,Int64,0,0,0,0,True
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,State/UT (Col. No. 2),36,string,0,0,0,0,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,Total Annual Budget - Plan (Col. No. 3),36,Float64,0,0,0,12,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,Total Annual Budget - Non-Plan (Col. No. 4),36,Float64,0,0,0,26,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,Total Annual Budget - Total (Col. No. 5),36,Float64,0,0,0,28,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,Actual Expenditure - Plan (Col. No. 6),36,Float64,0,0,0,18,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,Actual Expenditure - Non-Plan (Col. No. 7),36,Float64,0,0,0,29,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,Actual Expenditure - Expenditure on Account of Funds made Available by Other Agencies (Col. No. 8),36,Float64,0,0,0,1,False
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,after,Actual Expenditure - Total (Col. No. 9) = (Col.6+7+8),36,Float64,0,0,0,27,False
+Other Prison data/Training_of_Jail_Officers.CSV,before,TimePeriod,1108,string,0,0,0,0,True
+Other Prison data/Training_of_Jail_Officers.CSV,before,Area_Name,1108,string,0,0,0,0,False
+Other Prison data/Training_of_Jail_Officers.CSV,before,Indicator_Name,1108,string,0,0,0,0,False
+Other Prison data/Training_of_Jail_Officers.CSV,before,Data_Value,1108,string,0,0,0,0,True
+Other Prison data/Training_of_Jail_Officers.CSV,after,TimePeriod,1108,Int64,0,0,0,0,True
+Other Prison data/Training_of_Jail_Officers.CSV,after,Area_Name,1108,string,0,0,0,0,False
+Other Prison data/Training_of_Jail_Officers.CSV,after,Indicator_Name,1108,string,0,0,0,0,False
+Other Prison data/Training_of_Jail_Officers.CSV,after,Data_Value,1108,Int64,0,0,0,0,True
+Other Prison data/Value_of_goods_produced_by_inmates.csv,before,State/UT,1954,string,0,0,0,0,False
+Other Prison data/Value_of_goods_produced_by_inmates.csv,before,YEAR,1954,string,0,0,0,0,True
+Other Prison data/Value_of_goods_produced_by_inmates.csv,before,Vocation/Activity,1954,string,0,0,0,0,False
+Other Prison data/Value_of_goods_produced_by_inmates.csv,before,Gross Value of Sale Proceeds / Earning (In Rs.),1954,string,8,0,0,62,False
+Other Prison data/Value_of_goods_produced_by_inmates.csv,after,State/UT,1954,string,0,0,0,0,False
+Other Prison data/Value_of_goods_produced_by_inmates.csv,after,YEAR,1954,Int64,0,0,0,0,True
+Other Prison data/Value_of_goods_produced_by_inmates.csv,after,Vocation/Activity,1954,string,0,0,0,0,False
+Other Prison data/Value_of_goods_produced_by_inmates.csv,after,Gross Value of Sale Proceeds / Earning (In Rs.),1954,Float64,8,0,0,62,False
+Prison_details_2015.csv,before,Category,1397,string,0,0,0,0,False
+Prison_details_2015.csv,before,State / UT Name,1397,string,0,0,0,0,False
+Prison_details_2015.csv,before,Jail Type Sl.No.,1397,string,0,0,0,0,True
+Prison_details_2015.csv,before,Jail Type,1397,string,0,0,0,0,False
+Prison_details_2015.csv,before,Number of jails,1397,string,0,0,0,0,True
+Prison_details_2015.csv,before,Jail Sl.No.,1397,string,0,0,0,0,True
+Prison_details_2015.csv,before,Jail Name,1397,string,0,0,0,0,False
+Prison_details_2015.csv,before,Contact No.,1397,string,222,0,0,0,False
+Prison_details_2015.csv,before,VC for Remand Purpose,1397,string,0,0,0,0,False
+Prison_details_2015.csv,before,VC for Trial Purpose,1397,string,0,0,0,0,False
+Prison_details_2015.csv,before,VC for Other Purpose,1397,string,0,0,0,0,False
+Prison_details_2015.csv,before,Location1,1397,string,56,0,0,0,False
+Prison_details_2015.csv,before,Location2,1397,string,1210,0,0,0,False
+Prison_details_2015.csv,before,Email ID,1397,string,730,0,0,0,False
+Prison_details_2015.csv,after,Category,1397,string,0,0,0,0,False
+Prison_details_2015.csv,after,State / UT Name,1397,string,0,0,0,0,False
+Prison_details_2015.csv,after,Jail Type Sl.No.,1397,Int64,0,0,0,0,True
+Prison_details_2015.csv,after,Jail Type,1397,string,0,0,0,0,False
+Prison_details_2015.csv,after,Number of jails,1397,Int64,0,0,0,0,True
+Prison_details_2015.csv,after,Jail Sl.No.,1397,Int64,0,0,0,0,True
+Prison_details_2015.csv,after,Jail Name,1397,string,0,0,0,0,False
+Prison_details_2015.csv,after,Contact No.,1397,string,222,0,0,0,False
+Prison_details_2015.csv,after,VC for Remand Purpose,1397,string,0,0,0,0,False
+Prison_details_2015.csv,after,VC for Trial Purpose,1397,string,0,0,0,0,False
+Prison_details_2015.csv,after,VC for Other Purpose,1397,string,0,0,0,0,False
+Prison_details_2015.csv,after,Location1,1397,string,56,0,0,0,False
+Prison_details_2015.csv,after,Location2,1397,string,1210,0,0,0,False
+Prison_details_2015.csv,after,Email ID,1397,string,730,0,0,0,False
+Recidivism.csv,before,state_name,447,string,0,0,0,0,False
+Recidivism.csv,before,year,447,string,0,0,0,0,True
+Recidivism.csv,before,convicts_admitted,447,string,0,0,0,0,True
+Recidivism.csv,before,habitual_offenders,447,string,0,0,0,0,True
+Recidivism.csv,after,state_name,447,string,0,0,0,0,False
+Recidivism.csv,after,year,447,Int64,0,0,0,0,True
+Recidivism.csv,after,convicts_admitted,447,Int64,0,0,0,0,True
+Recidivism.csv,after,habitual_offenders,447,Int64,0,0,0,0,True
+Rehabilitation.csv,before,state_name,445,string,0,0,0,0,False
+Rehabilitation.csv,before,year,445,string,0,0,0,0,True
+Rehabilitation.csv,before,financial_assistance_provided,445,string,0,0,0,0,True
+Rehabilitation.csv,before,rehabilitated,445,string,0,0,0,0,True
+Rehabilitation.csv,before,legal_aid_provided,445,string,0,0,0,0,True
+Rehabilitation.csv,after,state_name,445,string,0,0,0,0,False
+Rehabilitation.csv,after,year,445,Int64,0,0,0,0,True
+Rehabilitation.csv,after,financial_assistance_provided,445,Int64,0,0,0,0,True
+Rehabilitation.csv,after,rehabilitated,445,Int64,0,0,0,0,True
+Rehabilitation.csv,after,legal_aid_provided,445,Int64,0,0,0,0,True
+Religion.csv,before,state_name,4460,string,0,0,0,0,False
+Religion.csv,before,is_state,4460,string,0,0,0,0,True
+Religion.csv,before,year,4460,string,0,0,0,0,True
+Religion.csv,before,gender,4460,string,0,0,0,0,False
+Religion.csv,before,religion,4460,string,0,0,0,0,False
+Religion.csv,before,convicts,4460,string,0,0,0,0,True
+Religion.csv,before,under_trial,4460,string,0,0,0,0,True
+Religion.csv,before,detenues,4460,string,0,0,0,0,True
+Religion.csv,before,others,4460,string,0,0,0,0,True
+Religion.csv,after,state_name,4460,string,0,0,0,0,False
+Religion.csv,after,is_state,4460,Int64,0,0,0,0,True
+Religion.csv,after,year,4460,Int64,0,0,0,0,True
+Religion.csv,after,gender,4460,string,0,0,0,0,False
+Religion.csv,after,religion,4460,string,0,0,0,0,False
+Religion.csv,after,convicts,4460,Int64,0,0,0,0,True
+Religion.csv,after,under_trial,4460,Int64,0,0,0,0,True
+Religion.csv,after,detenues,4460,Int64,0,0,0,0,True
+Religion.csv,after,others,4460,Int64,0,0,0,0,True
+Sentence_period.csv,before,state_name,8940,string,0,0,0,0,False
+Sentence_period.csv,before,is_state,8940,string,0,0,0,0,True
+Sentence_period.csv,before,year,8940,string,0,0,0,0,True
+Sentence_period.csv,before,gender,8940,string,0,0,0,0,False
+Sentence_period.csv,before,sentence_period,8940,string,0,0,0,0,False
+Sentence_period.csv,before,age_16_18_years,8940,string,0,0,0,0,True
+Sentence_period.csv,before,age_18_30_years,8940,string,0,0,0,0,True
+Sentence_period.csv,before,age_30_50_years,8940,string,0,0,0,0,True
+Sentence_period.csv,before,age_50_above,8940,string,0,0,0,0,True
+Sentence_period.csv,after,state_name,8940,string,0,0,0,0,False
+Sentence_period.csv,after,is_state,8940,Int64,0,0,0,0,True
+Sentence_period.csv,after,year,8940,Int64,0,0,0,0,True
+Sentence_period.csv,after,gender,8940,string,0,0,0,0,False
+Sentence_period.csv,after,sentence_period,8940,string,0,0,0,0,False
+Sentence_period.csv,after,age_16_18_years,8940,Int64,0,0,0,0,True
+Sentence_period.csv,after,age_18_30_years,8940,Int64,0,0,0,0,True
+Sentence_period.csv,after,age_30_50_years,8940,Int64,0,0,0,0,True
+Sentence_period.csv,after,age_50_above,8940,Int64,0,0,0,0,True
+Tranquillity.csv,before,state_name,1336,string,0,0,0,0,False
+Tranquillity.csv,before,year,1336,string,0,0,0,0,True
+Tranquillity.csv,before,type,1336,string,0,0,0,0,False
+Tranquillity.csv,before,incidence,1336,string,0,0,0,0,True
+Tranquillity.csv,before,inmate_injured,1336,string,0,0,0,0,True
+Tranquillity.csv,before,jail_personnel_injured,1336,string,0,0,0,0,True
+Tranquillity.csv,before,inmate_killed,1336,string,0,0,0,0,True
+Tranquillity.csv,before,jail_personnel_killed,1336,string,0,0,0,0,True
+Tranquillity.csv,after,state_name,1336,string,0,0,0,0,False
+Tranquillity.csv,after,year,1336,Int64,0,0,0,0,True
+Tranquillity.csv,after,type,1336,string,0,0,0,0,False
+Tranquillity.csv,after,incidence,1336,Int64,0,0,0,0,True
+Tranquillity.csv,after,inmate_injured,1336,Int64,0,0,0,0,True
+Tranquillity.csv,after,jail_personnel_injured,1336,Int64,0,0,0,0,True
+Tranquillity.csv,after,inmate_killed,1336,Int64,0,0,0,0,True
+Tranquillity.csv,after,jail_personnel_killed,1336,Int64,0,0,0,0,True
+Vocational_training.csv,before,state_name,4122,string,0,0,0,0,False
+Vocational_training.csv,before,year,4122,string,0,0,0,0,True
+Vocational_training.csv,before,vocational_trainings_program,4122,string,0,0,0,0,False
+Vocational_training.csv,before,inmates_trained,4122,string,3,0,0,0,True
+Vocational_training.csv,after,state_name,4122,string,0,0,0,0,False
+Vocational_training.csv,after,year,4122,Int64,0,0,0,0,True
+Vocational_training.csv,after,vocational_trainings_program,4122,string,0,0,0,0,False
+Vocational_training.csv,after,inmates_trained,4122,Int64,3,0,0,0,True
+Wages.csv,before,state_name,445,string,0,0,0,0,False
+Wages.csv,before,year,445,string,0,0,0,0,True
+Wages.csv,before,wages_skilled_convicts,445,string,0,0,0,12,False
+Wages.csv,before,wages_semi_skilled_convicts,445,string,0,0,0,1,False
+Wages.csv,before,wages_unskilled_convicts,445,string,0,0,0,13,False
+Wages.csv,after,state_name,445,string,0,0,0,0,False
+Wages.csv,after,year,445,Int64,0,0,0,0,True
+Wages.csv,after,wages_skilled_convicts,445,Float64,0,0,0,12,False
+Wages.csv,after,wages_semi_skilled_convicts,445,Float64,0,0,0,1,False
+Wages.csv,after,wages_unskilled_convicts,445,Float64,0,0,0,13,False

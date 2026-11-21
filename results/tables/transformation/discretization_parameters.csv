@@ -1,0 +1,6 @@
+feature,method,first_cut,second_cut,labels,comparison
+occupancy_ratio,fixed occupancy bands,1,1.5,within_capacity;over_100_to_150pct;over_150pct,lower intervals include the right boundary
+undertrial_share,cohort tertiles,0.61265374548931628,0.70551796456346183,lower_tertile;middle_tertile;upper_tertile,lower intervals include the right boundary
+female_share,cohort tertiles,0.030170145328452976,0.043353188057715007,lower_tertile;middle_tertile;upper_tertile,lower intervals include the right boundary
+age_18_30_share,cohort tertiles,0.41958232001965134,0.48300176359501357,lower_tertile;middle_tertile;upper_tertile,lower intervals include the right boundary
+illiterate_share,cohort tertiles,0.23026315789473684,0.33815676809250744,lower_tertile;middle_tertile;upper_tertile,lower intervals include the right boundary

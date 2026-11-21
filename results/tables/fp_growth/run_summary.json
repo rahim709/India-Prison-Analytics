@@ -1,0 +1,158 @@
+{
+  "transactions": 437,
+  "states": 35,
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "vocabulary_size": 15,
+  "items_per_transaction": 5,
+  "distinct_item_patterns": 159,
+  "admissible_nonempty_itemsets": 1023,
+  "positive_support_itemsets": 911,
+  "min_support": 0.1,
+  "min_count": 44,
+  "min_confidence": 0.7,
+  "baseline_itemsets": 75,
+  "baseline_rules": 0,
+  "exploratory_support": 0.05,
+  "exploratory_confidence": 0.7,
+  "exploratory_rules": 4,
+  "interpretable_positive_lift_rules": 4,
+  "occupancy_rules": 3,
+  "max_itemset_length": 2,
+  "unit": "one selected state-year; not one prisoner",
+  "threshold_scope": "baseline fixed before mining; lower-support setting from declared grid reported explicitly as exploratory after baseline yielded no rules",
+  "lift_filter": "all confidence-qualified baseline rules retained; lift > 1 only for interpretation",
+  "validation": [
+    {
+      "min_support": 0.05,
+      "min_confidence": 0.6,
+      "frequent_itemsets": 166,
+      "rules": 16,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.05,
+      "min_confidence": 0.7,
+      "frequent_itemsets": 166,
+      "rules": 4,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.05,
+      "min_confidence": 0.8,
+      "frequent_itemsets": 166,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.1,
+      "min_confidence": 0.6,
+      "frequent_itemsets": 75,
+      "rules": 1,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.1,
+      "min_confidence": 0.7,
+      "frequent_itemsets": 75,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.1,
+      "min_confidence": 0.8,
+      "frequent_itemsets": 75,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.15,
+      "min_confidence": 0.6,
+      "frequent_itemsets": 23,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.15,
+      "min_confidence": 0.7,
+      "frequent_itemsets": 23,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.15,
+      "min_confidence": 0.8,
+      "frequent_itemsets": 23,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.2,
+      "min_confidence": 0.6,
+      "frequent_itemsets": 15,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.2,
+      "min_confidence": 0.7,
+      "frequent_itemsets": 15,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    },
+    {
+      "min_support": 0.2,
+      "min_confidence": 0.8,
+      "frequent_itemsets": 15,
+      "rules": 0,
+      "exact_itemset_and_rule_validation": true
+    }
+  ],
+  "python": "3.14.4",
+  "mlxtend": "0.25.0",
+  "pandas": "3.1.1",
+  "numpy": "2.5.5",
+  "inputs": [
+    {
+      "file": "data/processed/transformed/profile_counts.csv",
+      "sha256": "0222d31e23c1d4222e21b405108e1ae316408d56f2823b73ea4b507ee8cad27c"
+    },
+    {
+      "file": "data/processed/transformed/profile_features.csv",
+      "sha256": "6544333262b3b2bbcd8bb3b0d1410b7a1846dfc89de00ef390effa5158fb6e14"
+    },
+    {
+      "file": "data/processed/transformed/clustering_features.csv",
+      "sha256": "1a92b3652e344183f4bb7275890fc3f8b835547bdd58989d80f3c803ffb6c81d"
+    },
+    {
+      "file": "data/processed/transformed/discretized_profiles.csv",
+      "sha256": "14e9e4a9bc1b41f456139fe3248aee33ac1295cc154fee1ce4e8691fbbf8d375"
+    },
+    {
+      "file": "data/processed/transformed/transactions_onehot.csv",
+      "sha256": "fb2886136b46bd0c776b977d43ab7f4e235fe700ebae510edc87d5e04bb34181"
+    },
+    {
+      "file": "data/processed/transformed/transactions.jsonl",
+      "sha256": "5275f19c8e773da03a52f2da8b07fd3c1d0ef66390d3093e7f1dbe51251057f1"
+    },
+    {
+      "file": "data/processed/transformed/spark_profiles.jsonl",
+      "sha256": "2cbd1be1beb42951c46d269772b678c1ef8d5afd43e11367d4d906cba481012a"
+    }
+  ]
+}

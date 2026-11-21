@@ -1,0 +1,1337 @@
+source_record,state_name,year,type,incidence,inmate_injured,jail_personnel_injured,inmate_killed,jail_personnel_killed
+2,Andhra Pradesh,2001,Jail Breaks,0,0,0,0,0
+3,Andhra Pradesh,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+4,Andhra Pradesh,2001,Firings In Jail,0,0,0,0,0
+5,Andhra Pradesh,2002,Jail Breaks,0,0,0,0,0
+6,Andhra Pradesh,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+7,Andhra Pradesh,2002,Firings In Jail,0,0,0,0,0
+8,Andhra Pradesh,2003,Jail Breaks,0,0,0,0,0
+9,Andhra Pradesh,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+10,Andhra Pradesh,2003,Firings In Jail,0,0,0,0,0
+11,Andhra Pradesh,2004,Jail Breaks,0,0,0,0,0
+12,Andhra Pradesh,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+13,Andhra Pradesh,2004,Firings In Jail,0,0,0,0,0
+14,Andhra Pradesh,2005,Jail Breaks,0,0,0,0,0
+15,Andhra Pradesh,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+16,Andhra Pradesh,2005,Firings In Jail,0,0,0,0,0
+17,Andhra Pradesh,2006,Jail Breaks,0,0,0,0,0
+18,Andhra Pradesh,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+19,Andhra Pradesh,2006,Firings In Jail,0,0,0,0,0
+20,Andhra Pradesh,2007,Jail Breaks,0,0,0,0,0
+21,Andhra Pradesh,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+22,Andhra Pradesh,2007,Firings In Jail,0,0,0,0,0
+23,Andhra Pradesh,2008,Jail Breaks,0,0,0,0,0
+24,Andhra Pradesh,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+25,Andhra Pradesh,2008,Firings In Jail,0,0,0,0,0
+26,Andhra Pradesh,2009,Jail Breaks,0,0,0,0,0
+27,Andhra Pradesh,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+28,Andhra Pradesh,2009,Firings In Jail,0,0,0,0,0
+29,Andhra Pradesh,2010,Jail Breaks,0,0,0,0,0
+30,Andhra Pradesh,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+31,Andhra Pradesh,2010,Firings In Jail,0,0,0,0,0
+32,Andhra Pradesh,2011,Jail Breaks,0,0,0,0,0
+33,Andhra Pradesh,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+34,Andhra Pradesh,2011,Firings In Jail,0,0,0,0,0
+35,Andhra Pradesh,2012,Jail Breaks,0,0,0,0,0
+36,Andhra Pradesh,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+37,Andhra Pradesh,2012,Firings In Jail,0,0,0,0,0
+38,Arunachal Pradesh,2009,Jail Breaks,0,0,0,0,0
+39,Arunachal Pradesh,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+40,Arunachal Pradesh,2009,Firings In Jail,0,0,0,0,0
+41,Arunachal Pradesh,2010,Jail Breaks,0,0,0,0,0
+42,Arunachal Pradesh,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+43,Arunachal Pradesh,2010,Firings In Jail,0,0,0,0,0
+44,Arunachal Pradesh,2011,Jail Breaks,0,0,0,0,0
+45,Arunachal Pradesh,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+46,Arunachal Pradesh,2011,Firings In Jail,0,0,0,0,0
+47,Arunachal Pradesh,2012,Jail Breaks,0,0,0,0,0
+48,Arunachal Pradesh,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+49,Arunachal Pradesh,2012,Firings In Jail,0,0,0,0,0
+50,Assam,2001,Jail Breaks,0,0,0,0,0
+51,Assam,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+52,Assam,2001,Firings In Jail,0,0,0,0,0
+53,Assam,2002,Jail Breaks,0,0,0,0,0
+54,Assam,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+55,Assam,2002,Firings In Jail,0,0,0,0,0
+56,Assam,2003,Jail Breaks,0,0,0,0,0
+57,Assam,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+58,Assam,2003,Firings In Jail,0,0,0,0,0
+59,Assam,2004,Jail Breaks,0,0,0,0,0
+60,Assam,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+61,Assam,2004,Firings In Jail,0,0,0,0,0
+62,Assam,2005,Jail Breaks,0,0,0,0,0
+63,Assam,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+64,Assam,2005,Firings In Jail,0,0,0,0,0
+65,Assam,2006,Jail Breaks,0,0,0,0,0
+66,Assam,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+67,Assam,2006,Firings In Jail,0,0,0,0,0
+68,Assam,2007,Jail Breaks,0,0,0,0,0
+69,Assam,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+70,Assam,2007,Firings In Jail,0,0,0,0,0
+71,Assam,2008,Jail Breaks,0,0,0,0,0
+72,Assam,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+73,Assam,2008,Firings In Jail,0,0,0,0,0
+74,Assam,2009,Jail Breaks,0,0,0,0,0
+75,Assam,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+76,Assam,2009,Firings In Jail,0,0,0,0,0
+77,Assam,2010,Jail Breaks,0,0,0,0,0
+78,Assam,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+79,Assam,2010,Firings In Jail,0,0,0,0,0
+80,Assam,2011,Jail Breaks,0,0,0,0,0
+81,Assam,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+82,Assam,2011,Firings In Jail,0,0,0,0,0
+83,Assam,2012,Jail Breaks,0,0,0,0,0
+84,Assam,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+85,Assam,2012,Firings In Jail,0,0,0,0,0
+86,Bihar,2001,Jail Breaks,8,4,0,0,1
+87,Bihar,2001,Clashes/Group Clashes Etc,113,59,9,2,0
+88,Bihar,2001,Firings In Jail,0,0,0,0,0
+89,Bihar,2002,Jail Breaks,10,0,0,0,0
+90,Bihar,2002,Clashes/Group Clashes Etc,28,84,10,0,0
+91,Bihar,2002,Firings In Jail,1,8,0,6,0
+92,Bihar,2003,Jail Breaks,4,0,0,0,0
+93,Bihar,2003,Clashes/Group Clashes Etc,29,39,2,1,0
+94,Bihar,2003,Firings In Jail,1,0,0,0,0
+95,Bihar,2004,Jail Breaks,0,0,0,0,0
+96,Bihar,2004,Clashes/Group Clashes Etc,5,3,1,0,0
+97,Bihar,2004,Firings In Jail,0,0,0,0,0
+98,Bihar,2005,Jail Breaks,1,5,2,1,2
+99,Bihar,2005,Clashes/Group Clashes Etc,14,46,5,0,0
+100,Bihar,2005,Firings In Jail,0,0,0,0,0
+101,Bihar,2006,Jail Breaks,0,0,0,0,0
+102,Bihar,2006,Clashes/Group Clashes Etc,17,40,0,0,0
+103,Bihar,2006,Firings In Jail,0,0,0,0,0
+104,Bihar,2007,Jail Breaks,0,0,0,0,0
+105,Bihar,2007,Clashes/Group Clashes Etc,28,61,2,0,0
+106,Bihar,2007,Firings In Jail,0,0,0,0,0
+107,Bihar,2008,Jail Breaks,0,0,0,0,0
+108,Bihar,2008,Clashes/Group Clashes Etc,17,53,5,0,0
+109,Bihar,2008,Firings In Jail,0,0,0,0,0
+110,Bihar,2009,Jail Breaks,0,0,0,0,0
+111,Bihar,2009,Clashes/Group Clashes Etc,15,46,6,0,0
+112,Bihar,2009,Firings In Jail,0,0,0,0,0
+113,Bihar,2010,Jail Breaks,0,0,0,0,0
+114,Bihar,2010,Clashes/Group Clashes Etc,13,40,5,0,0
+115,Bihar,2010,Firings In Jail,0,0,0,0,0
+116,Bihar,2011,Jail Breaks,0,0,0,0,0
+117,Bihar,2011,Clashes/Group Clashes Etc,6,16,11,0,0
+118,Bihar,2011,Firings In Jail,0,0,0,0,0
+119,Bihar,2012,Jail Breaks,0,0,0,0,0
+120,Bihar,2012,Clashes/Group Clashes Etc,9,15,2,0,0
+121,Bihar,2012,Firings In Jail,0,0,0,0,0
+122,Chhattisgarh,2012,Jail Breaks,0,0,0,0,0
+123,Chhattisgarh,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+124,Chhattisgarh,2012,Firings In Jail,0,0,0,0,0
+125,Chhattisgarh,2001,Jail Breaks,0,0,0,0,0
+126,Chhattisgarh,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+127,Chhattisgarh,2001,Firings In Jail,0,0,0,0,0
+128,Chhattisgarh,2002,Jail Breaks,0,0,0,0,0
+129,Chhattisgarh,2002,Clashes/Group Clashes Etc,1,16,4,0,0
+130,Chhattisgarh,2002,Firings In Jail,0,0,0,0,0
+131,Chhattisgarh,2003,Jail Breaks,0,0,0,0,0
+132,Chhattisgarh,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+133,Chhattisgarh,2003,Firings In Jail,0,0,0,0,0
+134,Chhattisgarh,2004,Jail Breaks,0,0,0,0,0
+135,Chhattisgarh,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+136,Chhattisgarh,2004,Firings In Jail,0,0,0,0,0
+137,Chhattisgarh,2005,Jail Breaks,0,0,0,0,0
+138,Chhattisgarh,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+139,Chhattisgarh,2005,Firings In Jail,0,0,0,0,0
+140,Chhattisgarh,2006,Jail Breaks,1,3,0,1,0
+141,Chhattisgarh,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+142,Chhattisgarh,2006,Firings In Jail,0,0,0,0,0
+143,Chhattisgarh,2007,Jail Breaks,1,1,2,0,0
+144,Chhattisgarh,2007,Clashes/Group Clashes Etc,3,2,0,0,0
+145,Chhattisgarh,2007,Firings In Jail,1,1,0,0,0
+146,Chhattisgarh,2008,Jail Breaks,0,0,0,0,0
+147,Chhattisgarh,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+148,Chhattisgarh,2008,Firings In Jail,0,0,0,0,0
+149,Chhattisgarh,2009,Jail Breaks,0,0,0,0,0
+150,Chhattisgarh,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+151,Chhattisgarh,2009,Firings In Jail,0,0,0,0,0
+152,Chhattisgarh,2010,Jail Breaks,0,0,0,0,0
+153,Chhattisgarh,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+154,Chhattisgarh,2010,Firings In Jail,0,0,0,0,0
+155,Chhattisgarh,2011,Jail Breaks,0,0,0,0,0
+156,Chhattisgarh,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+157,Chhattisgarh,2011,Firings In Jail,0,0,0,0,0
+158,Goa,2001,Jail Breaks,0,0,0,0,0
+159,Goa,2001,Clashes/Group Clashes Etc,2,2,0,0,0
+160,Goa,2001,Firings In Jail,0,0,0,0,0
+161,Goa,2002,Jail Breaks,0,0,0,0,0
+162,Goa,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+163,Goa,2002,Firings In Jail,0,0,0,0,0
+164,Goa,2003,Jail Breaks,0,0,0,0,0
+165,Goa,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+166,Goa,2003,Firings In Jail,0,0,0,0,0
+167,Goa,2004,Jail Breaks,0,0,0,0,0
+168,Goa,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+169,Goa,2004,Firings In Jail,0,0,0,0,0
+170,Goa,2005,Jail Breaks,2,0,0,0,0
+171,Goa,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+172,Goa,2005,Firings In Jail,0,0,0,0,0
+173,Goa,2006,Jail Breaks,3,0,0,0,0
+174,Goa,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+175,Goa,2006,Firings In Jail,0,0,0,0,0
+176,Goa,2007,Jail Breaks,0,0,0,0,0
+177,Goa,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+178,Goa,2007,Firings In Jail,0,0,0,0,0
+179,Goa,2008,Jail Breaks,0,0,0,0,0
+180,Goa,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+181,Goa,2008,Firings In Jail,0,0,0,0,0
+182,Goa,2009,Jail Breaks,0,0,0,0,0
+183,Goa,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+184,Goa,2009,Firings In Jail,0,0,0,0,0
+185,Goa,2010,Jail Breaks,1,0,0,0,0
+186,Goa,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+187,Goa,2010,Firings In Jail,0,0,0,0,0
+188,Goa,2011,Jail Breaks,0,0,0,0,0
+189,Goa,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+190,Goa,2011,Firings In Jail,0,0,0,0,0
+191,Goa,2012,Jail Breaks,0,0,0,0,0
+192,Goa,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+193,Goa,2012,Firings In Jail,0,0,0,0,0
+194,Gujarat,2001,Jail Breaks,0,0,0,0,0
+195,Gujarat,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+196,Gujarat,2001,Firings In Jail,0,0,0,0,0
+197,Gujarat,2002,Jail Breaks,0,0,0,0,0
+198,Gujarat,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+199,Gujarat,2002,Firings In Jail,0,0,0,0,0
+200,Gujarat,2003,Jail Breaks,0,0,0,0,0
+201,Gujarat,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+202,Gujarat,2003,Firings In Jail,0,0,0,0,0
+203,Gujarat,2004,Jail Breaks,0,0,0,0,0
+204,Gujarat,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+205,Gujarat,2004,Firings In Jail,0,0,0,0,0
+206,Gujarat,2005,Jail Breaks,1,0,0,0,0
+207,Gujarat,2005,Clashes/Group Clashes Etc,1,0,0,1,0
+208,Gujarat,2005,Firings In Jail,0,0,0,0,0
+209,Gujarat,2006,Jail Breaks,0,0,0,0,0
+210,Gujarat,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+211,Gujarat,2006,Firings In Jail,0,0,0,0,0
+212,Gujarat,2007,Jail Breaks,0,0,0,0,0
+213,Gujarat,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+214,Gujarat,2007,Firings In Jail,0,0,0,0,0
+215,Gujarat,2008,Jail Breaks,0,0,0,0,0
+216,Gujarat,2008,Clashes/Group Clashes Etc,1,36,0,0,0
+217,Gujarat,2008,Firings In Jail,0,0,0,0,0
+218,Gujarat,2009,Jail Breaks,0,0,0,0,0
+219,Gujarat,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+220,Gujarat,2009,Firings In Jail,0,0,0,0,0
+221,Gujarat,2010,Jail Breaks,0,0,0,0,0
+222,Gujarat,2010,Clashes/Group Clashes Etc,2,3,0,0,0
+223,Gujarat,2010,Firings In Jail,0,0,0,0,0
+224,Gujarat,2011,Jail Breaks,0,0,0,0,0
+225,Gujarat,2011,Clashes/Group Clashes Etc,1,0,0,0,0
+226,Gujarat,2011,Firings In Jail,0,0,0,0,0
+227,Gujarat,2012,Jail Breaks,0,0,0,0,0
+228,Gujarat,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+229,Gujarat,2012,Firings In Jail,0,0,0,0,0
+230,Haryana,2001,Jail Breaks,0,3,0,0,0
+231,Haryana,2001,Clashes/Group Clashes Etc,22,8,0,0,0
+232,Haryana,2001,Firings In Jail,0,0,0,0,0
+233,Haryana,2002,Jail Breaks,0,0,0,0,0
+234,Haryana,2002,Clashes/Group Clashes Etc,4,6,0,0,0
+235,Haryana,2002,Firings In Jail,0,0,0,0,0
+236,Haryana,2003,Jail Breaks,0,2,0,0,0
+237,Haryana,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+238,Haryana,2003,Firings In Jail,2,2,0,0,0
+239,Haryana,2004,Jail Breaks,0,0,0,0,0
+240,Haryana,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+241,Haryana,2004,Firings In Jail,0,0,0,0,0
+242,Haryana,2005,Jail Breaks,0,0,0,0,0
+243,Haryana,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+244,Haryana,2005,Firings In Jail,0,0,0,0,0
+245,Haryana,2006,Jail Breaks,0,0,0,0,0
+246,Haryana,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+247,Haryana,2006,Firings In Jail,0,0,0,0,0
+248,Haryana,2007,Jail Breaks,0,0,0,0,0
+249,Haryana,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+250,Haryana,2007,Firings In Jail,0,0,0,0,0
+251,Haryana,2008,Jail Breaks,0,0,0,0,0
+252,Haryana,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+253,Haryana,2008,Firings In Jail,0,0,0,0,0
+254,Haryana,2009,Jail Breaks,0,0,0,0,0
+255,Haryana,2009,Clashes/Group Clashes Etc,2,6,0,0,0
+256,Haryana,2009,Firings In Jail,0,0,0,0,0
+257,Haryana,2010,Jail Breaks,0,0,0,0,0
+258,Haryana,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+259,Haryana,2010,Firings In Jail,0,0,0,0,0
+260,Haryana,2011,Jail Breaks,0,0,0,0,0
+261,Haryana,2011,Clashes/Group Clashes Etc,2,2,0,0,0
+262,Haryana,2011,Firings In Jail,0,0,0,0,0
+263,Haryana,2012,Jail Breaks,1,0,0,0,0
+264,Haryana,2012,Clashes/Group Clashes Etc,13,15,0,0,0
+265,Haryana,2012,Firings In Jail,0,0,0,0,0
+266,Himachal Pradesh,2001,Jail Breaks,0,0,0,0,0
+267,Himachal Pradesh,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+268,Himachal Pradesh,2001,Firings In Jail,0,0,0,0,0
+269,Himachal Pradesh,2002,Jail Breaks,3,3,0,0,0
+270,Himachal Pradesh,2002,Clashes/Group Clashes Etc,4,8,0,0,0
+271,Himachal Pradesh,2002,Firings In Jail,0,0,0,0,0
+272,Himachal Pradesh,2003,Jail Breaks,0,0,0,0,0
+273,Himachal Pradesh,2003,Clashes/Group Clashes Etc,12,3,7,0,0
+274,Himachal Pradesh,2003,Firings In Jail,0,0,0,0,0
+275,Himachal Pradesh,2004,Jail Breaks,1,0,0,0,0
+276,Himachal Pradesh,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+277,Himachal Pradesh,2004,Firings In Jail,0,0,0,0,0
+278,Himachal Pradesh,2005,Jail Breaks,1,0,0,0,0
+279,Himachal Pradesh,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+280,Himachal Pradesh,2005,Firings In Jail,0,0,0,0,0
+281,Himachal Pradesh,2006,Jail Breaks,0,0,0,0,0
+282,Himachal Pradesh,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+283,Himachal Pradesh,2006,Firings In Jail,0,0,0,0,0
+284,Himachal Pradesh,2007,Jail Breaks,0,0,0,0,0
+285,Himachal Pradesh,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+286,Himachal Pradesh,2007,Firings In Jail,0,0,0,0,0
+287,Himachal Pradesh,2008,Jail Breaks,0,0,0,0,0
+288,Himachal Pradesh,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+289,Himachal Pradesh,2008,Firings In Jail,0,0,0,0,0
+290,Himachal Pradesh,2009,Jail Breaks,0,0,0,0,0
+291,Himachal Pradesh,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+292,Himachal Pradesh,2009,Firings In Jail,0,0,0,0,0
+293,Himachal Pradesh,2010,Jail Breaks,0,0,0,0,0
+294,Himachal Pradesh,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+295,Himachal Pradesh,2010,Firings In Jail,0,0,0,0,0
+296,Himachal Pradesh,2011,Jail Breaks,0,0,0,0,0
+297,Himachal Pradesh,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+298,Himachal Pradesh,2011,Firings In Jail,0,0,0,0,0
+299,Himachal Pradesh,2012,Jail Breaks,0,0,0,0,0
+300,Himachal Pradesh,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+301,Himachal Pradesh,2012,Firings In Jail,0,0,0,0,0
+302,Jammu & Kashmir,2001,Jail Breaks,0,0,0,0,0
+303,Jammu & Kashmir,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+304,Jammu & Kashmir,2001,Firings In Jail,0,0,0,0,0
+305,Jammu & Kashmir,2002,Jail Breaks,0,0,0,0,0
+306,Jammu & Kashmir,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+307,Jammu & Kashmir,2002,Firings In Jail,0,0,0,0,0
+308,Jammu & Kashmir,2003,Jail Breaks,0,0,0,0,0
+309,Jammu & Kashmir,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+310,Jammu & Kashmir,2003,Firings In Jail,0,0,0,0,0
+311,Jammu & Kashmir,2004,Jail Breaks,0,0,0,0,0
+312,Jammu & Kashmir,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+313,Jammu & Kashmir,2004,Firings In Jail,0,0,0,0,0
+314,Jammu & Kashmir,2005,Jail Breaks,0,0,0,0,0
+315,Jammu & Kashmir,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+316,Jammu & Kashmir,2005,Firings In Jail,0,0,0,0,0
+317,Jammu & Kashmir,2006,Jail Breaks,0,0,0,0,0
+318,Jammu & Kashmir,2006,Clashes/Group Clashes Etc,1,51,4,0,0
+319,Jammu & Kashmir,2006,Firings In Jail,0,0,0,0,0
+320,Jammu & Kashmir,2007,Jail Breaks,0,0,0,0,0
+321,Jammu & Kashmir,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+322,Jammu & Kashmir,2007,Firings In Jail,0,0,0,0,0
+323,Jammu & Kashmir,2008,Jail Breaks,0,0,0,0,0
+324,Jammu & Kashmir,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+325,Jammu & Kashmir,2008,Firings In Jail,0,0,0,0,0
+326,Jammu & Kashmir,2009,Jail Breaks,0,0,0,0,0
+327,Jammu & Kashmir,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+328,Jammu & Kashmir,2009,Firings In Jail,0,0,0,0,0
+329,Jammu & Kashmir,2010,Jail Breaks,0,0,0,0,0
+330,Jammu & Kashmir,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+331,Jammu & Kashmir,2010,Firings In Jail,0,0,0,0,0
+332,Jammu & Kashmir,2011,Jail Breaks,0,0,0,0,0
+333,Jammu & Kashmir,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+334,Jammu & Kashmir,2011,Firings In Jail,0,0,0,0,0
+335,Jammu & Kashmir,2012,Jail Breaks,0,0,0,0,0
+336,Jammu & Kashmir,2012,Clashes/Group Clashes Etc,1,1,0,0,0
+337,Jammu & Kashmir,2012,Firings In Jail,0,0,0,0,0
+338,Jharkhand,2001,Jail Breaks,2,0,0,0,0
+339,Jharkhand,2001,Clashes/Group Clashes Etc,1,3,0,0,0
+340,Jharkhand,2001,Firings In Jail,0,0,0,0,0
+341,Jharkhand,2002,Jail Breaks,0,0,0,0,0
+342,Jharkhand,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+343,Jharkhand,2002,Firings In Jail,0,0,0,0,0
+344,Jharkhand,2003,Jail Breaks,1,3,0,0,0
+345,Jharkhand,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+346,Jharkhand,2003,Firings In Jail,0,0,0,0,0
+347,Jharkhand,2004,Jail Breaks,0,0,0,0,0
+348,Jharkhand,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+349,Jharkhand,2004,Firings In Jail,0,0,0,0,0
+350,Jharkhand,2005,Jail Breaks,2,11,0,0,0
+351,Jharkhand,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+352,Jharkhand,2005,Firings In Jail,0,0,0,0,0
+353,Jharkhand,2006,Jail Breaks,0,0,0,0,0
+354,Jharkhand,2006,Clashes/Group Clashes Etc,3,7,0,0,0
+355,Jharkhand,2006,Firings In Jail,0,0,0,0,0
+356,Jharkhand,2007,Jail Breaks,1,14,1,0,0
+357,Jharkhand,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+358,Jharkhand,2007,Firings In Jail,1,0,1,0,0
+359,Jharkhand,2008,Jail Breaks,0,0,0,0,0
+360,Jharkhand,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+361,Jharkhand,2008,Firings In Jail,0,0,0,0,0
+362,Jharkhand,2009,Jail Breaks,0,0,0,0,0
+363,Jharkhand,2009,Clashes/Group Clashes Etc,1,0,1,2,0
+364,Jharkhand,2009,Firings In Jail,0,0,0,0,0
+365,Jharkhand,2010,Jail Breaks,0,0,0,0,0
+366,Jharkhand,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+367,Jharkhand,2010,Firings In Jail,0,0,0,0,0
+368,Jharkhand,2011,Jail Breaks,0,0,0,0,0
+369,Jharkhand,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+370,Jharkhand,2011,Firings In Jail,0,0,0,0,0
+371,Jharkhand,2012,Jail Breaks,0,0,0,0,0
+372,Jharkhand,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+373,Jharkhand,2012,Firings In Jail,0,0,0,0,0
+374,Karnataka,2001,Jail Breaks,0,0,0,0,0
+375,Karnataka,2001,Clashes/Group Clashes Etc,2,12,1,0,0
+376,Karnataka,2001,Firings In Jail,0,0,0,0,0
+377,Karnataka,2002,Jail Breaks,0,0,0,0,0
+378,Karnataka,2002,Clashes/Group Clashes Etc,2,0,2,0,0
+379,Karnataka,2002,Firings In Jail,0,0,0,0,0
+380,Karnataka,2003,Jail Breaks,0,0,0,0,0
+381,Karnataka,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+382,Karnataka,2003,Firings In Jail,0,0,0,0,0
+383,Karnataka,2004,Jail Breaks,0,0,0,0,0
+384,Karnataka,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+385,Karnataka,2004,Firings In Jail,0,0,0,0,0
+386,Karnataka,2005,Jail Breaks,0,0,0,0,0
+387,Karnataka,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+388,Karnataka,2005,Firings In Jail,0,0,0,0,0
+389,Karnataka,2006,Jail Breaks,0,0,0,0,0
+390,Karnataka,2006,Clashes/Group Clashes Etc,1,2,0,1,0
+391,Karnataka,2006,Firings In Jail,0,0,0,0,0
+392,Karnataka,2007,Jail Breaks,1,6,3,0,0
+393,Karnataka,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+394,Karnataka,2007,Firings In Jail,0,0,0,0,0
+395,Karnataka,2008,Jail Breaks,0,0,0,0,0
+396,Karnataka,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+397,Karnataka,2008,Firings In Jail,0,0,0,0,0
+398,Karnataka,2009,Jail Breaks,0,0,0,0,0
+399,Karnataka,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+400,Karnataka,2009,Firings In Jail,0,0,0,0,0
+401,Karnataka,2010,Jail Breaks,0,0,0,0,0
+402,Karnataka,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+403,Karnataka,2010,Firings In Jail,0,0,0,0,0
+404,Karnataka,2011,Jail Breaks,0,0,0,0,0
+405,Karnataka,2011,Clashes/Group Clashes Etc,1,0,0,1,0
+406,Karnataka,2011,Firings In Jail,0,0,0,0,0
+407,Karnataka,2012,Jail Breaks,0,0,0,0,0
+408,Karnataka,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+409,Karnataka,2012,Firings In Jail,0,0,0,0,0
+410,Kerala,2001,Jail Breaks,0,0,0,0,0
+411,Kerala,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+412,Kerala,2001,Firings In Jail,0,0,0,0,0
+413,Kerala,2002,Jail Breaks,0,0,0,0,0
+414,Kerala,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+415,Kerala,2002,Firings In Jail,0,0,0,0,0
+416,Kerala,2003,Jail Breaks,0,0,0,0,0
+417,Kerala,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+418,Kerala,2003,Firings In Jail,0,0,0,0,0
+419,Kerala,2004,Jail Breaks,0,0,0,0,0
+420,Kerala,2004,Clashes/Group Clashes Etc,1,0,0,1,0
+421,Kerala,2004,Firings In Jail,0,0,0,0,0
+422,Kerala,2005,Jail Breaks,0,0,0,0,0
+423,Kerala,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+424,Kerala,2005,Firings In Jail,0,0,0,0,0
+425,Kerala,2006,Jail Breaks,0,0,0,0,0
+426,Kerala,2006,Clashes/Group Clashes Etc,1,2,1,0,0
+427,Kerala,2006,Firings In Jail,0,0,0,0,0
+428,Kerala,2007,Jail Breaks,0,0,0,0,0
+429,Kerala,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+430,Kerala,2007,Firings In Jail,0,0,0,0,0
+431,Kerala,2008,Jail Breaks,0,0,0,0,0
+432,Kerala,2008,Clashes/Group Clashes Etc,3,9,0,0,0
+433,Kerala,2008,Firings In Jail,0,0,0,0,0
+434,Kerala,2009,Jail Breaks,0,0,0,0,0
+435,Kerala,2009,Clashes/Group Clashes Etc,3,7,0,0,0
+436,Kerala,2009,Firings In Jail,0,0,0,0,0
+437,Kerala,2010,Jail Breaks,0,0,0,0,0
+438,Kerala,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+439,Kerala,2010,Firings In Jail,0,0,0,0,0
+440,Kerala,2011,Jail Breaks,0,0,0,0,0
+441,Kerala,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+442,Kerala,2011,Firings In Jail,0,0,0,0,0
+443,Kerala,2012,Jail Breaks,0,0,0,0,0
+444,Kerala,2012,Clashes/Group Clashes Etc,8,0,1,0,0
+445,Kerala,2012,Firings In Jail,0,0,0,0,0
+446,Madhya Pradesh,2001,Jail Breaks,2,1,0,0,0
+447,Madhya Pradesh,2001,Clashes/Group Clashes Etc,12,45,10,0,0
+448,Madhya Pradesh,2001,Firings In Jail,0,0,0,0,0
+449,Madhya Pradesh,2002,Jail Breaks,18,24,1,0,0
+450,Madhya Pradesh,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+451,Madhya Pradesh,2002,Firings In Jail,0,0,0,0,0
+452,Madhya Pradesh,2003,Jail Breaks,0,0,0,0,0
+453,Madhya Pradesh,2003,Clashes/Group Clashes Etc,5,16,3,0,0
+454,Madhya Pradesh,2003,Firings In Jail,0,0,0,0,0
+455,Madhya Pradesh,2004,Jail Breaks,2,0,0,0,0
+456,Madhya Pradesh,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+457,Madhya Pradesh,2004,Firings In Jail,0,0,0,0,0
+458,Madhya Pradesh,2005,Jail Breaks,0,0,0,0,0
+459,Madhya Pradesh,2005,Clashes/Group Clashes Etc,1,0,0,1,0
+460,Madhya Pradesh,2005,Firings In Jail,0,0,0,0,0
+461,Madhya Pradesh,2006,Jail Breaks,1,1,0,0,0
+462,Madhya Pradesh,2006,Clashes/Group Clashes Etc,2,28,6,0,0
+463,Madhya Pradesh,2006,Firings In Jail,0,0,0,0,0
+464,Madhya Pradesh,2007,Jail Breaks,0,0,0,0,0
+465,Madhya Pradesh,2007,Clashes/Group Clashes Etc,4,20,5,0,0
+466,Madhya Pradesh,2007,Firings In Jail,0,0,0,0,0
+467,Madhya Pradesh,2008,Jail Breaks,0,0,0,0,0
+468,Madhya Pradesh,2008,Clashes/Group Clashes Etc,6,45,9,2,0
+469,Madhya Pradesh,2008,Firings In Jail,0,0,0,0,0
+470,Madhya Pradesh,2009,Jail Breaks,0,0,0,0,0
+471,Madhya Pradesh,2009,Clashes/Group Clashes Etc,4,28,6,0,0
+472,Madhya Pradesh,2009,Firings In Jail,0,0,0,0,0
+473,Madhya Pradesh,2010,Jail Breaks,0,0,0,0,0
+474,Madhya Pradesh,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+475,Madhya Pradesh,2010,Firings In Jail,0,0,0,0,0
+476,Madhya Pradesh,2011,Jail Breaks,1,0,2,0,0
+477,Madhya Pradesh,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+478,Madhya Pradesh,2011,Firings In Jail,0,0,0,0,0
+479,Madhya Pradesh,2012,Jail Breaks,1,0,0,0,0
+480,Madhya Pradesh,2012,Clashes/Group Clashes Etc,2,2,0,0,0
+481,Madhya Pradesh,2012,Firings In Jail,0,0,0,0,0
+482,Maharashtra,2001,Jail Breaks,0,0,0,0,0
+483,Maharashtra,2001,Clashes/Group Clashes Etc,35,27,0,0,0
+484,Maharashtra,2001,Firings In Jail,0,0,0,0,0
+485,Maharashtra,2002,Jail Breaks,0,0,0,0,0
+486,Maharashtra,2002,Clashes/Group Clashes Etc,32,13,2,0,0
+487,Maharashtra,2002,Firings In Jail,0,0,0,0,0
+488,Maharashtra,2003,Jail Breaks,0,0,0,0,0
+489,Maharashtra,2003,Clashes/Group Clashes Etc,22,22,2,0,0
+490,Maharashtra,2003,Firings In Jail,0,0,0,0,0
+491,Maharashtra,2004,Jail Breaks,0,0,0,0,0
+492,Maharashtra,2004,Clashes/Group Clashes Etc,7,6,2,0,0
+493,Maharashtra,2004,Firings In Jail,0,0,0,0,0
+494,Maharashtra,2005,Jail Breaks,0,0,0,0,0
+495,Maharashtra,2005,Clashes/Group Clashes Etc,10,7,2,0,0
+496,Maharashtra,2005,Firings In Jail,0,0,0,0,0
+497,Maharashtra,2006,Jail Breaks,0,0,0,0,0
+498,Maharashtra,2006,Clashes/Group Clashes Etc,21,2,26,0,0
+499,Maharashtra,2006,Firings In Jail,0,0,0,0,0
+500,Maharashtra,2007,Jail Breaks,0,0,0,0,0
+501,Maharashtra,2007,Clashes/Group Clashes Etc,4,3,1,0,0
+502,Maharashtra,2007,Firings In Jail,0,0,0,0,0
+503,Maharashtra,2008,Jail Breaks,0,0,0,0,0
+504,Maharashtra,2008,Clashes/Group Clashes Etc,9,10,1,0,0
+505,Maharashtra,2008,Firings In Jail,0,0,0,0,0
+506,Maharashtra,2009,Jail Breaks,0,0,0,0,0
+507,Maharashtra,2009,Clashes/Group Clashes Etc,1,1,0,0,0
+508,Maharashtra,2009,Firings In Jail,0,0,0,0,0
+509,Maharashtra,2010,Jail Breaks,0,0,0,0,0
+510,Maharashtra,2010,Clashes/Group Clashes Etc,3,3,0,0,0
+511,Maharashtra,2010,Firings In Jail,0,0,0,0,0
+512,Maharashtra,2011,Jail Breaks,0,0,0,0,0
+513,Maharashtra,2011,Clashes/Group Clashes Etc,2,2,0,0,0
+514,Maharashtra,2011,Firings In Jail,0,0,0,0,0
+515,Maharashtra,2012,Jail Breaks,0,0,0,0,0
+516,Maharashtra,2012,Clashes/Group Clashes Etc,6,4,1,1,0
+517,Maharashtra,2012,Firings In Jail,0,0,0,0,0
+518,Manipur,2001,Jail Breaks,0,0,0,0,0
+519,Manipur,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+520,Manipur,2001,Firings In Jail,0,0,0,0,0
+521,Manipur,2002,Jail Breaks,0,0,0,0,0
+522,Manipur,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+523,Manipur,2002,Firings In Jail,0,0,0,0,0
+524,Manipur,2003,Jail Breaks,0,0,0,0,0
+525,Manipur,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+526,Manipur,2003,Firings In Jail,0,0,0,0,0
+527,Manipur,2004,Jail Breaks,0,0,0,0,0
+528,Manipur,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+529,Manipur,2004,Firings In Jail,0,0,0,0,0
+530,Manipur,2005,Jail Breaks,0,0,0,0,0
+531,Manipur,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+532,Manipur,2005,Firings In Jail,0,0,0,0,0
+533,Manipur,2006,Jail Breaks,0,0,0,0,0
+534,Manipur,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+535,Manipur,2006,Firings In Jail,0,0,0,0,0
+536,Manipur,2007,Jail Breaks,0,0,0,0,0
+537,Manipur,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+538,Manipur,2007,Firings In Jail,0,0,0,0,0
+539,Manipur,2008,Jail Breaks,0,0,0,0,0
+540,Manipur,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+541,Manipur,2008,Firings In Jail,0,0,0,0,0
+542,Manipur,2009,Jail Breaks,0,0,0,0,0
+543,Manipur,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+544,Manipur,2009,Firings In Jail,0,0,0,0,0
+545,Manipur,2010,Jail Breaks,0,0,0,0,0
+546,Manipur,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+547,Manipur,2010,Firings In Jail,0,0,0,0,0
+548,Manipur,2011,Jail Breaks,0,0,0,0,0
+549,Manipur,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+550,Manipur,2011,Firings In Jail,0,0,0,0,0
+551,Manipur,2012,Jail Breaks,0,0,0,0,0
+552,Manipur,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+553,Manipur,2012,Firings In Jail,0,0,0,0,0
+554,Meghalaya,2001,Jail Breaks,4,1,1,0,0
+555,Meghalaya,2001,Clashes/Group Clashes Etc,2,5,0,0,0
+556,Meghalaya,2001,Firings In Jail,0,0,0,0,0
+557,Meghalaya,2002,Jail Breaks,0,0,0,0,0
+558,Meghalaya,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+559,Meghalaya,2002,Firings In Jail,0,0,0,0,0
+560,Meghalaya,2003,Jail Breaks,0,0,0,0,0
+561,Meghalaya,2003,Clashes/Group Clashes Etc,1,7,0,0,0
+562,Meghalaya,2003,Firings In Jail,1,0,0,0,0
+563,Meghalaya,2004,Jail Breaks,0,0,0,0,0
+564,Meghalaya,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+565,Meghalaya,2004,Firings In Jail,0,0,0,0,0
+566,Meghalaya,2005,Jail Breaks,0,0,0,0,0
+567,Meghalaya,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+568,Meghalaya,2005,Firings In Jail,0,0,0,0,0
+569,Meghalaya,2006,Jail Breaks,0,0,0,0,0
+570,Meghalaya,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+571,Meghalaya,2006,Firings In Jail,0,0,0,0,0
+572,Meghalaya,2007,Jail Breaks,0,0,0,0,0
+573,Meghalaya,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+574,Meghalaya,2007,Firings In Jail,0,0,0,0,0
+575,Meghalaya,2008,Jail Breaks,1,4,0,0,0
+576,Meghalaya,2008,Clashes/Group Clashes Etc,1,12,3,0,0
+577,Meghalaya,2008,Firings In Jail,0,0,0,0,0
+578,Meghalaya,2009,Jail Breaks,1,0,0,0,0
+579,Meghalaya,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+580,Meghalaya,2009,Firings In Jail,0,0,0,0,0
+581,Meghalaya,2010,Jail Breaks,0,0,0,0,0
+582,Meghalaya,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+583,Meghalaya,2010,Firings In Jail,0,0,0,0,0
+584,Meghalaya,2011,Jail Breaks,0,0,0,0,0
+585,Meghalaya,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+586,Meghalaya,2011,Firings In Jail,0,0,0,0,0
+587,Meghalaya,2012,Jail Breaks,0,0,0,0,0
+588,Meghalaya,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+589,Meghalaya,2012,Firings In Jail,0,0,0,0,0
+590,Mizoram,2001,Jail Breaks,0,0,0,0,0
+591,Mizoram,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+592,Mizoram,2001,Firings In Jail,0,0,0,0,0
+593,Mizoram,2002,Jail Breaks,0,0,0,0,0
+594,Mizoram,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+595,Mizoram,2002,Firings In Jail,0,0,0,0,0
+596,Mizoram,2003,Jail Breaks,0,0,0,0,0
+597,Mizoram,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+598,Mizoram,2003,Firings In Jail,0,0,0,0,0
+599,Mizoram,2004,Jail Breaks,0,0,0,0,0
+600,Mizoram,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+601,Mizoram,2004,Firings In Jail,0,0,0,0,0
+602,Mizoram,2005,Jail Breaks,0,0,0,0,0
+603,Mizoram,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+604,Mizoram,2005,Firings In Jail,0,0,0,0,0
+605,Mizoram,2006,Jail Breaks,0,0,0,0,0
+606,Mizoram,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+607,Mizoram,2006,Firings In Jail,0,0,0,0,0
+608,Mizoram,2007,Jail Breaks,0,0,0,0,0
+609,Mizoram,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+610,Mizoram,2007,Firings In Jail,0,0,0,0,0
+611,Mizoram,2008,Jail Breaks,0,0,0,0,0
+612,Mizoram,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+613,Mizoram,2008,Firings In Jail,0,0,0,0,0
+614,Mizoram,2009,Jail Breaks,0,0,0,0,0
+615,Mizoram,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+616,Mizoram,2009,Firings In Jail,0,0,0,0,0
+617,Mizoram,2010,Jail Breaks,0,0,0,0,0
+618,Mizoram,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+619,Mizoram,2010,Firings In Jail,0,0,0,0,0
+620,Mizoram,2011,Jail Breaks,0,0,0,0,0
+621,Mizoram,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+622,Mizoram,2011,Firings In Jail,0,0,0,0,0
+623,Mizoram,2012,Jail Breaks,1,0,0,0,0
+624,Mizoram,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+625,Mizoram,2012,Firings In Jail,0,0,0,0,0
+626,Nagaland,2001,Jail Breaks,0,0,0,0,0
+627,Nagaland,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+628,Nagaland,2001,Firings In Jail,0,0,0,0,0
+629,Nagaland,2002,Jail Breaks,0,0,0,0,0
+630,Nagaland,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+631,Nagaland,2002,Firings In Jail,0,0,0,0,0
+632,Nagaland,2003,Jail Breaks,0,0,0,0,0
+633,Nagaland,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+634,Nagaland,2003,Firings In Jail,0,0,0,0,0
+635,Nagaland,2004,Jail Breaks,2,11,0,0,0
+636,Nagaland,2004,Clashes/Group Clashes Etc,1,0,0,1,0
+637,Nagaland,2004,Firings In Jail,0,0,0,0,0
+638,Nagaland,2005,Jail Breaks,0,0,0,0,0
+639,Nagaland,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+640,Nagaland,2005,Firings In Jail,0,0,0,0,0
+641,Nagaland,2006,Jail Breaks,0,0,0,0,0
+642,Nagaland,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+643,Nagaland,2006,Firings In Jail,0,0,0,0,0
+644,Nagaland,2007,Jail Breaks,0,0,0,0,0
+645,Nagaland,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+646,Nagaland,2007,Firings In Jail,0,0,0,0,0
+647,Nagaland,2008,Jail Breaks,0,0,0,0,0
+648,Nagaland,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+649,Nagaland,2008,Firings In Jail,0,0,0,0,0
+650,Nagaland,2009,Jail Breaks,0,0,0,0,0
+651,Nagaland,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+652,Nagaland,2009,Firings In Jail,0,0,0,0,0
+653,Nagaland,2010,Jail Breaks,0,0,0,0,0
+654,Nagaland,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+655,Nagaland,2010,Firings In Jail,0,0,0,0,0
+656,Nagaland,2011,Jail Breaks,0,0,0,0,0
+657,Nagaland,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+658,Nagaland,2011,Firings In Jail,0,0,0,0,0
+659,Nagaland,2012,Jail Breaks,0,0,0,0,0
+660,Nagaland,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+661,Nagaland,2012,Firings In Jail,0,0,0,0,0
+662,Odisha,2001,Jail Breaks,0,0,0,0,0
+663,Odisha,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+664,Odisha,2001,Firings In Jail,0,0,0,0,0
+665,Odisha,2002,Jail Breaks,0,0,0,0,0
+666,Odisha,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+667,Odisha,2002,Firings In Jail,0,0,0,0,0
+668,Odisha,2003,Jail Breaks,0,0,0,0,0
+669,Odisha,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+670,Odisha,2003,Firings In Jail,0,0,0,0,0
+671,Odisha,2004,Jail Breaks,0,0,0,0,0
+672,Odisha,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+673,Odisha,2004,Firings In Jail,0,0,0,0,0
+674,Odisha,2005,Jail Breaks,0,0,0,0,0
+675,Odisha,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+676,Odisha,2005,Firings In Jail,0,0,0,0,0
+677,Odisha,2006,Jail Breaks,0,0,0,0,0
+678,Odisha,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+679,Odisha,2006,Firings In Jail,0,0,0,0,0
+680,Odisha,2007,Jail Breaks,0,0,0,0,0
+681,Odisha,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+682,Odisha,2007,Firings In Jail,0,0,0,0,0
+683,Odisha,2008,Jail Breaks,0,0,0,0,0
+684,Odisha,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+685,Odisha,2008,Firings In Jail,0,0,0,0,0
+686,Odisha,2009,Jail Breaks,0,0,0,0,0
+687,Odisha,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+688,Odisha,2009,Firings In Jail,0,0,0,0,0
+689,Odisha,2010,Jail Breaks,0,0,0,0,0
+690,Odisha,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+691,Odisha,2010,Firings In Jail,0,0,0,0,0
+692,Odisha,2011,Jail Breaks,0,0,0,0,0
+693,Odisha,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+694,Odisha,2011,Firings In Jail,0,0,0,0,0
+695,Odisha,2012,Jail Breaks,0,0,0,0,0
+696,Odisha,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+697,Odisha,2012,Firings In Jail,0,0,0,0,0
+698,Punjab,2001,Jail Breaks,0,0,0,0,0
+699,Punjab,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+700,Punjab,2001,Firings In Jail,0,0,0,0,0
+701,Punjab,2002,Jail Breaks,0,0,0,0,0
+702,Punjab,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+703,Punjab,2002,Firings In Jail,0,0,0,0,0
+704,Punjab,2003,Jail Breaks,0,0,0,0,0
+705,Punjab,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+706,Punjab,2003,Firings In Jail,0,0,0,0,0
+707,Punjab,2004,Jail Breaks,0,0,0,0,0
+708,Punjab,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+709,Punjab,2004,Firings In Jail,0,0,0,0,0
+710,Punjab,2005,Jail Breaks,0,0,0,0,0
+711,Punjab,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+712,Punjab,2005,Firings In Jail,0,0,0,0,0
+713,Punjab,2006,Jail Breaks,0,0,0,0,0
+714,Punjab,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+715,Punjab,2006,Firings In Jail,0,0,0,0,0
+716,Punjab,2007,Jail Breaks,1,0,0,0,0
+717,Punjab,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+718,Punjab,2007,Firings In Jail,0,0,0,0,0
+719,Punjab,2008,Jail Breaks,2,0,0,0,0
+720,Punjab,2008,Clashes/Group Clashes Etc,5,8,0,0,0
+721,Punjab,2008,Firings In Jail,1,0,0,0,0
+722,Punjab,2009,Jail Breaks,0,0,0,0,0
+723,Punjab,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+724,Punjab,2009,Firings In Jail,0,0,0,0,0
+725,Punjab,2010,Jail Breaks,0,0,0,0,0
+726,Punjab,2010,Clashes/Group Clashes Etc,2,0,0,2,0
+727,Punjab,2010,Firings In Jail,0,0,0,0,0
+728,Punjab,2011,Jail Breaks,0,0,0,0,0
+729,Punjab,2011,Clashes/Group Clashes Etc,1,0,0,1,0
+730,Punjab,2011,Firings In Jail,0,0,0,0,0
+731,Punjab,2012,Jail Breaks,3,0,0,0,0
+732,Punjab,2012,Clashes/Group Clashes Etc,1,0,0,0,0
+733,Punjab,2012,Firings In Jail,0,0,0,0,0
+734,Rajasthan,2001,Jail Breaks,1,0,0,1,0
+735,Rajasthan,2001,Clashes/Group Clashes Etc,3,2,0,0,0
+736,Rajasthan,2001,Firings In Jail,0,0,0,0,0
+737,Rajasthan,2002,Jail Breaks,1,0,0,0,0
+738,Rajasthan,2002,Clashes/Group Clashes Etc,1,17,0,0,0
+739,Rajasthan,2002,Firings In Jail,0,0,0,0,0
+740,Rajasthan,2003,Jail Breaks,2,0,1,0,0
+741,Rajasthan,2003,Clashes/Group Clashes Etc,4,16,0,0,0
+742,Rajasthan,2003,Firings In Jail,0,0,0,0,0
+743,Rajasthan,2004,Jail Breaks,0,0,0,0,0
+744,Rajasthan,2004,Clashes/Group Clashes Etc,2,4,0,0,0
+745,Rajasthan,2004,Firings In Jail,0,0,0,0,0
+746,Rajasthan,2005,Jail Breaks,0,0,0,0,0
+747,Rajasthan,2005,Clashes/Group Clashes Etc,9,16,5,0,0
+748,Rajasthan,2005,Firings In Jail,0,0,0,0,0
+749,Rajasthan,2006,Jail Breaks,0,0,0,0,0
+750,Rajasthan,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+751,Rajasthan,2006,Firings In Jail,0,0,0,0,0
+752,Rajasthan,2007,Jail Breaks,1,5,2,0,0
+753,Rajasthan,2007,Clashes/Group Clashes Etc,3,43,0,0,0
+754,Rajasthan,2007,Firings In Jail,0,0,0,0,0
+755,Rajasthan,2008,Jail Breaks,8,8,0,0,0
+756,Rajasthan,2008,Clashes/Group Clashes Etc,17,20,0,0,0
+757,Rajasthan,2008,Firings In Jail,0,0,0,0,0
+758,Rajasthan,2009,Jail Breaks,1,0,0,0,0
+759,Rajasthan,2009,Clashes/Group Clashes Etc,18,19,0,0,0
+760,Rajasthan,2009,Firings In Jail,0,0,0,0,0
+761,Rajasthan,2010,Jail Breaks,0,0,0,0,0
+762,Rajasthan,2010,Clashes/Group Clashes Etc,39,38,3,0,0
+763,Rajasthan,2010,Firings In Jail,0,0,0,0,0
+764,Rajasthan,2011,Jail Breaks,27,8,2,0,0
+765,Rajasthan,2011,Clashes/Group Clashes Etc,3,3,1,0,0
+766,Rajasthan,2011,Firings In Jail,0,0,0,0,0
+767,Rajasthan,2012,Jail Breaks,1,0,5,0,0
+768,Rajasthan,2012,Clashes/Group Clashes Etc,11,6,0,0,0
+769,Rajasthan,2012,Firings In Jail,0,0,0,0,0
+770,Sikkim,2001,Jail Breaks,0,0,0,0,0
+771,Sikkim,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+772,Sikkim,2001,Firings In Jail,0,0,0,0,0
+773,Sikkim,2002,Jail Breaks,0,0,0,0,0
+774,Sikkim,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+775,Sikkim,2002,Firings In Jail,0,0,0,0,0
+776,Sikkim,2003,Jail Breaks,0,0,0,0,0
+777,Sikkim,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+778,Sikkim,2003,Firings In Jail,0,0,0,0,0
+779,Sikkim,2004,Jail Breaks,1,0,0,0,0
+780,Sikkim,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+781,Sikkim,2004,Firings In Jail,0,0,0,0,0
+782,Sikkim,2005,Jail Breaks,0,0,0,0,0
+783,Sikkim,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+784,Sikkim,2005,Firings In Jail,0,0,0,0,0
+785,Sikkim,2006,Jail Breaks,0,0,0,0,0
+786,Sikkim,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+787,Sikkim,2006,Firings In Jail,0,0,0,0,0
+788,Sikkim,2007,Jail Breaks,0,0,0,0,0
+789,Sikkim,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+790,Sikkim,2007,Firings In Jail,0,0,0,0,0
+791,Sikkim,2008,Jail Breaks,0,0,0,0,0
+792,Sikkim,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+793,Sikkim,2008,Firings In Jail,0,0,0,0,0
+794,Sikkim,2009,Jail Breaks,0,0,0,0,0
+795,Sikkim,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+796,Sikkim,2009,Firings In Jail,0,0,0,0,0
+797,Sikkim,2010,Jail Breaks,0,0,0,0,0
+798,Sikkim,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+799,Sikkim,2010,Firings In Jail,0,0,0,0,0
+800,Sikkim,2011,Jail Breaks,0,0,0,0,0
+801,Sikkim,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+802,Sikkim,2011,Firings In Jail,0,0,0,0,0
+803,Sikkim,2012,Jail Breaks,1,0,0,0,0
+804,Sikkim,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+805,Sikkim,2012,Firings In Jail,0,0,0,0,0
+806,Tamil Nadu,2001,Jail Breaks,0,0,0,0,0
+807,Tamil Nadu,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+808,Tamil Nadu,2001,Firings In Jail,0,0,0,0,0
+809,Tamil Nadu,2002,Jail Breaks,0,0,0,0,0
+810,Tamil Nadu,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+811,Tamil Nadu,2002,Firings In Jail,0,0,0,0,0
+812,Tamil Nadu,2003,Jail Breaks,4,0,0,0,0
+813,Tamil Nadu,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+814,Tamil Nadu,2003,Firings In Jail,0,0,0,0,0
+815,Tamil Nadu,2004,Jail Breaks,4,0,0,0,0
+816,Tamil Nadu,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+817,Tamil Nadu,2004,Firings In Jail,0,0,0,0,0
+818,Tamil Nadu,2006,Jail Breaks,0,0,0,0,0
+819,Tamil Nadu,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+820,Tamil Nadu,2006,Firings In Jail,0,0,0,0,0
+821,Tamil Nadu,2007,Jail Breaks,0,0,0,0,0
+822,Tamil Nadu,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+823,Tamil Nadu,2007,Firings In Jail,0,0,0,0,0
+824,Tamil Nadu,2008,Jail Breaks,0,0,0,0,0
+825,Tamil Nadu,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+826,Tamil Nadu,2008,Firings In Jail,0,0,0,0,0
+827,Tamil Nadu,2009,Jail Breaks,0,0,0,0,0
+828,Tamil Nadu,2009,Clashes/Group Clashes Etc,1,0,0,1,0
+829,Tamil Nadu,2009,Firings In Jail,0,0,0,0,0
+830,Tamil Nadu,2010,Jail Breaks,0,0,0,0,0
+831,Tamil Nadu,2010,Clashes/Group Clashes Etc,1,0,0,1,0
+832,Tamil Nadu,2010,Firings In Jail,0,0,0,0,0
+833,Tamil Nadu,2011,Jail Breaks,0,0,0,0,0
+834,Tamil Nadu,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+835,Tamil Nadu,2011,Firings In Jail,0,0,0,0,0
+836,Tamil Nadu,2012,Jail Breaks,0,0,0,0,0
+837,Tamil Nadu,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+838,Tamil Nadu,2012,Firings In Jail,0,0,0,0,0
+839,Tripura,2001,Jail Breaks,1,0,4,0,0
+840,Tripura,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+841,Tripura,2001,Firings In Jail,0,0,0,0,0
+842,Tripura,2002,Jail Breaks,0,0,0,0,0
+843,Tripura,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+844,Tripura,2002,Firings In Jail,0,0,0,0,0
+845,Tripura,2003,Jail Breaks,0,0,0,0,0
+846,Tripura,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+847,Tripura,2003,Firings In Jail,0,0,0,0,0
+848,Tripura,2004,Jail Breaks,0,0,0,0,0
+849,Tripura,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+850,Tripura,2004,Firings In Jail,0,0,0,0,0
+851,Tripura,2005,Jail Breaks,0,0,0,0,0
+852,Tripura,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+853,Tripura,2005,Firings In Jail,0,0,0,0,0
+854,Tripura,2006,Jail Breaks,0,0,0,0,0
+855,Tripura,2007,Jail Breaks,0,0,0,0,0
+856,Tripura,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+857,Tripura,2007,Firings In Jail,0,0,0,0,0
+858,Tripura,2008,Jail Breaks,0,0,0,0,0
+859,Tripura,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+860,Tripura,2008,Firings In Jail,0,0,0,0,0
+861,Tripura,2009,Jail Breaks,0,0,0,0,0
+862,Tripura,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+863,Tripura,2009,Firings In Jail,0,0,0,0,0
+864,Tripura,2010,Jail Breaks,0,0,0,0,0
+865,Tripura,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+866,Tripura,2010,Firings In Jail,0,0,0,0,0
+867,Tripura,2011,Jail Breaks,0,0,0,0,0
+868,Tripura,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+869,Tripura,2011,Firings In Jail,0,0,0,0,0
+870,Tripura,2012,Jail Breaks,0,0,0,0,0
+871,Tripura,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+872,Tripura,2012,Firings In Jail,0,0,0,0,0
+873,Uttar Pradesh,2001,Jail Breaks,1,1,0,0,0
+874,Uttar Pradesh,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+875,Uttar Pradesh,2001,Firings In Jail,24,7,17,0,0
+876,Uttar Pradesh,2002,Jail Breaks,4,0,0,0,0
+877,Uttar Pradesh,2002,Clashes/Group Clashes Etc,3,21,2,0,0
+878,Uttar Pradesh,2002,Firings In Jail,0,0,0,0,0
+879,Uttar Pradesh,2003,Jail Breaks,2,6,8,0,0
+880,Uttar Pradesh,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+881,Uttar Pradesh,2003,Firings In Jail,1,0,0,0,0
+882,Uttar Pradesh,2004,Jail Breaks,0,0,0,0,0
+883,Uttar Pradesh,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+884,Uttar Pradesh,2004,Firings In Jail,0,0,0,0,0
+885,Uttar Pradesh,2005,Jail Breaks,0,0,0,0,0
+886,Uttar Pradesh,2005,Clashes/Group Clashes Etc,1,0,0,1,0
+887,Uttar Pradesh,2005,Firings In Jail,0,0,0,0,0
+888,Uttar Pradesh,2006,Jail Breaks,0,0,0,0,0
+889,Uttar Pradesh,2006,Clashes/Group Clashes Etc,1,0,1,0,0
+890,Uttar Pradesh,2006,Firings In Jail,0,0,0,0,0
+891,Uttar Pradesh,2007,Jail Breaks,1,7,3,0,0
+892,Uttar Pradesh,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+893,Uttar Pradesh,2007,Firings In Jail,0,0,0,0,0
+894,Uttar Pradesh,2008,Jail Breaks,0,0,0,0,0
+895,Uttar Pradesh,2008,Clashes/Group Clashes Etc,16,81,9,0,0
+896,Uttar Pradesh,2008,Firings In Jail,0,0,0,0,0
+897,Uttar Pradesh,2009,Jail Breaks,0,0,0,0,0
+898,Uttar Pradesh,2009,Clashes/Group Clashes Etc,22,48,5,0,0
+899,Uttar Pradesh,2009,Firings In Jail,0,0,0,0,0
+900,Uttar Pradesh,2010,Jail Breaks,1,0,0,0,0
+901,Uttar Pradesh,2010,Clashes/Group Clashes Etc,4,17,9,2,0
+902,Uttar Pradesh,2010,Firings In Jail,0,0,0,0,0
+903,Uttar Pradesh,2011,Jail Breaks,0,0,0,0,0
+904,Uttar Pradesh,2011,Clashes/Group Clashes Etc,5,18,0,0,0
+905,Uttar Pradesh,2011,Firings In Jail,0,0,0,0,0
+906,Uttar Pradesh,2012,Jail Breaks,0,0,0,0,0
+907,Uttar Pradesh,2012,Clashes/Group Clashes Etc,3,13,0,0,0
+908,Uttar Pradesh,2012,Firings In Jail,0,0,0,0,0
+909,Uttarakhand,2001,Jail Breaks,0,0,0,0,0
+910,Uttarakhand,2001,Clashes/Group Clashes Etc,3,5,3,0,0
+911,Uttarakhand,2001,Firings In Jail,0,0,0,0,0
+912,Uttarakhand,2002,Jail Breaks,0,0,0,0,0
+913,Uttarakhand,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+914,Uttarakhand,2002,Firings In Jail,0,0,0,0,0
+915,Uttarakhand,2003,Jail Breaks,0,0,0,0,0
+916,Uttarakhand,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+917,Uttarakhand,2003,Firings In Jail,0,0,0,0,0
+918,Uttarakhand,2004,Jail Breaks,0,0,0,0,0
+919,Uttarakhand,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+920,Uttarakhand,2004,Firings In Jail,0,0,0,0,0
+921,Uttarakhand,2005,Jail Breaks,0,0,0,0,0
+922,Uttarakhand,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+923,Uttarakhand,2005,Firings In Jail,0,0,0,0,0
+924,Uttarakhand,2006,Jail Breaks,0,0,0,0,0
+925,Uttarakhand,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+926,Uttarakhand,2006,Firings In Jail,0,0,0,0,0
+927,Uttarakhand,2007,Jail Breaks,0,0,0,0,0
+928,Uttarakhand,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+929,Uttarakhand,2007,Firings In Jail,0,0,0,0,0
+930,Uttarakhand,2008,Jail Breaks,0,0,0,0,0
+931,Uttarakhand,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+932,Uttarakhand,2008,Firings In Jail,0,0,0,0,0
+933,Uttarakhand,2009,Jail Breaks,0,0,0,0,0
+934,Uttarakhand,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+935,Uttarakhand,2009,Firings In Jail,0,0,0,0,0
+936,Uttarakhand,2010,Jail Breaks,0,0,0,0,0
+937,Uttarakhand,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+938,Uttarakhand,2010,Firings In Jail,0,0,0,0,0
+939,Uttarakhand,2011,Jail Breaks,0,0,0,0,0
+940,Uttarakhand,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+941,Uttarakhand,2011,Firings In Jail,0,0,0,0,0
+942,Uttarakhand,2012,Jail Breaks,0,0,0,0,0
+943,Uttarakhand,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+944,Uttarakhand,2012,Firings In Jail,0,0,0,0,0
+945,West Bengal,2001,Jail Breaks,0,0,0,0,0
+946,West Bengal,2001,Clashes/Group Clashes Etc,1,5,0,0,0
+947,West Bengal,2001,Firings In Jail,0,0,0,0,0
+948,West Bengal,2002,Jail Breaks,0,0,0,0,0
+949,West Bengal,2002,Clashes/Group Clashes Etc,3,3,5,0,0
+950,West Bengal,2002,Firings In Jail,0,0,0,0,0
+951,West Bengal,2003,Jail Breaks,0,0,0,0,0
+952,West Bengal,2003,Clashes/Group Clashes Etc,1,1,3,0,0
+953,West Bengal,2003,Firings In Jail,0,0,0,0,0
+954,West Bengal,2004,Jail Breaks,0,0,0,0,0
+955,West Bengal,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+956,West Bengal,2004,Firings In Jail,0,0,0,0,0
+957,West Bengal,2005,Jail Breaks,0,0,0,0,0
+958,West Bengal,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+959,West Bengal,2005,Firings In Jail,0,0,0,0,0
+960,West Bengal,2006,Jail Breaks,0,0,0,0,0
+961,West Bengal,2006,Clashes/Group Clashes Etc,3,4,1,0,0
+962,West Bengal,2006,Firings In Jail,0,0,0,0,0
+963,West Bengal,2007,Jail Breaks,0,0,0,0,0
+964,West Bengal,2007,Clashes/Group Clashes Etc,5,7,7,0,0
+965,West Bengal,2007,Firings In Jail,0,0,0,0,0
+966,West Bengal,2008,Jail Breaks,0,0,0,0,0
+967,West Bengal,2008,Clashes/Group Clashes Etc,1,26,2,1,0
+968,West Bengal,2008,Firings In Jail,0,0,0,0,0
+969,West Bengal,2009,Jail Breaks,1,1,5,0,0
+970,West Bengal,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+971,West Bengal,2009,Firings In Jail,0,0,0,0,0
+972,West Bengal,2010,Jail Breaks,0,0,0,0,0
+973,West Bengal,2010,Clashes/Group Clashes Etc,1,2,0,0,0
+974,West Bengal,2010,Firings In Jail,0,0,0,0,0
+975,West Bengal,2011,Jail Breaks,0,0,0,0,0
+976,West Bengal,2011,Clashes/Group Clashes Etc,3,27,9,0,0
+977,West Bengal,2011,Firings In Jail,0,0,0,0,0
+978,West Bengal,2012,Jail Breaks,0,0,0,0,0
+979,West Bengal,2012,Clashes/Group Clashes Etc,7,12,2,0,0
+980,West Bengal,2012,Firings In Jail,0,0,0,0,0
+981,Andaman & Nicobar Islands,2001,Jail Breaks,0,0,0,0,0
+982,Andaman & Nicobar Islands,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+983,Andaman & Nicobar Islands,2001,Firings In Jail,0,0,0,0,0
+984,Andaman & Nicobar Islands,2002,Jail Breaks,0,0,0,0,0
+985,Andaman & Nicobar Islands,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+986,Andaman & Nicobar Islands,2002,Firings In Jail,0,0,0,0,0
+987,Andaman & Nicobar Islands,2003,Jail Breaks,0,0,0,0,0
+988,Andaman & Nicobar Islands,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+989,Andaman & Nicobar Islands,2003,Firings In Jail,0,0,0,0,0
+990,Andaman & Nicobar Islands,2004,Jail Breaks,0,0,0,0,0
+991,Andaman & Nicobar Islands,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+992,Andaman & Nicobar Islands,2004,Firings In Jail,0,0,0,0,0
+993,Andaman & Nicobar Islands,2005,Jail Breaks,0,0,0,0,0
+994,Andaman & Nicobar Islands,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+995,Andaman & Nicobar Islands,2005,Firings In Jail,0,0,0,0,0
+996,Andaman & Nicobar Islands,2006,Jail Breaks,0,0,0,0,0
+997,Andaman & Nicobar Islands,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+998,Andaman & Nicobar Islands,2006,Firings In Jail,0,0,0,0,0
+999,Andaman & Nicobar Islands,2007,Jail Breaks,0,0,0,0,0
+1000,Andaman & Nicobar Islands,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+1001,Andaman & Nicobar Islands,2007,Firings In Jail,0,0,0,0,0
+1002,Andaman & Nicobar Islands,2008,Jail Breaks,0,0,0,0,0
+1003,Andaman & Nicobar Islands,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+1004,Andaman & Nicobar Islands,2008,Firings In Jail,0,0,0,0,0
+1005,Andaman & Nicobar Islands,2009,Jail Breaks,0,0,0,0,0
+1006,Andaman & Nicobar Islands,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+1007,Andaman & Nicobar Islands,2009,Firings In Jail,0,0,0,0,0
+1008,Andaman & Nicobar Islands,2010,Jail Breaks,0,0,0,0,0
+1009,Andaman & Nicobar Islands,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+1010,Andaman & Nicobar Islands,2010,Firings In Jail,0,0,0,0,0
+1011,Andaman & Nicobar Islands,2011,Jail Breaks,0,0,0,0,0
+1012,Andaman & Nicobar Islands,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+1013,Andaman & Nicobar Islands,2011,Firings In Jail,0,0,0,0,0
+1014,Andaman & Nicobar Islands,2012,Jail Breaks,0,0,0,0,0
+1015,Andaman & Nicobar Islands,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+1016,Andaman & Nicobar Islands,2012,Firings In Jail,0,0,0,0,0
+1017,Chandigarh,2001,Jail Breaks,0,0,0,0,0
+1018,Chandigarh,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+1019,Chandigarh,2001,Firings In Jail,0,0,0,0,0
+1020,Chandigarh,2002,Jail Breaks,0,0,0,0,0
+1021,Chandigarh,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+1022,Chandigarh,2002,Firings In Jail,0,0,0,0,0
+1023,Chandigarh,2003,Jail Breaks,0,0,0,0,0
+1024,Chandigarh,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+1025,Chandigarh,2003,Firings In Jail,0,0,0,0,0
+1026,Chandigarh,2004,Jail Breaks,1,0,0,0,0
+1027,Chandigarh,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+1028,Chandigarh,2004,Firings In Jail,0,0,0,0,0
+1029,Chandigarh,2005,Jail Breaks,1,0,0,0,0
+1030,Chandigarh,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+1031,Chandigarh,2005,Firings In Jail,0,0,0,0,0
+1032,Chandigarh,2006,Jail Breaks,1,0,0,0,0
+1033,Chandigarh,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+1034,Chandigarh,2006,Firings In Jail,0,0,0,0,0
+1035,Chandigarh,2007,Jail Breaks,0,0,0,0,0
+1036,Chandigarh,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+1037,Chandigarh,2007,Firings In Jail,0,0,0,0,0
+1038,Chandigarh,2008,Jail Breaks,0,0,0,0,0
+1039,Chandigarh,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+1040,Chandigarh,2008,Firings In Jail,0,0,0,0,0
+1041,Chandigarh,2009,Jail Breaks,0,0,0,0,0
+1042,Chandigarh,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+1043,Chandigarh,2009,Firings In Jail,0,0,0,0,0
+1044,Chandigarh,2010,Jail Breaks,0,0,0,0,0
+1045,Chandigarh,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+1046,Chandigarh,2010,Firings In Jail,0,0,0,0,0
+1047,Chandigarh,2011,Jail Breaks,0,0,0,0,0
+1048,Chandigarh,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+1049,Chandigarh,2011,Firings In Jail,0,0,0,0,0
+1050,Chandigarh,2012,Jail Breaks,0,0,0,0,0
+1051,Chandigarh,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+1052,Chandigarh,2012,Firings In Jail,0,0,0,0,0
+1053,Dadra & Nagar Haveli,2001,Jail Breaks,0,0,0,0,0
+1054,Dadra & Nagar Haveli,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+1055,Dadra & Nagar Haveli,2001,Firings In Jail,0,0,0,0,0
+1056,Dadra & Nagar Haveli,2002,Jail Breaks,0,0,0,0,0
+1057,Dadra & Nagar Haveli,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+1058,Dadra & Nagar Haveli,2002,Firings In Jail,0,0,0,0,0
+1059,Dadra & Nagar Haveli,2003,Jail Breaks,0,0,0,0,0
+1060,Dadra & Nagar Haveli,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+1061,Dadra & Nagar Haveli,2003,Firings In Jail,0,0,0,0,0
+1062,Dadra & Nagar Haveli,2004,Jail Breaks,0,0,0,0,0
+1063,Dadra & Nagar Haveli,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+1064,Dadra & Nagar Haveli,2004,Firings In Jail,0,0,0,0,0
+1065,Dadra & Nagar Haveli,2005,Jail Breaks,0,0,0,0,0
+1066,Dadra & Nagar Haveli,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+1067,Dadra & Nagar Haveli,2005,Firings In Jail,0,0,0,0,0
+1068,Dadra & Nagar Haveli,2006,Jail Breaks,0,0,0,0,0
+1069,Dadra & Nagar Haveli,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+1070,Dadra & Nagar Haveli,2006,Firings In Jail,0,0,0,0,0
+1071,Dadra & Nagar Haveli,2007,Jail Breaks,0,0,0,0,0
+1072,Dadra & Nagar Haveli,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+1073,Dadra & Nagar Haveli,2007,Firings In Jail,0,0,0,0,0
+1074,Dadra & Nagar Haveli,2008,Jail Breaks,0,0,0,0,0
+1075,Dadra & Nagar Haveli,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+1076,Dadra & Nagar Haveli,2008,Firings In Jail,0,0,0,0,0
+1077,Dadra & Nagar Haveli,2009,Jail Breaks,0,0,0,0,0
+1078,Dadra & Nagar Haveli,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+1079,Dadra & Nagar Haveli,2009,Firings In Jail,0,0,0,0,0
+1080,Dadra & Nagar Haveli,2010,Jail Breaks,0,0,0,0,0
+1081,Dadra & Nagar Haveli,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+1082,Dadra & Nagar Haveli,2010,Firings In Jail,0,0,0,0,0
+1083,Dadra & Nagar Haveli,2011,Jail Breaks,0,0,0,0,0
+1084,Dadra & Nagar Haveli,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+1085,Dadra & Nagar Haveli,2011,Firings In Jail,0,0,0,0,0
+1086,Dadra & Nagar Haveli,2012,Jail Breaks,0,0,0,0,0
+1087,Dadra & Nagar Haveli,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+1088,Dadra & Nagar Haveli,2012,Firings In Jail,0,0,0,0,0
+1089,Daman & Diu,2001,Jail Breaks,0,0,0,0,0
+1090,Daman & Diu,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+1091,Daman & Diu,2001,Firings In Jail,0,0,0,0,0
+1092,Daman & Diu,2002,Jail Breaks,0,0,0,0,0
+1093,Daman & Diu,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+1094,Daman & Diu,2002,Firings In Jail,0,0,0,0,0
+1095,Daman & Diu,2003,Jail Breaks,0,0,0,0,0
+1096,Daman & Diu,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+1097,Daman & Diu,2003,Firings In Jail,0,0,0,0,0
+1098,Daman & Diu,2004,Jail Breaks,0,0,0,0,0
+1099,Daman & Diu,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+1100,Daman & Diu,2004,Firings In Jail,0,0,0,0,0
+1101,Daman & Diu,2005,Jail Breaks,0,0,0,0,0
+1102,Daman & Diu,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+1103,Daman & Diu,2005,Firings In Jail,0,0,0,0,0
+1104,Daman & Diu,2006,Jail Breaks,0,0,0,0,0
+1105,Daman & Diu,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+1106,Daman & Diu,2006,Firings In Jail,0,0,0,0,0
+1107,Daman & Diu,2007,Jail Breaks,0,0,0,0,0
+1108,Daman & Diu,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+1109,Daman & Diu,2007,Firings In Jail,0,0,0,0,0
+1110,Daman & Diu,2008,Jail Breaks,0,0,0,0,0
+1111,Daman & Diu,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+1112,Daman & Diu,2008,Firings In Jail,0,0,0,0,0
+1113,Daman & Diu,2009,Jail Breaks,0,0,0,0,0
+1114,Daman & Diu,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+1115,Daman & Diu,2009,Firings In Jail,0,0,0,0,0
+1116,Daman & Diu,2010,Jail Breaks,0,0,0,0,0
+1117,Daman & Diu,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+1118,Daman & Diu,2010,Firings In Jail,0,0,0,0,0
+1119,Daman & Diu,2011,Jail Breaks,0,0,0,0,0
+1120,Daman & Diu,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+1121,Daman & Diu,2011,Firings In Jail,0,0,0,0,0
+1122,Daman & Diu,2012,Jail Breaks,0,0,0,0,0
+1123,Daman & Diu,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+1124,Daman & Diu,2012,Firings In Jail,0,0,0,0,0
+1125,Delhi,2001,Jail Breaks,0,0,0,0,0
+1126,Delhi,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+1127,Delhi,2001,Firings In Jail,0,0,0,0,0
+1128,Delhi,2002,Jail Breaks,0,0,0,0,0
+1129,Delhi,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+1130,Delhi,2002,Firings In Jail,0,0,0,0,0
+1131,Delhi,2003,Jail Breaks,0,0,0,0,0
+1132,Delhi,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+1133,Delhi,2003,Firings In Jail,0,0,0,0,0
+1134,Delhi,2004,Jail Breaks,0,0,0,0,0
+1135,Delhi,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+1136,Delhi,2004,Firings In Jail,0,0,0,0,0
+1137,Delhi,2005,Jail Breaks,0,0,0,0,0
+1138,Delhi,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+1139,Delhi,2005,Firings In Jail,0,0,0,0,0
+1140,Delhi,2006,Jail Breaks,0,0,0,0,0
+1141,Delhi,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+1142,Delhi,2006,Firings In Jail,0,0,0,0,0
+1143,Delhi,2007,Jail Breaks,0,0,0,0,0
+1144,Delhi,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+1145,Delhi,2007,Firings In Jail,0,0,0,0,0
+1146,Delhi,2008,Jail Breaks,0,0,0,0,0
+1147,Delhi,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+1148,Delhi,2008,Firings In Jail,0,0,0,0,0
+1149,Delhi,2009,Jail Breaks,0,0,0,0,0
+1150,Delhi,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+1151,Delhi,2009,Firings In Jail,0,0,0,0,0
+1152,Delhi,2010,Jail Breaks,0,0,0,0,0
+1153,Delhi,2010,Clashes/Group Clashes Etc,2,6,0,0,0
+1154,Delhi,2010,Firings In Jail,0,0,0,0,0
+1155,Delhi,2011,Jail Breaks,0,0,0,0,0
+1156,Delhi,2011,Clashes/Group Clashes Etc,7,9,0,2,0
+1157,Delhi,2011,Firings In Jail,0,0,0,0,0
+1158,Delhi,2012,Jail Breaks,0,0,0,0,0
+1159,Delhi,2012,Clashes/Group Clashes Etc,99,126,2,0,0
+1160,Delhi,2012,Firings In Jail,0,0,0,0,0
+1161,Lakshadweep,2001,Jail Breaks,0,0,0,0,0
+1162,Lakshadweep,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+1163,Lakshadweep,2001,Firings In Jail,0,0,0,0,0
+1164,Lakshadweep,2002,Jail Breaks,0,0,0,0,0
+1165,Lakshadweep,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+1166,Lakshadweep,2002,Firings In Jail,0,0,0,0,0
+1167,Lakshadweep,2003,Jail Breaks,0,0,0,0,0
+1168,Lakshadweep,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+1169,Lakshadweep,2003,Firings In Jail,0,0,0,0,0
+1170,Lakshadweep,2004,Jail Breaks,0,0,0,0,0
+1171,Lakshadweep,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+1172,Lakshadweep,2004,Firings In Jail,0,0,0,0,0
+1173,Lakshadweep,2005,Jail Breaks,0,0,0,0,0
+1174,Lakshadweep,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+1175,Lakshadweep,2005,Firings In Jail,0,0,0,0,0
+1176,Lakshadweep,2006,Jail Breaks,0,0,0,0,0
+1177,Lakshadweep,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+1178,Lakshadweep,2006,Firings In Jail,0,0,0,0,0
+1179,Lakshadweep,2007,Jail Breaks,0,0,0,0,0
+1180,Lakshadweep,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+1181,Lakshadweep,2007,Firings In Jail,0,0,0,0,0
+1182,Lakshadweep,2008,Jail Breaks,0,0,0,0,0
+1183,Lakshadweep,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+1184,Lakshadweep,2008,Firings In Jail,0,0,0,0,0
+1185,Lakshadweep,2009,Jail Breaks,0,0,0,0,0
+1186,Lakshadweep,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+1187,Lakshadweep,2009,Firings In Jail,0,0,0,0,0
+1188,Lakshadweep,2010,Jail Breaks,0,0,0,0,0
+1189,Lakshadweep,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+1190,Lakshadweep,2010,Firings In Jail,0,0,0,0,0
+1191,Lakshadweep,2011,Jail Breaks,0,0,0,0,0
+1192,Lakshadweep,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+1193,Lakshadweep,2011,Firings In Jail,0,0,0,0,0
+1194,Lakshadweep,2012,Jail Breaks,0,0,0,0,0
+1195,Lakshadweep,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+1196,Lakshadweep,2012,Firings In Jail,0,0,0,0,0
+1197,Puducherry,2001,Jail Breaks,0,0,0,0,0
+1198,Puducherry,2001,Clashes/Group Clashes Etc,0,0,0,0,0
+1199,Puducherry,2001,Firings In Jail,0,0,0,0,0
+1200,Puducherry,2002,Jail Breaks,0,0,0,0,0
+1201,Puducherry,2002,Clashes/Group Clashes Etc,0,0,0,0,0
+1202,Puducherry,2002,Firings In Jail,0,0,0,0,0
+1203,Puducherry,2003,Jail Breaks,0,0,0,0,0
+1204,Puducherry,2003,Clashes/Group Clashes Etc,0,0,0,0,0
+1205,Puducherry,2003,Firings In Jail,0,0,0,0,0
+1206,Puducherry,2004,Jail Breaks,0,0,0,0,0
+1207,Puducherry,2004,Clashes/Group Clashes Etc,0,0,0,0,0
+1208,Puducherry,2004,Firings In Jail,0,0,0,0,0
+1209,Puducherry,2005,Jail Breaks,0,0,0,0,0
+1210,Puducherry,2005,Clashes/Group Clashes Etc,0,0,0,0,0
+1211,Puducherry,2005,Firings In Jail,0,0,0,0,0
+1212,Puducherry,2006,Jail Breaks,0,0,0,0,0
+1213,Puducherry,2006,Clashes/Group Clashes Etc,0,0,0,0,0
+1214,Puducherry,2006,Firings In Jail,0,0,0,0,0
+1215,Puducherry,2007,Jail Breaks,0,0,0,0,0
+1216,Puducherry,2007,Clashes/Group Clashes Etc,0,0,0,0,0
+1217,Puducherry,2007,Firings In Jail,0,0,0,0,0
+1218,Puducherry,2008,Jail Breaks,0,0,0,0,0
+1219,Puducherry,2008,Clashes/Group Clashes Etc,0,0,0,0,0
+1220,Puducherry,2008,Firings In Jail,0,0,0,0,0
+1221,Puducherry,2009,Jail Breaks,0,0,0,0,0
+1222,Puducherry,2009,Clashes/Group Clashes Etc,0,0,0,0,0
+1223,Puducherry,2009,Firings In Jail,0,0,0,0,0
+1224,Puducherry,2010,Jail Breaks,0,0,0,0,0
+1225,Puducherry,2010,Clashes/Group Clashes Etc,0,0,0,0,0
+1226,Puducherry,2010,Firings In Jail,0,0,0,0,0
+1227,Puducherry,2011,Jail Breaks,0,0,0,0,0
+1228,Puducherry,2011,Clashes/Group Clashes Etc,0,0,0,0,0
+1229,Puducherry,2011,Firings In Jail,0,0,0,0,0
+1230,Puducherry,2012,Jail Breaks,0,0,0,0,0
+1231,Puducherry,2012,Clashes/Group Clashes Etc,0,0,0,0,0
+1232,Puducherry,2012,Firings In Jail,0,0,0,0,0
+1233,Andhra Pradesh,2013,Jail Breaks,0,0,0,0,0
+1234,Andhra Pradesh,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1235,Andhra Pradesh,2013,Firings In Jail,0,0,0,0,0
+1236,Arunachal Pradesh,2013,Jail Breaks,0,0,0,0,0
+1237,Arunachal Pradesh,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1238,Arunachal Pradesh,2013,Firings In Jail,0,0,0,0,0
+1239,Assam,2013,Jail Breaks,0,0,0,0,0
+1240,Assam,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1241,Assam,2013,Firings In Jail,0,0,0,0,0
+1242,Bihar,2013,Jail Breaks,0,0,0,0,0
+1243,Bihar,2013,Clashes/Group Clashes Etc,5,17,0,0,0
+1244,Bihar,2013,Firings In Jail,0,0,0,0,0
+1245,Chhattisgarh,2013,Jail Breaks,0,0,0,0,0
+1246,Chhattisgarh,2013,Clashes/Group Clashes Etc,0,0,0,1,0
+1247,Chhattisgarh,2013,Firings In Jail,0,0,0,0,0
+1248,Goa,2013,Jail Breaks,0,0,0,0,0
+1249,Goa,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1250,Goa,2013,Firings In Jail,0,0,0,0,0
+1251,Gujarat,2013,Jail Breaks,0,0,0,0,0
+1252,Gujarat,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1253,Gujarat,2013,Firings In Jail,0,0,0,0,0
+1254,Haryana,2013,Jail Breaks,0,0,0,0,0
+1255,Haryana,2013,Clashes/Group Clashes Etc,13,28,1,0,0
+1256,Haryana,2013,Firings In Jail,0,0,0,0,0
+1257,Himachal Pradesh,2013,Jail Breaks,0,0,0,0,0
+1258,Himachal Pradesh,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1259,Himachal Pradesh,2013,Firings In Jail,0,0,0,0,0
+1260,Jammu & Kashmir,2013,Jail Breaks,0,0,0,0,0
+1261,Jammu & Kashmir,2013,Clashes/Group Clashes Etc,1,1,0,0,0
+1262,Jammu & Kashmir,2013,Firings In Jail,0,0,0,0,0
+1263,Jharkhand,2013,Jail Breaks,0,0,0,0,0
+1264,Jharkhand,2013,Clashes/Group Clashes Etc,1,0,1,0,0
+1265,Jharkhand,2013,Firings In Jail,0,0,0,0,0
+1266,Karnataka,2013,Jail Breaks,0,0,0,0,0
+1267,Karnataka,2013,Clashes/Group Clashes Etc,2,2,2,0,0
+1268,Karnataka,2013,Firings In Jail,0,0,0,0,0
+1269,Kerala,2013,Jail Breaks,0,0,0,0,0
+1270,Kerala,2013,Clashes/Group Clashes Etc,3,3,2,0,0
+1271,Kerala,2013,Firings In Jail,0,0,0,0,0
+1272,Madhya Pradesh,2013,Jail Breaks,2,0,0,0,0
+1273,Madhya Pradesh,2013,Clashes/Group Clashes Etc,13,2,1,1,0
+1274,Madhya Pradesh,2013,Firings In Jail,0,0,0,0,0
+1275,Maharashtra,2013,Jail Breaks,0,0,0,0,0
+1276,Maharashtra,2013,Clashes/Group Clashes Etc,6,4,2,0,0
+1277,Maharashtra,2013,Firings In Jail,1,1,0,0,0
+1278,Manipur,2013,Jail Breaks,0,0,0,0,0
+1279,Manipur,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1280,Manipur,2013,Firings In Jail,0,0,0,0,0
+1281,Meghalaya,2013,Jail Breaks,1,1,0,1,0
+1282,Meghalaya,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1283,Meghalaya,2013,Firings In Jail,0,0,0,0,0
+1284,Mizoram,2013,Jail Breaks,0,0,0,0,0
+1285,Mizoram,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1286,Mizoram,2013,Firings In Jail,0,0,0,0,0
+1287,Nagaland,2013,Jail Breaks,0,0,0,0,0
+1288,Nagaland,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1289,Nagaland,2013,Firings In Jail,0,0,0,0,0
+1290,Odisha,2013,Jail Breaks,0,0,0,0,0
+1291,Odisha,2013,Clashes/Group Clashes Etc,2,1,0,0,0
+1292,Odisha,2013,Firings In Jail,1,0,0,1,0
+1293,Punjab,2013,Jail Breaks,0,0,0,0,0
+1294,Punjab,2013,Clashes/Group Clashes Etc,2,4,0,0,0
+1295,Punjab,2013,Firings In Jail,0,0,0,0,0
+1296,Rajasthan,2013,Jail Breaks,1,1,1,0,0
+1297,Rajasthan,2013,Clashes/Group Clashes Etc,25,8,1,0,0
+1298,Rajasthan,2013,Firings In Jail,1,1,0,0,0
+1299,Sikkim,2013,Jail Breaks,0,0,0,0,0
+1300,Sikkim,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1301,Sikkim,2013,Firings In Jail,0,0,0,0,0
+1302,Tamil Nadu,2013,Jail Breaks,0,0,0,0,0
+1303,Tamil Nadu,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1304,Tamil Nadu,2013,Firings In Jail,0,0,0,0,0
+1305,Tripura,2013,Jail Breaks,0,0,0,0,0
+1306,Tripura,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1307,Tripura,2013,Firings In Jail,0,0,0,0,0
+1308,Uttar Pradesh,2013,Jail Breaks,1,0,0,0,0
+1309,Uttar Pradesh,2013,Clashes/Group Clashes Etc,2,4,1,0,0
+1310,Uttar Pradesh,2013,Firings In Jail,0,0,0,0,0
+1311,Uttarakhand,2013,Jail Breaks,0,0,0,0,0
+1312,Uttarakhand,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1313,Uttarakhand,2013,Firings In Jail,0,0,0,0,0
+1314,West Bengal,2013,Jail Breaks,0,0,0,0,0
+1315,West Bengal,2013,Clashes/Group Clashes Etc,22,24,1,0,0
+1316,West Bengal,2013,Firings In Jail,0,0,0,0,0
+1317,Andaman & Nicobar Islands,2013,Jail Breaks,0,0,0,0,0
+1318,Andaman & Nicobar Islands,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1319,Andaman & Nicobar Islands,2013,Firings In Jail,0,0,0,0,0
+1320,Chandigarh,2013,Jail Breaks,0,0,0,0,0
+1321,Chandigarh,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1322,Chandigarh,2013,Firings In Jail,0,0,0,0,0
+1323,Dadra & Nagar Haveli,2013,Jail Breaks,0,0,0,0,0
+1324,Dadra & Nagar Haveli,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1325,Dadra & Nagar Haveli,2013,Firings In Jail,0,0,0,0,0
+1326,Daman & Diu,2013,Jail Breaks,0,0,0,0,0
+1327,Daman & Diu,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1328,Daman & Diu,2013,Firings In Jail,0,0,0,0,0
+1329,Delhi,2013,Jail Breaks,0,0,0,0,0
+1330,Delhi,2013,Clashes/Group Clashes Etc,106,194,0,1,0
+1331,Delhi,2013,Firings In Jail,0,0,0,0,0
+1332,Lakshadweep,2013,Jail Breaks,0,0,0,0,0
+1333,Lakshadweep,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1334,Lakshadweep,2013,Firings In Jail,0,0,0,0,0
+1335,Puducherry,2013,Jail Breaks,0,0,0,0,0
+1336,Puducherry,2013,Clashes/Group Clashes Etc,0,0,0,0,0
+1337,Puducherry,2013,Firings In Jail,0,0,0,0,0

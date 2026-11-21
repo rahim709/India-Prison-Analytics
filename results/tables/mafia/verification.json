@@ -1,0 +1,181 @@
+{
+  "tests_passed": 69,
+  "mafia_tests": 7,
+  "notebook_code_cells": 11,
+  "notebook_inline_generated_figures": 5,
+  "notebook_errors": 0,
+  "unchanged_input_files": 85,
+  "previous_output_hashes_verified": 68,
+  "support_settings": 4,
+  "rule_settings": 12,
+  "real_data_ablation_settings": 24,
+  "exhaustive_fixture_configurations": 640,
+  "one_item_extension_checks": 2217,
+  "repeat_execution_identical": true,
+  "source_sha256": "7b24c7630250768c6df5397fda51c31cf9c57a1deacce193fe58a56c07bf2212",
+  "output_hashes": [
+    {
+      "file": "results/tables/mafia/exploratory_maximal_union_rules.csv",
+      "sha256": "fc759422f456291ee9de5b70422a78dd315a9a0f3495f7b59eb1a29785ab9741"
+    },
+    {
+      "file": "results/tables/mafia/exploratory_recounted_supports.csv",
+      "sha256": "73926445135702727203a56175f1f54be5382b894f41898f0629ebae4692ab2d"
+    },
+    {
+      "file": "results/tables/mafia/extension_checks_s0p05.csv",
+      "sha256": "f52950c12b040089acf3f51fadbfcc54df3332fb069c43faa926971eed923752"
+    },
+    {
+      "file": "results/tables/mafia/extension_checks_s0p10.csv",
+      "sha256": "4a98eea8b6f4410157561c618e8795588d52c431dca10867ab87ba6c5c82e97b"
+    },
+    {
+      "file": "results/tables/mafia/extension_checks_s0p15.csv",
+      "sha256": "13b82701c0de149d8b8d05cc52a7f895f66265996fd52796d7bb00b1cc0c5067"
+    },
+    {
+      "file": "results/tables/mafia/extension_checks_s0p20.csv",
+      "sha256": "f60c54bdecd3b72d83481e01a97ae73cd81496813008134a6d749e5eecf44ec6"
+    },
+    {
+      "file": "results/tables/mafia/maximal_itemsets.csv",
+      "sha256": "6cbbbc5f6f95fe97d71086ce85e179f5326efc27189eccf2d1bc0e05316ccb97"
+    },
+    {
+      "file": "results/tables/mafia/maximal_length_distribution.csv",
+      "sha256": "8603d36985c5846bd555ec9124c1213b24171833dc43d709b2fa1fa8680202c6"
+    },
+    {
+      "file": "results/tables/mafia/maximal_s0p05.csv",
+      "sha256": "2124615b6e86aac9172606a26ee7edf73c95c2bb871a96036e5700b5a0939b3b"
+    },
+    {
+      "file": "results/tables/mafia/maximal_s0p10.csv",
+      "sha256": "6cbbbc5f6f95fe97d71086ce85e179f5326efc27189eccf2d1bc0e05316ccb97"
+    },
+    {
+      "file": "results/tables/mafia/maximal_s0p15.csv",
+      "sha256": "b741968fb992c1b2cad8534ebffa0b0befacf0532b27620fad266230ceb67104"
+    },
+    {
+      "file": "results/tables/mafia/maximal_s0p20.csv",
+      "sha256": "fe993dced975ee6cddcbffdc0d5f487b02a96799dac13f4d17e548319fc284c5"
+    },
+    {
+      "file": "results/tables/mafia/maximal_union_rules.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/omitted_fp_rules.csv",
+      "sha256": "98c01c6bf242bd0cc6e131d99c3c7ee1e126815c6e9cc044ddad06b3ca222c7a"
+    },
+    {
+      "file": "results/tables/mafia/parameter_comparison.csv",
+      "sha256": "93f7fdf1433ad274676f08234086eab060be683550e0ba0830fdb2a57bd6dc94"
+    },
+    {
+      "file": "results/tables/mafia/pruning_ablation.csv",
+      "sha256": "5a441f870a5ea6749c3919b5a689ebca795e923408bbae882560df0288ff9af7"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p05_c0.60.csv",
+      "sha256": "15e7c6d53a1b30ef1e1552af84ee65b8844cc0c95a449e17729d428891372429"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p05_c0.70.csv",
+      "sha256": "fc759422f456291ee9de5b70422a78dd315a9a0f3495f7b59eb1a29785ab9741"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p05_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p10_c0.60.csv",
+      "sha256": "229af542a8d3971d9554a7eef8b322b97b3d0c306db45232491f4d4346f1fb5d"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p10_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p10_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p15_c0.60.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p15_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p15_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p20_c0.60.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p20_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/rules_s0p20_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/mafia/run_summary.json",
+      "sha256": "203f9b1c4df360ad4a1fbeeb009a3bfeeb1ca126a5559de51fd80dc2a056daeb"
+    }
+  ],
+  "images": [
+    {
+      "file": "results/plots/mafia/exploratory_rule_metrics.png",
+      "sha256": "9e3496a762ccfc59e0e14b273b5fda09e6589a5298a5ee5573b3c165c565a0a3",
+      "dimensions": [
+        3254,
+        1475
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/mafia/frequent_vs_maximal.png",
+      "sha256": "70c53fb69c23fd0cb42b9b1e6c79a8cc1e41024e19263f26ae927a9b081c88e2",
+      "dimensions": [
+        2948,
+        1450
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/mafia/maximal_lengths.png",
+      "sha256": "110184a5c2bc6cc6f63ab7b42e660505c7d60af6734c02c9bd7532b628b56726",
+      "dimensions": [
+        2949,
+        1450
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/mafia/rule_family_coverage.png",
+      "sha256": "482432c877402fa3d29ffad523d16e452f093b08a0ef2fddb070317a3c1bf693",
+      "dimensions": [
+        2649,
+        1450
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/mafia/search_work_counters.png",
+      "sha256": "4aec27864aa71e53b276547f9e5a74eea1e6be25de60ca956dc2695a22317d79",
+      "dimensions": [
+        3548,
+        1475
+      ],
+      "dpi": 300
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "file": "numeric_summary.csv",
+    "rows": 131,
+    "sha256": "9c81c4f938384fb03316e36d361d31d7103d6c3f1328f7c04e240f0fed5a9b0a"
+  },
+  {
+    "file": "stratified_numeric_summary.csv",
+    "rows": 2659,
+    "sha256": "a5df26551e8a6e685b76c1bd1ded11457dbb996a5138b04f73f4bd8893ea9f55"
+  },
+  {
+    "file": "annual_numeric_summary.csv",
+    "rows": 1493,
+    "sha256": "681fb4c13659c440dc7e21a87dbce917f86bf832ed0102548289ca7871b927cd"
+  },
+  {
+    "file": "categorical_record_frequencies.csv",
+    "rows": 2984,
+    "sha256": "0c1b3ae1b080fa856e5ee13fdb9219ee3c72b2011e020de616a60098b52cdbad"
+  },
+  {
+    "file": "source_year_coverage.csv",
+    "rows": 350,
+    "sha256": "655c94cbfea84cd8924567369ec6a3539c8e63ae41cb33b92a6c9148a9665078"
+  },
+  {
+    "file": "measure_dictionary.csv",
+    "rows": 115,
+    "sha256": "a988005c8538e1f2931fffc5f383d5b224f34b6aff47361341c7920886705869"
+  },
+  {
+    "file": "state_year_totals.csv",
+    "rows": 447,
+    "sha256": "ffa7d50d7a09cad37372d2ab98f52a682573d4709515ae42fdabc4d3af80fa4b"
+  },
+  {
+    "file": "state_numeric_summary.csv",
+    "rows": 385,
+    "sha256": "30e8f2bded153cbb725fd5713d85c351fe52550fbca5bded3b9c849611ea1b34"
+  },
+  {
+    "file": "year_summary_available.csv",
+    "rows": 13,
+    "sha256": "1e40f883dddd0da106a1fba775eab158ce47f7cb41aab98732c38e8407a85f0a"
+  },
+  {
+    "file": "year_summary_balanced.csv",
+    "rows": 13,
+    "sha256": "3ebe7980db0bc67fbe22ff27b89721d1e03db95a82846e2d1a1f9fed23357583"
+  },
+  {
+    "file": "latest_state_snapshot.csv",
+    "rows": 35,
+    "sha256": "30ca636591d92acd11b084dc63f3eb722d18b2103e70c2839898463668866027"
+  },
+  {
+    "file": "demographic_state_year.csv",
+    "rows": 13299,
+    "sha256": "d7d7cdaa322f28814c62ceda0c1f603cbb23188c3df68245d8c3a7e7cc5c50fc"
+  },
+  {
+    "file": "demographic_gender_state_year.csv",
+    "rows": 21234,
+    "sha256": "bab855b636b02d375699f3e57b4ae4899eb6ec9b6ac6d04c5340ae650c2858c0"
+  },
+  {
+    "file": "demographic_year.csv",
+    "rows": 390,
+    "sha256": "f45f92e533b107047798056e44dd63cf2d0cfdde96a9ed7b9e833d1af45f5465"
+  },
+  {
+    "file": "common_demographic_cohort_keys.csv",
+    "rows": 426,
+    "sha256": "f47b705942339f4335a3d1a4b36ed7ffb08f5798c190db7ac62dbcdcdc45a9d6"
+  },
+  {
+    "file": "demographic_status_year.csv",
+    "rows": 1248,
+    "sha256": "d665d8e152e5cc9d35bd218d6a5314fac4b4a56c0a96c4f97d5c70a692ff483e"
+  },
+  {
+    "file": "demographic_gender_year.csv",
+    "rows": 624,
+    "sha256": "1994bd81d8b5927371e4cb6c5dcd1a7d93fc3b3f33c67ac929ea1d3760a76cd5"
+  },
+  {
+    "file": "correlations.csv",
+    "rows": 848,
+    "sha256": "b09ca24a26ce6fb0f5d9acd392deef2886575500b012954d4fe8a5a8d0606595"
+  },
+  {
+    "file": "recidivism_state_year.csv",
+    "rows": 447,
+    "sha256": "908827db5e93e4104021a745237fd1388470915ea89faf4b868e609f32cef19f"
+  },
+  {
+    "file": "recidivism_year.csv",
+    "rows": 13,
+    "sha256": "d7f0fade362dd574649e18e8d890737dd7ebb43991bbc366c2f3920f0a679d6f"
+  },
+  {
+    "file": "crime_year.csv",
+    "rows": 1066,
+    "sha256": "1e0860e68c626167c39e8b80fdd2d74c6e86ce2afdcfa50b4a19571720910355"
+  },
+  {
+    "file": "indicator_year.csv",
+    "rows": 5973,
+    "sha256": "421df3fea5c43141de30d8cc2faab47685380077502e6bfb119693e1bcd14a9d"
+  }
+]

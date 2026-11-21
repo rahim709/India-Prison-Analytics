@@ -1,0 +1,9 @@
+file,stage,source_record,check,total_field,reported,calculated,difference
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,119,within_record,Total Under trial,49,46,3
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,316,within_record,Grand Total,160,260,-100
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,before,119,within_record,Total Female,6,0,6
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,119,within_record,Total Under trial,49,46,3
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,316,within_record,Grand Total,160,260,-100
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,after,119,within_record,Total Female,6,0,6
+Other Prison data/Number_of_women_prisoners_with_children.csv,before,442,within_record,Total No. of children of  Women Prisoners,0,2,-2
+Other Prison data/Number_of_women_prisoners_with_children.csv,after,442,within_record,Total No. of children of  Women Prisoners,0,2,-2

@@ -1,0 +1,28 @@
+file,rows,native_key_duplicate_rows,state_years,record_eligible_rows,group_quality_eligible_detail_rows,analysis_eligible_rows
+Age_group.csv,7152,0,447,7151,7136,7104
+Caste.csv,3568,0,446,3568,3568,3448
+Death_sentence.csv,446,0,446,446,446,446
+Domicile.csv,2676,0,446,2676,2676,2670
+Education.csv,5346,0,446,5346,5346,5328
+Education_facilities.csv,445,0,445,445,445,445
+IPC_crime_inmates_convicted.csv,9385,0,447,9385,9385,9345
+IPC_crime_inmates_under_trial.csv,9385,0,447,9385,9385,9345
+Inmates_death.csv,4023,0,447,3576,3576,3576
+Inmates_escapee.csv,1788,0,447,1788,1788,1788
+Jail wise population of prison inmates.csv,4023,0,447,3576,3576,3576
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,1341,0,447,1341,1341,1341
+Other Prison data/Inmates_released.csv,8485,0,447,7249,7249,7004
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,442,0,442,440,440,440
+Other Prison data/Number_of_women_prisoners_with_children.csv,446,0,446,445,445,445
+Other Prison data/Period_of_detention_of_undertrials.csv,3576,0,447,3129,3129,3129
+Other Prison data/Population_and_capacity_of_jails.csv,4023,0,447,3576,3576,3576
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,9456,0,447,8940,8940,8940
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,9457,0,447,8940,8940,8940
+Other Prison data/Value_of_goods_produced_by_inmates.csv,1954,39,373,1872,1754,1754
+Recidivism.csv,447,0,447,447,447,447
+Rehabilitation.csv,445,0,445,445,445,445
+Religion.csv,4460,0,446,4460,4460,4460
+Sentence_period.csv,8940,0,447,8940,8940,8940
+Tranquillity.csv,1336,0,446,1336,1336,1335
+Vocational_training.csv,4122,104,400,4015,3519,3519
+Wages.csv,445,0,445,445,445,445

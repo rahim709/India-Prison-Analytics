@@ -1,0 +1,399 @@
+{
+  "title": "India Prison Analytics",
+  "author": "Abdur Rahim",
+  "roll_number": "CS23I1019",
+  "institution": "IIITDM Kancheepuram",
+  "course": "Analytics and Systems of Big Data",
+  "submission": "End Sem Hackathon",
+  "report_source": "local ignored LaTeX build",
+  "inputs": [
+    {
+      "file": "notebooks/01_Preprocessing.ipynb",
+      "sha256": "1f4df4f0df4b46392ea356d15f79ffec6ffa10b1352697324411767cf58f9dd1"
+    },
+    {
+      "file": "notebooks/02_Descriptive_Analytics.ipynb",
+      "sha256": "5964bc536c6357251e783f1c98f5a7c6bd5e1b44bbc37f51f6098bfce40ff486"
+    },
+    {
+      "file": "notebooks/03_Visualization.ipynb",
+      "sha256": "931c7f1c2178465d4a3789fad8883fec0bfd74155a2d748a104332d2c25167d6"
+    },
+    {
+      "file": "notebooks/04_FP_Growth.ipynb",
+      "sha256": "6ae441ed7806f0e19cdc1512be2ae4179c155bbefbcc86fe494360e77e34f445"
+    },
+    {
+      "file": "notebooks/05_Classification_or_Clustering.ipynb",
+      "sha256": "988be61a603204ea54c9f28d1ac81926d0c990f29bd7ce4d9b9739d249223d9d"
+    },
+    {
+      "file": "notebooks/06_MAFIA.ipynb",
+      "sha256": "69ef3593c6354e3d924ddf3e936a9f1be784561c8e8b6063800dd11c465b311f"
+    },
+    {
+      "file": "notebooks/07_PySpark.ipynb",
+      "sha256": "a853cce207a42d45c28373e1ab9a0267acb091f156b89a2d50f25342def6cf6a"
+    },
+    {
+      "file": "notebooks/08_PySpark_KMedoids.ipynb",
+      "sha256": "e99b71bf70203e6e9f2b9dd61350d3820a7aa0018149a093077c6fa45d8cb451"
+    },
+    {
+      "file": "requirements.txt",
+      "sha256": "97ac9b22d9305cfe65eb540990026fd46a8c5265e42cc04d46517564170742fa"
+    },
+    {
+      "file": "results/benchmarks/spark_fp_growth/environment_and_protocol.json",
+      "sha256": "c27450a8bbae33e427146940f4db7e0b151abb2e3e05cab632c4e5eb8392a9e6"
+    },
+    {
+      "file": "results/benchmarks/spark_fp_growth/timing_runs.csv",
+      "sha256": "e480a6496c587a3acc5fed38b7dbf3ff6d48054ee32a655c5f625fa5e2640dab"
+    },
+    {
+      "file": "results/benchmarks/spark_fp_growth/timing_summary.csv",
+      "sha256": "c7273669e1f916a49dd14409148535050afc61892f1bfcb6b3de0365b77b47a3"
+    },
+    {
+      "file": "results/benchmarks/spark_k_medoids/environment_and_protocol.json",
+      "sha256": "eff4d948b2e463c822e01cd74e3bd553511b36e13581bfcb967b5c5a218d9685"
+    },
+    {
+      "file": "results/benchmarks/spark_k_medoids/timing_runs.csv",
+      "sha256": "6ea3c528e08df23e18298585ca80e24708b532448e65a039bb564902a3a0437c"
+    },
+    {
+      "file": "results/benchmarks/spark_k_medoids/timing_summary.csv",
+      "sha256": "e539531999074a3464aed7e0a4b24c232ed3478b209e22e0398c9fad0c181a08"
+    },
+    {
+      "file": "results/plots/01_bar.png",
+      "sha256": "e508af168ac7c07e85ed39b7e04de65ca8a8b8b1b9958f9e26f4e15c00348f15"
+    },
+    {
+      "file": "results/plots/02_pie.png",
+      "sha256": "2b55ad9e45831a48a2e37dd2f132b5d4637ac883110198f0cfe02182f1d769f1"
+    },
+    {
+      "file": "results/plots/03_histogram.png",
+      "sha256": "ea2bd001176e2ad31a57371a08dea5d9214418384e765e82e7f7dc991987c039"
+    },
+    {
+      "file": "results/plots/04_box.png",
+      "sha256": "9fb08d9a4a110a8f907fa2858331d17ced5ffe87c1f1483361e0c90d51b29ba3"
+    },
+    {
+      "file": "results/plots/05_line.png",
+      "sha256": "5f304d7e941eba48a13109ac48ef0ce6b5f649074292ca0da08e331d9677317b"
+    },
+    {
+      "file": "results/plots/06_scatter.png",
+      "sha256": "f473a2777eb637734055a8c1fe51251e2a2237c8218ae65222fa00d4e7a7b121"
+    },
+    {
+      "file": "results/plots/07_heatmap.png",
+      "sha256": "0e9efd2735182c7611c616c442ed30ec8434ef7f514a245dc0ab581a3cbc31d3"
+    },
+    {
+      "file": "results/plots/08_area.png",
+      "sha256": "8da4e9e8deb90199a4932ecedb281d81a5e3ac74504e0e231c5cb8c826a1d715"
+    },
+    {
+      "file": "results/plots/09_dot.png",
+      "sha256": "04f9c89568e935300b8e8388d3ea579bf46d0eb39b169c85942ee26dc96b9847"
+    },
+    {
+      "file": "results/plots/10_stem_leaf.png",
+      "sha256": "6b4d878f1a910bfaf91ba5486e5a7479aef3242c7c98eb3337a3018850396bde"
+    },
+    {
+      "file": "results/plots/11_status_state_rankings.png",
+      "sha256": "5f738222c89ce87356f35cf3c35f8ffae6f45311bb3af1c9bf10a6c3dc592b6b"
+    },
+    {
+      "file": "results/plots/12_status_demographics.png",
+      "sha256": "4a379e1bdabcfa7b279ef3f1acc83e06f3e2354e4434570b4c965776768eede3"
+    },
+    {
+      "file": "results/plots/14_sentence_indicator_rankings.png",
+      "sha256": "f2296df38e029c0f030b403c5cfab94ea39500464bba5c8f881dc47c59def010"
+    },
+    {
+      "file": "results/plots/15_sentence_indicator_trends.png",
+      "sha256": "2d5ee2bd23a653760a7a168c84be96b5d030bf438f49e4fa7c5e5e12d58b723a"
+    },
+    {
+      "file": "results/plots/16_religion_education.png",
+      "sha256": "08c9966b610c629eff621090fa350d8c3aacef3933a4c2baf8800ac40eae0ed7"
+    },
+    {
+      "file": "results/plots/17_ipc_composition.png",
+      "sha256": "8a6da44d6db21847f1f41d0600b2957e9d0d5cfb1ce278aa35a4d3d22af1036d"
+    },
+    {
+      "file": "results/plots/18_crime_trends_women_related.png",
+      "sha256": "fbf8cb2e381e1ad553894648fcf45ae1be7aad85ac0096c31411014d154fb384"
+    },
+    {
+      "file": "results/plots/19_crime_trends_property.png",
+      "sha256": "fd87eef0e1c0caaaef11422f7f148c281a37905c72532e8edb904300c4a3e9c5"
+    },
+    {
+      "file": "results/plots/20_crime_trends_fraud.png",
+      "sha256": "5c3dac1fa469e8e69ccc79c9232af86a7ca8f8b210bab49a044d11b14a09b579"
+    },
+    {
+      "file": "results/plots/21_crime_trends_other_selected.png",
+      "sha256": "ccae3df636299f11b3647c20cc916828e3a297c29c7b9a82f370226e74328b5d"
+    },
+    {
+      "file": "results/plots/22_crime_trends_murder.png",
+      "sha256": "f1df3327fbfcf2b04f8893d723124e0bbebfc3f249994e165bf667a737de1b1b"
+    },
+    {
+      "file": "results/plots/23_crime_rankings_women_related.png",
+      "sha256": "823575e77ddb9add5c9f39fb9781c17ab008f422f13e63ba9e4fdbea0eef2046"
+    },
+    {
+      "file": "results/plots/24_crime_rankings_property.png",
+      "sha256": "d61d8a983a9314dba9ee335042f1172b09637528b1fefdec601af9a30922f4b9"
+    },
+    {
+      "file": "results/plots/25_crime_rankings_fraud.png",
+      "sha256": "c56ca4394865fee297bfb06075d9517b47607919f637c7a9fc8d0502f4f94db0"
+    },
+    {
+      "file": "results/plots/26_crime_rankings_other_selected.png",
+      "sha256": "9221fd3e45c45f845fab108c12fbe4ceed05273bcb6ff545de633c706d2a35df"
+    },
+    {
+      "file": "results/plots/27_crime_rankings_murder.png",
+      "sha256": "aa8a766ca4eeffbe310d88bb1c2d4503b726d1a376a8323c0e5a8060bb978872"
+    },
+    {
+      "file": "results/plots/fp_growth/exploratory_rule_metrics.png",
+      "sha256": "8d5d313ea7bb2dce336655b6fb28d70da90b61649c5b0aeafc85e8e66abecab6"
+    },
+    {
+      "file": "results/plots/fp_growth/rule_count_sensitivity.png",
+      "sha256": "0178c1f1d0b0ad2d024edef27d8540119a30d47b6ea1f292857d2b38223c36f2"
+    },
+    {
+      "file": "results/plots/k_medoids/cluster_count_selection.png",
+      "sha256": "f384ac6aa6399b330189aee475f599c1ed5fc5c4283ec6febc64a79bda193480"
+    },
+    {
+      "file": "results/plots/k_medoids/cluster_feature_profiles.png",
+      "sha256": "abab07369e9fa7b14f2bdb2cf4132838759f76c70a4d6ffc5e641af9dc5d529e"
+    },
+    {
+      "file": "results/plots/k_medoids/occupancy_illiteracy_profiles.png",
+      "sha256": "d45f7d9f6c0464a225a3e20907859ad186a62a972f4c825b8db8789082d59970"
+    },
+    {
+      "file": "results/plots/k_medoids/silhouette_profiles.png",
+      "sha256": "85e48ccf9d9a3806a9409d61554ee7d369adf0593fb2ce1ff2178456875816c7"
+    },
+    {
+      "file": "results/plots/k_medoids/state_block_stability.png",
+      "sha256": "1dec52e9c7b656495256bea507d2458986f18055799c54273d5c2df648b04e16"
+    },
+    {
+      "file": "results/plots/mafia/exploratory_rule_metrics.png",
+      "sha256": "9e3496a762ccfc59e0e14b273b5fda09e6589a5298a5ee5573b3c165c565a0a3"
+    },
+    {
+      "file": "results/plots/mafia/frequent_vs_maximal.png",
+      "sha256": "70c53fb69c23fd0cb42b9b1e6c79a8cc1e41024e19263f26ae927a9b081c88e2"
+    },
+    {
+      "file": "results/plots/mafia/maximal_lengths.png",
+      "sha256": "110184a5c2bc6cc6f63ab7b42e660505c7d60af6734c02c9bd7532b628b56726"
+    },
+    {
+      "file": "results/plots/mafia/rule_family_coverage.png",
+      "sha256": "482432c877402fa3d29ffad523d16e452f093b08a0ef2fddb070317a3c1bf693"
+    },
+    {
+      "file": "results/plots/mafia/search_work_counters.png",
+      "sha256": "4aec27864aa71e53b276547f9e5a74eea1e6be25de60ca956dc2695a22317d79"
+    },
+    {
+      "file": "results/plots/plot_catalog.json",
+      "sha256": "25af3d78efe97607dfbbbb3241d3554631da1c6b7f5319d14a58fd58dfbb8646"
+    },
+    {
+      "file": "results/plots/spark_fp_growth/timing_repetitions.png",
+      "sha256": "95714f830d89f34ef79dea9694b2ed8b12438de44b9e69a69f44d27dc9d34f49"
+    },
+    {
+      "file": "results/plots/spark_fp_growth/warm_runtime_comparison.png",
+      "sha256": "f107025fce62ac7a510d4f24bb5230f5387fe210cd2340fc62808b1fa7271e9d"
+    },
+    {
+      "file": "results/plots/spark_k_medoids/objective_trace.png",
+      "sha256": "9ed83f3377a99be593be63ac4d28a80b7bd399b0b6ac7a77b95bdf247fd0ed5a"
+    },
+    {
+      "file": "results/plots/spark_k_medoids/runtime_comparison.png",
+      "sha256": "7da3a2cc5270efd0a8bab8273fc1bb9c26de1ec51bb83b030588ff1d6816f0ab"
+    },
+    {
+      "file": "results/tables/cleaning/quality_summary.csv",
+      "sha256": "099469a2145125efc506b96ca8e3c7d18370172259ac8e9226453c3a4d42561a"
+    },
+    {
+      "file": "results/tables/dataset_inventory.json",
+      "sha256": "809910f214ce8a25aa29b6e3c39daf0813711626a6e926c110db6a8002158aba"
+    },
+    {
+      "file": "results/tables/descriptive/correlations.csv",
+      "sha256": "b09ca24a26ce6fb0f5d9acd392deef2886575500b012954d4fe8a5a8d0606595"
+    },
+    {
+      "file": "results/tables/descriptive/demographic_year.csv",
+      "sha256": "f45f92e533b107047798056e44dd63cf2d0cfdde96a9ed7b9e833d1af45f5465"
+    },
+    {
+      "file": "results/tables/descriptive/latest_state_snapshot.csv",
+      "sha256": "30ca636591d92acd11b084dc63f3eb722d18b2103e70c2839898463668866027"
+    },
+    {
+      "file": "results/tables/descriptive/numeric_summary.csv",
+      "sha256": "9c81c4f938384fb03316e36d361d31d7103d6c3f1328f7c04e240f0fed5a9b0a"
+    },
+    {
+      "file": "results/tables/descriptive/year_summary_balanced.csv",
+      "sha256": "3ebe7980db0bc67fbe22ff27b89721d1e03db95a82846e2d1a1f9fed23357583"
+    },
+    {
+      "file": "results/tables/fp_growth/exploratory_rules.csv",
+      "sha256": "fc759422f456291ee9de5b70422a78dd315a9a0f3495f7b59eb1a29785ab9741"
+    },
+    {
+      "file": "results/tables/fp_growth/frequent_itemsets.csv",
+      "sha256": "61b74604ea9c07e2dd9b204043b86dfac039304b98e3bea06ee5b85b06f55e68"
+    },
+    {
+      "file": "results/tables/fp_growth/parameter_comparison.csv",
+      "sha256": "1c501a5cbd07e0216a87778d3a1c085535dabdb769d919326abdc706da226390"
+    },
+    {
+      "file": "results/tables/k_medoids/candidate_k_comparison.csv",
+      "sha256": "d93bb3e0832f887447787f34f5d66caec6c127ec96466d7acc2928d80d832108"
+    },
+    {
+      "file": "results/tables/k_medoids/cluster_assignments.csv",
+      "sha256": "008d2200e78e8f540cc7ce56c3f5e6369d26e34953b75228c20f12347bbba228"
+    },
+    {
+      "file": "results/tables/k_medoids/cluster_sizes.csv",
+      "sha256": "9ff1d5988134749d12348e5ea779349f825e292c0bf957c07b2713c032b7bfb7"
+    },
+    {
+      "file": "results/tables/k_medoids/medoids.csv",
+      "sha256": "6a6c293bf18e901d319937135aa5874d9e6e153a7d68e649f324896ade9bc478"
+    },
+    {
+      "file": "results/tables/k_medoids/run_summary.json",
+      "sha256": "dc234e50b9690f9a8c92146c7e010b7907ec0b2fb521c209e9632d3a02ea3c29"
+    },
+    {
+      "file": "results/tables/mafia/maximal_itemsets.csv",
+      "sha256": "6cbbbc5f6f95fe97d71086ce85e179f5326efc27189eccf2d1bc0e05316ccb97"
+    },
+    {
+      "file": "results/tables/mafia/maximal_s0p05.csv",
+      "sha256": "2124615b6e86aac9172606a26ee7edf73c95c2bb871a96036e5700b5a0939b3b"
+    },
+    {
+      "file": "results/tables/mafia/parameter_comparison.csv",
+      "sha256": "93f7fdf1433ad274676f08234086eab060be683550e0ba0830fdb2a57bd6dc94"
+    },
+    {
+      "file": "results/tables/mafia/pruning_ablation.csv",
+      "sha256": "5a441f870a5ea6749c3919b5a689ebca795e923408bbae882560df0288ff9af7"
+    },
+    {
+      "file": "results/tables/spark_k_medoids/equivalence.csv",
+      "sha256": "fd783d04be178ca9f323e6d89d92180694d3ea82cabcf52cf3337faea7bd21f8"
+    },
+    {
+      "file": "results/tables/transformation/parameters.json",
+      "sha256": "1a40312b5ff188167fdeae4283b1a6aaad80c0f1d7d09f9c822256c2d0e45ecd"
+    },
+    {
+      "file": "results/tables/visualization/14_sentence_indicator_rankings.csv",
+      "sha256": "0585dcfa7e6622ffac3c94bae26defcc3ed6d67390edcd440ddcae85d8971573"
+    },
+    {
+      "file": "results/tables/visualization/15_sentence_indicator_trends.csv",
+      "sha256": "b521e352d83a76f744edcaf8b0f520f4ea45c0b89880d801bb38a2b34bb43fd1"
+    },
+    {
+      "file": "results/tables/visualization/16_religion_education.csv",
+      "sha256": "598a58ace38622eefb81c5b28d5bc71aa1f6dd91766751f974d73a0d0fd1b804"
+    }
+  ],
+  "included_figures": [
+    "results/plots/01_bar.png",
+    "results/plots/09_dot.png",
+    "results/plots/05_line.png",
+    "results/plots/02_pie.png",
+    "results/plots/08_area.png",
+    "results/plots/03_histogram.png",
+    "results/plots/04_box.png",
+    "results/plots/06_scatter.png",
+    "results/plots/07_heatmap.png",
+    "results/plots/10_stem_leaf.png",
+    "results/plots/fp_growth/rule_count_sensitivity.png",
+    "results/plots/fp_growth/exploratory_rule_metrics.png",
+    "results/plots/k_medoids/cluster_count_selection.png",
+    "results/plots/k_medoids/cluster_feature_profiles.png",
+    "results/plots/k_medoids/occupancy_illiteracy_profiles.png",
+    "results/plots/k_medoids/silhouette_profiles.png",
+    "results/plots/k_medoids/state_block_stability.png",
+    "results/plots/mafia/frequent_vs_maximal.png",
+    "results/plots/mafia/maximal_lengths.png",
+    "results/plots/mafia/exploratory_rule_metrics.png",
+    "results/plots/mafia/rule_family_coverage.png",
+    "results/plots/mafia/search_work_counters.png",
+    "results/plots/spark_k_medoids/objective_trace.png",
+    "results/plots/spark_fp_growth/warm_runtime_comparison.png",
+    "results/plots/spark_fp_growth/timing_repetitions.png",
+    "results/plots/spark_k_medoids/runtime_comparison.png",
+    "results/plots/11_status_state_rankings.png",
+    "results/plots/12_status_demographics.png",
+    "results/plots/16_religion_education.png",
+    "results/plots/17_ipc_composition.png",
+    "results/plots/18_crime_trends_women_related.png",
+    "results/plots/19_crime_trends_property.png",
+    "results/plots/20_crime_trends_fraud.png",
+    "results/plots/21_crime_trends_other_selected.png",
+    "results/plots/22_crime_trends_murder.png",
+    "results/plots/23_crime_rankings_women_related.png",
+    "results/plots/24_crime_rankings_property.png",
+    "results/plots/25_crime_rankings_fraud.png",
+    "results/plots/26_crime_rankings_other_selected.png",
+    "results/plots/27_crime_rankings_murder.png",
+    "results/plots/14_sentence_indicator_rankings.png",
+    "results/plots/15_sentence_indicator_trends.png"
+  ],
+  "figure_count": 42,
+  "analysis_rerun_for_report": false,
+  "pdf_file": "report/India_Prison_Analytics_Report.pdf",
+  "pdf_sha256": "22535f7cb5f0e774f7eacd752f08dd7b4eff7d95f98f2ee5ebeab425b4bf920f",
+  "pdf_bytes": 8350030,
+  "pages": 91,
+  "table_count": 35,
+  "descriptive_figure_count": 26,
+  "algorithm_and_benchmark_figure_count": 16,
+  "author_details_verified": true,
+  "latex_overflow_warnings": 0,
+  "unresolved_references": 0,
+  "preserved_data_hashes_verified": 85,
+  "latex_sources_in_git": false,
+  "project_analysis_notebooks_rerun": false,
+  "final_project_compliance_audit_pending": true
+}

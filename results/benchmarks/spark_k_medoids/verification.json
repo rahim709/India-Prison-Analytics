@@ -1,0 +1,67 @@
+{
+  "tests_passed": 78,
+  "phase10_tests": 5,
+  "notebook_code_cells": 5,
+  "inline_generated_figures": 2,
+  "unchanged_input_files": 85,
+  "previous_output_hashes_verified": 106,
+  "real_initializations_verified": 2,
+  "measured_runs": 6,
+  "excluded_warmups": 2,
+  "worker_execution_verified": true,
+  "identical_timing_claim": false,
+  "source_sha256": "1611762e34b6af8c26579170e14da16d17a7e5b8b59e3780e45b07ecfa0bde70",
+  "images": [
+    {
+      "file": "results/plots/spark_k_medoids/objective_trace.png",
+      "sha256": "9ed83f3377a99be593be63ac4d28a80b7bd399b0b6ac7a77b95bdf247fd0ed5a",
+      "dimensions": [
+        3034,
+        1834
+      ],
+      "dpi": 300
+    },
+    {
+      "file": "results/plots/spark_k_medoids/runtime_comparison.png",
+      "sha256": "7da3a2cc5270efd0a8bab8273fc1bb9c26de1ec51bb83b030588ff1d6816f0ab",
+      "dimensions": [
+        3034,
+        1834
+      ],
+      "dpi": 300
+    }
+  ],
+  "output_hashes": [
+    {
+      "file": "results/tables/spark_k_medoids/cluster_assignments.csv",
+      "sha256": "b8f62e6588cc378d55010c3b2f66146206f72dde9f2e4cdc0c6fc1e3a0596f96"
+    },
+    {
+      "file": "results/tables/spark_k_medoids/equivalence.csv",
+      "sha256": "fd783d04be178ca9f323e6d89d92180694d3ea82cabcf52cf3337faea7bd21f8"
+    },
+    {
+      "file": "results/tables/spark_k_medoids/medoids.csv",
+      "sha256": "857a05a3b52673a2756dbbd63957519cdf4dfe5778ec41ed17cb2a3ec1b65b15"
+    },
+    {
+      "file": "results/tables/spark_k_medoids/objective_trace.csv",
+      "sha256": "a01ccb74f358b00e75e8f7ab45865aca93bc072ad7d5b2783a502297e73a129f"
+    },
+    {
+      "file": "results/benchmarks/spark_k_medoids/environment_and_protocol.json",
+      "sha256": "eff4d948b2e463c822e01cd74e3bd553511b36e13581bfcb967b5c5a218d9685"
+    },
+    {
+      "file": "results/benchmarks/spark_k_medoids/timing_runs.csv",
+      "sha256": "6ea3c528e08df23e18298585ca80e24708b532448e65a039bb564902a3a0437c"
+    },
+    {
+      "file": "results/benchmarks/spark_k_medoids/timing_summary.csv",
+      "sha256": "e539531999074a3464aed7e0a4b24c232ed3478b209e22e0398c9fad0c181a08"
+    }
+  ],
+  "logging_configuration_sha256": "2c9aa4b0cc757650388c5ff5cd2e4ede23f656aeb7698254785fe23e391dafdc",
+  "routine_startup_logs_and_progress_disabled": true,
+  "plot_layout_refreshed_from_saved_measurements": true
+}

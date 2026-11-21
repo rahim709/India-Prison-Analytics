@@ -1,0 +1,181 @@
+{
+  "profiles": 437,
+  "features": [
+    "occupancy_ratio",
+    "undertrial_share",
+    "female_share",
+    "age_18_30_share",
+    "illiterate_share"
+  ],
+  "distance": "cityblock",
+  "selected_k": 2,
+  "k_candidates": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "primary_metric_fixed_before_analysis": true,
+  "selection": "best silhouette among primary-metric solutions with every cluster >= ceil(0.05*n); objective-best of five starts per candidate",
+  "minimum_cluster_size": 22,
+  "silhouette": 0.17447707939550836,
+  "unrestricted_primary_best_k": 7,
+  "unrestricted_primary_silhouette": 0.18756242372083257,
+  "unrestricted_primary_min_cluster_size": 18,
+  "eligible_euclidean_best_k": 7,
+  "eligible_euclidean_best_silhouette": 0.1816653878776182,
+  "objective": 1459.8623650936202,
+  "objective_per_profile": 3.3406461443789937,
+  "swaps": 1,
+  "converged": true,
+  "tol": 1e-10,
+  "max_iter": 100,
+  "random_seeds": [
+    42,
+    43,
+    44,
+    45
+  ],
+  "initialization_runs": 70,
+  "selected_start_mean_ari": 0.32984575327902826,
+  "selected_start_min_ari": 0.06609052022996965,
+  "negative_silhouette_profiles": 23,
+  "euclidean_same_k_ari": 0.8668024475223199,
+  "state_block_stability_mean_ari": 0.38518120825462765,
+  "state_block_stability_min_ari": 0.0691922647841026,
+  "state_block_stability_max_ari": 1.0,
+  "state_block_seeds": [
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "state_block_scope": "retain 80% of jurisdictions without replacement, fixed cohort scaling, BUILD plus two random starts; overlap ARI is descriptive sensitivity, not held-out accuracy",
+  "medoid_profile_ids": [
+    "Kerala|2002",
+    "Jharkhand|2007"
+  ],
+  "initial_medoid_profile_ids": [
+    "Jharkhand|2007",
+    "Rajasthan|2011"
+  ],
+  "exact_swap_validation": true,
+  "best_remaining_swap_improvement": 0.0,
+  "algorithm": "PAM greedy BUILD plus exhaustive globally best improving one-medoid SWAP; random starts also use the same SWAP stage",
+  "tie_policy": "sorted profile IDs; candidate/removed-index order within tolerance; medoids represent themselves for zero-distance assignment ties; final cluster IDs follow medoid occupancy",
+  "python": "3.14.4",
+  "numpy": "2.5.5",
+  "pandas": "3.1.1",
+  "sklearn": "1.9.1",
+  "upstream_transformed_hashes": [
+    {
+      "file": "profile_counts.csv",
+      "rows": 437,
+      "format": "csv",
+      "dtypes": {
+        "profile_id": "str",
+        "state": "object",
+        "year": "Int64",
+        "total_prisoners": "Int64",
+        "total_capacity": "Int64",
+        "female_prisoners": "Int64",
+        "undertrial_prisoners": "Int64",
+        "age_18_30_count": "Int64",
+        "illiterate_count": "Int64"
+      },
+      "sha256": "0222d31e23c1d4222e21b405108e1ae316408d56f2823b73ea4b507ee8cad27c"
+    },
+    {
+      "file": "profile_features.csv",
+      "rows": 437,
+      "format": "csv",
+      "dtypes": {
+        "profile_id": "str",
+        "state": "object",
+        "year": "Int64",
+        "occupancy_ratio": "float64",
+        "undertrial_share": "float64",
+        "female_share": "float64",
+        "age_18_30_share": "float64",
+        "illiterate_share": "float64"
+      },
+      "sha256": "6544333262b3b2bbcd8bb3b0d1410b7a1846dfc89de00ef390effa5158fb6e14"
+    },
+    {
+      "file": "clustering_features.csv",
+      "rows": 437,
+      "format": "csv",
+      "dtypes": {
+        "profile_id": "str",
+        "occupancy_ratio": "float64",
+        "undertrial_share": "float64",
+        "female_share": "float64",
+        "age_18_30_share": "float64",
+        "illiterate_share": "float64"
+      },
+      "sha256": "1a92b3652e344183f4bb7275890fc3f8b835547bdd58989d80f3c803ffb6c81d"
+    },
+    {
+      "file": "discretized_profiles.csv",
+      "rows": 437,
+      "format": "csv",
+      "dtypes": {
+        "profile_id": "str",
+        "state": "object",
+        "year": "Int64",
+        "occupancy_ratio_bin": "str",
+        "undertrial_share_bin": "str",
+        "female_share_bin": "str",
+        "age_18_30_share_bin": "str",
+        "illiterate_share_bin": "str"
+      },
+      "sha256": "14e9e4a9bc1b41f456139fe3248aee33ac1295cc154fee1ce4e8691fbbf8d375"
+    },
+    {
+      "file": "transactions_onehot.csv",
+      "rows": 437,
+      "format": "csv",
+      "dtypes": {
+        "profile_id": "str",
+        "age_18_30_share=lower_tertile": "bool",
+        "age_18_30_share=middle_tertile": "bool",
+        "age_18_30_share=upper_tertile": "bool",
+        "female_share=lower_tertile": "bool",
+        "female_share=middle_tertile": "bool",
+        "female_share=upper_tertile": "bool",
+        "illiterate_share=lower_tertile": "bool",
+        "illiterate_share=middle_tertile": "bool",
+        "illiterate_share=upper_tertile": "bool",
+        "occupancy_ratio=over_100_to_150pct": "bool",
+        "occupancy_ratio=over_150pct": "bool",
+        "occupancy_ratio=within_capacity": "bool",
+        "undertrial_share=lower_tertile": "bool",
+        "undertrial_share=middle_tertile": "bool",
+        "undertrial_share=upper_tertile": "bool"
+      },
+      "sha256": "fb2886136b46bd0c776b977d43ab7f4e235fe700ebae510edc87d5e04bb34181"
+    },
+    {
+      "file": "transactions.jsonl",
+      "rows": 437,
+      "format": "jsonl",
+      "sha256": "5275f19c8e773da03a52f2da8b07fd3c1d0ef66390d3093e7f1dbe51251057f1"
+    },
+    {
+      "file": "spark_profiles.jsonl",
+      "rows": 437,
+      "format": "jsonl",
+      "sha256": "2cbd1be1beb42951c46d269772b678c1ef8d5afd43e11367d4d906cba481012a"
+    }
+  ],
+  "limitations": "local optimum only; fixed-cohort preprocessing; repeated state-years; internal validation rather than predictive accuracy"
+}

@@ -1,0 +1,1789 @@
+source_record,state_name,year,detail,male,female,total
+2,Andhra Pradesh,2001,Escapees from Inside Prison,13,0,13
+3,Andhra Pradesh,2001,Escapees from Outside Prison,3,0,3
+4,Andhra Pradesh,2001,Escapees from Police Custody,20,0,20
+5,Andhra Pradesh,2001,Re-arrested escapees,20,0,20
+6,Andhra Pradesh,2002,Escapees from Inside Prison,6,0,6
+7,Andhra Pradesh,2002,Escapees from Outside Prison,4,0,4
+8,Andhra Pradesh,2002,Escapees from Police Custody,32,1,33
+9,Andhra Pradesh,2002,Re-arrested escapees,19,1,20
+10,Andhra Pradesh,2003,Escapees from Inside Prison,10,0,10
+11,Andhra Pradesh,2003,Escapees from Outside Prison,5,0,5
+12,Andhra Pradesh,2003,Escapees from Police Custody,26,1,27
+13,Andhra Pradesh,2003,Re-arrested escapees,28,0,28
+14,Andhra Pradesh,2004,Escapees from Inside Prison,9,0,9
+15,Andhra Pradesh,2004,Escapees from Outside Prison,3,0,3
+16,Andhra Pradesh,2004,Escapees from Police Custody,28,3,31
+17,Andhra Pradesh,2004,Re-arrested escapees,21,2,23
+18,Andhra Pradesh,2005,Escapees from Inside Prison,8,0,8
+19,Andhra Pradesh,2005,Escapees from Outside Prison,2,0,2
+20,Andhra Pradesh,2005,Escapees from Police Custody,34,1,35
+21,Andhra Pradesh,2005,Re-arrested escapees,26,1,27
+22,Andhra Pradesh,2006,Escapees from Inside Prison,12,0,12
+23,Andhra Pradesh,2006,Escapees from Outside Prison,0,0,0
+24,Andhra Pradesh,2006,Escapees from Police Custody,59,0,59
+25,Andhra Pradesh,2006,Re-arrested escapees,29,0,29
+26,Andhra Pradesh,2007,Escapees from Inside Prison,16,0,16
+27,Andhra Pradesh,2007,Escapees from Outside Prison,0,0,0
+28,Andhra Pradesh,2007,Escapees from Police Custody,51,0,51
+29,Andhra Pradesh,2007,Re-arrested escapees,18,0,18
+30,Andhra Pradesh,2008,Escapees from Inside Prison,11,0,11
+31,Andhra Pradesh,2008,Escapees from Outside Prison,0,0,0
+32,Andhra Pradesh,2008,Escapees from Police Custody,52,0,52
+33,Andhra Pradesh,2008,Re-arrested escapees,16,0,16
+34,Andhra Pradesh,2009,Escapees from Inside Prison,12,0,12
+35,Andhra Pradesh,2009,Escapees from Outside Prison,1,0,1
+36,Andhra Pradesh,2009,Escapees from Police Custody,41,1,42
+37,Andhra Pradesh,2009,Re-arrested escapees,20,1,21
+38,Andhra Pradesh,2010,Escapees from Inside Prison,10,0,10
+39,Andhra Pradesh,2010,Escapees from Outside Prison,9,0,9
+40,Andhra Pradesh,2010,Escapees from Police Custody,36,0,36
+41,Andhra Pradesh,2010,Re-arrested escapees,29,0,29
+42,Andhra Pradesh,2011,Escapees from Inside Prison,7,0,7
+43,Andhra Pradesh,2011,Escapees from Outside Prison,4,0,4
+44,Andhra Pradesh,2011,Escapees from Police Custody,31,0,31
+45,Andhra Pradesh,2011,Re-arrested escapees,22,0,22
+46,Andhra Pradesh,2012,Escapees from Inside Prison,1,0,1
+47,Andhra Pradesh,2012,Escapees from Outside Prison,11,0,11
+48,Andhra Pradesh,2012,Escapees from Police Custody,28,0,28
+49,Andhra Pradesh,2012,Re-arrested escapees,9,0,9
+50,Arunachal Pradesh,2009,Escapees from Inside Prison,0,0,0
+51,Arunachal Pradesh,2009,Escapees from Outside Prison,0,0,0
+52,Arunachal Pradesh,2009,Escapees from Police Custody,0,0,0
+53,Arunachal Pradesh,2009,Re-arrested escapees,0,0,0
+54,Arunachal Pradesh,2010,Escapees from Inside Prison,0,0,0
+55,Arunachal Pradesh,2010,Escapees from Outside Prison,0,0,0
+56,Arunachal Pradesh,2010,Escapees from Police Custody,0,0,0
+57,Arunachal Pradesh,2010,Re-arrested escapees,0,0,0
+58,Arunachal Pradesh,2011,Escapees from Inside Prison,0,0,0
+59,Arunachal Pradesh,2011,Escapees from Outside Prison,0,0,0
+60,Arunachal Pradesh,2011,Escapees from Police Custody,0,0,0
+61,Arunachal Pradesh,2011,Re-arrested escapees,0,0,0
+62,Arunachal Pradesh,2012,Escapees from Inside Prison,3,0,3
+63,Arunachal Pradesh,2012,Escapees from Outside Prison,0,0,0
+64,Arunachal Pradesh,2012,Escapees from Police Custody,0,0,0
+65,Arunachal Pradesh,2012,Re-arrested escapees,0,0,0
+66,Assam,2001,Escapees from Inside Prison,2,0,2
+67,Assam,2001,Escapees from Outside Prison,3,0,3
+68,Assam,2001,Escapees from Police Custody,5,0,5
+69,Assam,2001,Re-arrested escapees,0,0,0
+70,Assam,2002,Escapees from Inside Prison,6,0,6
+71,Assam,2002,Escapees from Outside Prison,3,0,3
+72,Assam,2002,Escapees from Police Custody,6,0,6
+73,Assam,2002,Re-arrested escapees,0,0,0
+74,Assam,2003,Escapees from Inside Prison,4,0,4
+75,Assam,2003,Escapees from Outside Prison,6,0,6
+76,Assam,2003,Escapees from Police Custody,2,0,2
+77,Assam,2003,Re-arrested escapees,0,0,0
+78,Assam,2004,Escapees from Inside Prison,2,0,2
+79,Assam,2004,Escapees from Outside Prison,2,0,2
+80,Assam,2004,Escapees from Police Custody,5,0,5
+81,Assam,2004,Re-arrested escapees,7,0,7
+82,Assam,2005,Escapees from Inside Prison,15,0,15
+83,Assam,2005,Escapees from Outside Prison,6,0,6
+84,Assam,2005,Escapees from Police Custody,14,0,14
+85,Assam,2005,Re-arrested escapees,0,0,0
+86,Assam,2006,Escapees from Inside Prison,6,0,6
+87,Assam,2006,Escapees from Outside Prison,0,3,3
+88,Assam,2006,Escapees from Police Custody,4,0,4
+89,Assam,2006,Re-arrested escapees,0,0,0
+90,Assam,2007,Escapees from Inside Prison,7,0,7
+91,Assam,2007,Escapees from Outside Prison,5,0,5
+92,Assam,2007,Escapees from Police Custody,5,0,5
+93,Assam,2007,Re-arrested escapees,0,0,0
+94,Assam,2008,Escapees from Inside Prison,3,0,3
+95,Assam,2008,Escapees from Outside Prison,2,0,2
+96,Assam,2008,Escapees from Police Custody,5,0,5
+97,Assam,2008,Re-arrested escapees,0,0,0
+98,Assam,2009,Escapees from Inside Prison,3,0,3
+99,Assam,2009,Escapees from Outside Prison,2,0,2
+100,Assam,2009,Escapees from Police Custody,3,1,4
+101,Assam,2009,Re-arrested escapees,2,0,2
+102,Assam,2010,Escapees from Inside Prison,3,0,3
+103,Assam,2010,Escapees from Outside Prison,5,0,5
+104,Assam,2010,Escapees from Police Custody,4,1,5
+105,Assam,2010,Re-arrested escapees,2,0,2
+106,Assam,2011,Escapees from Inside Prison,5,0,5
+107,Assam,2011,Escapees from Outside Prison,6,0,6
+108,Assam,2011,Escapees from Police Custody,4,1,5
+109,Assam,2011,Re-arrested escapees,5,0,5
+110,Assam,2012,Escapees from Inside Prison,6,0,6
+111,Assam,2012,Escapees from Outside Prison,5,0,5
+112,Assam,2012,Escapees from Police Custody,3,1,4
+113,Assam,2012,Re-arrested escapees,3,0,3
+114,Bihar,2001,Escapees from Inside Prison,28,1,29
+115,Bihar,2001,Escapees from Outside Prison,0,0,0
+116,Bihar,2001,Escapees from Police Custody,1,0,1
+117,Bihar,2001,Re-arrested escapees,0,0,0
+118,Bihar,2002,Escapees from Inside Prison,39,0,39
+119,Bihar,2002,Escapees from Outside Prison,34,0,34
+120,Bihar,2002,Escapees from Police Custody,27,0,27
+121,Bihar,2002,Re-arrested escapees,0,0,0
+122,Bihar,2003,Escapees from Inside Prison,0,0,0
+123,Bihar,2003,Escapees from Outside Prison,0,0,0
+124,Bihar,2003,Escapees from Police Custody,1,0,1
+125,Bihar,2003,Re-arrested escapees,0,0,0
+126,Bihar,2004,Escapees from Inside Prison,43,0,43
+127,Bihar,2004,Escapees from Outside Prison,1,0,1
+128,Bihar,2004,Escapees from Police Custody,58,1,59
+129,Bihar,2004,Re-arrested escapees,0,0,0
+130,Bihar,2005,Escapees from Inside Prison,22,0,22
+131,Bihar,2005,Escapees from Outside Prison,0,0,0
+132,Bihar,2005,Escapees from Police Custody,69,0,69
+133,Bihar,2005,Re-arrested escapees,7,0,7
+134,Bihar,2006,Escapees from Inside Prison,19,0,19
+135,Bihar,2006,Escapees from Outside Prison,0,0,0
+136,Bihar,2006,Escapees from Police Custody,22,0,22
+137,Bihar,2006,Re-arrested escapees,6,0,6
+138,Bihar,2007,Escapees from Inside Prison,4,0,4
+139,Bihar,2007,Escapees from Outside Prison,0,0,0
+140,Bihar,2007,Escapees from Police Custody,36,0,36
+141,Bihar,2007,Re-arrested escapees,2,0,2
+142,Bihar,2008,Escapees from Inside Prison,24,0,24
+143,Bihar,2008,Escapees from Outside Prison,0,0,0
+144,Bihar,2008,Escapees from Police Custody,36,0,36
+145,Bihar,2008,Re-arrested escapees,0,0,0
+146,Bihar,2009,Escapees from Inside Prison,15,0,15
+147,Bihar,2009,Escapees from Outside Prison,1,0,1
+148,Bihar,2009,Escapees from Police Custody,40,0,40
+149,Bihar,2009,Re-arrested escapees,1,0,1
+150,Bihar,2010,Escapees from Inside Prison,0,0,0
+151,Bihar,2010,Escapees from Outside Prison,2,0,2
+152,Bihar,2010,Escapees from Police Custody,21,0,21
+153,Bihar,2010,Re-arrested escapees,0,0,0
+154,Bihar,2011,Escapees from Inside Prison,8,0,8
+155,Bihar,2011,Escapees from Outside Prison,7,1,8
+156,Bihar,2011,Escapees from Police Custody,4,1,5
+157,Bihar,2011,Re-arrested escapees,4,0,4
+158,Bihar,2012,Escapees from Inside Prison,0,0,0
+159,Bihar,2012,Escapees from Outside Prison,9,4,13
+160,Bihar,2012,Escapees from Police Custody,4,3,7
+161,Bihar,2012,Re-arrested escapees,3,0,3
+162,Chhattisgarh,2012,Escapees from Inside Prison,6,0,6
+163,Chhattisgarh,2012,Escapees from Outside Prison,1,0,1
+164,Chhattisgarh,2012,Escapees from Police Custody,20,0,20
+165,Chhattisgarh,2012,Re-arrested escapees,16,0,16
+166,Chhattisgarh,2001,Escapees from Inside Prison,0,0,0
+167,Chhattisgarh,2001,Escapees from Outside Prison,6,0,6
+168,Chhattisgarh,2001,Escapees from Police Custody,3,0,3
+169,Chhattisgarh,2001,Re-arrested escapees,0,0,0
+170,Chhattisgarh,2002,Escapees from Inside Prison,3,0,3
+171,Chhattisgarh,2002,Escapees from Outside Prison,3,0,3
+172,Chhattisgarh,2002,Escapees from Police Custody,25,0,25
+173,Chhattisgarh,2002,Re-arrested escapees,1,0,1
+174,Chhattisgarh,2003,Escapees from Inside Prison,0,0,0
+175,Chhattisgarh,2003,Escapees from Outside Prison,1,0,1
+176,Chhattisgarh,2003,Escapees from Police Custody,13,0,13
+177,Chhattisgarh,2003,Re-arrested escapees,4,0,4
+178,Chhattisgarh,2004,Escapees from Inside Prison,4,0,4
+179,Chhattisgarh,2004,Escapees from Outside Prison,3,0,3
+180,Chhattisgarh,2004,Escapees from Police Custody,8,0,8
+181,Chhattisgarh,2004,Re-arrested escapees,0,0,0
+182,Chhattisgarh,2005,Escapees from Inside Prison,0,0,0
+183,Chhattisgarh,2005,Escapees from Outside Prison,5,0,5
+184,Chhattisgarh,2005,Escapees from Police Custody,22,0,22
+185,Chhattisgarh,2005,Re-arrested escapees,8,0,8
+186,Chhattisgarh,2006,Escapees from Inside Prison,2,0,2
+187,Chhattisgarh,2006,Escapees from Outside Prison,9,0,9
+188,Chhattisgarh,2006,Escapees from Police Custody,9,0,9
+189,Chhattisgarh,2006,Re-arrested escapees,0,0,0
+190,Chhattisgarh,2007,Escapees from Inside Prison,319,0,319
+191,Chhattisgarh,2007,Escapees from Outside Prison,11,0,11
+192,Chhattisgarh,2007,Escapees from Police Custody,18,0,18
+193,Chhattisgarh,2007,Re-arrested escapees,0,0,0
+194,Chhattisgarh,2008,Escapees from Inside Prison,1,1,2
+195,Chhattisgarh,2008,Escapees from Outside Prison,5,2,7
+196,Chhattisgarh,2008,Escapees from Police Custody,9,0,9
+197,Chhattisgarh,2008,Re-arrested escapees,3,1,4
+198,Chhattisgarh,2009,Escapees from Inside Prison,0,0,0
+199,Chhattisgarh,2009,Escapees from Outside Prison,7,1,8
+200,Chhattisgarh,2009,Escapees from Police Custody,17,0,17
+201,Chhattisgarh,2009,Re-arrested escapees,9,0,9
+202,Chhattisgarh,2010,Escapees from Inside Prison,2,0,2
+203,Chhattisgarh,2010,Escapees from Outside Prison,1,0,1
+204,Chhattisgarh,2010,Escapees from Police Custody,14,0,14
+205,Chhattisgarh,2010,Re-arrested escapees,5,0,5
+206,Chhattisgarh,2011,Escapees from Inside Prison,2,0,2
+207,Chhattisgarh,2011,Escapees from Outside Prison,3,0,3
+208,Chhattisgarh,2011,Escapees from Police Custody,8,0,8
+209,Chhattisgarh,2011,Re-arrested escapees,3,0,3
+210,Goa,2001,Escapees from Inside Prison,2,0,2
+211,Goa,2001,Escapees from Outside Prison,1,0,1
+212,Goa,2001,Escapees from Police Custody,0,0,0
+213,Goa,2001,Re-arrested escapees,0,0,0
+214,Goa,2002,Escapees from Inside Prison,3,0,3
+215,Goa,2002,Escapees from Outside Prison,3,0,3
+216,Goa,2002,Escapees from Police Custody,0,0,0
+217,Goa,2002,Re-arrested escapees,0,0,0
+218,Goa,2003,Escapees from Inside Prison,1,0,1
+219,Goa,2003,Escapees from Outside Prison,0,0,0
+220,Goa,2003,Escapees from Police Custody,0,0,0
+221,Goa,2003,Re-arrested escapees,0,0,0
+222,Goa,2004,Escapees from Inside Prison,0,0,0
+223,Goa,2004,Escapees from Outside Prison,0,0,0
+224,Goa,2004,Escapees from Police Custody,0,0,0
+225,Goa,2004,Re-arrested escapees,0,0,0
+226,Goa,2005,Escapees from Inside Prison,4,0,4
+227,Goa,2005,Escapees from Outside Prison,0,0,0
+228,Goa,2005,Escapees from Police Custody,0,0,0
+229,Goa,2005,Re-arrested escapees,1,0,1
+230,Goa,2006,Escapees from Inside Prison,8,0,8
+231,Goa,2006,Escapees from Outside Prison,0,0,0
+232,Goa,2006,Escapees from Police Custody,1,0,1
+233,Goa,2006,Re-arrested escapees,0,0,0
+234,Goa,2007,Escapees from Inside Prison,14,0,14
+235,Goa,2007,Escapees from Outside Prison,0,0,0
+236,Goa,2007,Escapees from Police Custody,0,0,0
+237,Goa,2007,Re-arrested escapees,0,0,0
+238,Goa,2008,Escapees from Inside Prison,1,0,1
+239,Goa,2008,Escapees from Outside Prison,0,0,0
+240,Goa,2008,Escapees from Police Custody,0,0,0
+241,Goa,2008,Re-arrested escapees,0,0,0
+242,Goa,2009,Escapees from Inside Prison,0,0,0
+243,Goa,2009,Escapees from Outside Prison,0,0,0
+244,Goa,2009,Escapees from Police Custody,0,0,0
+245,Goa,2009,Re-arrested escapees,0,0,0
+246,Goa,2010,Escapees from Inside Prison,3,0,3
+247,Goa,2010,Escapees from Outside Prison,0,0,0
+248,Goa,2010,Escapees from Police Custody,4,0,4
+249,Goa,2010,Re-arrested escapees,2,0,2
+250,Goa,2011,Escapees from Inside Prison,0,0,0
+251,Goa,2011,Escapees from Outside Prison,0,0,0
+252,Goa,2011,Escapees from Police Custody,3,0,3
+253,Goa,2011,Re-arrested escapees,0,0,0
+254,Goa,2012,Escapees from Inside Prison,0,0,0
+255,Goa,2012,Escapees from Outside Prison,0,0,0
+256,Goa,2012,Escapees from Police Custody,0,0,0
+257,Goa,2012,Re-arrested escapees,1,0,1
+258,Gujarat,2001,Escapees from Inside Prison,8,0,8
+259,Gujarat,2001,Escapees from Outside Prison,4,0,4
+260,Gujarat,2001,Escapees from Police Custody,25,0,25
+261,Gujarat,2001,Re-arrested escapees,4,0,4
+262,Gujarat,2002,Escapees from Inside Prison,1,0,1
+263,Gujarat,2002,Escapees from Outside Prison,0,0,0
+264,Gujarat,2002,Escapees from Police Custody,13,0,13
+265,Gujarat,2002,Re-arrested escapees,0,0,0
+266,Gujarat,2003,Escapees from Inside Prison,3,0,3
+267,Gujarat,2003,Escapees from Outside Prison,1,0,1
+268,Gujarat,2003,Escapees from Police Custody,34,0,34
+269,Gujarat,2003,Re-arrested escapees,0,0,0
+270,Gujarat,2004,Escapees from Inside Prison,0,0,0
+271,Gujarat,2004,Escapees from Outside Prison,9,0,9
+272,Gujarat,2004,Escapees from Police Custody,18,0,18
+273,Gujarat,2004,Re-arrested escapees,4,0,4
+274,Gujarat,2005,Escapees from Inside Prison,3,0,3
+275,Gujarat,2005,Escapees from Outside Prison,13,0,13
+276,Gujarat,2005,Escapees from Police Custody,16,0,16
+277,Gujarat,2005,Re-arrested escapees,7,0,7
+278,Gujarat,2006,Escapees from Inside Prison,4,0,4
+279,Gujarat,2006,Escapees from Outside Prison,5,0,5
+280,Gujarat,2006,Escapees from Police Custody,19,1,20
+281,Gujarat,2006,Re-arrested escapees,5,0,5
+282,Gujarat,2007,Escapees from Inside Prison,1,0,1
+283,Gujarat,2007,Escapees from Outside Prison,5,0,5
+284,Gujarat,2007,Escapees from Police Custody,17,0,17
+285,Gujarat,2007,Re-arrested escapees,7,0,7
+286,Gujarat,2008,Escapees from Inside Prison,0,0,0
+287,Gujarat,2008,Escapees from Outside Prison,23,1,24
+288,Gujarat,2008,Escapees from Police Custody,27,1,28
+289,Gujarat,2008,Re-arrested escapees,40,0,40
+290,Gujarat,2009,Escapees from Inside Prison,1,0,1
+291,Gujarat,2009,Escapees from Outside Prison,0,0,0
+292,Gujarat,2009,Escapees from Police Custody,35,1,36
+293,Gujarat,2009,Re-arrested escapees,26,1,27
+294,Gujarat,2010,Escapees from Inside Prison,0,0,0
+295,Gujarat,2010,Escapees from Outside Prison,0,0,0
+296,Gujarat,2010,Escapees from Police Custody,43,1,44
+297,Gujarat,2010,Re-arrested escapees,30,0,30
+298,Gujarat,2011,Escapees from Inside Prison,7,0,7
+299,Gujarat,2011,Escapees from Outside Prison,2,0,2
+300,Gujarat,2011,Escapees from Police Custody,16,0,16
+301,Gujarat,2011,Re-arrested escapees,6,0,6
+302,Gujarat,2012,Escapees from Inside Prison,1,0,1
+303,Gujarat,2012,Escapees from Outside Prison,10,0,10
+304,Gujarat,2012,Escapees from Police Custody,17,0,17
+305,Gujarat,2012,Re-arrested escapees,7,0,7
+306,Haryana,2001,Escapees from Inside Prison,0,0,0
+307,Haryana,2001,Escapees from Outside Prison,2,0,2
+308,Haryana,2001,Escapees from Police Custody,7,0,7
+309,Haryana,2001,Re-arrested escapees,2,0,2
+310,Haryana,2002,Escapees from Inside Prison,0,0,0
+311,Haryana,2002,Escapees from Outside Prison,0,0,0
+312,Haryana,2002,Escapees from Police Custody,0,0,0
+313,Haryana,2002,Re-arrested escapees,0,0,0
+314,Haryana,2003,Escapees from Inside Prison,10,0,10
+315,Haryana,2003,Escapees from Outside Prison,2,0,2
+316,Haryana,2003,Escapees from Police Custody,2,0,2
+317,Haryana,2003,Re-arrested escapees,0,0,0
+318,Haryana,2004,Escapees from Inside Prison,0,0,0
+319,Haryana,2004,Escapees from Outside Prison,1,0,1
+320,Haryana,2004,Escapees from Police Custody,11,0,11
+321,Haryana,2004,Re-arrested escapees,0,0,0
+322,Haryana,2005,Escapees from Inside Prison,1,0,1
+323,Haryana,2005,Escapees from Outside Prison,0,0,0
+324,Haryana,2005,Escapees from Police Custody,12,0,12
+325,Haryana,2005,Re-arrested escapees,0,0,0
+326,Haryana,2006,Escapees from Inside Prison,1,0,1
+327,Haryana,2006,Escapees from Outside Prison,0,0,0
+328,Haryana,2006,Escapees from Police Custody,16,0,16
+329,Haryana,2006,Re-arrested escapees,4,0,4
+330,Haryana,2007,Escapees from Inside Prison,1,0,1
+331,Haryana,2007,Escapees from Outside Prison,1,0,1
+332,Haryana,2007,Escapees from Police Custody,7,0,7
+333,Haryana,2007,Re-arrested escapees,1,0,1
+334,Haryana,2008,Escapees from Inside Prison,0,0,0
+335,Haryana,2008,Escapees from Outside Prison,0,0,0
+336,Haryana,2008,Escapees from Police Custody,5,0,5
+337,Haryana,2008,Re-arrested escapees,2,0,2
+338,Haryana,2009,Escapees from Inside Prison,4,0,4
+339,Haryana,2009,Escapees from Outside Prison,0,0,0
+340,Haryana,2009,Escapees from Police Custody,13,0,13
+341,Haryana,2009,Re-arrested escapees,2,0,2
+342,Haryana,2010,Escapees from Inside Prison,0,0,0
+343,Haryana,2010,Escapees from Outside Prison,1,0,1
+344,Haryana,2010,Escapees from Police Custody,36,0,36
+345,Haryana,2010,Re-arrested escapees,19,0,19
+346,Haryana,2011,Escapees from Inside Prison,0,0,0
+347,Haryana,2011,Escapees from Outside Prison,0,0,0
+348,Haryana,2011,Escapees from Police Custody,24,0,24
+349,Haryana,2011,Re-arrested escapees,3,0,3
+350,Haryana,2012,Escapees from Inside Prison,8,0,8
+351,Haryana,2012,Escapees from Outside Prison,2,0,2
+352,Haryana,2012,Escapees from Police Custody,5,0,5
+353,Haryana,2012,Re-arrested escapees,5,0,5
+354,Himachal Pradesh,2001,Escapees from Inside Prison,4,0,4
+355,Himachal Pradesh,2001,Escapees from Outside Prison,0,0,0
+356,Himachal Pradesh,2001,Escapees from Police Custody,4,0,4
+357,Himachal Pradesh,2001,Re-arrested escapees,0,0,0
+358,Himachal Pradesh,2002,Escapees from Inside Prison,7,0,7
+359,Himachal Pradesh,2002,Escapees from Outside Prison,0,0,0
+360,Himachal Pradesh,2002,Escapees from Police Custody,4,0,4
+361,Himachal Pradesh,2002,Re-arrested escapees,3,0,3
+362,Himachal Pradesh,2003,Escapees from Inside Prison,0,0,0
+363,Himachal Pradesh,2003,Escapees from Outside Prison,3,0,3
+364,Himachal Pradesh,2003,Escapees from Police Custody,9,0,9
+365,Himachal Pradesh,2003,Re-arrested escapees,6,0,6
+366,Himachal Pradesh,2004,Escapees from Inside Prison,1,0,1
+367,Himachal Pradesh,2004,Escapees from Outside Prison,0,0,0
+368,Himachal Pradesh,2004,Escapees from Police Custody,9,0,9
+369,Himachal Pradesh,2004,Re-arrested escapees,0,0,0
+370,Himachal Pradesh,2005,Escapees from Inside Prison,1,0,1
+371,Himachal Pradesh,2005,Escapees from Outside Prison,0,0,0
+372,Himachal Pradesh,2005,Escapees from Police Custody,9,0,9
+373,Himachal Pradesh,2005,Re-arrested escapees,5,0,5
+374,Himachal Pradesh,2006,Escapees from Inside Prison,0,0,0
+375,Himachal Pradesh,2006,Escapees from Outside Prison,0,0,0
+376,Himachal Pradesh,2006,Escapees from Police Custody,5,0,5
+377,Himachal Pradesh,2006,Re-arrested escapees,0,0,0
+378,Himachal Pradesh,2007,Escapees from Inside Prison,0,0,0
+379,Himachal Pradesh,2007,Escapees from Outside Prison,0,0,0
+380,Himachal Pradesh,2007,Escapees from Police Custody,3,0,3
+381,Himachal Pradesh,2007,Re-arrested escapees,0,0,0
+382,Himachal Pradesh,2008,Escapees from Inside Prison,0,0,0
+383,Himachal Pradesh,2008,Escapees from Outside Prison,0,0,0
+384,Himachal Pradesh,2008,Escapees from Police Custody,2,0,2
+385,Himachal Pradesh,2008,Re-arrested escapees,1,0,1
+386,Himachal Pradesh,2009,Escapees from Inside Prison,0,0,0
+387,Himachal Pradesh,2009,Escapees from Outside Prison,0,0,0
+388,Himachal Pradesh,2009,Escapees from Police Custody,3,0,3
+389,Himachal Pradesh,2009,Re-arrested escapees,2,0,2
+390,Himachal Pradesh,2010,Escapees from Inside Prison,1,0,1
+391,Himachal Pradesh,2010,Escapees from Outside Prison,0,0,0
+392,Himachal Pradesh,2010,Escapees from Police Custody,5,0,5
+393,Himachal Pradesh,2010,Re-arrested escapees,0,0,0
+394,Himachal Pradesh,2011,Escapees from Inside Prison,0,0,0
+395,Himachal Pradesh,2011,Escapees from Outside Prison,0,0,0
+396,Himachal Pradesh,2011,Escapees from Police Custody,6,0,6
+397,Himachal Pradesh,2011,Re-arrested escapees,4,0,4
+398,Himachal Pradesh,2012,Escapees from Inside Prison,0,0,0
+399,Himachal Pradesh,2012,Escapees from Outside Prison,0,0,0
+400,Himachal Pradesh,2012,Escapees from Police Custody,2,0,2
+401,Himachal Pradesh,2012,Re-arrested escapees,1,0,1
+402,Jammu & Kashmir,2001,Escapees from Inside Prison,2,0,2
+403,Jammu & Kashmir,2001,Escapees from Outside Prison,0,0,0
+404,Jammu & Kashmir,2001,Escapees from Police Custody,0,0,0
+405,Jammu & Kashmir,2001,Re-arrested escapees,0,0,0
+406,Jammu & Kashmir,2002,Escapees from Inside Prison,0,0,0
+407,Jammu & Kashmir,2002,Escapees from Outside Prison,0,0,0
+408,Jammu & Kashmir,2002,Escapees from Police Custody,0,0,0
+409,Jammu & Kashmir,2002,Re-arrested escapees,0,0,0
+410,Jammu & Kashmir,2003,Escapees from Inside Prison,0,0,0
+411,Jammu & Kashmir,2003,Escapees from Outside Prison,0,0,0
+412,Jammu & Kashmir,2003,Escapees from Police Custody,0,0,0
+413,Jammu & Kashmir,2003,Re-arrested escapees,0,0,0
+414,Jammu & Kashmir,2004,Escapees from Inside Prison,0,0,0
+415,Jammu & Kashmir,2004,Escapees from Outside Prison,0,0,0
+416,Jammu & Kashmir,2004,Escapees from Police Custody,0,0,0
+417,Jammu & Kashmir,2004,Re-arrested escapees,0,0,0
+418,Jammu & Kashmir,2005,Escapees from Inside Prison,0,0,0
+419,Jammu & Kashmir,2005,Escapees from Outside Prison,0,0,0
+420,Jammu & Kashmir,2005,Escapees from Police Custody,0,0,0
+421,Jammu & Kashmir,2005,Re-arrested escapees,0,0,0
+422,Jammu & Kashmir,2006,Escapees from Inside Prison,0,0,0
+423,Jammu & Kashmir,2006,Escapees from Outside Prison,0,0,0
+424,Jammu & Kashmir,2006,Escapees from Police Custody,2,0,2
+425,Jammu & Kashmir,2006,Re-arrested escapees,0,0,0
+426,Jammu & Kashmir,2007,Escapees from Inside Prison,0,0,0
+427,Jammu & Kashmir,2007,Escapees from Outside Prison,0,0,0
+428,Jammu & Kashmir,2007,Escapees from Police Custody,0,0,0
+429,Jammu & Kashmir,2007,Re-arrested escapees,0,0,0
+430,Jammu & Kashmir,2008,Escapees from Inside Prison,0,0,0
+431,Jammu & Kashmir,2008,Escapees from Outside Prison,0,0,0
+432,Jammu & Kashmir,2008,Escapees from Police Custody,0,0,0
+433,Jammu & Kashmir,2008,Re-arrested escapees,0,0,0
+434,Jammu & Kashmir,2009,Escapees from Inside Prison,0,0,0
+435,Jammu & Kashmir,2009,Escapees from Outside Prison,0,0,0
+436,Jammu & Kashmir,2009,Escapees from Police Custody,0,0,0
+437,Jammu & Kashmir,2009,Re-arrested escapees,0,0,0
+438,Jammu & Kashmir,2010,Escapees from Inside Prison,0,0,0
+439,Jammu & Kashmir,2010,Escapees from Outside Prison,0,0,0
+440,Jammu & Kashmir,2010,Escapees from Police Custody,0,0,0
+441,Jammu & Kashmir,2010,Re-arrested escapees,0,0,0
+442,Jammu & Kashmir,2011,Escapees from Inside Prison,0,0,0
+443,Jammu & Kashmir,2011,Escapees from Outside Prison,0,0,0
+444,Jammu & Kashmir,2011,Escapees from Police Custody,1,0,1
+445,Jammu & Kashmir,2011,Re-arrested escapees,1,0,1
+446,Jammu & Kashmir,2012,Escapees from Inside Prison,0,0,0
+447,Jammu & Kashmir,2012,Escapees from Outside Prison,0,0,0
+448,Jammu & Kashmir,2012,Escapees from Police Custody,3,0,3
+449,Jammu & Kashmir,2012,Re-arrested escapees,3,0,3
+450,Jharkhand,2001,Escapees from Inside Prison,17,0,17
+451,Jharkhand,2001,Escapees from Outside Prison,7,0,7
+452,Jharkhand,2001,Escapees from Police Custody,6,0,6
+453,Jharkhand,2001,Re-arrested escapees,6,0,6
+454,Jharkhand,2002,Escapees from Inside Prison,10,0,10
+455,Jharkhand,2002,Escapees from Outside Prison,20,0,20
+456,Jharkhand,2002,Escapees from Police Custody,8,0,8
+457,Jharkhand,2002,Re-arrested escapees,16,0,16
+458,Jharkhand,2003,Escapees from Inside Prison,8,0,8
+459,Jharkhand,2003,Escapees from Outside Prison,16,0,16
+460,Jharkhand,2003,Escapees from Police Custody,13,0,13
+461,Jharkhand,2003,Re-arrested escapees,3,0,3
+462,Jharkhand,2004,Escapees from Inside Prison,2,0,2
+463,Jharkhand,2004,Escapees from Outside Prison,3,0,3
+464,Jharkhand,2004,Escapees from Police Custody,6,0,6
+465,Jharkhand,2004,Re-arrested escapees,2,0,2
+466,Jharkhand,2005,Escapees from Inside Prison,0,0,0
+467,Jharkhand,2005,Escapees from Outside Prison,2,0,2
+468,Jharkhand,2005,Escapees from Police Custody,24,0,24
+469,Jharkhand,2005,Re-arrested escapees,18,0,18
+470,Jharkhand,2006,Escapees from Inside Prison,1,0,1
+471,Jharkhand,2006,Escapees from Outside Prison,1,0,1
+472,Jharkhand,2006,Escapees from Police Custody,7,0,7
+473,Jharkhand,2006,Re-arrested escapees,0,0,0
+474,Jharkhand,2007,Escapees from Inside Prison,0,0,0
+475,Jharkhand,2007,Escapees from Outside Prison,1,0,1
+476,Jharkhand,2007,Escapees from Police Custody,2,0,2
+477,Jharkhand,2007,Re-arrested escapees,0,0,0
+478,Jharkhand,2008,Escapees from Inside Prison,4,0,4
+479,Jharkhand,2008,Escapees from Outside Prison,8,0,8
+480,Jharkhand,2008,Escapees from Police Custody,12,0,12
+481,Jharkhand,2008,Re-arrested escapees,3,0,3
+482,Jharkhand,2009,Escapees from Inside Prison,0,0,0
+483,Jharkhand,2009,Escapees from Outside Prison,9,0,9
+484,Jharkhand,2009,Escapees from Police Custody,1,0,1
+485,Jharkhand,2009,Re-arrested escapees,4,0,4
+486,Jharkhand,2010,Escapees from Inside Prison,0,0,0
+487,Jharkhand,2010,Escapees from Outside Prison,6,0,6
+488,Jharkhand,2010,Escapees from Police Custody,0,0,0
+489,Jharkhand,2010,Re-arrested escapees,1,0,1
+490,Jharkhand,2011,Escapees from Inside Prison,9,0,9
+491,Jharkhand,2011,Escapees from Outside Prison,1,0,1
+492,Jharkhand,2011,Escapees from Police Custody,0,0,0
+493,Jharkhand,2011,Re-arrested escapees,0,0,0
+494,Jharkhand,2012,Escapees from Inside Prison,0,0,0
+495,Jharkhand,2012,Escapees from Outside Prison,0,0,0
+496,Jharkhand,2012,Escapees from Police Custody,0,0,0
+497,Jharkhand,2012,Re-arrested escapees,0,0,0
+498,Karnataka,2001,Escapees from Inside Prison,7,0,7
+499,Karnataka,2001,Escapees from Outside Prison,5,0,5
+500,Karnataka,2001,Escapees from Police Custody,5,0,5
+501,Karnataka,2001,Re-arrested escapees,1,0,1
+502,Karnataka,2002,Escapees from Inside Prison,1,0,1
+503,Karnataka,2002,Escapees from Outside Prison,8,0,8
+504,Karnataka,2002,Escapees from Police Custody,15,0,15
+505,Karnataka,2002,Re-arrested escapees,9,0,9
+506,Karnataka,2003,Escapees from Inside Prison,10,0,10
+507,Karnataka,2003,Escapees from Outside Prison,2,0,2
+508,Karnataka,2003,Escapees from Police Custody,18,0,18
+509,Karnataka,2003,Re-arrested escapees,5,0,5
+510,Karnataka,2004,Escapees from Inside Prison,3,0,3
+511,Karnataka,2004,Escapees from Outside Prison,1,0,1
+512,Karnataka,2004,Escapees from Police Custody,14,0,14
+513,Karnataka,2004,Re-arrested escapees,0,0,0
+514,Karnataka,2005,Escapees from Inside Prison,7,0,7
+515,Karnataka,2005,Escapees from Outside Prison,0,0,0
+516,Karnataka,2005,Escapees from Police Custody,13,1,14
+517,Karnataka,2005,Re-arrested escapees,3,0,3
+518,Karnataka,2006,Escapees from Inside Prison,4,0,4
+519,Karnataka,2006,Escapees from Outside Prison,3,0,3
+520,Karnataka,2006,Escapees from Police Custody,12,1,13
+521,Karnataka,2006,Re-arrested escapees,5,1,6
+522,Karnataka,2007,Escapees from Inside Prison,12,0,12
+523,Karnataka,2007,Escapees from Outside Prison,13,0,13
+524,Karnataka,2007,Escapees from Police Custody,13,1,14
+525,Karnataka,2007,Re-arrested escapees,14,1,15
+526,Karnataka,2008,Escapees from Inside Prison,7,0,7
+527,Karnataka,2008,Escapees from Outside Prison,0,0,0
+528,Karnataka,2008,Escapees from Police Custody,12,0,12
+529,Karnataka,2008,Re-arrested escapees,5,0,5
+530,Karnataka,2009,Escapees from Inside Prison,9,0,9
+531,Karnataka,2009,Escapees from Outside Prison,0,0,0
+532,Karnataka,2009,Escapees from Police Custody,21,0,21
+533,Karnataka,2009,Re-arrested escapees,5,0,5
+534,Karnataka,2010,Escapees from Inside Prison,12,0,12
+535,Karnataka,2010,Escapees from Outside Prison,1,0,1
+536,Karnataka,2010,Escapees from Police Custody,16,0,16
+537,Karnataka,2010,Re-arrested escapees,12,0,12
+538,Karnataka,2011,Escapees from Inside Prison,10,0,10
+539,Karnataka,2011,Escapees from Outside Prison,0,0,0
+540,Karnataka,2011,Escapees from Police Custody,12,0,12
+541,Karnataka,2011,Re-arrested escapees,12,0,12
+542,Karnataka,2012,Escapees from Inside Prison,8,0,8
+543,Karnataka,2012,Escapees from Outside Prison,1,0,1
+544,Karnataka,2012,Escapees from Police Custody,14,0,14
+545,Karnataka,2012,Re-arrested escapees,0,0,0
+546,Kerala,2001,Escapees from Inside Prison,18,0,18
+547,Kerala,2001,Escapees from Outside Prison,0,0,0
+548,Kerala,2001,Escapees from Police Custody,0,0,0
+549,Kerala,2001,Re-arrested escapees,0,0,0
+550,Kerala,2002,Escapees from Inside Prison,4,0,4
+551,Kerala,2002,Escapees from Outside Prison,0,0,0
+552,Kerala,2002,Escapees from Police Custody,9,0,9
+553,Kerala,2002,Re-arrested escapees,3,0,3
+554,Kerala,2003,Escapees from Inside Prison,0,0,0
+555,Kerala,2003,Escapees from Outside Prison,5,0,5
+556,Kerala,2003,Escapees from Police Custody,3,0,3
+557,Kerala,2003,Re-arrested escapees,6,0,6
+558,Kerala,2004,Escapees from Inside Prison,4,0,4
+559,Kerala,2004,Escapees from Outside Prison,0,0,0
+560,Kerala,2004,Escapees from Police Custody,7,0,7
+561,Kerala,2004,Re-arrested escapees,3,0,3
+562,Kerala,2005,Escapees from Inside Prison,3,0,3
+563,Kerala,2005,Escapees from Outside Prison,1,0,1
+564,Kerala,2005,Escapees from Police Custody,9,0,9
+565,Kerala,2005,Re-arrested escapees,0,0,0
+566,Kerala,2006,Escapees from Inside Prison,4,0,4
+567,Kerala,2006,Escapees from Outside Prison,1,0,1
+568,Kerala,2006,Escapees from Police Custody,4,0,4
+569,Kerala,2006,Re-arrested escapees,9,0,9
+570,Kerala,2007,Escapees from Inside Prison,3,0,3
+571,Kerala,2007,Escapees from Outside Prison,3,0,3
+572,Kerala,2007,Escapees from Police Custody,8,0,8
+573,Kerala,2007,Re-arrested escapees,5,0,5
+574,Kerala,2008,Escapees from Inside Prison,1,0,1
+575,Kerala,2008,Escapees from Outside Prison,1,0,1
+576,Kerala,2008,Escapees from Police Custody,17,0,17
+577,Kerala,2008,Re-arrested escapees,6,0,6
+578,Kerala,2009,Escapees from Inside Prison,1,0,1
+579,Kerala,2009,Escapees from Outside Prison,1,0,1
+580,Kerala,2009,Escapees from Police Custody,6,0,6
+581,Kerala,2009,Re-arrested escapees,1,0,1
+582,Kerala,2010,Escapees from Inside Prison,4,0,4
+583,Kerala,2010,Escapees from Outside Prison,9,0,9
+584,Kerala,2010,Escapees from Police Custody,0,0,0
+585,Kerala,2010,Re-arrested escapees,0,0,0
+586,Kerala,2011,Escapees from Inside Prison,0,0,0
+587,Kerala,2011,Escapees from Outside Prison,3,0,3
+588,Kerala,2011,Escapees from Police Custody,0,0,0
+589,Kerala,2011,Re-arrested escapees,0,0,0
+590,Kerala,2012,Escapees from Inside Prison,9,0,9
+591,Kerala,2012,Escapees from Outside Prison,2,0,2
+592,Kerala,2012,Escapees from Police Custody,1,0,1
+593,Kerala,2012,Re-arrested escapees,6,0,6
+594,Madhya Pradesh,2001,Escapees from Inside Prison,15,0,15
+595,Madhya Pradesh,2001,Escapees from Outside Prison,9,0,9
+596,Madhya Pradesh,2001,Escapees from Police Custody,30,0,30
+597,Madhya Pradesh,2001,Re-arrested escapees,15,0,15
+598,Madhya Pradesh,2002,Escapees from Inside Prison,72,0,72
+599,Madhya Pradesh,2002,Escapees from Outside Prison,5,0,5
+600,Madhya Pradesh,2002,Escapees from Police Custody,22,0,22
+601,Madhya Pradesh,2002,Re-arrested escapees,12,0,12
+602,Madhya Pradesh,2003,Escapees from Inside Prison,15,0,15
+603,Madhya Pradesh,2003,Escapees from Outside Prison,2,1,3
+604,Madhya Pradesh,2003,Escapees from Police Custody,43,1,44
+605,Madhya Pradesh,2003,Re-arrested escapees,10,0,10
+606,Madhya Pradesh,2004,Escapees from Inside Prison,16,0,16
+607,Madhya Pradesh,2004,Escapees from Outside Prison,2,1,3
+608,Madhya Pradesh,2004,Escapees from Police Custody,40,1,41
+609,Madhya Pradesh,2004,Re-arrested escapees,17,1,18
+610,Madhya Pradesh,2005,Escapees from Inside Prison,0,1,1
+611,Madhya Pradesh,2005,Escapees from Outside Prison,22,1,23
+612,Madhya Pradesh,2005,Escapees from Police Custody,23,0,23
+613,Madhya Pradesh,2005,Re-arrested escapees,21,1,22
+614,Madhya Pradesh,2006,Escapees from Inside Prison,8,0,8
+615,Madhya Pradesh,2006,Escapees from Outside Prison,22,0,22
+616,Madhya Pradesh,2006,Escapees from Police Custody,32,0,32
+617,Madhya Pradesh,2006,Re-arrested escapees,26,0,26
+618,Madhya Pradesh,2007,Escapees from Inside Prison,0,0,0
+619,Madhya Pradesh,2007,Escapees from Outside Prison,22,0,22
+620,Madhya Pradesh,2007,Escapees from Police Custody,26,0,26
+621,Madhya Pradesh,2007,Re-arrested escapees,26,0,26
+622,Madhya Pradesh,2008,Escapees from Inside Prison,12,0,12
+623,Madhya Pradesh,2008,Escapees from Outside Prison,22,1,23
+624,Madhya Pradesh,2008,Escapees from Police Custody,32,1,33
+625,Madhya Pradesh,2008,Re-arrested escapees,26,0,26
+626,Madhya Pradesh,2009,Escapees from Inside Prison,24,0,24
+627,Madhya Pradesh,2009,Escapees from Outside Prison,10,0,10
+628,Madhya Pradesh,2009,Escapees from Police Custody,59,0,59
+629,Madhya Pradesh,2009,Re-arrested escapees,22,0,22
+630,Madhya Pradesh,2010,Escapees from Inside Prison,15,0,15
+631,Madhya Pradesh,2010,Escapees from Outside Prison,2,0,2
+632,Madhya Pradesh,2010,Escapees from Police Custody,42,0,42
+633,Madhya Pradesh,2010,Re-arrested escapees,38,0,38
+634,Madhya Pradesh,2011,Escapees from Inside Prison,34,0,34
+635,Madhya Pradesh,2011,Escapees from Outside Prison,9,0,9
+636,Madhya Pradesh,2011,Escapees from Police Custody,36,0,36
+637,Madhya Pradesh,2011,Re-arrested escapees,36,0,36
+638,Madhya Pradesh,2012,Escapees from Inside Prison,6,0,6
+639,Madhya Pradesh,2012,Escapees from Outside Prison,9,0,9
+640,Madhya Pradesh,2012,Escapees from Police Custody,27,0,27
+641,Madhya Pradesh,2012,Re-arrested escapees,22,0,22
+642,Maharashtra,2001,Escapees from Inside Prison,7,0,7
+643,Maharashtra,2001,Escapees from Outside Prison,12,0,12
+644,Maharashtra,2001,Escapees from Police Custody,0,0,0
+645,Maharashtra,2001,Re-arrested escapees,7,0,7
+646,Maharashtra,2002,Escapees from Inside Prison,6,0,6
+647,Maharashtra,2002,Escapees from Outside Prison,19,1,20
+648,Maharashtra,2002,Escapees from Police Custody,6,0,6
+649,Maharashtra,2002,Re-arrested escapees,4,0,4
+650,Maharashtra,2003,Escapees from Inside Prison,7,0,7
+651,Maharashtra,2003,Escapees from Outside Prison,8,1,9
+652,Maharashtra,2003,Escapees from Police Custody,36,0,36
+653,Maharashtra,2003,Re-arrested escapees,26,0,26
+654,Maharashtra,2004,Escapees from Inside Prison,5,0,5
+655,Maharashtra,2004,Escapees from Outside Prison,7,0,7
+656,Maharashtra,2004,Escapees from Police Custody,24,0,24
+657,Maharashtra,2004,Re-arrested escapees,14,0,14
+658,Maharashtra,2005,Escapees from Inside Prison,4,0,4
+659,Maharashtra,2005,Escapees from Outside Prison,9,0,9
+660,Maharashtra,2005,Escapees from Police Custody,36,4,40
+661,Maharashtra,2005,Re-arrested escapees,12,2,14
+662,Maharashtra,2006,Escapees from Inside Prison,5,0,5
+663,Maharashtra,2006,Escapees from Outside Prison,17,2,19
+664,Maharashtra,2006,Escapees from Police Custody,30,3,33
+665,Maharashtra,2006,Re-arrested escapees,27,2,29
+666,Maharashtra,2007,Escapees from Inside Prison,1,0,1
+667,Maharashtra,2007,Escapees from Outside Prison,7,1,8
+668,Maharashtra,2007,Escapees from Police Custody,15,0,15
+669,Maharashtra,2007,Re-arrested escapees,7,1,8
+670,Maharashtra,2008,Escapees from Inside Prison,3,1,4
+671,Maharashtra,2008,Escapees from Outside Prison,0,0,0
+672,Maharashtra,2008,Escapees from Police Custody,2,0,2
+673,Maharashtra,2008,Re-arrested escapees,4,0,4
+674,Maharashtra,2009,Escapees from Inside Prison,7,0,7
+675,Maharashtra,2009,Escapees from Outside Prison,0,0,0
+676,Maharashtra,2009,Escapees from Police Custody,14,0,14
+677,Maharashtra,2009,Re-arrested escapees,6,0,6
+678,Maharashtra,2010,Escapees from Inside Prison,2,0,2
+679,Maharashtra,2010,Escapees from Outside Prison,8,0,8
+680,Maharashtra,2010,Escapees from Police Custody,11,0,11
+681,Maharashtra,2010,Re-arrested escapees,9,0,9
+682,Maharashtra,2011,Escapees from Inside Prison,3,1,4
+683,Maharashtra,2011,Escapees from Outside Prison,0,0,0
+684,Maharashtra,2011,Escapees from Police Custody,34,1,35
+685,Maharashtra,2011,Re-arrested escapees,14,2,16
+686,Maharashtra,2012,Escapees from Inside Prison,3,0,3
+687,Maharashtra,2012,Escapees from Outside Prison,17,2,19
+688,Maharashtra,2012,Escapees from Police Custody,18,0,18
+689,Maharashtra,2012,Re-arrested escapees,27,1,28
+690,Manipur,2001,Escapees from Inside Prison,0,0,0
+691,Manipur,2001,Escapees from Outside Prison,0,0,0
+692,Manipur,2001,Escapees from Police Custody,0,0,0
+693,Manipur,2001,Re-arrested escapees,0,0,0
+694,Manipur,2002,Escapees from Inside Prison,0,0,0
+695,Manipur,2002,Escapees from Outside Prison,0,0,0
+696,Manipur,2002,Escapees from Police Custody,0,0,0
+697,Manipur,2002,Re-arrested escapees,0,0,0
+698,Manipur,2003,Escapees from Inside Prison,0,0,0
+699,Manipur,2003,Escapees from Outside Prison,0,0,0
+700,Manipur,2003,Escapees from Police Custody,0,0,0
+701,Manipur,2003,Re-arrested escapees,0,0,0
+702,Manipur,2004,Escapees from Inside Prison,0,0,0
+703,Manipur,2004,Escapees from Outside Prison,0,0,0
+704,Manipur,2004,Escapees from Police Custody,0,0,0
+705,Manipur,2004,Re-arrested escapees,0,0,0
+706,Manipur,2005,Escapees from Inside Prison,0,0,0
+707,Manipur,2005,Escapees from Outside Prison,0,0,0
+708,Manipur,2005,Escapees from Police Custody,0,0,0
+709,Manipur,2005,Re-arrested escapees,0,0,0
+710,Manipur,2006,Escapees from Inside Prison,0,0,0
+711,Manipur,2006,Escapees from Outside Prison,0,0,0
+712,Manipur,2006,Escapees from Police Custody,0,0,0
+713,Manipur,2006,Re-arrested escapees,0,0,0
+714,Manipur,2007,Escapees from Inside Prison,0,0,0
+715,Manipur,2007,Escapees from Outside Prison,0,0,0
+716,Manipur,2007,Escapees from Police Custody,0,0,0
+717,Manipur,2007,Re-arrested escapees,0,0,0
+718,Manipur,2008,Escapees from Inside Prison,0,0,0
+719,Manipur,2008,Escapees from Outside Prison,1,0,1
+720,Manipur,2008,Escapees from Police Custody,0,0,0
+721,Manipur,2008,Re-arrested escapees,0,0,0
+722,Manipur,2009,Escapees from Inside Prison,0,0,0
+723,Manipur,2009,Escapees from Outside Prison,0,0,0
+724,Manipur,2009,Escapees from Police Custody,0,0,0
+725,Manipur,2009,Re-arrested escapees,0,0,0
+726,Manipur,2010,Escapees from Inside Prison,0,0,0
+727,Manipur,2010,Escapees from Outside Prison,0,0,0
+728,Manipur,2010,Escapees from Police Custody,0,0,0
+729,Manipur,2010,Re-arrested escapees,0,0,0
+730,Manipur,2011,Escapees from Inside Prison,0,0,0
+731,Manipur,2011,Escapees from Outside Prison,0,0,0
+732,Manipur,2011,Escapees from Police Custody,0,0,0
+733,Manipur,2011,Re-arrested escapees,0,0,0
+734,Manipur,2012,Escapees from Inside Prison,0,0,0
+735,Manipur,2012,Escapees from Outside Prison,1,0,1
+736,Manipur,2012,Escapees from Police Custody,0,0,0
+737,Manipur,2012,Re-arrested escapees,0,0,0
+738,Meghalaya,2001,Escapees from Inside Prison,48,0,48
+739,Meghalaya,2001,Escapees from Outside Prison,0,0,0
+740,Meghalaya,2001,Escapees from Police Custody,0,0,0
+741,Meghalaya,2001,Re-arrested escapees,7,0,7
+742,Meghalaya,2002,Escapees from Inside Prison,0,0,0
+743,Meghalaya,2002,Escapees from Outside Prison,0,0,0
+744,Meghalaya,2002,Escapees from Police Custody,4,0,4
+745,Meghalaya,2002,Re-arrested escapees,3,0,3
+746,Meghalaya,2003,Escapees from Inside Prison,0,0,0
+747,Meghalaya,2003,Escapees from Outside Prison,0,0,0
+748,Meghalaya,2003,Escapees from Police Custody,0,0,0
+749,Meghalaya,2003,Re-arrested escapees,0,0,0
+750,Meghalaya,2004,Escapees from Inside Prison,0,0,0
+751,Meghalaya,2004,Escapees from Outside Prison,0,0,0
+752,Meghalaya,2004,Escapees from Police Custody,0,0,0
+753,Meghalaya,2004,Re-arrested escapees,0,0,0
+754,Meghalaya,2005,Escapees from Inside Prison,0,0,0
+755,Meghalaya,2005,Escapees from Outside Prison,0,0,0
+756,Meghalaya,2005,Escapees from Police Custody,0,0,0
+757,Meghalaya,2005,Re-arrested escapees,0,0,0
+758,Meghalaya,2006,Escapees from Inside Prison,3,0,3
+759,Meghalaya,2006,Escapees from Outside Prison,1,0,1
+760,Meghalaya,2006,Escapees from Police Custody,0,0,0
+761,Meghalaya,2006,Re-arrested escapees,0,0,0
+762,Meghalaya,2007,Escapees from Inside Prison,4,0,4
+763,Meghalaya,2007,Escapees from Outside Prison,0,0,0
+764,Meghalaya,2007,Escapees from Police Custody,0,0,0
+765,Meghalaya,2007,Re-arrested escapees,0,0,0
+766,Meghalaya,2008,Escapees from Inside Prison,7,0,7
+767,Meghalaya,2008,Escapees from Outside Prison,0,0,0
+768,Meghalaya,2008,Escapees from Police Custody,0,0,0
+769,Meghalaya,2008,Re-arrested escapees,0,0,0
+770,Meghalaya,2009,Escapees from Inside Prison,6,0,6
+771,Meghalaya,2009,Escapees from Outside Prison,0,0,0
+772,Meghalaya,2009,Escapees from Police Custody,0,0,0
+773,Meghalaya,2009,Re-arrested escapees,5,0,5
+774,Meghalaya,2010,Escapees from Inside Prison,0,0,0
+775,Meghalaya,2010,Escapees from Outside Prison,0,0,0
+776,Meghalaya,2010,Escapees from Police Custody,0,0,0
+777,Meghalaya,2010,Re-arrested escapees,0,0,0
+778,Meghalaya,2011,Escapees from Inside Prison,0,0,0
+779,Meghalaya,2011,Escapees from Outside Prison,0,0,0
+780,Meghalaya,2011,Escapees from Police Custody,0,0,0
+781,Meghalaya,2011,Re-arrested escapees,0,0,0
+782,Meghalaya,2012,Escapees from Inside Prison,0,0,0
+783,Meghalaya,2012,Escapees from Outside Prison,0,0,0
+784,Meghalaya,2012,Escapees from Police Custody,0,0,0
+785,Meghalaya,2012,Re-arrested escapees,0,0,0
+786,Mizoram,2001,Escapees from Inside Prison,2,0,2
+787,Mizoram,2001,Escapees from Outside Prison,0,0,0
+788,Mizoram,2001,Escapees from Police Custody,0,0,0
+789,Mizoram,2001,Re-arrested escapees,0,0,0
+790,Mizoram,2002,Escapees from Inside Prison,3,0,3
+791,Mizoram,2002,Escapees from Outside Prison,0,0,0
+792,Mizoram,2002,Escapees from Police Custody,0,0,0
+793,Mizoram,2002,Re-arrested escapees,0,0,0
+794,Mizoram,2003,Escapees from Inside Prison,0,0,0
+795,Mizoram,2003,Escapees from Outside Prison,0,0,0
+796,Mizoram,2003,Escapees from Police Custody,0,0,0
+797,Mizoram,2003,Re-arrested escapees,0,0,0
+798,Mizoram,2004,Escapees from Inside Prison,1,0,1
+799,Mizoram,2004,Escapees from Outside Prison,0,0,0
+800,Mizoram,2004,Escapees from Police Custody,0,0,0
+801,Mizoram,2004,Re-arrested escapees,0,0,0
+802,Mizoram,2005,Escapees from Inside Prison,7,0,7
+803,Mizoram,2005,Escapees from Outside Prison,0,0,0
+804,Mizoram,2005,Escapees from Police Custody,0,0,0
+805,Mizoram,2005,Re-arrested escapees,5,0,5
+806,Mizoram,2006,Escapees from Inside Prison,0,0,0
+807,Mizoram,2006,Escapees from Outside Prison,0,0,0
+808,Mizoram,2006,Escapees from Police Custody,0,0,0
+809,Mizoram,2006,Re-arrested escapees,0,0,0
+810,Mizoram,2007,Escapees from Inside Prison,2,0,2
+811,Mizoram,2007,Escapees from Outside Prison,1,0,1
+812,Mizoram,2007,Escapees from Police Custody,0,0,0
+813,Mizoram,2007,Re-arrested escapees,0,0,0
+814,Mizoram,2008,Escapees from Inside Prison,4,0,4
+815,Mizoram,2008,Escapees from Outside Prison,0,0,0
+816,Mizoram,2008,Escapees from Police Custody,0,0,0
+817,Mizoram,2008,Re-arrested escapees,3,0,3
+818,Mizoram,2009,Escapees from Inside Prison,3,0,3
+819,Mizoram,2009,Escapees from Outside Prison,0,0,0
+820,Mizoram,2009,Escapees from Police Custody,0,0,0
+821,Mizoram,2009,Re-arrested escapees,1,0,1
+822,Mizoram,2010,Escapees from Inside Prison,0,0,0
+823,Mizoram,2010,Escapees from Outside Prison,0,0,0
+824,Mizoram,2010,Escapees from Police Custody,0,0,0
+825,Mizoram,2010,Re-arrested escapees,0,0,0
+826,Mizoram,2011,Escapees from Inside Prison,0,0,0
+827,Mizoram,2011,Escapees from Outside Prison,0,0,0
+828,Mizoram,2011,Escapees from Police Custody,0,0,0
+829,Mizoram,2011,Re-arrested escapees,0,0,0
+830,Mizoram,2012,Escapees from Inside Prison,5,0,5
+831,Mizoram,2012,Escapees from Outside Prison,1,0,1
+832,Mizoram,2012,Escapees from Police Custody,0,0,0
+833,Mizoram,2012,Re-arrested escapees,0,0,0
+834,Nagaland,2001,Escapees from Inside Prison,2,0,2
+835,Nagaland,2001,Escapees from Outside Prison,0,0,0
+836,Nagaland,2001,Escapees from Police Custody,0,0,0
+837,Nagaland,2001,Re-arrested escapees,0,0,0
+838,Nagaland,2002,Escapees from Inside Prison,0,0,0
+839,Nagaland,2002,Escapees from Outside Prison,0,0,0
+840,Nagaland,2002,Escapees from Police Custody,0,0,0
+841,Nagaland,2002,Re-arrested escapees,0,0,0
+842,Nagaland,2003,Escapees from Inside Prison,0,0,0
+843,Nagaland,2003,Escapees from Outside Prison,0,0,0
+844,Nagaland,2003,Escapees from Police Custody,0,0,0
+845,Nagaland,2003,Re-arrested escapees,0,0,0
+846,Nagaland,2004,Escapees from Inside Prison,0,0,0
+847,Nagaland,2004,Escapees from Outside Prison,0,0,0
+848,Nagaland,2004,Escapees from Police Custody,0,0,0
+849,Nagaland,2004,Re-arrested escapees,0,0,0
+850,Nagaland,2005,Escapees from Inside Prison,0,0,0
+851,Nagaland,2005,Escapees from Outside Prison,0,0,0
+852,Nagaland,2005,Escapees from Police Custody,0,0,0
+853,Nagaland,2005,Re-arrested escapees,0,0,0
+854,Nagaland,2006,Escapees from Inside Prison,0,0,0
+855,Nagaland,2006,Escapees from Outside Prison,0,0,0
+856,Nagaland,2006,Escapees from Police Custody,0,0,0
+857,Nagaland,2006,Re-arrested escapees,0,0,0
+858,Nagaland,2007,Escapees from Inside Prison,3,0,3
+859,Nagaland,2007,Escapees from Outside Prison,0,0,0
+860,Nagaland,2007,Escapees from Police Custody,0,0,0
+861,Nagaland,2007,Re-arrested escapees,2,0,2
+862,Nagaland,2008,Escapees from Inside Prison,0,0,0
+863,Nagaland,2008,Escapees from Outside Prison,2,0,2
+864,Nagaland,2008,Escapees from Police Custody,0,0,0
+865,Nagaland,2008,Re-arrested escapees,0,0,0
+866,Nagaland,2009,Escapees from Inside Prison,0,0,0
+867,Nagaland,2009,Escapees from Outside Prison,0,0,0
+868,Nagaland,2009,Escapees from Police Custody,0,0,0
+869,Nagaland,2009,Re-arrested escapees,0,0,0
+870,Nagaland,2010,Escapees from Inside Prison,1,0,1
+871,Nagaland,2010,Escapees from Outside Prison,0,0,0
+872,Nagaland,2010,Escapees from Police Custody,0,0,0
+873,Nagaland,2010,Re-arrested escapees,0,0,0
+874,Nagaland,2011,Escapees from Inside Prison,1,0,1
+875,Nagaland,2011,Escapees from Outside Prison,0,0,0
+876,Nagaland,2011,Escapees from Police Custody,0,0,0
+877,Nagaland,2011,Re-arrested escapees,0,0,0
+878,Nagaland,2012,Escapees from Inside Prison,0,0,0
+879,Nagaland,2012,Escapees from Outside Prison,0,0,0
+880,Nagaland,2012,Escapees from Police Custody,0,0,0
+881,Nagaland,2012,Re-arrested escapees,0,0,0
+882,Odisha,2001,Escapees from Inside Prison,0,0,0
+883,Odisha,2001,Escapees from Outside Prison,1,0,1
+884,Odisha,2001,Escapees from Police Custody,2,0,2
+885,Odisha,2001,Re-arrested escapees,0,0,0
+886,Odisha,2002,Escapees from Inside Prison,7,0,7
+887,Odisha,2002,Escapees from Outside Prison,0,0,0
+888,Odisha,2002,Escapees from Police Custody,3,0,3
+889,Odisha,2002,Re-arrested escapees,0,0,0
+890,Odisha,2003,Escapees from Inside Prison,33,0,33
+891,Odisha,2003,Escapees from Outside Prison,0,0,0
+892,Odisha,2003,Escapees from Police Custody,0,0,0
+893,Odisha,2003,Re-arrested escapees,0,0,0
+894,Odisha,2004,Escapees from Inside Prison,5,0,5
+895,Odisha,2004,Escapees from Outside Prison,0,0,0
+896,Odisha,2004,Escapees from Police Custody,0,0,0
+897,Odisha,2004,Re-arrested escapees,3,0,3
+898,Odisha,2005,Escapees from Inside Prison,12,0,12
+899,Odisha,2005,Escapees from Outside Prison,0,0,0
+900,Odisha,2005,Escapees from Police Custody,0,0,0
+901,Odisha,2005,Re-arrested escapees,6,0,6
+902,Odisha,2006,Escapees from Inside Prison,14,0,14
+903,Odisha,2006,Escapees from Outside Prison,0,0,0
+904,Odisha,2006,Escapees from Police Custody,0,0,0
+905,Odisha,2006,Re-arrested escapees,4,0,4
+906,Odisha,2007,Escapees from Inside Prison,27,0,27
+907,Odisha,2007,Escapees from Outside Prison,0,0,0
+908,Odisha,2007,Escapees from Police Custody,0,0,0
+909,Odisha,2007,Re-arrested escapees,17,0,17
+910,Odisha,2008,Escapees from Inside Prison,12,0,12
+911,Odisha,2008,Escapees from Outside Prison,0,0,0
+912,Odisha,2008,Escapees from Police Custody,0,0,0
+913,Odisha,2008,Re-arrested escapees,7,0,7
+914,Odisha,2009,Escapees from Inside Prison,17,0,17
+915,Odisha,2009,Escapees from Outside Prison,0,0,0
+916,Odisha,2009,Escapees from Police Custody,0,0,0
+917,Odisha,2009,Re-arrested escapees,6,0,6
+918,Odisha,2010,Escapees from Inside Prison,11,0,11
+919,Odisha,2010,Escapees from Outside Prison,0,0,0
+920,Odisha,2010,Escapees from Police Custody,0,0,0
+921,Odisha,2010,Re-arrested escapees,7,0,7
+922,Odisha,2011,Escapees from Inside Prison,7,0,7
+923,Odisha,2011,Escapees from Outside Prison,0,0,0
+924,Odisha,2011,Escapees from Police Custody,4,0,4
+925,Odisha,2011,Re-arrested escapees,1,0,1
+926,Odisha,2012,Escapees from Inside Prison,10,0,10
+927,Odisha,2012,Escapees from Outside Prison,0,0,0
+928,Odisha,2012,Escapees from Police Custody,0,0,0
+929,Odisha,2012,Re-arrested escapees,4,0,4
+930,Punjab,2001,Escapees from Inside Prison,3,0,3
+931,Punjab,2001,Escapees from Outside Prison,0,0,0
+932,Punjab,2001,Escapees from Police Custody,0,0,0
+933,Punjab,2001,Re-arrested escapees,0,0,0
+934,Punjab,2002,Escapees from Inside Prison,4,0,4
+935,Punjab,2002,Escapees from Outside Prison,2,0,2
+936,Punjab,2002,Escapees from Police Custody,6,1,7
+937,Punjab,2002,Re-arrested escapees,0,0,0
+938,Punjab,2003,Escapees from Inside Prison,6,0,6
+939,Punjab,2003,Escapees from Outside Prison,3,0,3
+940,Punjab,2003,Escapees from Police Custody,5,2,7
+941,Punjab,2003,Re-arrested escapees,0,0,0
+942,Punjab,2004,Escapees from Inside Prison,3,0,3
+943,Punjab,2004,Escapees from Outside Prison,1,0,1
+944,Punjab,2004,Escapees from Police Custody,13,0,13
+945,Punjab,2004,Re-arrested escapees,0,0,0
+946,Punjab,2005,Escapees from Inside Prison,3,0,3
+947,Punjab,2005,Escapees from Outside Prison,0,0,0
+948,Punjab,2005,Escapees from Police Custody,20,0,20
+949,Punjab,2005,Re-arrested escapees,0,0,0
+950,Punjab,2006,Escapees from Inside Prison,14,0,14
+951,Punjab,2006,Escapees from Outside Prison,0,0,0
+952,Punjab,2006,Escapees from Police Custody,17,0,17
+953,Punjab,2006,Re-arrested escapees,0,0,0
+954,Punjab,2007,Escapees from Inside Prison,2,0,2
+955,Punjab,2007,Escapees from Outside Prison,1,0,1
+956,Punjab,2007,Escapees from Police Custody,33,0,33
+957,Punjab,2007,Re-arrested escapees,0,0,0
+958,Punjab,2008,Escapees from Inside Prison,3,0,3
+959,Punjab,2008,Escapees from Outside Prison,2,0,2
+960,Punjab,2008,Escapees from Police Custody,22,0,22
+961,Punjab,2008,Re-arrested escapees,4,0,4
+962,Punjab,2009,Escapees from Inside Prison,1,0,1
+963,Punjab,2009,Escapees from Outside Prison,3,0,3
+964,Punjab,2009,Escapees from Police Custody,17,0,17
+965,Punjab,2009,Re-arrested escapees,0,0,0
+966,Punjab,2010,Escapees from Inside Prison,9,0,9
+967,Punjab,2010,Escapees from Outside Prison,7,0,7
+968,Punjab,2010,Escapees from Police Custody,23,0,23
+969,Punjab,2010,Re-arrested escapees,0,0,0
+970,Punjab,2011,Escapees from Inside Prison,4,0,4
+971,Punjab,2011,Escapees from Outside Prison,5,0,5
+972,Punjab,2011,Escapees from Police Custody,38,0,38
+973,Punjab,2011,Re-arrested escapees,9,0,9
+974,Punjab,2012,Escapees from Inside Prison,11,0,11
+975,Punjab,2012,Escapees from Outside Prison,7,0,7
+976,Punjab,2012,Escapees from Police Custody,38,0,38
+977,Punjab,2012,Re-arrested escapees,20,0,20
+978,Rajasthan,2001,Escapees from Inside Prison,10,0,10
+979,Rajasthan,2001,Escapees from Outside Prison,2,0,2
+980,Rajasthan,2001,Escapees from Police Custody,30,0,30
+981,Rajasthan,2001,Re-arrested escapees,20,0,20
+982,Rajasthan,2002,Escapees from Inside Prison,19,0,19
+983,Rajasthan,2002,Escapees from Outside Prison,1,0,1
+984,Rajasthan,2002,Escapees from Police Custody,18,0,18
+985,Rajasthan,2002,Re-arrested escapees,25,0,25
+986,Rajasthan,2003,Escapees from Inside Prison,14,0,14
+987,Rajasthan,2003,Escapees from Outside Prison,9,0,9
+988,Rajasthan,2003,Escapees from Police Custody,22,0,22
+989,Rajasthan,2003,Re-arrested escapees,19,0,19
+990,Rajasthan,2004,Escapees from Inside Prison,26,0,26
+991,Rajasthan,2004,Escapees from Outside Prison,0,0,0
+992,Rajasthan,2004,Escapees from Police Custody,21,1,22
+993,Rajasthan,2004,Re-arrested escapees,31,1,32
+994,Rajasthan,2005,Escapees from Inside Prison,5,0,5
+995,Rajasthan,2005,Escapees from Outside Prison,6,0,6
+996,Rajasthan,2005,Escapees from Police Custody,30,0,30
+997,Rajasthan,2005,Re-arrested escapees,17,0,17
+998,Rajasthan,2006,Escapees from Inside Prison,11,0,11
+999,Rajasthan,2006,Escapees from Outside Prison,3,0,3
+1000,Rajasthan,2006,Escapees from Police Custody,27,0,27
+1001,Rajasthan,2006,Re-arrested escapees,25,0,25
+1002,Rajasthan,2007,Escapees from Inside Prison,29,0,29
+1003,Rajasthan,2007,Escapees from Outside Prison,5,0,5
+1004,Rajasthan,2007,Escapees from Police Custody,32,0,32
+1005,Rajasthan,2007,Re-arrested escapees,31,0,31
+1006,Rajasthan,2008,Escapees from Inside Prison,12,0,12
+1007,Rajasthan,2008,Escapees from Outside Prison,0,0,0
+1008,Rajasthan,2008,Escapees from Police Custody,31,0,31
+1009,Rajasthan,2008,Re-arrested escapees,19,0,19
+1010,Rajasthan,2009,Escapees from Inside Prison,18,0,18
+1011,Rajasthan,2009,Escapees from Outside Prison,3,1,4
+1012,Rajasthan,2009,Escapees from Police Custody,23,0,23
+1013,Rajasthan,2009,Re-arrested escapees,19,1,20
+1014,Rajasthan,2010,Escapees from Inside Prison,30,0,30
+1015,Rajasthan,2010,Escapees from Outside Prison,0,0,0
+1016,Rajasthan,2010,Escapees from Police Custody,19,0,19
+1017,Rajasthan,2010,Re-arrested escapees,18,0,18
+1018,Rajasthan,2011,Escapees from Inside Prison,29,0,29
+1019,Rajasthan,2011,Escapees from Outside Prison,3,0,3
+1020,Rajasthan,2011,Escapees from Police Custody,21,0,21
+1021,Rajasthan,2011,Re-arrested escapees,32,0,32
+1022,Rajasthan,2012,Escapees from Inside Prison,21,0,21
+1023,Rajasthan,2012,Escapees from Outside Prison,5,0,5
+1024,Rajasthan,2012,Escapees from Police Custody,31,0,31
+1025,Rajasthan,2012,Re-arrested escapees,38,0,38
+1026,Sikkim,2001,Escapees from Inside Prison,0,0,0
+1027,Sikkim,2001,Escapees from Outside Prison,0,0,0
+1028,Sikkim,2001,Escapees from Police Custody,0,0,0
+1029,Sikkim,2001,Re-arrested escapees,0,0,0
+1030,Sikkim,2002,Escapees from Inside Prison,0,0,0
+1031,Sikkim,2002,Escapees from Outside Prison,0,0,0
+1032,Sikkim,2002,Escapees from Police Custody,0,0,0
+1033,Sikkim,2002,Re-arrested escapees,0,0,0
+1034,Sikkim,2003,Escapees from Inside Prison,0,0,0
+1035,Sikkim,2003,Escapees from Outside Prison,0,0,0
+1036,Sikkim,2003,Escapees from Police Custody,0,0,0
+1037,Sikkim,2003,Re-arrested escapees,0,0,0
+1038,Sikkim,2004,Escapees from Inside Prison,2,0,2
+1039,Sikkim,2004,Escapees from Outside Prison,0,0,0
+1040,Sikkim,2004,Escapees from Police Custody,0,0,0
+1041,Sikkim,2004,Re-arrested escapees,2,0,2
+1042,Sikkim,2005,Escapees from Inside Prison,0,0,0
+1043,Sikkim,2005,Escapees from Outside Prison,0,0,0
+1044,Sikkim,2005,Escapees from Police Custody,0,0,0
+1045,Sikkim,2005,Re-arrested escapees,0,0,0
+1046,Sikkim,2006,Escapees from Inside Prison,0,0,0
+1047,Sikkim,2006,Escapees from Outside Prison,1,0,1
+1048,Sikkim,2006,Escapees from Police Custody,0,0,0
+1049,Sikkim,2006,Re-arrested escapees,1,0,1
+1050,Sikkim,2007,Escapees from Inside Prison,0,0,0
+1051,Sikkim,2007,Escapees from Outside Prison,0,0,0
+1052,Sikkim,2007,Escapees from Police Custody,0,0,0
+1053,Sikkim,2007,Re-arrested escapees,0,0,0
+1054,Sikkim,2008,Escapees from Inside Prison,0,0,0
+1055,Sikkim,2008,Escapees from Outside Prison,1,0,1
+1056,Sikkim,2008,Escapees from Police Custody,0,0,0
+1057,Sikkim,2008,Re-arrested escapees,1,0,1
+1058,Sikkim,2009,Escapees from Inside Prison,0,0,0
+1059,Sikkim,2009,Escapees from Outside Prison,0,0,0
+1060,Sikkim,2009,Escapees from Police Custody,0,0,0
+1061,Sikkim,2009,Re-arrested escapees,0,0,0
+1062,Sikkim,2010,Escapees from Inside Prison,0,0,0
+1063,Sikkim,2010,Escapees from Outside Prison,0,0,0
+1064,Sikkim,2010,Escapees from Police Custody,1,0,1
+1065,Sikkim,2010,Re-arrested escapees,1,0,1
+1066,Sikkim,2011,Escapees from Inside Prison,0,0,0
+1067,Sikkim,2011,Escapees from Outside Prison,0,0,0
+1068,Sikkim,2011,Escapees from Police Custody,0,0,0
+1069,Sikkim,2011,Re-arrested escapees,0,0,0
+1070,Sikkim,2012,Escapees from Inside Prison,6,0,6
+1071,Sikkim,2012,Escapees from Outside Prison,0,0,0
+1072,Sikkim,2012,Escapees from Police Custody,0,0,0
+1073,Sikkim,2012,Re-arrested escapees,0,0,0
+1074,Tamil Nadu,2001,Escapees from Inside Prison,10,0,10
+1075,Tamil Nadu,2001,Escapees from Outside Prison,0,0,0
+1076,Tamil Nadu,2001,Escapees from Police Custody,65,0,65
+1077,Tamil Nadu,2001,Re-arrested escapees,46,0,46
+1078,Tamil Nadu,2002,Escapees from Inside Prison,8,0,8
+1079,Tamil Nadu,2002,Escapees from Outside Prison,1,2,3
+1080,Tamil Nadu,2002,Escapees from Police Custody,48,0,48
+1081,Tamil Nadu,2002,Re-arrested escapees,41,2,43
+1082,Tamil Nadu,2003,Escapees from Inside Prison,9,0,9
+1083,Tamil Nadu,2003,Escapees from Outside Prison,0,0,0
+1084,Tamil Nadu,2003,Escapees from Police Custody,38,0,38
+1085,Tamil Nadu,2003,Re-arrested escapees,0,0,0
+1086,Tamil Nadu,2004,Escapees from Inside Prison,8,0,8
+1087,Tamil Nadu,2004,Escapees from Outside Prison,0,0,0
+1088,Tamil Nadu,2004,Escapees from Police Custody,34,0,34
+1089,Tamil Nadu,2004,Re-arrested escapees,0,0,0
+1090,Tamil Nadu,2005,Escapees from Inside Prison,3,1,4
+1091,Tamil Nadu,2005,Escapees from Outside Prison,31,0,31
+1092,Tamil Nadu,2005,Escapees from Police Custody,0,0,0
+1093,Tamil Nadu,2005,Re-arrested escapees,0,0,0
+1094,Tamil Nadu,2006,Escapees from Inside Prison,2,0,2
+1095,Tamil Nadu,2006,Escapees from Outside Prison,0,0,0
+1096,Tamil Nadu,2006,Escapees from Police Custody,24,0,24
+1097,Tamil Nadu,2006,Re-arrested escapees,20,0,20
+1098,Tamil Nadu,2007,Escapees from Inside Prison,6,1,7
+1099,Tamil Nadu,2007,Escapees from Outside Prison,0,0,0
+1100,Tamil Nadu,2007,Escapees from Police Custody,31,0,31
+1101,Tamil Nadu,2007,Re-arrested escapees,25,0,25
+1102,Tamil Nadu,2008,Escapees from Inside Prison,9,0,9
+1103,Tamil Nadu,2008,Escapees from Outside Prison,8,0,8
+1104,Tamil Nadu,2008,Escapees from Police Custody,23,0,23
+1105,Tamil Nadu,2008,Re-arrested escapees,2,0,2
+1106,Tamil Nadu,2009,Escapees from Inside Prison,4,0,4
+1107,Tamil Nadu,2009,Escapees from Outside Prison,0,0,0
+1108,Tamil Nadu,2009,Escapees from Police Custody,17,0,17
+1109,Tamil Nadu,2009,Re-arrested escapees,0,0,0
+1110,Tamil Nadu,2010,Escapees from Inside Prison,7,0,7
+1111,Tamil Nadu,2010,Escapees from Outside Prison,0,0,0
+1112,Tamil Nadu,2010,Escapees from Police Custody,10,0,10
+1113,Tamil Nadu,2010,Re-arrested escapees,0,0,0
+1114,Tamil Nadu,2011,Escapees from Inside Prison,7,0,7
+1115,Tamil Nadu,2011,Escapees from Outside Prison,0,0,0
+1116,Tamil Nadu,2011,Escapees from Police Custody,15,0,15
+1117,Tamil Nadu,2011,Re-arrested escapees,19,0,19
+1118,Tamil Nadu,2012,Escapees from Inside Prison,6,0,6
+1119,Tamil Nadu,2012,Escapees from Outside Prison,0,0,0
+1120,Tamil Nadu,2012,Escapees from Police Custody,12,0,12
+1121,Tamil Nadu,2012,Re-arrested escapees,15,0,15
+1122,Tripura,2001,Escapees from Inside Prison,1,0,1
+1123,Tripura,2001,Escapees from Outside Prison,0,0,0
+1124,Tripura,2001,Escapees from Police Custody,0,0,0
+1125,Tripura,2001,Re-arrested escapees,0,0,0
+1126,Tripura,2002,Escapees from Inside Prison,0,0,0
+1127,Tripura,2002,Escapees from Outside Prison,0,0,0
+1128,Tripura,2002,Escapees from Police Custody,0,0,0
+1129,Tripura,2002,Re-arrested escapees,0,0,0
+1130,Tripura,2003,Escapees from Inside Prison,0,0,0
+1131,Tripura,2003,Escapees from Outside Prison,0,0,0
+1132,Tripura,2003,Escapees from Police Custody,0,0,0
+1133,Tripura,2003,Re-arrested escapees,0,0,0
+1134,Tripura,2004,Escapees from Inside Prison,1,0,1
+1135,Tripura,2004,Escapees from Outside Prison,0,0,0
+1136,Tripura,2004,Escapees from Police Custody,0,0,0
+1137,Tripura,2004,Re-arrested escapees,0,0,0
+1138,Tripura,2005,Escapees from Inside Prison,0,0,0
+1139,Tripura,2005,Escapees from Outside Prison,1,0,1
+1140,Tripura,2005,Escapees from Police Custody,1,0,1
+1141,Tripura,2005,Re-arrested escapees,0,0,0
+1142,Tripura,2006,Escapees from Inside Prison,12,0,12
+1143,Tripura,2006,Escapees from Outside Prison,0,0,0
+1144,Tripura,2006,Escapees from Police Custody,0,0,0
+1145,Tripura,2006,Re-arrested escapees,0,0,0
+1146,Tripura,2007,Escapees from Inside Prison,0,0,0
+1147,Tripura,2007,Escapees from Outside Prison,0,0,0
+1148,Tripura,2007,Escapees from Police Custody,0,0,0
+1149,Tripura,2007,Re-arrested escapees,0,0,0
+1150,Tripura,2008,Escapees from Inside Prison,0,0,0
+1151,Tripura,2008,Escapees from Outside Prison,0,0,0
+1152,Tripura,2008,Escapees from Police Custody,0,0,0
+1153,Tripura,2008,Re-arrested escapees,0,0,0
+1154,Tripura,2009,Escapees from Inside Prison,0,0,0
+1155,Tripura,2009,Escapees from Outside Prison,0,0,0
+1156,Tripura,2009,Escapees from Police Custody,2,0,2
+1157,Tripura,2009,Re-arrested escapees,2,0,2
+1158,Tripura,2010,Escapees from Inside Prison,0,0,0
+1159,Tripura,2010,Escapees from Outside Prison,0,0,0
+1160,Tripura,2010,Escapees from Police Custody,2,0,2
+1161,Tripura,2010,Re-arrested escapees,0,0,0
+1162,Tripura,2011,Escapees from Inside Prison,4,0,4
+1163,Tripura,2011,Escapees from Outside Prison,1,0,1
+1164,Tripura,2011,Escapees from Police Custody,1,0,1
+1165,Tripura,2011,Re-arrested escapees,0,0,0
+1166,Tripura,2012,Escapees from Inside Prison,0,0,0
+1167,Tripura,2012,Escapees from Outside Prison,0,0,0
+1168,Tripura,2012,Escapees from Police Custody,0,0,0
+1169,Tripura,2012,Re-arrested escapees,0,0,0
+1170,Uttar Pradesh,2001,Escapees from Inside Prison,11,0,11
+1171,Uttar Pradesh,2001,Escapees from Outside Prison,7,0,7
+1172,Uttar Pradesh,2001,Escapees from Police Custody,52,3,55
+1173,Uttar Pradesh,2001,Re-arrested escapees,13,0,13
+1174,Uttar Pradesh,2002,Escapees from Inside Prison,15,0,15
+1175,Uttar Pradesh,2002,Escapees from Outside Prison,9,0,9
+1176,Uttar Pradesh,2002,Escapees from Police Custody,76,1,77
+1177,Uttar Pradesh,2002,Re-arrested escapees,61,1,62
+1178,Uttar Pradesh,2003,Escapees from Inside Prison,35,0,35
+1179,Uttar Pradesh,2003,Escapees from Outside Prison,32,0,32
+1180,Uttar Pradesh,2003,Escapees from Police Custody,80,1,81
+1181,Uttar Pradesh,2003,Re-arrested escapees,0,0,0
+1182,Uttar Pradesh,2004,Escapees from Inside Prison,1,0,1
+1183,Uttar Pradesh,2004,Escapees from Outside Prison,6,0,6
+1184,Uttar Pradesh,2004,Escapees from Police Custody,64,0,64
+1185,Uttar Pradesh,2004,Re-arrested escapees,55,0,55
+1186,Uttar Pradesh,2005,Escapees from Inside Prison,14,0,14
+1187,Uttar Pradesh,2005,Escapees from Outside Prison,3,0,3
+1188,Uttar Pradesh,2005,Escapees from Police Custody,54,1,55
+1189,Uttar Pradesh,2005,Re-arrested escapees,42,0,42
+1190,Uttar Pradesh,2006,Escapees from Inside Prison,13,0,13
+1191,Uttar Pradesh,2006,Escapees from Outside Prison,5,0,5
+1192,Uttar Pradesh,2006,Escapees from Police Custody,59,1,60
+1193,Uttar Pradesh,2006,Re-arrested escapees,62,1,63
+1194,Uttar Pradesh,2007,Escapees from Inside Prison,13,0,13
+1195,Uttar Pradesh,2007,Escapees from Outside Prison,4,0,4
+1196,Uttar Pradesh,2007,Escapees from Police Custody,50,1,51
+1197,Uttar Pradesh,2007,Re-arrested escapees,43,1,44
+1198,Uttar Pradesh,2008,Escapees from Inside Prison,10,0,10
+1199,Uttar Pradesh,2008,Escapees from Outside Prison,29,0,29
+1200,Uttar Pradesh,2008,Escapees from Police Custody,68,1,69
+1201,Uttar Pradesh,2008,Re-arrested escapees,41,2,43
+1202,Uttar Pradesh,2009,Escapees from Inside Prison,12,0,12
+1203,Uttar Pradesh,2009,Escapees from Outside Prison,0,0,0
+1204,Uttar Pradesh,2009,Escapees from Police Custody,78,1,79
+1205,Uttar Pradesh,2009,Re-arrested escapees,18,0,18
+1206,Uttar Pradesh,2010,Escapees from Inside Prison,21,0,21
+1207,Uttar Pradesh,2010,Escapees from Outside Prison,0,0,0
+1208,Uttar Pradesh,2010,Escapees from Police Custody,45,0,45
+1209,Uttar Pradesh,2010,Re-arrested escapees,18,0,18
+1210,Uttar Pradesh,2011,Escapees from Inside Prison,11,0,11
+1211,Uttar Pradesh,2011,Escapees from Outside Prison,0,0,0
+1212,Uttar Pradesh,2011,Escapees from Police Custody,45,0,45
+1213,Uttar Pradesh,2011,Re-arrested escapees,11,0,11
+1214,Uttar Pradesh,2012,Escapees from Inside Prison,8,0,8
+1215,Uttar Pradesh,2012,Escapees from Outside Prison,0,0,0
+1216,Uttar Pradesh,2012,Escapees from Police Custody,41,0,41
+1217,Uttar Pradesh,2012,Re-arrested escapees,6,0,6
+1218,Uttarakhand,2001,Escapees from Inside Prison,0,0,0
+1219,Uttarakhand,2001,Escapees from Outside Prison,1,0,1
+1220,Uttarakhand,2001,Escapees from Police Custody,5,0,5
+1221,Uttarakhand,2001,Re-arrested escapees,0,0,0
+1222,Uttarakhand,2002,Escapees from Inside Prison,2,0,2
+1223,Uttarakhand,2002,Escapees from Outside Prison,1,0,1
+1224,Uttarakhand,2002,Escapees from Police Custody,3,0,3
+1225,Uttarakhand,2002,Re-arrested escapees,2,0,2
+1226,Uttarakhand,2003,Escapees from Inside Prison,0,0,0
+1227,Uttarakhand,2003,Escapees from Outside Prison,2,0,2
+1228,Uttarakhand,2003,Escapees from Police Custody,3,0,3
+1229,Uttarakhand,2003,Re-arrested escapees,1,0,1
+1230,Uttarakhand,2004,Escapees from Inside Prison,0,0,0
+1231,Uttarakhand,2004,Escapees from Outside Prison,0,0,0
+1232,Uttarakhand,2004,Escapees from Police Custody,6,0,6
+1233,Uttarakhand,2004,Re-arrested escapees,0,0,0
+1234,Uttarakhand,2005,Escapees from Inside Prison,0,0,0
+1235,Uttarakhand,2005,Escapees from Outside Prison,8,0,8
+1236,Uttarakhand,2005,Escapees from Police Custody,0,0,0
+1237,Uttarakhand,2005,Re-arrested escapees,0,0,0
+1238,Uttarakhand,2006,Escapees from Inside Prison,3,0,3
+1239,Uttarakhand,2006,Escapees from Outside Prison,5,0,5
+1240,Uttarakhand,2006,Escapees from Police Custody,6,0,6
+1241,Uttarakhand,2006,Re-arrested escapees,0,0,0
+1242,Uttarakhand,2007,Escapees from Inside Prison,0,0,0
+1243,Uttarakhand,2007,Escapees from Outside Prison,0,0,0
+1244,Uttarakhand,2007,Escapees from Police Custody,2,0,2
+1245,Uttarakhand,2007,Re-arrested escapees,0,0,0
+1246,Uttarakhand,2008,Escapees from Inside Prison,0,0,0
+1247,Uttarakhand,2008,Escapees from Outside Prison,1,0,1
+1248,Uttarakhand,2008,Escapees from Police Custody,4,0,4
+1249,Uttarakhand,2008,Re-arrested escapees,0,0,0
+1250,Uttarakhand,2009,Escapees from Inside Prison,1,0,1
+1251,Uttarakhand,2009,Escapees from Outside Prison,0,0,0
+1252,Uttarakhand,2009,Escapees from Police Custody,3,0,3
+1253,Uttarakhand,2009,Re-arrested escapees,0,0,0
+1254,Uttarakhand,2010,Escapees from Inside Prison,0,0,0
+1255,Uttarakhand,2010,Escapees from Outside Prison,3,0,3
+1256,Uttarakhand,2010,Escapees from Police Custody,0,0,0
+1257,Uttarakhand,2010,Re-arrested escapees,2,0,2
+1258,Uttarakhand,2011,Escapees from Inside Prison,2,0,2
+1259,Uttarakhand,2011,Escapees from Outside Prison,2,0,2
+1260,Uttarakhand,2011,Escapees from Police Custody,1,0,1
+1261,Uttarakhand,2011,Re-arrested escapees,1,0,1
+1262,Uttarakhand,2012,Escapees from Inside Prison,0,0,0
+1263,Uttarakhand,2012,Escapees from Outside Prison,0,0,0
+1264,Uttarakhand,2012,Escapees from Police Custody,0,0,0
+1265,Uttarakhand,2012,Re-arrested escapees,1,0,1
+1266,West Bengal,2001,Escapees from Inside Prison,4,0,4
+1267,West Bengal,2001,Escapees from Outside Prison,4,1,5
+1268,West Bengal,2001,Escapees from Police Custody,3,0,3
+1269,West Bengal,2001,Re-arrested escapees,0,0,0
+1270,West Bengal,2002,Escapees from Inside Prison,8,0,8
+1271,West Bengal,2002,Escapees from Outside Prison,3,0,3
+1272,West Bengal,2002,Escapees from Police Custody,1,1,2
+1273,West Bengal,2002,Re-arrested escapees,0,0,0
+1274,West Bengal,2003,Escapees from Inside Prison,13,0,13
+1275,West Bengal,2003,Escapees from Outside Prison,0,0,0
+1276,West Bengal,2003,Escapees from Police Custody,4,0,4
+1277,West Bengal,2003,Re-arrested escapees,0,0,0
+1278,West Bengal,2004,Escapees from Inside Prison,3,0,3
+1279,West Bengal,2004,Escapees from Outside Prison,1,0,1
+1280,West Bengal,2004,Escapees from Police Custody,2,0,2
+1281,West Bengal,2004,Re-arrested escapees,0,0,0
+1282,West Bengal,2005,Escapees from Inside Prison,0,0,0
+1283,West Bengal,2005,Escapees from Outside Prison,1,0,1
+1284,West Bengal,2005,Escapees from Police Custody,0,0,0
+1285,West Bengal,2005,Re-arrested escapees,1,0,1
+1286,West Bengal,2006,Escapees from Inside Prison,1,0,1
+1287,West Bengal,2006,Escapees from Outside Prison,3,0,3
+1288,West Bengal,2006,Escapees from Police Custody,2,0,2
+1289,West Bengal,2006,Re-arrested escapees,1,0,1
+1290,West Bengal,2007,Escapees from Inside Prison,4,0,4
+1291,West Bengal,2007,Escapees from Outside Prison,2,1,3
+1292,West Bengal,2007,Escapees from Police Custody,5,0,5
+1293,West Bengal,2007,Re-arrested escapees,1,1,2
+1294,West Bengal,2008,Escapees from Inside Prison,6,0,6
+1295,West Bengal,2008,Escapees from Outside Prison,8,2,10
+1296,West Bengal,2008,Escapees from Police Custody,2,0,2
+1297,West Bengal,2008,Re-arrested escapees,0,0,0
+1298,West Bengal,2009,Escapees from Inside Prison,1,0,1
+1299,West Bengal,2009,Escapees from Outside Prison,13,2,15
+1300,West Bengal,2009,Escapees from Police Custody,2,0,2
+1301,West Bengal,2009,Re-arrested escapees,4,0,4
+1302,West Bengal,2010,Escapees from Inside Prison,4,0,4
+1303,West Bengal,2010,Escapees from Outside Prison,5,1,6
+1304,West Bengal,2010,Escapees from Police Custody,0,0,0
+1305,West Bengal,2010,Re-arrested escapees,0,0,0
+1306,West Bengal,2011,Escapees from Inside Prison,3,0,3
+1307,West Bengal,2011,Escapees from Outside Prison,0,0,0
+1308,West Bengal,2011,Escapees from Police Custody,13,0,13
+1309,West Bengal,2011,Re-arrested escapees,1,0,1
+1310,West Bengal,2012,Escapees from Inside Prison,5,0,5
+1311,West Bengal,2012,Escapees from Outside Prison,0,0,0
+1312,West Bengal,2012,Escapees from Police Custody,7,0,7
+1313,West Bengal,2012,Re-arrested escapees,3,0,3
+1314,Andaman & Nicobar Islands,2001,Escapees from Inside Prison,0,0,0
+1315,Andaman & Nicobar Islands,2001,Escapees from Outside Prison,0,0,0
+1316,Andaman & Nicobar Islands,2001,Escapees from Police Custody,0,0,0
+1317,Andaman & Nicobar Islands,2001,Re-arrested escapees,0,0,0
+1318,Andaman & Nicobar Islands,2002,Escapees from Inside Prison,0,0,0
+1319,Andaman & Nicobar Islands,2002,Escapees from Outside Prison,0,0,0
+1320,Andaman & Nicobar Islands,2002,Escapees from Police Custody,0,0,0
+1321,Andaman & Nicobar Islands,2002,Re-arrested escapees,0,0,0
+1322,Andaman & Nicobar Islands,2003,Escapees from Inside Prison,0,0,0
+1323,Andaman & Nicobar Islands,2003,Escapees from Outside Prison,0,0,0
+1324,Andaman & Nicobar Islands,2003,Escapees from Police Custody,0,0,0
+1325,Andaman & Nicobar Islands,2003,Re-arrested escapees,0,0,0
+1326,Andaman & Nicobar Islands,2004,Escapees from Inside Prison,0,0,0
+1327,Andaman & Nicobar Islands,2004,Escapees from Outside Prison,0,0,0
+1328,Andaman & Nicobar Islands,2004,Escapees from Police Custody,0,0,0
+1329,Andaman & Nicobar Islands,2004,Re-arrested escapees,0,0,0
+1330,Andaman & Nicobar Islands,2005,Escapees from Inside Prison,0,0,0
+1331,Andaman & Nicobar Islands,2005,Escapees from Outside Prison,0,0,0
+1332,Andaman & Nicobar Islands,2005,Escapees from Police Custody,0,0,0
+1333,Andaman & Nicobar Islands,2005,Re-arrested escapees,0,0,0
+1334,Andaman & Nicobar Islands,2006,Escapees from Inside Prison,0,0,0
+1335,Andaman & Nicobar Islands,2006,Escapees from Outside Prison,0,0,0
+1336,Andaman & Nicobar Islands,2006,Escapees from Police Custody,0,0,0
+1337,Andaman & Nicobar Islands,2006,Re-arrested escapees,0,0,0
+1338,Andaman & Nicobar Islands,2007,Escapees from Inside Prison,0,0,0
+1339,Andaman & Nicobar Islands,2007,Escapees from Outside Prison,0,0,0
+1340,Andaman & Nicobar Islands,2007,Escapees from Police Custody,0,0,0
+1341,Andaman & Nicobar Islands,2007,Re-arrested escapees,0,0,0
+1342,Andaman & Nicobar Islands,2008,Escapees from Inside Prison,0,0,0
+1343,Andaman & Nicobar Islands,2008,Escapees from Outside Prison,0,0,0
+1344,Andaman & Nicobar Islands,2008,Escapees from Police Custody,0,0,0
+1345,Andaman & Nicobar Islands,2008,Re-arrested escapees,0,0,0
+1346,Andaman & Nicobar Islands,2009,Escapees from Inside Prison,0,0,0
+1347,Andaman & Nicobar Islands,2009,Escapees from Outside Prison,0,0,0
+1348,Andaman & Nicobar Islands,2009,Escapees from Police Custody,0,0,0
+1349,Andaman & Nicobar Islands,2009,Re-arrested escapees,0,0,0
+1350,Andaman & Nicobar Islands,2010,Escapees from Inside Prison,0,0,0
+1351,Andaman & Nicobar Islands,2010,Escapees from Outside Prison,0,0,0
+1352,Andaman & Nicobar Islands,2010,Escapees from Police Custody,3,0,3
+1353,Andaman & Nicobar Islands,2010,Re-arrested escapees,3,0,3
+1354,Andaman & Nicobar Islands,2011,Escapees from Inside Prison,0,0,0
+1355,Andaman & Nicobar Islands,2011,Escapees from Outside Prison,0,0,0
+1356,Andaman & Nicobar Islands,2011,Escapees from Police Custody,0,0,0
+1357,Andaman & Nicobar Islands,2011,Re-arrested escapees,0,0,0
+1358,Andaman & Nicobar Islands,2012,Escapees from Inside Prison,0,0,0
+1359,Andaman & Nicobar Islands,2012,Escapees from Outside Prison,0,0,0
+1360,Andaman & Nicobar Islands,2012,Escapees from Police Custody,0,0,0
+1361,Andaman & Nicobar Islands,2012,Re-arrested escapees,0,0,0
+1362,Chandigarh,2001,Escapees from Inside Prison,0,0,0
+1363,Chandigarh,2001,Escapees from Outside Prison,0,0,0
+1364,Chandigarh,2001,Escapees from Police Custody,1,0,1
+1365,Chandigarh,2001,Re-arrested escapees,0,0,0
+1366,Chandigarh,2002,Escapees from Inside Prison,0,0,0
+1367,Chandigarh,2002,Escapees from Outside Prison,1,0,1
+1368,Chandigarh,2002,Escapees from Police Custody,2,0,2
+1369,Chandigarh,2002,Re-arrested escapees,1,0,1
+1370,Chandigarh,2003,Escapees from Inside Prison,0,0,0
+1371,Chandigarh,2003,Escapees from Outside Prison,0,0,0
+1372,Chandigarh,2003,Escapees from Police Custody,2,0,2
+1373,Chandigarh,2003,Re-arrested escapees,0,0,0
+1374,Chandigarh,2004,Escapees from Inside Prison,4,0,4
+1375,Chandigarh,2004,Escapees from Outside Prison,0,0,0
+1376,Chandigarh,2004,Escapees from Police Custody,2,0,2
+1377,Chandigarh,2004,Re-arrested escapees,2,0,2
+1378,Chandigarh,2005,Escapees from Inside Prison,0,0,0
+1379,Chandigarh,2005,Escapees from Outside Prison,0,0,0
+1380,Chandigarh,2005,Escapees from Police Custody,1,0,1
+1381,Chandigarh,2005,Re-arrested escapees,2,0,2
+1382,Chandigarh,2006,Escapees from Inside Prison,0,0,0
+1383,Chandigarh,2006,Escapees from Outside Prison,0,0,0
+1384,Chandigarh,2006,Escapees from Police Custody,1,0,1
+1385,Chandigarh,2006,Re-arrested escapees,0,0,0
+1386,Chandigarh,2007,Escapees from Inside Prison,0,0,0
+1387,Chandigarh,2007,Escapees from Outside Prison,0,0,0
+1388,Chandigarh,2007,Escapees from Police Custody,0,0,0
+1389,Chandigarh,2007,Re-arrested escapees,0,0,0
+1390,Chandigarh,2008,Escapees from Inside Prison,0,0,0
+1391,Chandigarh,2008,Escapees from Outside Prison,0,0,0
+1392,Chandigarh,2008,Escapees from Police Custody,0,0,0
+1393,Chandigarh,2008,Re-arrested escapees,0,0,0
+1394,Chandigarh,2009,Escapees from Inside Prison,0,0,0
+1395,Chandigarh,2009,Escapees from Outside Prison,0,0,0
+1396,Chandigarh,2009,Escapees from Police Custody,0,0,0
+1397,Chandigarh,2009,Re-arrested escapees,0,0,0
+1398,Chandigarh,2010,Escapees from Inside Prison,0,0,0
+1399,Chandigarh,2010,Escapees from Outside Prison,0,0,0
+1400,Chandigarh,2010,Escapees from Police Custody,0,0,0
+1401,Chandigarh,2010,Re-arrested escapees,0,0,0
+1402,Chandigarh,2011,Escapees from Inside Prison,0,0,0
+1403,Chandigarh,2011,Escapees from Outside Prison,0,0,0
+1404,Chandigarh,2011,Escapees from Police Custody,1,0,1
+1405,Chandigarh,2011,Re-arrested escapees,0,0,0
+1406,Chandigarh,2012,Escapees from Inside Prison,0,0,0
+1407,Chandigarh,2012,Escapees from Outside Prison,0,0,0
+1408,Chandigarh,2012,Escapees from Police Custody,1,0,1
+1409,Chandigarh,2012,Re-arrested escapees,1,0,1
+1410,Dadra & Nagar Haveli,2001,Escapees from Inside Prison,0,0,0
+1411,Dadra & Nagar Haveli,2001,Escapees from Outside Prison,0,0,0
+1412,Dadra & Nagar Haveli,2001,Escapees from Police Custody,0,0,0
+1413,Dadra & Nagar Haveli,2001,Re-arrested escapees,0,0,0
+1414,Dadra & Nagar Haveli,2002,Escapees from Inside Prison,0,0,0
+1415,Dadra & Nagar Haveli,2002,Escapees from Outside Prison,0,0,0
+1416,Dadra & Nagar Haveli,2002,Escapees from Police Custody,0,0,0
+1417,Dadra & Nagar Haveli,2002,Re-arrested escapees,0,0,0
+1418,Dadra & Nagar Haveli,2003,Escapees from Inside Prison,0,0,0
+1419,Dadra & Nagar Haveli,2003,Escapees from Outside Prison,1,0,1
+1420,Dadra & Nagar Haveli,2003,Escapees from Police Custody,0,0,0
+1421,Dadra & Nagar Haveli,2003,Re-arrested escapees,0,0,0
+1422,Dadra & Nagar Haveli,2004,Escapees from Inside Prison,0,0,0
+1423,Dadra & Nagar Haveli,2004,Escapees from Outside Prison,0,0,0
+1424,Dadra & Nagar Haveli,2004,Escapees from Police Custody,0,0,0
+1425,Dadra & Nagar Haveli,2004,Re-arrested escapees,0,0,0
+1426,Dadra & Nagar Haveli,2005,Escapees from Inside Prison,0,0,0
+1427,Dadra & Nagar Haveli,2005,Escapees from Outside Prison,0,0,0
+1428,Dadra & Nagar Haveli,2005,Escapees from Police Custody,0,0,0
+1429,Dadra & Nagar Haveli,2005,Re-arrested escapees,0,0,0
+1430,Dadra & Nagar Haveli,2006,Escapees from Inside Prison,0,0,0
+1431,Dadra & Nagar Haveli,2006,Escapees from Outside Prison,0,0,0
+1432,Dadra & Nagar Haveli,2006,Escapees from Police Custody,0,0,0
+1433,Dadra & Nagar Haveli,2006,Re-arrested escapees,0,0,0
+1434,Dadra & Nagar Haveli,2007,Escapees from Inside Prison,0,0,0
+1435,Dadra & Nagar Haveli,2007,Escapees from Outside Prison,0,0,0
+1436,Dadra & Nagar Haveli,2007,Escapees from Police Custody,0,0,0
+1437,Dadra & Nagar Haveli,2007,Re-arrested escapees,0,0,0
+1438,Dadra & Nagar Haveli,2008,Escapees from Inside Prison,0,0,0
+1439,Dadra & Nagar Haveli,2008,Escapees from Outside Prison,0,0,0
+1440,Dadra & Nagar Haveli,2008,Escapees from Police Custody,0,0,0
+1441,Dadra & Nagar Haveli,2008,Re-arrested escapees,0,0,0
+1442,Dadra & Nagar Haveli,2009,Escapees from Inside Prison,0,0,0
+1443,Dadra & Nagar Haveli,2009,Escapees from Outside Prison,0,0,0
+1444,Dadra & Nagar Haveli,2009,Escapees from Police Custody,0,0,0
+1445,Dadra & Nagar Haveli,2009,Re-arrested escapees,0,0,0
+1446,Dadra & Nagar Haveli,2010,Escapees from Inside Prison,0,0,0
+1447,Dadra & Nagar Haveli,2010,Escapees from Outside Prison,0,0,0
+1448,Dadra & Nagar Haveli,2010,Escapees from Police Custody,0,0,0
+1449,Dadra & Nagar Haveli,2010,Re-arrested escapees,0,0,0
+1450,Dadra & Nagar Haveli,2011,Escapees from Inside Prison,0,0,0
+1451,Dadra & Nagar Haveli,2011,Escapees from Outside Prison,0,0,0
+1452,Dadra & Nagar Haveli,2011,Escapees from Police Custody,0,0,0
+1453,Dadra & Nagar Haveli,2011,Re-arrested escapees,0,0,0
+1454,Dadra & Nagar Haveli,2012,Escapees from Inside Prison,0,0,0
+1455,Dadra & Nagar Haveli,2012,Escapees from Outside Prison,0,0,0
+1456,Dadra & Nagar Haveli,2012,Escapees from Police Custody,0,0,0
+1457,Dadra & Nagar Haveli,2012,Re-arrested escapees,0,0,0
+1458,Daman & Diu,2001,Escapees from Inside Prison,0,0,0
+1459,Daman & Diu,2001,Escapees from Outside Prison,0,0,0
+1460,Daman & Diu,2001,Escapees from Police Custody,0,0,0
+1461,Daman & Diu,2001,Re-arrested escapees,0,0,0
+1462,Daman & Diu,2002,Escapees from Inside Prison,0,0,0
+1463,Daman & Diu,2002,Escapees from Outside Prison,0,0,0
+1464,Daman & Diu,2002,Escapees from Police Custody,0,0,0
+1465,Daman & Diu,2002,Re-arrested escapees,0,0,0
+1466,Daman & Diu,2003,Escapees from Inside Prison,0,0,0
+1467,Daman & Diu,2003,Escapees from Outside Prison,0,0,0
+1468,Daman & Diu,2003,Escapees from Police Custody,0,0,0
+1469,Daman & Diu,2003,Re-arrested escapees,0,0,0
+1470,Daman & Diu,2004,Escapees from Inside Prison,0,0,0
+1471,Daman & Diu,2004,Escapees from Outside Prison,0,0,0
+1472,Daman & Diu,2004,Escapees from Police Custody,0,0,0
+1473,Daman & Diu,2004,Re-arrested escapees,0,0,0
+1474,Daman & Diu,2005,Escapees from Inside Prison,0,0,0
+1475,Daman & Diu,2005,Escapees from Outside Prison,0,0,0
+1476,Daman & Diu,2005,Escapees from Police Custody,0,0,0
+1477,Daman & Diu,2005,Re-arrested escapees,0,0,0
+1478,Daman & Diu,2006,Escapees from Inside Prison,0,0,0
+1479,Daman & Diu,2006,Escapees from Outside Prison,0,0,0
+1480,Daman & Diu,2006,Escapees from Police Custody,0,0,0
+1481,Daman & Diu,2006,Re-arrested escapees,0,0,0
+1482,Daman & Diu,2007,Escapees from Inside Prison,0,0,0
+1483,Daman & Diu,2007,Escapees from Outside Prison,0,0,0
+1484,Daman & Diu,2007,Escapees from Police Custody,0,0,0
+1485,Daman & Diu,2007,Re-arrested escapees,0,0,0
+1486,Daman & Diu,2008,Escapees from Inside Prison,0,0,0
+1487,Daman & Diu,2008,Escapees from Outside Prison,0,0,0
+1488,Daman & Diu,2008,Escapees from Police Custody,0,0,0
+1489,Daman & Diu,2008,Re-arrested escapees,0,0,0
+1490,Daman & Diu,2009,Escapees from Inside Prison,0,0,0
+1491,Daman & Diu,2009,Escapees from Outside Prison,0,0,0
+1492,Daman & Diu,2009,Escapees from Police Custody,0,0,0
+1493,Daman & Diu,2009,Re-arrested escapees,0,0,0
+1494,Daman & Diu,2010,Escapees from Inside Prison,0,0,0
+1495,Daman & Diu,2010,Escapees from Outside Prison,0,0,0
+1496,Daman & Diu,2010,Escapees from Police Custody,0,0,0
+1497,Daman & Diu,2010,Re-arrested escapees,0,0,0
+1498,Daman & Diu,2011,Escapees from Inside Prison,0,0,0
+1499,Daman & Diu,2011,Escapees from Outside Prison,0,0,0
+1500,Daman & Diu,2011,Escapees from Police Custody,0,0,0
+1501,Daman & Diu,2011,Re-arrested escapees,0,0,0
+1502,Daman & Diu,2012,Escapees from Inside Prison,0,0,0
+1503,Daman & Diu,2012,Escapees from Outside Prison,0,0,0
+1504,Daman & Diu,2012,Escapees from Police Custody,0,0,0
+1505,Daman & Diu,2012,Re-arrested escapees,0,0,0
+1506,Delhi,2001,Escapees from Inside Prison,1,0,1
+1507,Delhi,2001,Escapees from Outside Prison,0,0,0
+1508,Delhi,2001,Escapees from Police Custody,1,0,1
+1509,Delhi,2001,Re-arrested escapees,0,0,0
+1510,Delhi,2002,Escapees from Inside Prison,0,0,0
+1511,Delhi,2002,Escapees from Outside Prison,0,0,0
+1512,Delhi,2002,Escapees from Police Custody,1,0,1
+1513,Delhi,2002,Re-arrested escapees,0,0,0
+1514,Delhi,2003,Escapees from Inside Prison,0,0,0
+1515,Delhi,2003,Escapees from Outside Prison,0,0,0
+1516,Delhi,2003,Escapees from Police Custody,2,0,2
+1517,Delhi,2003,Re-arrested escapees,0,0,0
+1518,Delhi,2004,Escapees from Inside Prison,1,0,1
+1519,Delhi,2004,Escapees from Outside Prison,2,0,2
+1520,Delhi,2004,Escapees from Police Custody,5,0,5
+1521,Delhi,2004,Re-arrested escapees,0,0,0
+1522,Delhi,2005,Escapees from Inside Prison,0,0,0
+1523,Delhi,2005,Escapees from Outside Prison,2,0,2
+1524,Delhi,2005,Escapees from Police Custody,14,0,14
+1525,Delhi,2005,Re-arrested escapees,10,0,10
+1526,Delhi,2006,Escapees from Inside Prison,0,0,0
+1527,Delhi,2006,Escapees from Outside Prison,0,0,0
+1528,Delhi,2006,Escapees from Police Custody,0,0,0
+1529,Delhi,2006,Re-arrested escapees,1,0,1
+1530,Delhi,2007,Escapees from Inside Prison,0,0,0
+1531,Delhi,2007,Escapees from Outside Prison,0,0,0
+1532,Delhi,2007,Escapees from Police Custody,4,1,5
+1533,Delhi,2007,Re-arrested escapees,0,0,0
+1534,Delhi,2008,Escapees from Inside Prison,0,0,0
+1535,Delhi,2008,Escapees from Outside Prison,0,0,0
+1536,Delhi,2008,Escapees from Police Custody,1,0,1
+1537,Delhi,2008,Re-arrested escapees,0,0,0
+1538,Delhi,2009,Escapees from Inside Prison,0,0,0
+1539,Delhi,2009,Escapees from Outside Prison,0,0,0
+1540,Delhi,2009,Escapees from Police Custody,1,0,1
+1541,Delhi,2009,Re-arrested escapees,1,0,1
+1542,Delhi,2010,Escapees from Inside Prison,0,0,0
+1543,Delhi,2010,Escapees from Outside Prison,0,0,0
+1544,Delhi,2010,Escapees from Police Custody,0,0,0
+1545,Delhi,2010,Re-arrested escapees,0,0,0
+1546,Delhi,2011,Escapees from Inside Prison,0,0,0
+1547,Delhi,2011,Escapees from Outside Prison,0,0,0
+1548,Delhi,2011,Escapees from Police Custody,1,0,1
+1549,Delhi,2011,Re-arrested escapees,0,0,0
+1550,Delhi,2012,Escapees from Inside Prison,0,0,0
+1551,Delhi,2012,Escapees from Outside Prison,0,0,0
+1552,Delhi,2012,Escapees from Police Custody,3,0,3
+1553,Delhi,2012,Re-arrested escapees,1,0,1
+1554,Lakshadweep,2001,Escapees from Inside Prison,0,0,0
+1555,Lakshadweep,2001,Escapees from Outside Prison,0,0,0
+1556,Lakshadweep,2001,Escapees from Police Custody,0,0,0
+1557,Lakshadweep,2001,Re-arrested escapees,0,0,0
+1558,Lakshadweep,2002,Escapees from Inside Prison,0,0,0
+1559,Lakshadweep,2002,Escapees from Outside Prison,0,0,0
+1560,Lakshadweep,2002,Escapees from Police Custody,0,0,0
+1561,Lakshadweep,2002,Re-arrested escapees,0,0,0
+1562,Lakshadweep,2003,Escapees from Inside Prison,0,0,0
+1563,Lakshadweep,2003,Escapees from Outside Prison,0,0,0
+1564,Lakshadweep,2003,Escapees from Police Custody,0,0,0
+1565,Lakshadweep,2003,Re-arrested escapees,0,0,0
+1566,Lakshadweep,2004,Escapees from Inside Prison,0,0,0
+1567,Lakshadweep,2004,Escapees from Outside Prison,0,0,0
+1568,Lakshadweep,2004,Escapees from Police Custody,0,0,0
+1569,Lakshadweep,2004,Re-arrested escapees,0,0,0
+1570,Lakshadweep,2005,Escapees from Inside Prison,0,0,0
+1571,Lakshadweep,2005,Escapees from Outside Prison,0,0,0
+1572,Lakshadweep,2005,Escapees from Police Custody,0,0,0
+1573,Lakshadweep,2005,Re-arrested escapees,0,0,0
+1574,Lakshadweep,2006,Escapees from Inside Prison,0,0,0
+1575,Lakshadweep,2006,Escapees from Outside Prison,0,0,0
+1576,Lakshadweep,2006,Escapees from Police Custody,0,0,0
+1577,Lakshadweep,2006,Re-arrested escapees,0,0,0
+1578,Lakshadweep,2007,Escapees from Inside Prison,0,0,0
+1579,Lakshadweep,2007,Escapees from Outside Prison,0,0,0
+1580,Lakshadweep,2007,Escapees from Police Custody,0,0,0
+1581,Lakshadweep,2007,Re-arrested escapees,0,0,0
+1582,Lakshadweep,2008,Escapees from Inside Prison,0,0,0
+1583,Lakshadweep,2008,Escapees from Outside Prison,0,0,0
+1584,Lakshadweep,2008,Escapees from Police Custody,0,0,0
+1585,Lakshadweep,2008,Re-arrested escapees,0,0,0
+1586,Lakshadweep,2009,Escapees from Inside Prison,0,0,0
+1587,Lakshadweep,2009,Escapees from Outside Prison,0,0,0
+1588,Lakshadweep,2009,Escapees from Police Custody,0,0,0
+1589,Lakshadweep,2009,Re-arrested escapees,0,0,0
+1590,Lakshadweep,2010,Escapees from Inside Prison,0,0,0
+1591,Lakshadweep,2010,Escapees from Outside Prison,0,0,0
+1592,Lakshadweep,2010,Escapees from Police Custody,0,0,0
+1593,Lakshadweep,2010,Re-arrested escapees,0,0,0
+1594,Lakshadweep,2011,Escapees from Inside Prison,0,0,0
+1595,Lakshadweep,2011,Escapees from Outside Prison,0,0,0
+1596,Lakshadweep,2011,Escapees from Police Custody,0,0,0
+1597,Lakshadweep,2011,Re-arrested escapees,0,0,0
+1598,Lakshadweep,2012,Escapees from Inside Prison,0,0,0
+1599,Lakshadweep,2012,Escapees from Outside Prison,0,0,0
+1600,Lakshadweep,2012,Escapees from Police Custody,0,0,0
+1601,Lakshadweep,2012,Re-arrested escapees,0,0,0
+1602,Puducherry,2001,Escapees from Inside Prison,1,0,1
+1603,Puducherry,2001,Escapees from Outside Prison,0,0,0
+1604,Puducherry,2001,Escapees from Police Custody,0,0,0
+1605,Puducherry,2001,Re-arrested escapees,0,0,0
+1606,Puducherry,2002,Escapees from Inside Prison,1,0,1
+1607,Puducherry,2002,Escapees from Outside Prison,0,0,0
+1608,Puducherry,2002,Escapees from Police Custody,0,0,0
+1609,Puducherry,2002,Re-arrested escapees,0,0,0
+1610,Puducherry,2003,Escapees from Inside Prison,1,0,1
+1611,Puducherry,2003,Escapees from Outside Prison,0,0,0
+1612,Puducherry,2003,Escapees from Police Custody,0,0,0
+1613,Puducherry,2003,Re-arrested escapees,0,0,0
+1614,Puducherry,2004,Escapees from Inside Prison,1,0,1
+1615,Puducherry,2004,Escapees from Outside Prison,0,0,0
+1616,Puducherry,2004,Escapees from Police Custody,0,0,0
+1617,Puducherry,2004,Re-arrested escapees,0,0,0
+1618,Puducherry,2005,Escapees from Inside Prison,0,0,0
+1619,Puducherry,2005,Escapees from Outside Prison,0,0,0
+1620,Puducherry,2005,Escapees from Police Custody,0,0,0
+1621,Puducherry,2005,Re-arrested escapees,0,0,0
+1622,Puducherry,2006,Escapees from Inside Prison,0,0,0
+1623,Puducherry,2006,Escapees from Outside Prison,0,0,0
+1624,Puducherry,2006,Escapees from Police Custody,0,0,0
+1625,Puducherry,2006,Re-arrested escapees,0,0,0
+1626,Puducherry,2007,Escapees from Inside Prison,0,0,0
+1627,Puducherry,2007,Escapees from Outside Prison,0,0,0
+1628,Puducherry,2007,Escapees from Police Custody,0,0,0
+1629,Puducherry,2007,Re-arrested escapees,0,0,0
+1630,Puducherry,2008,Escapees from Inside Prison,0,0,0
+1631,Puducherry,2008,Escapees from Outside Prison,0,0,0
+1632,Puducherry,2008,Escapees from Police Custody,0,0,0
+1633,Puducherry,2008,Re-arrested escapees,0,0,0
+1634,Puducherry,2009,Escapees from Inside Prison,0,0,0
+1635,Puducherry,2009,Escapees from Outside Prison,0,0,0
+1636,Puducherry,2009,Escapees from Police Custody,0,0,0
+1637,Puducherry,2009,Re-arrested escapees,0,0,0
+1638,Puducherry,2010,Escapees from Inside Prison,0,0,0
+1639,Puducherry,2010,Escapees from Outside Prison,0,0,0
+1640,Puducherry,2010,Escapees from Police Custody,0,0,0
+1641,Puducherry,2010,Re-arrested escapees,0,0,0
+1642,Puducherry,2011,Escapees from Inside Prison,0,0,0
+1643,Puducherry,2011,Escapees from Outside Prison,0,0,0
+1644,Puducherry,2011,Escapees from Police Custody,0,0,0
+1645,Puducherry,2011,Re-arrested escapees,0,0,0
+1646,Puducherry,2012,Escapees from Inside Prison,0,0,0
+1647,Puducherry,2012,Escapees from Outside Prison,0,0,0
+1648,Puducherry,2012,Escapees from Police Custody,0,0,0
+1649,Puducherry,2012,Re-arrested escapees,0,0,0
+1650,Andhra Pradesh,2013,Escapees from Inside Prison,4,0,4
+1651,Andhra Pradesh,2013,Escapees from Outside Prison,8,0,8
+1652,Andhra Pradesh,2013,Escapees from Police Custody,27,0,27
+1653,Andhra Pradesh,2013,Re-arrested escapees,0,0,0
+1654,Arunachal Pradesh,2013,Escapees from Inside Prison,0,0,0
+1655,Arunachal Pradesh,2013,Escapees from Outside Prison,0,0,0
+1656,Arunachal Pradesh,2013,Escapees from Police Custody,0,0,0
+1657,Arunachal Pradesh,2013,Re-arrested escapees,0,0,0
+1658,Assam,2013,Escapees from Inside Prison,8,0,8
+1659,Assam,2013,Escapees from Outside Prison,4,0,4
+1660,Assam,2013,Escapees from Police Custody,7,0,7
+1661,Assam,2013,Re-arrested escapees,3,0,3
+1662,Bihar,2013,Escapees from Inside Prison,4,0,4
+1663,Bihar,2013,Escapees from Outside Prison,8,0,8
+1664,Bihar,2013,Escapees from Police Custody,3,0,3
+1665,Bihar,2013,Re-arrested escapees,1,0,1
+1666,Chhattisgarh,2013,Escapees from Inside Prison,0,0,0
+1667,Chhattisgarh,2013,Escapees from Outside Prison,4,0,4
+1668,Chhattisgarh,2013,Escapees from Police Custody,6,0,6
+1669,Chhattisgarh,2013,Re-arrested escapees,1,0,1
+1670,Goa,2013,Escapees from Inside Prison,1,0,1
+1671,Goa,2013,Escapees from Outside Prison,0,0,0
+1672,Goa,2013,Escapees from Police Custody,0,0,0
+1673,Goa,2013,Re-arrested escapees,0,0,0
+1674,Gujarat,2013,Escapees from Inside Prison,3,0,3
+1675,Gujarat,2013,Escapees from Outside Prison,9,0,9
+1676,Gujarat,2013,Escapees from Police Custody,7,0,7
+1677,Gujarat,2013,Re-arrested escapees,16,0,16
+1678,Haryana,2013,Escapees from Inside Prison,0,0,0
+1679,Haryana,2013,Escapees from Outside Prison,1,0,1
+1680,Haryana,2013,Escapees from Police Custody,6,0,6
+1681,Haryana,2013,Re-arrested escapees,2,0,2
+1682,Himachal Pradesh,2013,Escapees from Inside Prison,0,0,0
+1683,Himachal Pradesh,2013,Escapees from Outside Prison,3,0,3
+1684,Himachal Pradesh,2013,Escapees from Police Custody,7,0,7
+1685,Himachal Pradesh,2013,Re-arrested escapees,6,0,6
+1686,Jammu & Kashmir,2013,Escapees from Inside Prison,0,0,0
+1687,Jammu & Kashmir,2013,Escapees from Outside Prison,0,0,0
+1688,Jammu & Kashmir,2013,Escapees from Police Custody,2,0,2
+1689,Jammu & Kashmir,2013,Re-arrested escapees,0,0,0
+1690,Jharkhand,2013,Escapees from Inside Prison,1,0,1
+1691,Jharkhand,2013,Escapees from Outside Prison,0,0,0
+1692,Jharkhand,2013,Escapees from Police Custody,0,0,0
+1693,Jharkhand,2013,Re-arrested escapees,0,0,0
+1694,Karnataka,2013,Escapees from Inside Prison,5,0,5
+1695,Karnataka,2013,Escapees from Outside Prison,0,0,0
+1696,Karnataka,2013,Escapees from Police Custody,4,0,4
+1697,Karnataka,2013,Re-arrested escapees,0,0,0
+1698,Kerala,2013,Escapees from Inside Prison,4,0,4
+1699,Kerala,2013,Escapees from Outside Prison,0,0,0
+1700,Kerala,2013,Escapees from Police Custody,9,0,9
+1701,Kerala,2013,Re-arrested escapees,5,0,5
+1702,Madhya Pradesh,2013,Escapees from Inside Prison,16,0,16
+1703,Madhya Pradesh,2013,Escapees from Outside Prison,4,0,4
+1704,Madhya Pradesh,2013,Escapees from Police Custody,13,0,13
+1705,Madhya Pradesh,2013,Re-arrested escapees,14,0,14
+1706,Maharashtra,2013,Escapees from Inside Prison,7,0,7
+1707,Maharashtra,2013,Escapees from Outside Prison,3,0,3
+1708,Maharashtra,2013,Escapees from Police Custody,15,0,15
+1709,Maharashtra,2013,Re-arrested escapees,9,0,9
+1710,Manipur,2013,Escapees from Inside Prison,0,0,0
+1711,Manipur,2013,Escapees from Outside Prison,0,0,0
+1712,Manipur,2013,Escapees from Police Custody,0,0,0
+1713,Manipur,2013,Re-arrested escapees,0,0,0
+1714,Meghalaya,2013,Escapees from Inside Prison,1,0,1
+1715,Meghalaya,2013,Escapees from Outside Prison,0,0,0
+1716,Meghalaya,2013,Escapees from Police Custody,0,0,0
+1717,Meghalaya,2013,Re-arrested escapees,1,0,1
+1718,Mizoram,2013,Escapees from Inside Prison,0,0,0
+1719,Mizoram,2013,Escapees from Outside Prison,2,0,2
+1720,Mizoram,2013,Escapees from Police Custody,2,0,2
+1721,Mizoram,2013,Re-arrested escapees,2,0,2
+1722,Nagaland,2013,Escapees from Inside Prison,0,0,0
+1723,Nagaland,2013,Escapees from Outside Prison,0,0,0
+1724,Nagaland,2013,Escapees from Police Custody,0,0,0
+1725,Nagaland,2013,Re-arrested escapees,0,0,0
+1726,Odisha,2013,Escapees from Inside Prison,10,0,10
+1727,Odisha,2013,Escapees from Outside Prison,0,0,0
+1728,Odisha,2013,Escapees from Police Custody,0,0,0
+1729,Odisha,2013,Re-arrested escapees,9,0,9
+1730,Punjab,2013,Escapees from Inside Prison,2,0,2
+1731,Punjab,2013,Escapees from Outside Prison,6,1,7
+1732,Punjab,2013,Escapees from Police Custody,34,0,34
+1733,Punjab,2013,Re-arrested escapees,18,0,18
+1734,Rajasthan,2013,Escapees from Inside Prison,11,0,11
+1735,Rajasthan,2013,Escapees from Outside Prison,10,0,10
+1736,Rajasthan,2013,Escapees from Police Custody,11,0,11
+1737,Rajasthan,2013,Re-arrested escapees,7,0,7
+1738,Sikkim,2013,Escapees from Inside Prison,0,0,0
+1739,Sikkim,2013,Escapees from Outside Prison,0,0,0
+1740,Sikkim,2013,Escapees from Police Custody,1,0,1
+1741,Sikkim,2013,Re-arrested escapees,1,0,1
+1742,Tamil Nadu,2013,Escapees from Inside Prison,5,0,5
+1743,Tamil Nadu,2013,Escapees from Outside Prison,0,0,0
+1744,Tamil Nadu,2013,Escapees from Police Custody,5,0,5
+1745,Tamil Nadu,2013,Re-arrested escapees,8,0,8
+1746,Tripura,2013,Escapees from Inside Prison,0,0,0
+1747,Tripura,2013,Escapees from Outside Prison,0,0,0
+1748,Tripura,2013,Escapees from Police Custody,0,0,0
+1749,Tripura,2013,Re-arrested escapees,0,0,0
+1750,Uttar Pradesh,2013,Escapees from Inside Prison,6,0,6
+1751,Uttar Pradesh,2013,Escapees from Outside Prison,7,0,7
+1752,Uttar Pradesh,2013,Escapees from Police Custody,59,0,59
+1753,Uttar Pradesh,2013,Re-arrested escapees,10,0,10
+1754,Uttarakhand,2013,Escapees from Inside Prison,0,0,0
+1755,Uttarakhand,2013,Escapees from Outside Prison,0,0,0
+1756,Uttarakhand,2013,Escapees from Police Custody,0,0,0
+1757,Uttarakhand,2013,Re-arrested escapees,0,0,0
+1758,West Bengal,2013,Escapees from Inside Prison,5,0,5
+1759,West Bengal,2013,Escapees from Outside Prison,0,0,0
+1760,West Bengal,2013,Escapees from Police Custody,19,0,19
+1761,West Bengal,2013,Re-arrested escapees,13,0,13
+1762,Andaman & Nicobar Islands,2013,Escapees from Inside Prison,3,0,3
+1763,Andaman & Nicobar Islands,2013,Escapees from Outside Prison,0,0,0
+1764,Andaman & Nicobar Islands,2013,Escapees from Police Custody,0,0,0
+1765,Andaman & Nicobar Islands,2013,Re-arrested escapees,3,0,3
+1766,Chandigarh,2013,Escapees from Inside Prison,0,0,0
+1767,Chandigarh,2013,Escapees from Outside Prison,1,0,1
+1768,Chandigarh,2013,Escapees from Police Custody,1,0,1
+1769,Chandigarh,2013,Re-arrested escapees,1,0,1
+1770,Dadra & Nagar Haveli,2013,Escapees from Inside Prison,0,0,0
+1771,Dadra & Nagar Haveli,2013,Escapees from Outside Prison,0,0,0
+1772,Dadra & Nagar Haveli,2013,Escapees from Police Custody,0,0,0
+1773,Dadra & Nagar Haveli,2013,Re-arrested escapees,0,0,0
+1774,Daman & Diu,2013,Escapees from Inside Prison,7,0,7
+1775,Daman & Diu,2013,Escapees from Outside Prison,0,0,0
+1776,Daman & Diu,2013,Escapees from Police Custody,1,0,1
+1777,Daman & Diu,2013,Re-arrested escapees,3,0,3
+1778,Delhi,2013,Escapees from Inside Prison,0,0,0
+1779,Delhi,2013,Escapees from Outside Prison,1,0,1
+1780,Delhi,2013,Escapees from Police Custody,3,0,3
+1781,Delhi,2013,Re-arrested escapees,2,0,2
+1782,Lakshadweep,2013,Escapees from Inside Prison,0,0,0
+1783,Lakshadweep,2013,Escapees from Outside Prison,0,0,0
+1784,Lakshadweep,2013,Escapees from Police Custody,0,0,0
+1785,Lakshadweep,2013,Re-arrested escapees,0,0,0
+1786,Puducherry,2013,Escapees from Inside Prison,0,0,0
+1787,Puducherry,2013,Escapees from Outside Prison,0,0,0
+1788,Puducherry,2013,Escapees from Police Custody,0,0,0
+1789,Puducherry,2013,Re-arrested escapees,0,0,0

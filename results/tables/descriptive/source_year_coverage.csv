@@ -1,0 +1,351 @@
+source,year,native_records,covered_states,reference_states,matched_reference_prisoners,population_coverage_fraction
+Age_group.csv,2001,528,33,34,260339,0.83006998581153246
+Age_group.csv,2002,544,34,34,322357,1
+Age_group.csv,2003,544,34,34,326519,1
+Age_group.csv,2004,528,33,34,330126,0.99618275692459968
+Age_group.csv,2005,544,34,34,358368,1
+Age_group.csv,2006,544,34,34,373271,1
+Age_group.csv,2007,544,34,34,376396,1
+Age_group.csv,2008,544,34,34,384753,1
+Age_group.csv,2009,560,35,35,376969,1
+Age_group.csv,2010,560,35,35,368998,1
+Age_group.csv,2011,560,35,35,372926,1
+Age_group.csv,2012,560,35,35,385135,1
+Age_group.csv,2013,544,34,35,389214,0.94471251868968331
+Caste.csv,2001,248,31,34,300582,0.95838155818068771
+Caste.csv,2002,256,32,34,309985,0.96162019127861342
+Caste.csv,2003,248,31,34,301550,0.92352971802559725
+Caste.csv,2004,256,32,34,316742,0.95579541991182626
+Caste.csv,2005,264,33,34,346051,0.96563030181266185
+Caste.csv,2006,264,33,34,359871,0.96410114903113286
+Caste.csv,2007,264,33,34,364791,0.9691681101818298
+Caste.csv,2008,264,33,34,373200,0.96997294368075104
+Caste.csv,2009,272,34,35,365723,0.97016730818714536
+Caste.csv,2010,272,34,35,358142,0.97057978634030539
+Caste.csv,2011,280,35,35,372926,1
+Caste.csv,2012,280,35,35,385135,1
+Caste.csv,2013,280,35,35,411992,1
+Death_sentence.csv,2001,33,33,34,313252,0.99877883527029832
+Death_sentence.csv,2002,34,34,34,322357,1
+Death_sentence.csv,2003,34,34,34,326519,1
+Death_sentence.csv,2004,34,34,34,331391,1
+Death_sentence.csv,2005,34,34,34,358368,1
+Death_sentence.csv,2006,34,34,34,373271,1
+Death_sentence.csv,2007,34,34,34,376396,1
+Death_sentence.csv,2008,34,34,34,384753,1
+Death_sentence.csv,2009,35,35,35,376969,1
+Death_sentence.csv,2010,35,35,35,368998,1
+Death_sentence.csv,2011,35,35,35,372926,1
+Death_sentence.csv,2012,35,35,35,385135,1
+Death_sentence.csv,2013,35,35,35,411992,1
+Domicile.csv,2001,198,33,34,302612,0.96485405009007286
+Domicile.csv,2002,204,34,34,322357,1
+Domicile.csv,2003,198,33,34,315617,0.96661143761925028
+Domicile.csv,2004,204,34,34,331391,1
+Domicile.csv,2005,204,34,34,358368,1
+Domicile.csv,2006,204,34,34,373271,1
+Domicile.csv,2007,204,34,34,376396,1
+Domicile.csv,2008,204,34,34,384753,1
+Domicile.csv,2009,210,35,35,376969,1
+Domicile.csv,2010,210,35,35,368998,1
+Domicile.csv,2011,210,35,35,372926,1
+Domicile.csv,2012,210,35,35,385135,1
+Domicile.csv,2013,210,35,35,411992,1
+Education.csv,2001,408,34,34,313635,1
+Education.csv,2002,396,33,34,300462,0.93207840996162639
+Education.csv,2003,396,33,34,315617,0.96661143761925028
+Education.csv,2004,408,34,34,331391,1
+Education.csv,2005,408,34,34,358368,1
+Education.csv,2006,408,34,34,373271,1
+Education.csv,2007,408,34,34,376396,1
+Education.csv,2008,408,34,34,384753,1
+Education.csv,2009,420,35,35,376969,1
+Education.csv,2010,408,34,35,344717,0.93419747532506947
+Education.csv,2011,420,35,35,372926,1
+Education.csv,2012,420,35,35,385135,1
+Education.csv,2013,420,35,35,411992,1
+Education_facilities.csv,2001,33,33,34,313252,0.99877883527029832
+Education_facilities.csv,2002,33,33,34,322026,0.99897318811131752
+Education_facilities.csv,2003,34,34,34,326519,1
+Education_facilities.csv,2004,34,34,34,331391,1
+Education_facilities.csv,2005,34,34,34,358368,1
+Education_facilities.csv,2006,34,34,34,373271,1
+Education_facilities.csv,2007,34,34,34,376396,1
+Education_facilities.csv,2008,34,34,34,384753,1
+Education_facilities.csv,2009,35,35,35,376969,1
+Education_facilities.csv,2010,35,35,35,368998,1
+Education_facilities.csv,2011,35,35,35,372926,1
+Education_facilities.csv,2012,35,35,35,385135,1
+Education_facilities.csv,2013,35,35,35,411992,1
+IPC_crime_inmates_convicted.csv,2001,714,34,34,313635,1
+IPC_crime_inmates_convicted.csv,2002,714,34,34,322357,1
+IPC_crime_inmates_convicted.csv,2003,693,33,34,314347,0.96272192429843284
+IPC_crime_inmates_convicted.csv,2004,714,34,34,331391,1
+IPC_crime_inmates_convicted.csv,2005,693,33,34,349855,0.9762450888472185
+IPC_crime_inmates_convicted.csv,2006,714,34,34,373271,1
+IPC_crime_inmates_convicted.csv,2007,714,34,34,376396,1
+IPC_crime_inmates_convicted.csv,2008,714,34,34,384753,1
+IPC_crime_inmates_convicted.csv,2009,735,35,35,376969,1
+IPC_crime_inmates_convicted.csv,2010,735,35,35,368998,1
+IPC_crime_inmates_convicted.csv,2011,735,35,35,372926,1
+IPC_crime_inmates_convicted.csv,2012,735,35,35,385135,1
+IPC_crime_inmates_convicted.csv,2013,735,35,35,411992,1
+IPC_crime_inmates_under_trial.csv,2001,714,34,34,313635,1
+IPC_crime_inmates_under_trial.csv,2002,714,34,34,322357,1
+IPC_crime_inmates_under_trial.csv,2003,714,34,34,326519,1
+IPC_crime_inmates_under_trial.csv,2004,693,33,34,330964,0.99871149186308616
+IPC_crime_inmates_under_trial.csv,2005,693,33,34,346141,0.96588144030717027
+IPC_crime_inmates_under_trial.csv,2006,714,34,34,373271,1
+IPC_crime_inmates_under_trial.csv,2007,714,34,34,376396,1
+IPC_crime_inmates_under_trial.csv,2008,714,34,34,384753,1
+IPC_crime_inmates_under_trial.csv,2009,735,35,35,376969,1
+IPC_crime_inmates_under_trial.csv,2010,735,35,35,368998,1
+IPC_crime_inmates_under_trial.csv,2011,735,35,35,372926,1
+IPC_crime_inmates_under_trial.csv,2012,735,35,35,385135,1
+IPC_crime_inmates_under_trial.csv,2013,735,35,35,411992,1
+Inmates_death.csv,2001,272,34,34,313635,1
+Inmates_death.csv,2002,272,34,34,322357,1
+Inmates_death.csv,2003,272,34,34,326519,1
+Inmates_death.csv,2004,272,34,34,331391,1
+Inmates_death.csv,2005,272,34,34,358368,1
+Inmates_death.csv,2006,272,34,34,373271,1
+Inmates_death.csv,2007,272,34,34,376396,1
+Inmates_death.csv,2008,272,34,34,384753,1
+Inmates_death.csv,2009,280,35,35,376969,1
+Inmates_death.csv,2010,280,35,35,368998,1
+Inmates_death.csv,2011,280,35,35,372926,1
+Inmates_death.csv,2012,280,35,35,385135,1
+Inmates_death.csv,2013,280,35,35,411992,1
+Inmates_escapee.csv,2001,136,34,34,313635,1
+Inmates_escapee.csv,2002,136,34,34,322357,1
+Inmates_escapee.csv,2003,136,34,34,326519,1
+Inmates_escapee.csv,2004,136,34,34,331391,1
+Inmates_escapee.csv,2005,136,34,34,358368,1
+Inmates_escapee.csv,2006,136,34,34,373271,1
+Inmates_escapee.csv,2007,136,34,34,376396,1
+Inmates_escapee.csv,2008,136,34,34,384753,1
+Inmates_escapee.csv,2009,140,35,35,376969,1
+Inmates_escapee.csv,2010,140,35,35,368998,1
+Inmates_escapee.csv,2011,140,35,35,372926,1
+Inmates_escapee.csv,2012,140,35,35,385135,1
+Inmates_escapee.csv,2013,140,35,35,411992,1
+Jail wise population of prison inmates.csv,2001,272,34,34,313635,1
+Jail wise population of prison inmates.csv,2002,272,34,34,322357,1
+Jail wise population of prison inmates.csv,2003,272,34,34,326519,1
+Jail wise population of prison inmates.csv,2004,272,34,34,331391,1
+Jail wise population of prison inmates.csv,2005,272,34,34,358368,1
+Jail wise population of prison inmates.csv,2006,272,34,34,373271,1
+Jail wise population of prison inmates.csv,2007,272,34,34,376396,1
+Jail wise population of prison inmates.csv,2008,272,34,34,384753,1
+Jail wise population of prison inmates.csv,2009,280,35,35,376969,1
+Jail wise population of prison inmates.csv,2010,280,35,35,368998,1
+Jail wise population of prison inmates.csv,2011,280,35,35,372926,1
+Jail wise population of prison inmates.csv,2012,280,35,35,385135,1
+Jail wise population of prison inmates.csv,2013,280,35,35,411992,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2001,102,34,34,313635,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2002,102,34,34,322357,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2003,102,34,34,326519,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2004,102,34,34,331391,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2005,102,34,34,358368,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2006,102,34,34,373271,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2007,102,34,34,376396,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2008,102,34,34,384753,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2009,105,35,35,376969,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2010,105,35,35,368998,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2011,105,35,35,372926,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2012,105,35,35,385135,1
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,2013,105,35,35,411992,1
+Other Prison data/Inmates_released.csv,2001,578,34,34,313635,1
+Other Prison data/Inmates_released.csv,2002,578,34,34,322357,1
+Other Prison data/Inmates_released.csv,2003,578,34,34,326519,1
+Other Prison data/Inmates_released.csv,2004,578,34,34,331391,1
+Other Prison data/Inmates_released.csv,2005,578,34,34,358368,1
+Other Prison data/Inmates_released.csv,2006,578,34,34,373271,1
+Other Prison data/Inmates_released.csv,2007,578,34,34,376396,1
+Other Prison data/Inmates_released.csv,2008,578,34,34,384753,1
+Other Prison data/Inmates_released.csv,2009,595,35,35,376969,1
+Other Prison data/Inmates_released.csv,2010,595,35,35,368998,1
+Other Prison data/Inmates_released.csv,2011,595,35,35,372926,1
+Other Prison data/Inmates_released.csv,2012,595,35,35,385135,1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2001,34,34,34,313635,1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2002,32,32,34,321168,0.99631154279261813
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2003,32,32,34,293815,0.89984043807557901
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2004,33,33,34,310289,0.93632295385209618
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2005,33,33,34,337687,0.94229116438967764
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2006,34,34,34,373271,1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2007,33,33,34,358460,0.95234805895918129
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2008,34,34,34,384753,1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2009,35,35,35,376969,1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2010,35,35,35,368998,1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2011,35,35,35,372926,1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2012,35,35,35,385135,1
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,2013,35,35,35,411992,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2001,34,34,34,313635,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2002,33,33,34,322026,0.99897318811131752
+Other Prison data/Number_of_women_prisoners_with_children.csv,2003,34,34,34,326519,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2004,34,34,34,331391,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2005,34,34,34,358368,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2006,34,34,34,373271,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2007,34,34,34,376396,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2008,34,34,34,384753,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2009,35,35,35,376969,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2010,35,35,35,368998,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2011,35,35,35,372926,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2012,35,35,35,385135,1
+Other Prison data/Number_of_women_prisoners_with_children.csv,2013,34,34,35,411331,0.99839559991456139
+Other Prison data/Period_of_detention_of_undertrials.csv,2001,238,34,34,313635,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2002,238,34,34,322357,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2003,238,34,34,326519,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2004,238,34,34,331391,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2005,238,34,34,358368,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2006,238,34,34,373271,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2007,238,34,34,376396,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2008,238,34,34,384753,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2009,245,35,35,376969,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2010,245,35,35,368998,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2011,245,35,35,372926,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2012,245,35,35,385135,1
+Other Prison data/Period_of_detention_of_undertrials.csv,2013,245,35,35,411992,1
+Other Prison data/Population_and_capacity_of_jails.csv,2001,272,34,34,313635,1
+Other Prison data/Population_and_capacity_of_jails.csv,2002,272,34,34,322357,1
+Other Prison data/Population_and_capacity_of_jails.csv,2003,272,34,34,326519,1
+Other Prison data/Population_and_capacity_of_jails.csv,2004,272,34,34,331391,1
+Other Prison data/Population_and_capacity_of_jails.csv,2005,272,34,34,358368,1
+Other Prison data/Population_and_capacity_of_jails.csv,2006,272,34,34,373271,1
+Other Prison data/Population_and_capacity_of_jails.csv,2007,272,34,34,376396,1
+Other Prison data/Population_and_capacity_of_jails.csv,2008,272,34,34,384753,1
+Other Prison data/Population_and_capacity_of_jails.csv,2009,280,35,35,376969,1
+Other Prison data/Population_and_capacity_of_jails.csv,2010,280,35,35,368998,1
+Other Prison data/Population_and_capacity_of_jails.csv,2011,280,35,35,372926,1
+Other Prison data/Population_and_capacity_of_jails.csv,2012,280,35,35,385135,1
+Other Prison data/Population_and_capacity_of_jails.csv,2013,280,35,35,411992,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2001,680,34,34,313635,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2002,680,34,34,322357,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2003,680,34,34,326519,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2004,680,34,34,331391,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2005,680,34,34,358368,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2006,680,34,34,373271,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2007,680,34,34,376396,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2008,680,34,34,384753,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2009,700,35,35,376969,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2010,700,35,35,368998,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2011,700,35,35,372926,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2012,700,35,35,385135,1
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,2013,700,35,35,411992,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2001,680,34,34,313635,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2002,680,34,34,322357,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2003,680,34,34,326519,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2004,680,34,34,331391,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2005,680,34,34,358368,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2006,680,34,34,373271,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2007,680,34,34,376396,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2008,680,34,34,384753,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2009,700,35,35,376969,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2010,700,35,35,368998,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2011,700,35,35,372926,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2012,700,35,35,385135,1
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,2013,700,35,35,411992,1
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2001,126,25,34,246594,0.78624515758764169
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2002,128,24,34,306373,0.95041522287401858
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2003,136,25,34,311239,0.95320333579362915
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2004,144,25,34,316711,0.955701874824603
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2005,117,23,34,311474,0.86914568265023662
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2006,95,27,34,371575,0.99545638423558214
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2007,141,26,34,356593,0.94738785746926113
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2008,129,27,34,364858,0.94829150130083462
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2009,153,34,35,376700,0.9992864134716648
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2010,120,31,35,336902,0.91301849874525065
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2011,172,28,35,371346,0.99576323452910231
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2012,151,33,35,352589,0.91549456684019892
+Other Prison data/Value_of_goods_produced_by_inmates.csv,2013,142,28,35,359186,0.87182760830307382
+Recidivism.csv,2001,34,34,34,313635,1
+Recidivism.csv,2002,34,34,34,322357,1
+Recidivism.csv,2003,34,34,34,326519,1
+Recidivism.csv,2004,34,34,34,331391,1
+Recidivism.csv,2005,34,34,34,358368,1
+Recidivism.csv,2006,34,34,34,373271,1
+Recidivism.csv,2007,34,34,34,376396,1
+Recidivism.csv,2008,34,34,34,384753,1
+Recidivism.csv,2009,35,35,35,376969,1
+Recidivism.csv,2010,35,35,35,368998,1
+Recidivism.csv,2011,35,35,35,372926,1
+Recidivism.csv,2012,35,35,35,385135,1
+Recidivism.csv,2013,35,35,35,411992,1
+Rehabilitation.csv,2001,33,33,34,313252,0.99877883527029832
+Rehabilitation.csv,2002,33,33,34,322026,0.99897318811131752
+Rehabilitation.csv,2003,34,34,34,326519,1
+Rehabilitation.csv,2004,34,34,34,331391,1
+Rehabilitation.csv,2005,34,34,34,358368,1
+Rehabilitation.csv,2006,34,34,34,373271,1
+Rehabilitation.csv,2007,34,34,34,376396,1
+Rehabilitation.csv,2008,34,34,34,384753,1
+Rehabilitation.csv,2009,35,35,35,376969,1
+Rehabilitation.csv,2010,35,35,35,368998,1
+Rehabilitation.csv,2011,35,35,35,372926,1
+Rehabilitation.csv,2012,35,35,35,385135,1
+Rehabilitation.csv,2013,35,35,35,411992,1
+Religion.csv,2001,340,34,34,313635,1
+Religion.csv,2002,340,34,34,322357,1
+Religion.csv,2003,330,33,34,315617,0.96661143761925028
+Religion.csv,2004,340,34,34,331391,1
+Religion.csv,2005,340,34,34,358368,1
+Religion.csv,2006,340,34,34,373271,1
+Religion.csv,2007,340,34,34,376396,1
+Religion.csv,2008,340,34,34,384753,1
+Religion.csv,2009,350,35,35,376969,1
+Religion.csv,2010,350,35,35,368998,1
+Religion.csv,2011,350,35,35,372926,1
+Religion.csv,2012,350,35,35,385135,1
+Religion.csv,2013,350,35,35,411992,1
+Sentence_period.csv,2001,680,34,34,313635,1
+Sentence_period.csv,2002,680,34,34,322357,1
+Sentence_period.csv,2003,680,34,34,326519,1
+Sentence_period.csv,2004,680,34,34,331391,1
+Sentence_period.csv,2005,680,34,34,358368,1
+Sentence_period.csv,2006,680,34,34,373271,1
+Sentence_period.csv,2007,680,34,34,376396,1
+Sentence_period.csv,2008,680,34,34,384753,1
+Sentence_period.csv,2009,700,35,35,376969,1
+Sentence_period.csv,2010,700,35,35,368998,1
+Sentence_period.csv,2011,700,35,35,372926,1
+Sentence_period.csv,2012,700,35,35,385135,1
+Sentence_period.csv,2013,700,35,35,411992,1
+Tranquillity.csv,2001,102,34,34,313635,1
+Tranquillity.csv,2002,102,34,34,322357,1
+Tranquillity.csv,2003,102,34,34,326519,1
+Tranquillity.csv,2004,102,34,34,331391,1
+Tranquillity.csv,2005,99,33,34,337687,0.94229116438967764
+Tranquillity.csv,2006,99,33,34,371901,0.99632974434124266
+Tranquillity.csv,2007,102,34,34,376396,1
+Tranquillity.csv,2008,102,34,34,384753,1
+Tranquillity.csv,2009,105,35,35,376969,1
+Tranquillity.csv,2010,105,35,35,368998,1
+Tranquillity.csv,2011,105,35,35,372926,1
+Tranquillity.csv,2012,105,35,35,385135,1
+Tranquillity.csv,2013,105,35,35,411992,1
+Vocational_training.csv,2001,201,26,34,277402,0.88447399046662523
+Vocational_training.csv,2002,220,27,34,308602,0.95732991683133917
+Vocational_training.csv,2003,210,28,34,314308,0.96260248255078573
+Vocational_training.csv,2004,189,28,34,299488,0.90373003491344062
+Vocational_training.csv,2005,273,29,34,356359,0.99439403071702825
+Vocational_training.csv,2006,285,29,34,372112,0.99689501729306584
+Vocational_training.csv,2007,248,27,34,338592,0.89956322596414418
+Vocational_training.csv,2008,259,29,34,365777,0.95068004667929817
+Vocational_training.csv,2009,340,34,35,376437,0.99858874337147085
+Vocational_training.csv,2010,246,31,35,326567,0.885010216857544
+Vocational_training.csv,2011,345,29,35,355504,0.95328295694051901
+Vocational_training.csv,2012,395,32,35,312725,0.81198800420631723
+Vocational_training.csv,2013,308,27,35,262532,0.63722596555272915
+Wages.csv,2001,33,33,34,313252,0.99877883527029832
+Wages.csv,2002,33,33,34,322026,0.99897318811131752
+Wages.csv,2003,34,34,34,326519,1
+Wages.csv,2004,34,34,34,331391,1
+Wages.csv,2005,34,34,34,358368,1
+Wages.csv,2006,34,34,34,373271,1
+Wages.csv,2007,34,34,34,376396,1
+Wages.csv,2008,34,34,34,384753,1
+Wages.csv,2009,35,35,35,376969,1
+Wages.csv,2010,35,35,35,368998,1
+Wages.csv,2011,35,35,35,372926,1
+Wages.csv,2012,35,35,35,385135,1
+Wages.csv,2013,35,35,35,411992,1

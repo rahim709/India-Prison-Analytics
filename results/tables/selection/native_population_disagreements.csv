@@ -1,0 +1,9 @@
+state,year,jail_type,population_field,capacity_field,population_value,capacity_value
+Punjab,2007,Central Jail,Grand_Total,Total Inmate population,11252,11245
+Punjab,2007,District Jail,Grand_Total,Total Inmate population,2703,2710
+Odisha,2005,District Jail,Total_Male,Male Inmate population,6678,6706
+Odisha,2005,Sub Jail,Total_Male,Male Inmate population,5282,5254
+Punjab,2007,Central Jail,Total_Male,Male Inmate population,10740,10733
+Punjab,2007,District Jail,Total_Male,Male Inmate population,2594,2601
+Odisha,2005,District Jail,Total_Female,Female Inmate population,186,158
+Odisha,2005,Sub Jail,Total_Female,Female Inmate population,195,223

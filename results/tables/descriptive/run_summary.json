@@ -1,0 +1,15 @@
+{
+  "descriptive_sources": 27,
+  "reference_state_years": 447,
+  "balanced_states": 34,
+  "balanced_state_years": 442,
+  "profile_state_years": 437,
+  "common_demographic_state_years": 426,
+  "numeric_summary_rows": 131,
+  "stratified_summary_rows": 2659,
+  "tables_generated": 22,
+  "recidivism_invalid_count_pairs": 1,
+  "upstream_files_verified": 85,
+  "upstream_unchanged": true,
+  "visualization_or_mining_started": false
+}

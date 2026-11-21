@@ -1,0 +1,625 @@
+source,dimension,year,gender,category,prisoners,gender_population,covered_states,share_within_gender
+Age_group.csv,age_group,2001,Female,age_16_18,54,9764,33,0.0055305202785743551
+Age_group.csv,age_group,2001,Female,age_18_30,3445,9764,33,0.35282671036460467
+Age_group.csv,age_group,2001,Female,age_30_50,4912,9764,33,0.5030725112658746
+Age_group.csv,age_group,2001,Female,age_50_above,1353,9764,33,0.13857025809094634
+Age_group.csv,age_group,2001,Male,age_16_18,4597,250575,33,0.018345804649306595
+Age_group.csv,age_group,2001,Male,age_18_30,113745,250575,33,0.45393594732116133
+Age_group.csv,age_group,2001,Male,age_30_50,107999,250575,33,0.43100468921480595
+Age_group.csv,age_group,2001,Male,age_50_above,24234,250575,33,0.096713558814726125
+Age_group.csv,age_group,2002,Female,age_16_18,82,12047,34,0.0068066738607122108
+Age_group.csv,age_group,2002,Female,age_18_30,4393,12047,34,0.36465510085498465
+Age_group.csv,age_group,2002,Female,age_30_50,6131,12047,34,0.50892338341495813
+Age_group.csv,age_group,2002,Female,age_50_above,1441,12047,34,0.11961484186934507
+Age_group.csv,age_group,2002,Male,age_16_18,3795,310310,34,0.012229705778092875
+Age_group.csv,age_group,2002,Male,age_18_30,142813,310310,34,0.46022686990428924
+Age_group.csv,age_group,2002,Male,age_30_50,131050,310310,34,0.42231961586800298
+Age_group.csv,age_group,2002,Male,age_50_above,32652,310310,34,0.1052238084496149
+Age_group.csv,age_group,2003,Female,age_16_18,16,12780,34,0.0012519561815336462
+Age_group.csv,age_group,2003,Female,age_18_30,4226,12780,34,0.33067292644757434
+Age_group.csv,age_group,2003,Female,age_30_50,7026,12780,34,0.54976525821596245
+Age_group.csv,age_group,2003,Female,age_50_above,1512,12780,34,0.11830985915492957
+Age_group.csv,age_group,2003,Male,age_16_18,2136,313739,34,0.0068082068215937451
+Age_group.csv,age_group,2003,Male,age_18_30,137136,313739,34,0.43710217728749057
+Age_group.csv,age_group,2003,Male,age_30_50,139765,313739,34,0.44548175394197087
+Age_group.csv,age_group,2003,Male,age_50_above,34702,313739,34,0.11060786194894483
+Age_group.csv,age_group,2004,Female,age_16_18,26,12946,33,0.0020083423451259077
+Age_group.csv,age_group,2004,Female,age_18_30,4184,12946,33,0.32318862969256912
+Age_group.csv,age_group,2004,Female,age_30_50,6987,12946,33,0.53970338328441214
+Age_group.csv,age_group,2004,Female,age_50_above,1749,12946,33,0.13509964467789279
+Age_group.csv,age_group,2004,Male,age_16_18,996,317180,33,0.003140172772558169
+Age_group.csv,age_group,2004,Male,age_18_30,136412,317180,33,0.43007755848414148
+Age_group.csv,age_group,2004,Male,age_30_50,144175,317180,33,0.45455261996342772
+Age_group.csv,age_group,2004,Male,age_50_above,35597,317180,33,0.11222964877987263
+Age_group.csv,age_group,2005,Female,age_16_18,12,13986,34,0.00085800085800085801
+Age_group.csv,age_group,2005,Female,age_18_30,4964,13986,34,0.35492635492635494
+Age_group.csv,age_group,2005,Female,age_30_50,6954,13986,34,0.49721149721149721
+Age_group.csv,age_group,2005,Female,age_50_above,2056,13986,34,0.14700414700414702
+Age_group.csv,age_group,2005,Male,age_16_18,1358,344382,34,0.0039432955264793162
+Age_group.csv,age_group,2005,Male,age_18_30,149593,344382,34,0.434381007137423
+Age_group.csv,age_group,2005,Male,age_30_50,152766,344382,34,0.44359461295886543
+Age_group.csv,age_group,2005,Male,age_50_above,40665,344382,34,0.11808108437723226
+Age_group.csv,age_group,2006,Female,age_16_18,14,14657,34,0.00095517500170566962
+Age_group.csv,age_group,2006,Female,age_18_30,4807,14657,34,0.32796615951422531
+Age_group.csv,age_group,2006,Female,age_30_50,7575,14657,34,0.51681790270860339
+Age_group.csv,age_group,2006,Female,age_50_above,2261,14657,34,0.15426076277546566
+Age_group.csv,age_group,2006,Male,age_16_18,649,358614,34,0.0018097452971718895
+Age_group.csv,age_group,2006,Male,age_18_30,150057,358614,34,0.41843597851729158
+Age_group.csv,age_group,2006,Male,age_30_50,163942,358614,34,0.45715448922797214
+Age_group.csv,age_group,2006,Male,age_50_above,43966,358614,34,0.12259978695756441
+Age_group.csv,age_group,2007,Female,age_16_18,47,15401,34,0.0030517498863710151
+Age_group.csv,age_group,2007,Female,age_18_30,5731,15401,34,0.37211869359132521
+Age_group.csv,age_group,2007,Female,age_30_50,7461,15401,34,0.48444906174923708
+Age_group.csv,age_group,2007,Female,age_50_above,2162,15401,34,0.14038049477306669
+Age_group.csv,age_group,2007,Male,age_16_18,448,360995,34,0.0012410144184822505
+Age_group.csv,age_group,2007,Male,age_18_30,156998,360995,34,0.43490353051981329
+Age_group.csv,age_group,2007,Male,age_30_50,163413,360995,34,0.45267385974874996
+Age_group.csv,age_group,2007,Male,age_50_above,40136,360995,34,0.11118159531295448
+Age_group.csv,age_group,2008,Female,age_16_18,8,15929,34,0.00050222863958817253
+Age_group.csv,age_group,2008,Female,age_18_30,5356,15929,34,0.33624207420428148
+Age_group.csv,age_group,2008,Female,age_30_50,8126,15929,34,0.51013874066168619
+Age_group.csv,age_group,2008,Female,age_50_above,2439,15929,34,0.1531169564944441
+Age_group.csv,age_group,2008,Male,age_16_18,166,368824,34,0.00045007917055289243
+Age_group.csv,age_group,2008,Male,age_18_30,154724,368824,34,0.41950632279895017
+Age_group.csv,age_group,2008,Male,age_30_50,169233,368824,34,0.4588448690974557
+Age_group.csv,age_group,2008,Male,age_50_above,44701,368824,34,0.12119872893304123
+Age_group.csv,age_group,2009,Female,age_16_18,4,15406,35,0.00025963910164870832
+Age_group.csv,age_group,2009,Female,age_18_30,5368,15406,35,0.34843567441256651
+Age_group.csv,age_group,2009,Female,age_30_50,7607,15406,35,0.49376866156043098
+Age_group.csv,age_group,2009,Female,age_50_above,2427,15406,35,0.15753602492535376
+Age_group.csv,age_group,2009,Male,age_16_18,60,361563,35,0.00016594618365264145
+Age_group.csv,age_group,2009,Male,age_18_30,157830,361563,35,0.43652143609827332
+Age_group.csv,age_group,2009,Male,age_30_50,158671,361563,35,0.43884744843913787
+Age_group.csv,age_group,2009,Male,age_50_above,45002,361563,35,0.12446516927893618
+Age_group.csv,age_group,2010,Female,age_16_18,8,15037,35,0.00053202101483008576
+Age_group.csv,age_group,2010,Female,age_18_30,5083,15037,35,0.33803285229766578
+Age_group.csv,age_group,2010,Female,age_30_50,7474,15037,35,0.49704063310500762
+Age_group.csv,age_group,2010,Female,age_50_above,2472,15037,35,0.1643944935824965
+Age_group.csv,age_group,2010,Male,age_16_18,249,353961,35,0.0007034673311466517
+Age_group.csv,age_group,2010,Male,age_18_30,154961,353961,35,0.43779116908359961
+Age_group.csv,age_group,2010,Male,age_30_50,154570,353961,35,0.43668652761179905
+Age_group.csv,age_group,2010,Male,age_50_above,44181,353961,35,0.12481883597345471
+Age_group.csv,age_group,2011,Female,age_16_18,1,16024,35,6.2406390414378437e-05
+Age_group.csv,age_group,2011,Female,age_18_30,5541,16024,35,0.3457938092860709
+Age_group.csv,age_group,2011,Female,age_30_50,7855,16024,35,0.49020219670494258
+Age_group.csv,age_group,2011,Female,age_50_above,2627,16024,35,0.16394158761857214
+Age_group.csv,age_group,2011,Male,age_16_18,94,356902,35,0.00026337762186818788
+Age_group.csv,age_group,2011,Male,age_18_30,158606,356902,35,0.44439650100027456
+Age_group.csv,age_group,2011,Male,age_30_50,153371,356902,35,0.42972860897389198
+Age_group.csv,age_group,2011,Male,age_50_above,44831,356902,35,0.12561151240396523
+Age_group.csv,age_group,2012,Female,age_16_18,13,16951,35,0.00076691640611173384
+Age_group.csv,age_group,2012,Female,age_18_30,5533,16951,35,0.32641142115509408
+Age_group.csv,age_group,2012,Female,age_30_50,8400,16951,35,0.49554598548758183
+Age_group.csv,age_group,2012,Female,age_50_above,3005,16951,35,0.17727567695121232
+Age_group.csv,age_group,2012,Male,age_16_18,93,368184,35,0.00025259109575646957
+Age_group.csv,age_group,2012,Male,age_18_30,157161,368184,35,0.4268545075288443
+Age_group.csv,age_group,2012,Male,age_30_50,161071,368184,35,0.43747419768376683
+Age_group.csv,age_group,2012,Male,age_50_above,49859,368184,35,0.13541870369163245
+Age_group.csv,age_group,2013,Female,age_16_18,0,16795,34,0
+Age_group.csv,age_group,2013,Female,age_18_30,5468,16795,34,0.32557308722834177
+Age_group.csv,age_group,2013,Female,age_30_50,8349,16795,34,0.49711223578445968
+Age_group.csv,age_group,2013,Female,age_50_above,2978,16795,34,0.17731467698719858
+Age_group.csv,age_group,2013,Male,age_16_18,33,372419,34,8.8609872213823673e-05
+Age_group.csv,age_group,2013,Male,age_18_30,158010,372419,34,0.4242801790456448
+Age_group.csv,age_group,2013,Male,age_30_50,166368,372419,34,0.4467226430445278
+Age_group.csv,age_group,2013,Male,age_50_above,48008,372419,34,0.12890856803761355
+Age_group.csv,nationality,2001,Female,Foreigners,158,9764,33,0.016181892666939778
+Age_group.csv,nationality,2001,Female,Indians,9606,9764,33,0.98381810733306019
+Age_group.csv,nationality,2001,Male,Foreigners,2069,250575,33,0.0082570088795769735
+Age_group.csv,nationality,2001,Male,Indians,248506,250575,33,0.99174299112042308
+Age_group.csv,nationality,2002,Female,Foreigners,284,12047,34,0.023574333859052048
+Age_group.csv,nationality,2002,Female,Indians,11763,12047,34,0.97642566614094795
+Age_group.csv,nationality,2002,Male,Foreigners,2574,310310,34,0.0082949308755760377
+Age_group.csv,nationality,2002,Male,Indians,307736,310310,34,0.99170506912442391
+Age_group.csv,nationality,2003,Female,Foreigners,375,12780,34,0.029342723004694836
+Age_group.csv,nationality,2003,Female,Indians,12405,12780,34,0.97065727699530513
+Age_group.csv,nationality,2003,Male,Foreigners,1830,313739,34,0.0058328738218710457
+Age_group.csv,nationality,2003,Male,Indians,311909,313739,34,0.99416712617812897
+Age_group.csv,nationality,2004,Female,Foreigners,462,12946,33,0.035686698594160356
+Age_group.csv,nationality,2004,Female,Indians,12484,12946,33,0.9643133014058396
+Age_group.csv,nationality,2004,Male,Foreigners,2044,317180,33,0.0064442903083422659
+Age_group.csv,nationality,2004,Male,Indians,315136,317180,33,0.99355570969165774
+Age_group.csv,nationality,2005,Female,Foreigners,626,13986,34,0.044759044759044762
+Age_group.csv,nationality,2005,Female,Indians,13360,13986,34,0.9552409552409552
+Age_group.csv,nationality,2005,Male,Foreigners,3295,344382,34,0.0095678635933353073
+Age_group.csv,nationality,2005,Male,Indians,341087,344382,34,0.99043213640666472
+Age_group.csv,nationality,2006,Female,Foreigners,586,14657,34,0.03998089649996589
+Age_group.csv,nationality,2006,Female,Indians,14071,14657,34,0.96001910350003417
+Age_group.csv,nationality,2006,Male,Foreigners,3192,358614,34,0.0089009352674463346
+Age_group.csv,nationality,2006,Male,Indians,355422,358614,34,0.99109906473255371
+Age_group.csv,nationality,2007,Female,Foreigners,708,15401,34,0.045971040841503802
+Age_group.csv,nationality,2007,Female,Indians,14693,15401,34,0.95402895915849617
+Age_group.csv,nationality,2007,Male,Foreigners,3987,360995,34,0.011044474300198063
+Age_group.csv,nationality,2007,Male,Indians,357008,360995,34,0.98895552569980194
+Age_group.csv,nationality,2008,Female,Foreigners,789,15929,34,0.049532299579383515
+Age_group.csv,nationality,2008,Female,Indians,15140,15929,34,0.95046770042061646
+Age_group.csv,nationality,2008,Male,Foreigners,4437,368824,34,0.012030128191223998
+Age_group.csv,nationality,2008,Male,Indians,364387,368824,34,0.98796987180877605
+Age_group.csv,nationality,2009,Female,Foreigners,702,15406,35,0.045566662339348307
+Age_group.csv,nationality,2009,Female,Indians,14704,15406,35,0.95443333766065175
+Age_group.csv,nationality,2009,Male,Foreigners,4560,361563,35,0.01261190995760075
+Age_group.csv,nationality,2009,Male,Indians,357003,361563,35,0.98738809004239925
+Age_group.csv,nationality,2010,Female,Foreigners,441,15037,35,0.029327658442508481
+Age_group.csv,nationality,2010,Female,Indians,14596,15037,35,0.97067234155749149
+Age_group.csv,nationality,2010,Male,Foreigners,4667,353961,35,0.013185068411491661
+Age_group.csv,nationality,2010,Male,Indians,349294,353961,35,0.9868149315885083
+Age_group.csv,nationality,2011,Female,Foreigners,566,16024,35,0.035322016974538191
+Age_group.csv,nationality,2011,Female,Indians,15458,16024,35,0.96467798302546182
+Age_group.csv,nationality,2011,Male,Foreigners,5457,356902,35,0.015289911516326611
+Age_group.csv,nationality,2011,Male,Indians,351445,356902,35,0.98471008848367336
+Age_group.csv,nationality,2012,Female,Foreigners,678,16951,35,0.039997640257211961
+Age_group.csv,nationality,2012,Female,Indians,16273,16951,35,0.96000235974278803
+Age_group.csv,nationality,2012,Male,Foreigners,6166,368184,35,0.016747061251982703
+Age_group.csv,nationality,2012,Male,Indians,362018,368184,35,0.98325293874801734
+Age_group.csv,nationality,2013,Female,Foreigners,265,16795,34,0.015778505507591543
+Age_group.csv,nationality,2013,Female,Indians,16530,16795,34,0.98422149449240848
+Age_group.csv,nationality,2013,Male,Foreigners,3606,372419,34,0.0096826424000923689
+Age_group.csv,nationality,2013,Male,Indians,368813,372419,34,0.99031735759990758
+Caste.csv,caste,2001,Female,OBC,3071,10546,31,0.29120045514887161
+Caste.csv,caste,2001,Female,Others,3251,10546,31,0.30826853783424996
+Caste.csv,caste,2001,Female,SC,2866,10546,31,0.27176180542385736
+Caste.csv,caste,2001,Female,ST,1358,10546,31,0.12876920159302105
+Caste.csv,caste,2001,Male,OBC,87343,290036,31,0.30114537505688949
+Caste.csv,caste,2001,Male,Others,89707,290036,31,0.309296087382256
+Caste.csv,caste,2001,Male,SC,74432,290036,31,0.25663021142203035
+Caste.csv,caste,2001,Male,ST,38554,290036,31,0.13292832613882413
+Caste.csv,caste,2002,Female,OBC,2986,11542,32,0.25870732975220934
+Caste.csv,caste,2002,Female,Others,3725,11542,32,0.32273436146248485
+Caste.csv,caste,2002,Female,SC,3223,11542,32,0.27924103274995665
+Caste.csv,caste,2002,Female,ST,1608,11542,32,0.13931727603534916
+Caste.csv,caste,2002,Male,OBC,82425,298443,32,0.27618339180345997
+Caste.csv,caste,2002,Male,Others,102415,298443,32,0.34316435634275222
+Caste.csv,caste,2002,Male,SC,69836,298443,32,0.234001132544573
+Caste.csv,caste,2002,Male,ST,43767,298443,32,0.14665111930921482
+Caste.csv,caste,2003,Female,OBC,3271,11823,31,0.2766641292396177
+Caste.csv,caste,2003,Female,Others,3825,11823,31,0.32352194874397361
+Caste.csv,caste,2003,Female,SC,2818,11823,31,0.23834898080013533
+Caste.csv,caste,2003,Female,ST,1909,11823,31,0.16146494121627336
+Caste.csv,caste,2003,Male,OBC,78196,289727,31,0.26989545330604325
+Caste.csv,caste,2003,Male,Others,103896,289727,31,0.35859964725413923
+Caste.csv,caste,2003,Male,SC,65516,289727,31,0.22613011559157414
+Caste.csv,caste,2003,Male,ST,42119,289727,31,0.14537478384824334
+Caste.csv,caste,2004,Female,OBC,3792,12379,32,0.30632522820906372
+Caste.csv,caste,2004,Female,Others,3897,12379,32,0.31480733500282737
+Caste.csv,caste,2004,Female,SC,2995,12379,32,0.24194199854592455
+Caste.csv,caste,2004,Female,ST,1695,12379,32,0.13692543824218434
+Caste.csv,caste,2004,Male,OBC,84043,304363,32,0.27612751878513486
+Caste.csv,caste,2004,Male,Others,112800,304363,32,0.37061009386817717
+Caste.csv,caste,2004,Male,SC,66657,304363,32,0.21900493818236777
+Caste.csv,caste,2004,Male,ST,40863,304363,32,0.13425744916432023
+Caste.csv,caste,2005,Female,OBC,3586,13499,33,0.26564930735610043
+Caste.csv,caste,2005,Female,Others,4830,13499,33,0.35780428179865176
+Caste.csv,caste,2005,Female,SC,3408,13499,33,0.2524631454181791
+Caste.csv,caste,2005,Female,ST,1675,13499,33,0.12408326542706867
+Caste.csv,caste,2005,Male,OBC,97799,332552,33,0.29408633837715603
+Caste.csv,caste,2005,Male,Others,123329,332552,33,0.37085628713704927
+Caste.csv,caste,2005,Male,SC,68671,332552,33,0.20649702903606051
+Caste.csv,caste,2005,Male,ST,42753,332552,33,0.12856034544973419
+Caste.csv,caste,2006,Female,OBC,4051,14194,33,0.28540228265464279
+Caste.csv,caste,2006,Female,Others,4709,14194,33,0.33175989854868254
+Caste.csv,caste,2006,Female,SC,3776,14194,33,0.26602789911230096
+Caste.csv,caste,2006,Female,ST,1658,14194,33,0.11680991968437368
+Caste.csv,caste,2006,Male,OBC,98115,345677,33,0.28383433089271198
+Caste.csv,caste,2006,Male,Others,119747,345677,33,0.34641298090413886
+Caste.csv,caste,2006,Male,SC,80170,345677,33,0.23192170725851011
+Caste.csv,caste,2006,Male,ST,47645,345677,33,0.13783098094463908
+Caste.csv,caste,2007,Female,OBC,4040,14916,33,0.27085009385894343
+Caste.csv,caste,2007,Female,Others,5706,14916,33,0.38254223652453739
+Caste.csv,caste,2007,Female,SC,3441,14916,33,0.23069187449718423
+Caste.csv,caste,2007,Female,ST,1729,14916,33,0.11591579511933495
+Caste.csv,caste,2007,Male,OBC,101104,349875,33,0.28897177563415505
+Caste.csv,caste,2007,Male,Others,123832,349875,33,0.35393211861379065
+Caste.csv,caste,2007,Male,SC,78178,349875,33,0.22344551625580564
+Caste.csv,caste,2007,Male,ST,46761,349875,33,0.13365058949624867
+Caste.csv,caste,2008,Female,OBC,4609,15459,33,0.29814347629212756
+Caste.csv,caste,2008,Female,Others,5627,15459,33,0.36399508376997219
+Caste.csv,caste,2008,Female,SC,3454,15459,33,0.22342971731677341
+Caste.csv,caste,2008,Female,ST,1769,15459,33,0.11443172262112686
+Caste.csv,caste,2008,Male,OBC,109366,357741,33,0.30571279221559733
+Caste.csv,caste,2008,Male,Others,125659,357741,33,0.35125691491889383
+Caste.csv,caste,2008,Male,SC,76797,357741,33,0.21467206722181689
+Caste.csv,caste,2008,Male,ST,45919,357741,33,0.12835822564369195
+Caste.csv,caste,2009,Female,OBC,4423,14959,34,0.29567484457517212
+Caste.csv,caste,2009,Female,Others,5064,14959,34,0.33852530249348217
+Caste.csv,caste,2009,Female,SC,3439,14959,34,0.22989504646032488
+Caste.csv,caste,2009,Female,ST,2033,14959,34,0.13590480647102079
+Caste.csv,caste,2009,Male,OBC,108838,350764,34,0.31028839903752953
+Caste.csv,caste,2009,Male,Others,112078,350764,34,0.31952537888722904
+Caste.csv,caste,2009,Male,SC,80921,350764,34,0.23069927358565873
+Caste.csv,caste,2009,Male,ST,48927,350764,34,0.13948694848958273
+Caste.csv,caste,2010,Female,OBC,3940,14532,34,0.27112579135700521
+Caste.csv,caste,2010,Female,Others,5293,14532,34,0.36423066336361132
+Caste.csv,caste,2010,Female,SC,3481,14532,34,0.23954032480044041
+Caste.csv,caste,2010,Female,ST,1818,14532,34,0.12510322047894301
+Caste.csv,caste,2010,Male,OBC,103314,343610,34,0.30067227379878353
+Caste.csv,caste,2010,Male,Others,119054,343610,34,0.34648002095398855
+Caste.csv,caste,2010,Male,SC,75343,343610,34,0.21926893862227526
+Caste.csv,caste,2010,Male,ST,45899,343610,34,0.13357876662495272
+Caste.csv,caste,2011,Female,OBC,4519,16024,35,0.28201447828257614
+Caste.csv,caste,2011,Female,Others,5980,16024,35,0.37319021467798302
+Caste.csv,caste,2011,Female,SC,3602,16024,35,0.22478781827259112
+Caste.csv,caste,2011,Female,ST,1923,16024,35,0.12000748876684973
+Caste.csv,caste,2011,Male,OBC,104666,356902,35,0.2932625762814442
+Caste.csv,caste,2011,Male,Others,125071,356902,35,0.3504351334540014
+Caste.csv,caste,2011,Male,SC,78848,356902,35,0.22092339073471148
+Caste.csv,caste,2011,Male,ST,48317,356902,35,0.13537889952984292
+Caste.csv,caste,2012,Female,OBC,4480,16951,35,0.26429119226004366
+Caste.csv,caste,2012,Female,Others,6377,16951,35,0.37620199398265591
+Caste.csv,caste,2012,Female,SC,3908,16951,35,0.23054687039112737
+Caste.csv,caste,2012,Female,ST,2186,16951,35,0.12895994336617309
+Caste.csv,caste,2012,Male,OBC,109436,368184,35,0.29723181887317213
+Caste.csv,caste,2012,Male,Others,127374,368184,35,0.34595202398800601
+Caste.csv,caste,2012,Male,SC,81685,368184,35,0.22185917910609912
+Caste.csv,caste,2012,Male,ST,49689,368184,35,0.13495697803272277
+Caste.csv,caste,2013,Female,OBC,5333,18188,35,0.29321530679568947
+Caste.csv,caste,2013,Female,Others,6526,18188,35,0.35880800527820539
+Caste.csv,caste,2013,Female,SC,4279,18188,35,0.23526500989663515
+Caste.csv,caste,2013,Female,ST,2050,18188,35,0.11271167802946998
+Caste.csv,caste,2013,Male,OBC,124909,393804,35,0.31718570659515899
+Caste.csv,caste,2013,Male,Others,138429,393804,35,0.35151750617058231
+Caste.csv,caste,2013,Male,SC,85210,393804,35,0.21637667469096303
+Caste.csv,caste,2013,Male,ST,45256,393804,35,0.11492011254329565
+Domicile.csv,domicile,2001,Female,Belongs to State,10196,10590,33,0.96279508970727101
+Domicile.csv,domicile,2001,Female,Belongs to other Country,139,10590,33,0.013125590179414542
+Domicile.csv,domicile,2001,Female,Belongs to other State,255,10590,33,0.024079320113314446
+Domicile.csv,domicile,2001,Male,Belongs to State,277360,292022,33,0.94979145406852905
+Domicile.csv,domicile,2001,Male,Belongs to other Country,2055,292022,33,0.0070371410373191064
+Domicile.csv,domicile,2001,Male,Belongs to other State,12607,292022,33,0.043171404894151812
+Domicile.csv,domicile,2002,Female,Belongs to State,11209,12047,34,0.93043911347223374
+Domicile.csv,domicile,2002,Female,Belongs to other Country,294,12047,34,0.024404416037187682
+Domicile.csv,domicile,2002,Female,Belongs to other State,544,12047,34,0.045156470490578568
+Domicile.csv,domicile,2002,Male,Belongs to State,287103,310310,34,0.92521349618123816
+Domicile.csv,domicile,2002,Male,Belongs to other Country,2728,310310,34,0.0087912087912087912
+Domicile.csv,domicile,2002,Male,Belongs to other State,20479,310310,34,0.065995295027553094
+Domicile.csv,domicile,2003,Female,Belongs to State,11352,12438,33,0.91268692715870714
+Domicile.csv,domicile,2003,Female,Belongs to other Country,359,12438,33,0.028863161279948545
+Domicile.csv,domicile,2003,Female,Belongs to other State,727,12438,33,0.05844991156134427
+Domicile.csv,domicile,2003,Male,Belongs to State,279789,303179,33,0.92285085708442871
+Domicile.csv,domicile,2003,Male,Belongs to other Country,1868,303179,33,0.0061613766124962478
+Domicile.csv,domicile,2003,Male,Belongs to other State,21522,303179,33,0.070987766303075087
+Domicile.csv,domicile,2004,Female,Belongs to State,11790,12970,34,0.90902081727062456
+Domicile.csv,domicile,2004,Female,Belongs to other Country,404,12970,34,0.031148804934464147
+Domicile.csv,domicile,2004,Female,Belongs to other State,776,12970,34,0.059830377794911335
+Domicile.csv,domicile,2004,Male,Belongs to State,295059,318421,34,0.92663172341020217
+Domicile.csv,domicile,2004,Male,Belongs to other Country,1819,318421,34,0.0057125629276963521
+Domicile.csv,domicile,2004,Male,Belongs to other State,21543,318421,34,0.067655713662101435
+Domicile.csv,domicile,2005,Female,Belongs to State,12576,13986,34,0.89918489918489919
+Domicile.csv,domicile,2005,Female,Belongs to other Country,730,13986,34,0.052195052195052195
+Domicile.csv,domicile,2005,Female,Belongs to other State,680,13986,34,0.048620048620048623
+Domicile.csv,domicile,2005,Male,Belongs to State,319849,344382,34,0.92876224657502426
+Domicile.csv,domicile,2005,Male,Belongs to other Country,4789,344382,34,0.013906069422908281
+Domicile.csv,domicile,2005,Male,Belongs to other State,19744,344382,34,0.057331684002067472
+Domicile.csv,domicile,2006,Female,Belongs to State,13284,14657,34,0.90632462304700823
+Domicile.csv,domicile,2006,Female,Belongs to other Country,585,14657,34,0.039912669714129767
+Domicile.csv,domicile,2006,Female,Belongs to other State,788,14657,34,0.053762707238861979
+Domicile.csv,domicile,2006,Male,Belongs to State,332453,358614,34,0.92704969688857652
+Domicile.csv,domicile,2006,Male,Belongs to other Country,3230,358614,34,0.0090068987825349823
+Domicile.csv,domicile,2006,Male,Belongs to other State,22931,358614,34,0.06394340432888844
+Domicile.csv,domicile,2007,Female,Belongs to State,13985,15401,34,0.90805791831699245
+Domicile.csv,domicile,2007,Female,Belongs to other Country,665,15401,34,0.043179014349717548
+Domicile.csv,domicile,2007,Female,Belongs to other State,751,15401,34,0.048763067333290049
+Domicile.csv,domicile,2007,Male,Belongs to State,336872,360995,34,0.93317635978337654
+Domicile.csv,domicile,2007,Male,Belongs to other Country,3578,360995,34,0.0099114946190390456
+Domicile.csv,domicile,2007,Male,Belongs to other State,20545,360995,34,0.056912145597584451
+Domicile.csv,domicile,2008,Female,Belongs to State,14306,15929,34,0.89811036474354955
+Domicile.csv,domicile,2008,Female,Belongs to other Country,684,15929,34,0.042940548684788749
+Domicile.csv,domicile,2008,Female,Belongs to other State,939,15929,34,0.05894908657166175
+Domicile.csv,domicile,2008,Male,Belongs to State,342292,368824,34,0.92806324968006415
+Domicile.csv,domicile,2008,Male,Belongs to other Country,3368,368824,34,0.0091317267856755521
+Domicile.csv,domicile,2008,Male,Belongs to other State,23164,368824,34,0.062805023534260249
+Domicile.csv,domicile,2009,Female,Belongs to State,13992,15406,35,0.90821757756718158
+Domicile.csv,domicile,2009,Female,Belongs to other Country,672,15406,35,0.043619369076982994
+Domicile.csv,domicile,2009,Female,Belongs to other State,742,15406,35,0.048163053355835386
+Domicile.csv,domicile,2009,Male,Belongs to State,335696,361563,35,0.92845783445761876
+Domicile.csv,domicile,2009,Male,Belongs to other Country,4523,361563,35,0.012509576477681621
+Domicile.csv,domicile,2009,Male,Belongs to other State,21344,361563,35,0.059032589064699652
+Domicile.csv,domicile,2010,Female,Belongs to State,13754,15037,35,0.91467712974662496
+Domicile.csv,domicile,2010,Female,Belongs to other Country,441,15037,35,0.029327658442508481
+Domicile.csv,domicile,2010,Female,Belongs to other State,842,15037,35,0.05599521181086653
+Domicile.csv,domicile,2010,Male,Belongs to State,328670,353961,35,0.92854862541353422
+Domicile.csv,domicile,2010,Male,Belongs to other Country,4667,353961,35,0.013185068411491661
+Domicile.csv,domicile,2010,Male,Belongs to other State,20624,353961,35,0.058266306174974081
+Domicile.csv,domicile,2011,Female,Belongs to State,14551,16024,35,0.90807538691962053
+Domicile.csv,domicile,2011,Female,Belongs to other Country,566,16024,35,0.035322016974538191
+Domicile.csv,domicile,2011,Female,Belongs to other State,907,16024,35,0.056602596105841237
+Domicile.csv,domicile,2011,Male,Belongs to State,328098,356902,35,0.91929437212456078
+Domicile.csv,domicile,2011,Male,Belongs to other Country,5457,356902,35,0.015289911516326611
+Domicile.csv,domicile,2011,Male,Belongs to other State,23347,356902,35,0.065415716359112586
+Domicile.csv,domicile,2012,Female,Belongs to State,15185,16951,35,0.89581735590820599
+Domicile.csv,domicile,2012,Female,Belongs to other Country,678,16951,35,0.039997640257211961
+Domicile.csv,domicile,2012,Female,Belongs to other State,1088,16951,35,0.064185003834582033
+Domicile.csv,domicile,2012,Male,Belongs to State,334851,368184,35,0.90946646242096341
+Domicile.csv,domicile,2012,Male,Belongs to other Country,6166,368184,35,0.016747061251982703
+Domicile.csv,domicile,2012,Male,Belongs to other State,27167,368184,35,0.07378647632705386
+Domicile.csv,domicile,2013,Female,Belongs to State,16398,18188,35,0.90158346162304814
+Domicile.csv,domicile,2013,Female,Belongs to other Country,675,18188,35,0.037112381790191336
+Domicile.csv,domicile,2013,Female,Belongs to other State,1115,18188,35,0.0613041565867605
+Domicile.csv,domicile,2013,Male,Belongs to State,358432,393804,35,0.91017866756051236
+Domicile.csv,domicile,2013,Male,Belongs to other Country,6526,393804,35,0.016571695564290865
+Domicile.csv,domicile,2013,Male,Belongs to other State,28846,393804,35,0.073249636875196797
+Education.csv,education,2001,Female,Below Class X,3463,11094,34,0.31215071209662881
+Education.csv,education,2001,Female,Class X and above but below graduate,955,11094,34,0.086082567153416265
+Education.csv,education,2001,Female,Graduate,241,11094,34,0.021723454119343788
+Education.csv,education,2001,Female,Holding technical degree/diploma etc,75,11094,34,0.0067604110329908054
+Education.csv,education,2001,Female,Illiterate,6278,11094,34,0.56589147286821706
+Education.csv,education,2001,Female,Post-Graduate,82,11094,34,0.007391382729403281
+Education.csv,education,2001,Male,Below Class X,119301,302541,34,0.39433002469086836
+Education.csv,education,2001,Male,Class X and above but below graduate,48184,302541,34,0.15926436416882339
+Education.csv,education,2001,Male,Graduate,11359,302541,34,0.037545324435365783
+Education.csv,education,2001,Male,Holding technical degree/diploma etc,2988,302541,34,0.009876347338046744
+Education.csv,education,2001,Male,Illiterate,117968,302541,34,0.38992401029943047
+Education.csv,education,2001,Male,Post-Graduate,2741,302541,34,0.0090599290674652361
+Education.csv,education,2002,Female,Below Class X,3378,10258,33,0.32930395788652761
+Education.csv,education,2002,Female,Class X and above but below graduate,795,10258,33,0.077500487424449205
+Education.csv,education,2002,Female,Graduate,211,10258,33,0.020569311756677713
+Education.csv,education,2002,Female,Holding technical degree/diploma etc,22,10258,33,0.0021446675765256387
+Education.csv,education,2002,Female,Illiterate,5773,10258,33,0.56278026905829592
+Education.csv,education,2002,Female,Post-Graduate,79,10258,33,0.0077013062975238838
+Education.csv,education,2002,Male,Below Class X,123408,290204,33,0.42524568923929373
+Education.csv,education,2002,Male,Class X and above but below graduate,43383,290204,33,0.14949139226199501
+Education.csv,education,2002,Male,Graduate,10096,290204,33,0.034789320615842646
+Education.csv,education,2002,Male,Holding technical degree/diploma etc,1413,290204,33,0.00486898871138923
+Education.csv,education,2002,Male,Illiterate,109441,290204,33,0.37711747598241235
+Education.csv,education,2002,Male,Post-Graduate,2463,290204,33,0.0084871331890670008
+Education.csv,education,2003,Female,Below Class X,4530,12438,33,0.36420646406174628
+Education.csv,education,2003,Female,Class X and above but below graduate,1292,12438,33,0.10387522109663933
+Education.csv,education,2003,Female,Graduate,225,12438,33,0.018089725036179449
+Education.csv,education,2003,Female,Holding technical degree/diploma etc,115,12438,33,0.0092458594629361637
+Education.csv,education,2003,Female,Illiterate,6189,12438,33,0.49758803666184276
+Education.csv,education,2003,Female,Post-Graduate,87,12438,33,0.0069946936806560538
+Education.csv,education,2003,Male,Below Class X,121314,303179,33,0.4001398513749303
+Education.csv,education,2003,Male,Class X and above but below graduate,47483,303179,33,0.15661704801453927
+Education.csv,education,2003,Male,Graduate,11823,303179,33,0.038996764287763996
+Education.csv,education,2003,Male,Holding technical degree/diploma etc,6822,303179,33,0.022501558485251288
+Education.csv,education,2003,Male,Illiterate,112489,303179,33,0.371031634776815
+Education.csv,education,2003,Male,Post-Graduate,3248,303179,33,0.010713143060700115
+Education.csv,education,2004,Female,Below Class X,4403,12970,34,0.33947571318427139
+Education.csv,education,2004,Female,Class X and above but below graduate,968,12970,34,0.074633770239013103
+Education.csv,education,2004,Female,Graduate,220,12970,34,0.016962220508866616
+Education.csv,education,2004,Female,Holding technical degree/diploma etc,44,12970,34,0.0033924441017733229
+Education.csv,education,2004,Female,Illiterate,7273,12970,34,0.56075558982266771
+Education.csv,education,2004,Female,Post-Graduate,62,12970,34,0.0047802621434078641
+Education.csv,education,2004,Male,Below Class X,134308,318421,34,0.42179378872624607
+Education.csv,education,2004,Male,Class X and above but below graduate,52865,318421,34,0.1660223414912961
+Education.csv,education,2004,Male,Graduate,12011,318421,34,0.03772050210256233
+Education.csv,education,2004,Male,Holding technical degree/diploma etc,1532,318421,34,0.0048112404646678455
+Education.csv,education,2004,Male,Illiterate,115109,318421,34,0.3614993985949419
+Education.csv,education,2004,Male,Post-Graduate,2596,318421,34,0.0081527286202857218
+Education.csv,education,2005,Female,Below Class X,5047,13986,34,0.36086086086086089
+Education.csv,education,2005,Female,Class X and above but below graduate,1188,13986,34,0.084942084942084939
+Education.csv,education,2005,Female,Graduate,278,13986,34,0.019877019877019876
+Education.csv,education,2005,Female,Holding technical degree/diploma etc,35,13986,34,0.0025025025025025025
+Education.csv,education,2005,Female,Illiterate,7371,13986,34,0.52702702702702697
+Education.csv,education,2005,Female,Post-Graduate,67,13986,34,0.0047905047905047902
+Education.csv,education,2005,Male,Below Class X,164533,344382,34,0.47776306543315272
+Education.csv,education,2005,Male,Class X and above but below graduate,48138,344382,34,0.13978082478178303
+Education.csv,education,2005,Male,Graduate,13827,344382,34,0.040150182065264738
+Education.csv,education,2005,Male,Holding technical degree/diploma etc,2550,344382,34,0.0074045681830060802
+Education.csv,education,2005,Male,Illiterate,112509,344382,34,0.32669825949091413
+Education.csv,education,2005,Male,Post-Graduate,2825,344382,34,0.0082031000458792844
+Education.csv,education,2006,Female,Below Class X,5275,14657,34,0.35989629528552908
+Education.csv,education,2006,Female,Class X and above but below graduate,1320,14657,34,0.090059357303677423
+Education.csv,education,2006,Female,Graduate,325,14657,34,0.022173705396738758
+Education.csv,education,2006,Female,Holding technical degree/diploma etc,16,14657,34,0.0010916285733779082
+Education.csv,education,2006,Female,Illiterate,7646,14657,34,0.52166200450296785
+Education.csv,education,2006,Female,Post-Graduate,75,14657,34,0.0051170089377089445
+Education.csv,education,2006,Male,Below Class X,156740,358614,34,0.43707161460511862
+Education.csv,education,2006,Male,Class X and above but below graduate,54426,358614,34,0.15176763874249194
+Education.csv,education,2006,Male,Graduate,15198,358614,34,0.042379829008348809
+Education.csv,education,2006,Male,Holding technical degree/diploma etc,1754,358614,34,0.004891052775407541
+Education.csv,education,2006,Male,Illiterate,126423,358614,34,0.35253224915926318
+Education.csv,education,2006,Male,Post-Graduate,4073,358614,34,0.011357615709369964
+Education.csv,education,2007,Female,Below Class X,5565,15401,34,0.3613401727160574
+Education.csv,education,2007,Female,Class X and above but below graduate,1609,15401,34,0.10447373547172262
+Education.csv,education,2007,Female,Graduate,268,15401,34,0.017401467437179404
+Education.csv,education,2007,Female,Holding technical degree/diploma etc,26,15401,34,0.001688202064800987
+Education.csv,education,2007,Female,Illiterate,7846,15401,34,0.50944743847802088
+Education.csv,education,2007,Female,Post-Graduate,87,15401,34,0.005648983832218687
+Education.csv,education,2007,Male,Below Class X,158211,360995,34,0.4382636878627128
+Education.csv,education,2007,Male,Class X and above but below graduate,59664,360995,34,0.16527652737572543
+Education.csv,education,2007,Male,Graduate,15057,360995,34,0.041709718971176889
+Education.csv,education,2007,Male,Holding technical degree/diploma etc,5028,360995,34,0.0139281707502874
+Education.csv,education,2007,Male,Illiterate,118898,360995,34,0.32936190251942549
+Education.csv,education,2007,Male,Post-Graduate,4137,360995,34,0.011459992520672032
+Education.csv,education,2008,Female,Below Class X,5375,15929,34,0.3374348672233034
+Education.csv,education,2008,Female,Class X and above but below graduate,1632,15929,34,0.10245464247598719
+Education.csv,education,2008,Female,Graduate,351,15929,34,0.022035281561931068
+Education.csv,education,2008,Female,Holding technical degree/diploma etc,92,15929,34,0.005775629355263984
+Education.csv,education,2008,Female,Illiterate,8364,15929,34,0.52508004268943431
+Education.csv,education,2008,Female,Post-Graduate,115,15929,34,0.0072195366940799796
+Education.csv,education,2008,Male,Below Class X,160070,368824,34,0.43400104114699695
+Education.csv,education,2008,Male,Class X and above but below graduate,62489,368824,34,0.16942769451011866
+Education.csv,education,2008,Male,Graduate,16152,368824,34,0.043793245558857344
+Education.csv,education,2008,Male,Holding technical degree/diploma etc,4086,368824,34,0.011078454764332038
+Education.csv,education,2008,Male,Illiterate,121239,368824,34,0.32871776240157907
+Education.csv,education,2008,Male,Post-Graduate,4788,368824,34,0.012981801618115957
+Education.csv,education,2009,Female,Below Class X,5493,15406,35,0.35654939633908866
+Education.csv,education,2009,Female,Class X and above but below graduate,1663,15406,35,0.10794495651045047
+Education.csv,education,2009,Female,Graduate,371,15406,35,0.024081526677917693
+Education.csv,education,2009,Female,Holding technical degree/diploma etc,25,15406,35,0.0016227443853044268
+Education.csv,education,2009,Female,Illiterate,7725,15406,35,0.50142801505906787
+Education.csv,education,2009,Female,Post-Graduate,129,15406,35,0.0083733610281708417
+Education.csv,education,2009,Male,Below Class X,158371,361563,35,0.43801771752087465
+Education.csv,education,2009,Male,Class X and above but below graduate,65899,361563,35,0.18226145927542364
+Education.csv,education,2009,Male,Graduate,16038,361563,35,0.044357414890351061
+Education.csv,education,2009,Male,Holding technical degree/diploma etc,2285,361563,35,0.0063197838274380953
+Education.csv,education,2009,Male,Illiterate,114508,361563,35,0.31670275996161112
+Education.csv,education,2009,Male,Post-Graduate,4462,361563,35,0.012340864524301436
+Education.csv,education,2010,Female,Below Class X,5068,13740,34,0.36885007278020376
+Education.csv,education,2010,Female,Class X and above but below graduate,1553,13740,34,0.11302765647743813
+Education.csv,education,2010,Female,Graduate,301,13740,34,0.021906841339155748
+Education.csv,education,2010,Female,Holding technical degree/diploma etc,23,13740,34,0.0016739446870451238
+Education.csv,education,2010,Female,Illiterate,6709,13740,34,0.48828238719068412
+Education.csv,education,2010,Female,Post-Graduate,86,13740,34,0.0062590975254730712
+Education.csv,education,2010,Male,Below Class X,143018,330977,34,0.43210857552035337
+Education.csv,education,2010,Male,Class X and above but below graduate,61264,330977,34,0.18510047525961018
+Education.csv,education,2010,Male,Graduate,14474,330977,34,0.043731135396115138
+Education.csv,education,2010,Male,Holding technical degree/diploma etc,2391,330977,34,0.0072240669291219629
+Education.csv,education,2010,Male,Illiterate,106013,330977,34,0.32030322348682838
+Education.csv,education,2010,Male,Post-Graduate,3817,330977,34,0.011532523407970946
+Education.csv,education,2011,Female,Below Class X,5945,16024,35,0.37100599101347981
+Education.csv,education,2011,Female,Class X and above but below graduate,1858,16024,35,0.11595107338991513
+Education.csv,education,2011,Female,Graduate,414,16024,35,0.025836245631552672
+Education.csv,education,2011,Female,Holding technical degree/diploma etc,40,16024,35,0.0024962556165751375
+Education.csv,education,2011,Female,Illiterate,7625,16024,35,0.47584872690963553
+Education.csv,education,2011,Female,Post-Graduate,142,16024,35,0.0088617074388417372
+Education.csv,education,2011,Male,Below Class X,155219,356902,35,0.43490650094423677
+Education.csv,education,2011,Male,Class X and above but below graduate,72944,356902,35,0.20438103456971382
+Education.csv,education,2011,Male,Graduate,16041,356902,35,0.044945110982846835
+Education.csv,education,2011,Male,Holding technical degree/diploma etc,2597,356902,35,0.0072765072765072769
+Education.csv,education,2011,Male,Illiterate,105534,356902,35,0.29569461644933343
+Education.csv,education,2011,Male,Post-Graduate,4567,356902,35,0.012796229777361853
+Education.csv,education,2012,Female,Below Class X,6043,16951,35,0.35649814170255439
+Education.csv,education,2012,Female,Class X and above but below graduate,2076,16951,35,0.1224706506990738
+Education.csv,education,2012,Female,Graduate,538,16951,35,0.031738540499085602
+Education.csv,education,2012,Female,Holding technical degree/diploma etc,75,16951,35,0.0044245177275676955
+Education.csv,education,2012,Female,Illiterate,8040,16951,35,0.4743083003952569
+Education.csv,education,2012,Female,Post-Graduate,179,16951,35,0.010559848976461566
+Education.csv,education,2012,Male,Below Class X,163438,368184,35,0.44390304847576212
+Education.csv,education,2012,Male,Class X and above but below graduate,72617,368184,35,0.19723018925319949
+Education.csv,education,2012,Male,Graduate,17386,368184,35,0.047220954740021297
+Education.csv,education,2012,Male,Holding technical degree/diploma etc,3148,368184,35,0.0085500727896921109
+Education.csv,education,2012,Male,Illiterate,106702,368184,35,0.28980618386458945
+Education.csv,education,2012,Male,Post-Graduate,4893,368184,35,0.013289550876735546
+Education.csv,education,2013,Female,Below Class X,6788,18188,35,0.37321310754343523
+Education.csv,education,2013,Female,Class X and above but below graduate,2166,18188,35,0.11908950956674731
+Education.csv,education,2013,Female,Graduate,645,18188,35,0.035462942599516163
+Education.csv,education,2013,Female,Holding technical degree/diploma etc,102,18188,35,0.0056080932482955792
+Education.csv,education,2013,Female,Illiterate,8251,18188,35,0.4536507587420277
+Education.csv,education,2013,Female,Post-Graduate,236,18188,35,0.012975588299978007
+Education.csv,education,2013,Male,Below Class X,167857,393804,35,0.4262450356014667
+Education.csv,education,2013,Male,Class X and above but below graduate,82964,393804,35,0.21067332987983869
+Education.csv,education,2013,Male,Graduate,21740,393804,35,0.055205127423794575
+Education.csv,education,2013,Male,Holding technical degree/diploma etc,4148,393804,35,0.010533158627134311
+Education.csv,education,2013,Male,Illiterate,110158,393804,35,0.27972798651105624
+Education.csv,education,2013,Male,Post-Graduate,6937,393804,35,0.01761536195670943
+Religion.csv,religion,2001,Female,Christian,497,11094,34,0.044798990445285743
+Religion.csv,religion,2001,Female,Hindu,7819,11094,34,0.70479538489273486
+Religion.csv,religion,2001,Female,Muslim,1870,11094,34,0.1685595817559041
+Religion.csv,religion,2001,Female,Others,508,11094,34,0.045790517396791061
+Religion.csv,religion,2001,Female,Sikh,400,11094,34,0.0360555255092843
+Religion.csv,religion,2001,Male,Christian,11419,302541,34,0.03774364466303741
+Religion.csv,religion,2001,Male,Hindu,205779,302541,34,0.68016896883397626
+Religion.csv,religion,2001,Male,Muslim,66815,302541,34,0.2208461001979897
+Religion.csv,religion,2001,Male,Others,8399,302541,34,0.027761526536899131
+Religion.csv,religion,2001,Male,Sikh,10129,302541,34,0.033479759768097549
+Religion.csv,religion,2002,Female,Christian,505,12047,34,0.041919149995849586
+Religion.csv,religion,2002,Female,Hindu,8514,12047,34,0.70673196646467995
+Religion.csv,religion,2002,Female,Muslim,2235,12047,34,0.18552336681331452
+Religion.csv,religion,2002,Female,Others,206,12047,34,0.017099692869594091
+Religion.csv,religion,2002,Female,Sikh,587,12047,34,0.048725823856561802
+Religion.csv,religion,2002,Male,Christian,11029,310310,34,0.035541877477361351
+Religion.csv,religion,2002,Male,Hindu,214081,310310,34,0.68989397699075117
+Religion.csv,religion,2002,Male,Muslim,68999,310310,34,0.22235506429054816
+Religion.csv,religion,2002,Male,Others,5628,310310,34,0.018136702007669751
+Religion.csv,religion,2002,Male,Sikh,10573,310310,34,0.034072379233669556
+Religion.csv,religion,2003,Female,Christian,1070,12438,33,0.0860266923942756
+Religion.csv,religion,2003,Female,Hindu,7772,12438,33,0.62485930213860752
+Religion.csv,religion,2003,Female,Muslim,2832,12438,33,0.22768933912204534
+Religion.csv,religion,2003,Female,Others,177,12438,33,0.014230583695127834
+Religion.csv,religion,2003,Female,Sikh,587,12438,33,0.047194082649943722
+Religion.csv,religion,2003,Male,Christian,14315,303179,33,0.047216330946404601
+Religion.csv,religion,2003,Male,Hindu,207072,303179,33,0.68300245069744281
+Religion.csv,religion,2003,Male,Muslim,65458,303179,33,0.21590545519313672
+Religion.csv,religion,2003,Male,Others,5407,303179,33,0.017834348685100223
+Religion.csv,religion,2003,Male,Sikh,10927,303179,33,0.036041414477915687
+Religion.csv,religion,2004,Female,Christian,898,12970,34,0.069236700077101004
+Religion.csv,religion,2004,Female,Hindu,8660,12970,34,0.66769468003084043
+Religion.csv,religion,2004,Female,Muslim,2760,12970,34,0.212798766383963
+Religion.csv,religion,2004,Female,Others,92,12970,34,0.0070932922127987666
+Religion.csv,religion,2004,Female,Sikh,560,12970,34,0.043176561295296838
+Religion.csv,religion,2004,Male,Christian,12795,318421,34,0.040182651269859711
+Religion.csv,religion,2004,Male,Hindu,222040,318421,34,0.69731581773815166
+Religion.csv,religion,2004,Male,Muslim,68570,318421,34,0.21534383724691525
+Religion.csv,religion,2004,Male,Others,3273,318421,34,0.010278844674189202
+Religion.csv,religion,2004,Male,Sikh,11743,318421,34,0.036878849070884144
+Religion.csv,religion,2005,Female,Christian,632,13986,34,0.045188045188045187
+Religion.csv,religion,2005,Female,Hindu,9495,13986,34,0.67889317889317891
+Religion.csv,religion,2005,Female,Muslim,3065,13986,34,0.21914771914771916
+Religion.csv,religion,2005,Female,Others,257,13986,34,0.018375518375518377
+Religion.csv,religion,2005,Female,Sikh,537,13986,34,0.038395538395538394
+Religion.csv,religion,2005,Male,Christian,11403,344382,34,0.033111486663066014
+Religion.csv,religion,2005,Male,Hindu,246302,344382,34,0.71519998141598573
+Religion.csv,religion,2005,Male,Muslim,70370,344382,34,0.20433704432868152
+Religion.csv,religion,2005,Male,Others,4836,344382,34,0.014042545777653884
+Religion.csv,religion,2005,Male,Sikh,11471,344382,34,0.033308941814612844
+Religion.csv,religion,2006,Female,Christian,664,14657,34,0.04530258579518319
+Religion.csv,religion,2006,Female,Hindu,10323,14657,34,0.70430511018625908
+Religion.csv,religion,2006,Female,Muslim,2589,14657,34,0.17663914852971277
+Religion.csv,religion,2006,Female,Others,568,14657,34,0.038752814354915739
+Religion.csv,religion,2006,Female,Sikh,513,14657,34,0.035000341133929178
+Religion.csv,religion,2006,Male,Christian,10435,358614,34,0.029098138946053415
+Religion.csv,religion,2006,Male,Hindu,257213,358614,34,0.71724193701305583
+Religion.csv,religion,2006,Male,Muslim,74944,358614,34,0.20898235986325128
+Religion.csv,religion,2006,Male,Others,4042,358614,34,0.011271171789166068
+Religion.csv,religion,2006,Male,Sikh,11980,358614,34,0.033406392388473399
+Religion.csv,religion,2007,Female,Christian,689,15401,34,0.044737354717226153
+Religion.csv,religion,2007,Female,Hindu,11101,15401,34,0.72079735082137519
+Religion.csv,religion,2007,Female,Muslim,2697,15401,34,0.1751184987987793
+Religion.csv,religion,2007,Female,Others,400,15401,34,0.025972339458476722
+Religion.csv,religion,2007,Female,Sikh,514,15401,34,0.033374456204142589
+Religion.csv,religion,2007,Male,Christian,11644,360995,34,0.032255294394659205
+Religion.csv,religion,2007,Male,Hindu,257069,360995,34,0.71211235612681612
+Religion.csv,religion,2007,Male,Muslim,74414,360995,34,0.20613581905566558
+Religion.csv,religion,2007,Male,Others,5500,360995,34,0.015235668084045485
+Religion.csv,religion,2007,Male,Sikh,12368,360995,34,0.034260862338813557
+Religion.csv,religion,2008,Female,Christian,575,15929,34,0.036097683470399898
+Religion.csv,religion,2008,Female,Hindu,11433,15929,34,0.71774750455144709
+Religion.csv,religion,2008,Female,Muslim,3034,15929,34,0.19047021156381444
+Religion.csv,religion,2008,Female,Others,311,15929,34,0.019524138363990206
+Religion.csv,religion,2008,Female,Sikh,576,15929,34,0.036160462050348424
+Religion.csv,religion,2008,Male,Christian,11545,368824,34,0.031302192915862309
+Religion.csv,religion,2008,Male,Hindu,261985,368824,34,0.71032524998373203
+Religion.csv,religion,2008,Male,Muslim,78154,368824,34,0.2119005270806672
+Religion.csv,religion,2008,Male,Others,4380,368824,34,0.011875582933865475
+Religion.csv,religion,2008,Male,Sikh,12760,368824,34,0.034596447085872936
+Religion.csv,religion,2009,Female,Christian,513,15406,35,0.033298714786446838
+Religion.csv,religion,2009,Female,Hindu,11062,15406,35,0.71803193560950274
+Religion.csv,religion,2009,Female,Muslim,2726,15406,35,0.17694404777359471
+Religion.csv,religion,2009,Female,Others,367,15406,35,0.023821887576268987
+Religion.csv,religion,2009,Female,Sikh,738,15406,35,0.047903414254186684
+Religion.csv,religion,2009,Male,Christian,11208,361563,35,0.030998747106313423
+Religion.csv,religion,2009,Male,Hindu,254259,361563,35,0.70322184515561603
+Religion.csv,religion,2009,Male,Muslim,77397,361563,35,0.21406227960272484
+Religion.csv,religion,2009,Male,Others,4480,361563,35,0.012390648379397228
+Religion.csv,religion,2009,Male,Sikh,14219,361563,35,0.039326479755948482
+Religion.csv,religion,2010,Female,Christian,508,15037,35,0.033783334441710444
+Religion.csv,religion,2010,Female,Hindu,10939,15037,35,0.72747223515328852
+Religion.csv,religion,2010,Female,Muslim,2484,15037,35,0.16519252510474164
+Religion.csv,religion,2010,Female,Others,244,15037,35,0.016226640952317618
+Religion.csv,religion,2010,Female,Sikh,862,15037,35,0.057325264347941746
+Religion.csv,religion,2010,Male,Christian,11107,353961,35,0.031379163241148034
+Religion.csv,religion,2010,Male,Hindu,250352,353961,35,0.7072869609928778
+Religion.csv,religion,2010,Male,Muslim,74566,353961,35,0.21066162656337845
+Religion.csv,religion,2010,Male,Others,4595,353961,35,0.012981656171160099
+Religion.csv,religion,2010,Male,Sikh,13341,353961,35,0.037690593031435668
+Religion.csv,religion,2011,Female,Christian,578,16024,35,0.03607089365951073
+Religion.csv,religion,2011,Female,Hindu,11359,16024,35,0.70887418871692465
+Religion.csv,religion,2011,Female,Muslim,2882,16024,35,0.17985521717423864
+Religion.csv,religion,2011,Female,Others,319,16024,35,0.019907638542186721
+Religion.csv,religion,2011,Female,Sikh,886,16024,35,0.055292061907139291
+Religion.csv,religion,2011,Male,Christian,12341,356902,35,0.034578119483779861
+Religion.csv,religion,2011,Male,Hindu,252753,356902,35,0.70818600063883086
+Religion.csv,religion,2011,Male,Muslim,72171,356902,35,0.20221517391328711
+Religion.csv,religion,2011,Male,Others,5654,356902,35,0.015841883766412067
+Religion.csv,religion,2011,Male,Sikh,13983,356902,35,0.039178822197690123
+Religion.csv,religion,2012,Female,Christian,589,16951,35,0.034747212553831633
+Religion.csv,religion,2012,Female,Hindu,12225,16951,35,0.72119638959353427
+Religion.csv,religion,2012,Female,Muslim,2861,16951,35,0.16878060291428235
+Religion.csv,religion,2012,Female,Others,490,16951,35,0.028906849153442275
+Religion.csv,religion,2012,Female,Sikh,786,16951,35,0.046368945784909445
+Religion.csv,religion,2012,Male,Christian,13566,368184,35,0.036845707580992114
+Religion.csv,religion,2012,Male,Hindu,258599,368184,35,0.70236349216696004
+Religion.csv,religion,2012,Male,Muslim,74233,368184,35,0.2016192990461291
+Religion.csv,religion,2012,Male,Others,6080,368184,35,0.016513482389240164
+Religion.csv,religion,2012,Male,Sikh,15706,368184,35,0.04265801881667862
+Religion.csv,religion,2013,Female,Christian,727,18188,35,0.039971409720694961
+Religion.csv,religion,2013,Female,Hindu,12974,18188,35,0.71332746866065533
+Religion.csv,religion,2013,Female,Muslim,3242,18188,35,0.17824939520563007
+Religion.csv,religion,2013,Female,Others,376,18188,35,0.020672971189795469
+Religion.csv,religion,2013,Female,Sikh,869,18188,35,0.047778755223224105
+Religion.csv,religion,2013,Male,Christian,16978,393804,35,0.043112817543752728
+Religion.csv,religion,2013,Male,Hindu,275013,393804,35,0.69834994057957767
+Religion.csv,religion,2013,Male,Muslim,77844,393804,35,0.1976719383246488
+Religion.csv,religion,2013,Male,Others,6257,393804,35,0.01588861464078577
+Religion.csv,religion,2013,Male,Sikh,17712,393804,35,0.044976688911235033

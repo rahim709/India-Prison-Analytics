@@ -1,0 +1,438 @@
+profile_id,state,year,occupancy_ratio_bin,undertrial_share_bin,female_share_bin,age_18_30_share_bin,illiterate_share_bin
+Andaman & Nicobar Islands|2001,Andaman & Nicobar Islands,2001,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Andaman & Nicobar Islands|2002,Andaman & Nicobar Islands,2002,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,lower_tertile
+Andaman & Nicobar Islands|2003,Andaman & Nicobar Islands,2003,over_100_to_150pct,middle_tertile,lower_tertile,upper_tertile,lower_tertile
+Andaman & Nicobar Islands|2004,Andaman & Nicobar Islands,2004,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Andaman & Nicobar Islands|2005,Andaman & Nicobar Islands,2005,within_capacity,middle_tertile,lower_tertile,lower_tertile,lower_tertile
+Andaman & Nicobar Islands|2006,Andaman & Nicobar Islands,2006,over_100_to_150pct,upper_tertile,lower_tertile,middle_tertile,lower_tertile
+Andaman & Nicobar Islands|2007,Andaman & Nicobar Islands,2007,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Andaman & Nicobar Islands|2008,Andaman & Nicobar Islands,2008,within_capacity,middle_tertile,lower_tertile,lower_tertile,lower_tertile
+Andaman & Nicobar Islands|2009,Andaman & Nicobar Islands,2009,within_capacity,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Andaman & Nicobar Islands|2010,Andaman & Nicobar Islands,2010,over_150pct,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Andaman & Nicobar Islands|2011,Andaman & Nicobar Islands,2011,over_150pct,middle_tertile,lower_tertile,lower_tertile,lower_tertile
+Andaman & Nicobar Islands|2012,Andaman & Nicobar Islands,2012,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Andaman & Nicobar Islands|2013,Andaman & Nicobar Islands,2013,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Andhra Pradesh|2001,Andhra Pradesh,2001,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Andhra Pradesh|2002,Andhra Pradesh,2002,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Andhra Pradesh|2003,Andhra Pradesh,2003,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Andhra Pradesh|2004,Andhra Pradesh,2004,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Andhra Pradesh|2005,Andhra Pradesh,2005,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Andhra Pradesh|2006,Andhra Pradesh,2006,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Andhra Pradesh|2007,Andhra Pradesh,2007,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Andhra Pradesh|2008,Andhra Pradesh,2008,within_capacity,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Andhra Pradesh|2009,Andhra Pradesh,2009,within_capacity,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Andhra Pradesh|2010,Andhra Pradesh,2010,within_capacity,lower_tertile,upper_tertile,lower_tertile,upper_tertile
+Andhra Pradesh|2011,Andhra Pradesh,2011,within_capacity,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Andhra Pradesh|2012,Andhra Pradesh,2012,within_capacity,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Andhra Pradesh|2013,Andhra Pradesh,2013,within_capacity,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Arunachal Pradesh|2009,Arunachal Pradesh,2009,over_100_to_150pct,upper_tertile,upper_tertile,upper_tertile,middle_tertile
+Arunachal Pradesh|2010,Arunachal Pradesh,2010,over_100_to_150pct,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Arunachal Pradesh|2011,Arunachal Pradesh,2011,within_capacity,upper_tertile,upper_tertile,upper_tertile,middle_tertile
+Arunachal Pradesh|2012,Arunachal Pradesh,2012,over_100_to_150pct,upper_tertile,upper_tertile,upper_tertile,upper_tertile
+Arunachal Pradesh|2013,Arunachal Pradesh,2013,over_150pct,upper_tertile,lower_tertile,upper_tertile,middle_tertile
+Assam|2001,Assam,2001,over_100_to_150pct,middle_tertile,lower_tertile,lower_tertile,upper_tertile
+Assam|2002,Assam,2002,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,upper_tertile
+Assam|2003,Assam,2003,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,upper_tertile
+Assam|2004,Assam,2004,over_100_to_150pct,lower_tertile,middle_tertile,lower_tertile,upper_tertile
+Assam|2005,Assam,2005,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,upper_tertile
+Assam|2006,Assam,2006,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,middle_tertile
+Assam|2007,Assam,2007,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,middle_tertile
+Assam|2008,Assam,2008,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Assam|2009,Assam,2009,over_100_to_150pct,lower_tertile,middle_tertile,lower_tertile,upper_tertile
+Assam|2010,Assam,2010,over_100_to_150pct,lower_tertile,middle_tertile,lower_tertile,upper_tertile
+Assam|2011,Assam,2011,over_100_to_150pct,middle_tertile,middle_tertile,lower_tertile,upper_tertile
+Assam|2012,Assam,2012,over_100_to_150pct,middle_tertile,middle_tertile,lower_tertile,upper_tertile
+Assam|2013,Assam,2013,over_100_to_150pct,middle_tertile,middle_tertile,lower_tertile,middle_tertile
+Bihar|2001,Bihar,2001,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Bihar|2002,Bihar,2002,over_150pct,upper_tertile,lower_tertile,middle_tertile,upper_tertile
+Bihar|2003,Bihar,2003,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Bihar|2004,Bihar,2004,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Bihar|2005,Bihar,2005,over_150pct,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Bihar|2006,Bihar,2006,over_150pct,upper_tertile,middle_tertile,lower_tertile,upper_tertile
+Bihar|2007,Bihar,2007,over_100_to_150pct,upper_tertile,middle_tertile,lower_tertile,middle_tertile
+Bihar|2008,Bihar,2008,over_100_to_150pct,upper_tertile,middle_tertile,lower_tertile,middle_tertile
+Bihar|2009,Bihar,2009,over_100_to_150pct,upper_tertile,middle_tertile,lower_tertile,middle_tertile
+Bihar|2010,Bihar,2010,within_capacity,upper_tertile,lower_tertile,lower_tertile,middle_tertile
+Bihar|2011,Bihar,2011,within_capacity,upper_tertile,middle_tertile,lower_tertile,middle_tertile
+Bihar|2012,Bihar,2012,within_capacity,upper_tertile,middle_tertile,lower_tertile,middle_tertile
+Bihar|2013,Bihar,2013,within_capacity,upper_tertile,middle_tertile,lower_tertile,middle_tertile
+Chandigarh|2001,Chandigarh,2001,within_capacity,upper_tertile,upper_tertile,lower_tertile,lower_tertile
+Chandigarh|2002,Chandigarh,2002,within_capacity,upper_tertile,upper_tertile,middle_tertile,lower_tertile
+Chandigarh|2003,Chandigarh,2003,within_capacity,upper_tertile,upper_tertile,lower_tertile,middle_tertile
+Chandigarh|2004,Chandigarh,2004,within_capacity,upper_tertile,upper_tertile,lower_tertile,middle_tertile
+Chandigarh|2005,Chandigarh,2005,within_capacity,upper_tertile,upper_tertile,lower_tertile,upper_tertile
+Chandigarh|2006,Chandigarh,2006,within_capacity,upper_tertile,upper_tertile,lower_tertile,middle_tertile
+Chandigarh|2007,Chandigarh,2007,within_capacity,upper_tertile,middle_tertile,lower_tertile,middle_tertile
+Chandigarh|2008,Chandigarh,2008,within_capacity,middle_tertile,middle_tertile,lower_tertile,lower_tertile
+Chandigarh|2009,Chandigarh,2009,within_capacity,middle_tertile,upper_tertile,lower_tertile,middle_tertile
+Chandigarh|2010,Chandigarh,2010,within_capacity,middle_tertile,upper_tertile,lower_tertile,lower_tertile
+Chandigarh|2011,Chandigarh,2011,within_capacity,middle_tertile,middle_tertile,lower_tertile,lower_tertile
+Chandigarh|2012,Chandigarh,2012,within_capacity,middle_tertile,upper_tertile,middle_tertile,middle_tertile
+Chandigarh|2013,Chandigarh,2013,within_capacity,lower_tertile,middle_tertile,lower_tertile,lower_tertile
+Chhattisgarh|2001,Chhattisgarh,2001,over_150pct,lower_tertile,middle_tertile,middle_tertile,upper_tertile
+Chhattisgarh|2002,Chhattisgarh,2002,over_150pct,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Chhattisgarh|2003,Chhattisgarh,2003,over_150pct,lower_tertile,middle_tertile,lower_tertile,upper_tertile
+Chhattisgarh|2004,Chhattisgarh,2004,over_150pct,lower_tertile,upper_tertile,middle_tertile,upper_tertile
+Chhattisgarh|2005,Chhattisgarh,2005,over_150pct,lower_tertile,middle_tertile,middle_tertile,upper_tertile
+Chhattisgarh|2006,Chhattisgarh,2006,over_150pct,lower_tertile,upper_tertile,middle_tertile,upper_tertile
+Chhattisgarh|2007,Chhattisgarh,2007,over_150pct,lower_tertile,upper_tertile,middle_tertile,upper_tertile
+Chhattisgarh|2008,Chhattisgarh,2008,over_150pct,lower_tertile,upper_tertile,middle_tertile,upper_tertile
+Chhattisgarh|2009,Chhattisgarh,2009,over_150pct,lower_tertile,upper_tertile,upper_tertile,upper_tertile
+Chhattisgarh|2010,Chhattisgarh,2010,over_150pct,lower_tertile,upper_tertile,middle_tertile,middle_tertile
+Chhattisgarh|2011,Chhattisgarh,2011,over_150pct,lower_tertile,upper_tertile,middle_tertile,middle_tertile
+Chhattisgarh|2012,Chhattisgarh,2012,over_150pct,lower_tertile,upper_tertile,upper_tertile,upper_tertile
+Chhattisgarh|2013,Chhattisgarh,2013,over_150pct,lower_tertile,upper_tertile,upper_tertile,upper_tertile
+Dadra & Nagar Haveli|2001,Dadra & Nagar Haveli,2001,over_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Dadra & Nagar Haveli|2002,Dadra & Nagar Haveli,2002,over_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Dadra & Nagar Haveli|2003,Dadra & Nagar Haveli,2003,over_150pct,upper_tertile,lower_tertile,upper_tertile,middle_tertile
+Dadra & Nagar Haveli|2004,Dadra & Nagar Haveli,2004,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Dadra & Nagar Haveli|2005,Dadra & Nagar Haveli,2005,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Dadra & Nagar Haveli|2006,Dadra & Nagar Haveli,2006,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Dadra & Nagar Haveli|2007,Dadra & Nagar Haveli,2007,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Dadra & Nagar Haveli|2008,Dadra & Nagar Haveli,2008,within_capacity,upper_tertile,upper_tertile,lower_tertile,upper_tertile
+Dadra & Nagar Haveli|2009,Dadra & Nagar Haveli,2009,within_capacity,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Dadra & Nagar Haveli|2010,Dadra & Nagar Haveli,2010,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Dadra & Nagar Haveli|2011,Dadra & Nagar Haveli,2011,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Dadra & Nagar Haveli|2012,Dadra & Nagar Haveli,2012,within_capacity,upper_tertile,upper_tertile,lower_tertile,lower_tertile
+Dadra & Nagar Haveli|2013,Dadra & Nagar Haveli,2013,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Daman & Diu|2001,Daman & Diu,2001,within_capacity,lower_tertile,lower_tertile,upper_tertile,lower_tertile
+Daman & Diu|2002,Daman & Diu,2002,within_capacity,lower_tertile,lower_tertile,middle_tertile,lower_tertile
+Daman & Diu|2003,Daman & Diu,2003,within_capacity,lower_tertile,lower_tertile,middle_tertile,lower_tertile
+Daman & Diu|2004,Daman & Diu,2004,within_capacity,middle_tertile,middle_tertile,middle_tertile,lower_tertile
+Daman & Diu|2005,Daman & Diu,2005,within_capacity,middle_tertile,lower_tertile,upper_tertile,lower_tertile
+Daman & Diu|2006,Daman & Diu,2006,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Daman & Diu|2007,Daman & Diu,2007,within_capacity,upper_tertile,upper_tertile,upper_tertile,upper_tertile
+Daman & Diu|2008,Daman & Diu,2008,within_capacity,middle_tertile,upper_tertile,upper_tertile,upper_tertile
+Daman & Diu|2009,Daman & Diu,2009,within_capacity,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Daman & Diu|2010,Daman & Diu,2010,within_capacity,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Daman & Diu|2011,Daman & Diu,2011,within_capacity,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Daman & Diu|2012,Daman & Diu,2012,within_capacity,lower_tertile,upper_tertile,upper_tertile,upper_tertile
+Daman & Diu|2013,Daman & Diu,2013,within_capacity,middle_tertile,lower_tertile,upper_tertile,lower_tertile
+Delhi|2001,Delhi,2001,over_150pct,upper_tertile,upper_tertile,upper_tertile,upper_tertile
+Delhi|2002,Delhi,2002,over_150pct,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Delhi|2003,Delhi,2003,over_150pct,upper_tertile,upper_tertile,upper_tertile,upper_tertile
+Delhi|2004,Delhi,2004,over_150pct,upper_tertile,middle_tertile,upper_tertile,middle_tertile
+Delhi|2005,Delhi,2005,over_150pct,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Delhi|2006,Delhi,2006,over_150pct,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Delhi|2007,Delhi,2007,over_150pct,upper_tertile,middle_tertile,upper_tertile,middle_tertile
+Delhi|2008,Delhi,2008,over_150pct,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Delhi|2009,Delhi,2009,over_150pct,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Delhi|2010,Delhi,2010,over_150pct,upper_tertile,upper_tertile,upper_tertile,middle_tertile
+Delhi|2011,Delhi,2011,over_150pct,upper_tertile,upper_tertile,upper_tertile,middle_tertile
+Delhi|2012,Delhi,2012,over_150pct,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Delhi|2013,Delhi,2013,over_150pct,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Goa|2001,Goa,2001,over_100_to_150pct,middle_tertile,lower_tertile,middle_tertile,upper_tertile
+Goa|2002,Goa,2002,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,upper_tertile
+Goa|2003,Goa,2003,over_100_to_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Goa|2004,Goa,2004,over_100_to_150pct,middle_tertile,lower_tertile,middle_tertile,lower_tertile
+Goa|2005,Goa,2005,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,lower_tertile
+Goa|2006,Goa,2006,over_100_to_150pct,middle_tertile,upper_tertile,upper_tertile,middle_tertile
+Goa|2007,Goa,2007,over_100_to_150pct,lower_tertile,upper_tertile,upper_tertile,middle_tertile
+Goa|2008,Goa,2008,over_100_to_150pct,middle_tertile,upper_tertile,upper_tertile,middle_tertile
+Goa|2009,Goa,2009,over_100_to_150pct,lower_tertile,upper_tertile,upper_tertile,middle_tertile
+Goa|2010,Goa,2010,over_100_to_150pct,lower_tertile,upper_tertile,upper_tertile,lower_tertile
+Goa|2011,Goa,2011,over_100_to_150pct,upper_tertile,upper_tertile,upper_tertile,middle_tertile
+Goa|2012,Goa,2012,over_100_to_150pct,upper_tertile,upper_tertile,upper_tertile,middle_tertile
+Goa|2013,Goa,2013,over_100_to_150pct,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Gujarat|2001,Gujarat,2001,over_150pct,middle_tertile,lower_tertile,middle_tertile,upper_tertile
+Gujarat|2002,Gujarat,2002,over_150pct,middle_tertile,middle_tertile,middle_tertile,upper_tertile
+Gujarat|2003,Gujarat,2003,over_150pct,middle_tertile,middle_tertile,middle_tertile,upper_tertile
+Gujarat|2004,Gujarat,2004,over_150pct,middle_tertile,middle_tertile,middle_tertile,upper_tertile
+Gujarat|2005,Gujarat,2005,over_150pct,lower_tertile,middle_tertile,middle_tertile,upper_tertile
+Gujarat|2006,Gujarat,2006,over_150pct,lower_tertile,middle_tertile,middle_tertile,upper_tertile
+Gujarat|2007,Gujarat,2007,over_150pct,lower_tertile,upper_tertile,upper_tertile,upper_tertile
+Gujarat|2008,Gujarat,2008,over_150pct,lower_tertile,upper_tertile,middle_tertile,upper_tertile
+Gujarat|2009,Gujarat,2009,over_150pct,lower_tertile,upper_tertile,middle_tertile,upper_tertile
+Gujarat|2010,Gujarat,2010,over_100_to_150pct,lower_tertile,upper_tertile,upper_tertile,middle_tertile
+Gujarat|2011,Gujarat,2011,over_100_to_150pct,lower_tertile,upper_tertile,middle_tertile,middle_tertile
+Gujarat|2012,Gujarat,2012,within_capacity,lower_tertile,upper_tertile,lower_tertile,lower_tertile
+Gujarat|2013,Gujarat,2013,within_capacity,middle_tertile,upper_tertile,middle_tertile,middle_tertile
+Haryana|2001,Haryana,2001,over_150pct,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Haryana|2002,Haryana,2002,over_150pct,middle_tertile,middle_tertile,upper_tertile,middle_tertile
+Haryana|2003,Haryana,2003,over_150pct,middle_tertile,middle_tertile,middle_tertile,upper_tertile
+Haryana|2004,Haryana,2004,over_150pct,middle_tertile,middle_tertile,upper_tertile,middle_tertile
+Haryana|2005,Haryana,2005,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,upper_tertile
+Haryana|2006,Haryana,2006,over_100_to_150pct,lower_tertile,middle_tertile,lower_tertile,middle_tertile
+Haryana|2007,Haryana,2007,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Haryana|2008,Haryana,2008,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,middle_tertile
+Haryana|2009,Haryana,2009,over_100_to_150pct,lower_tertile,upper_tertile,middle_tertile,middle_tertile
+Haryana|2010,Haryana,2010,within_capacity,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Haryana|2011,Haryana,2011,within_capacity,lower_tertile,upper_tertile,upper_tertile,middle_tertile
+Haryana|2012,Haryana,2012,within_capacity,lower_tertile,upper_tertile,middle_tertile,middle_tertile
+Haryana|2013,Haryana,2013,over_100_to_150pct,lower_tertile,upper_tertile,upper_tertile,middle_tertile
+Himachal Pradesh|2001,Himachal Pradesh,2001,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,upper_tertile
+Himachal Pradesh|2002,Himachal Pradesh,2002,within_capacity,lower_tertile,lower_tertile,upper_tertile,lower_tertile
+Himachal Pradesh|2003,Himachal Pradesh,2003,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Himachal Pradesh|2004,Himachal Pradesh,2004,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Himachal Pradesh|2005,Himachal Pradesh,2005,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,middle_tertile
+Himachal Pradesh|2006,Himachal Pradesh,2006,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Himachal Pradesh|2007,Himachal Pradesh,2007,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Himachal Pradesh|2008,Himachal Pradesh,2008,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Himachal Pradesh|2009,Himachal Pradesh,2009,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Himachal Pradesh|2010,Himachal Pradesh,2010,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Himachal Pradesh|2011,Himachal Pradesh,2011,within_capacity,lower_tertile,middle_tertile,lower_tertile,lower_tertile
+Himachal Pradesh|2012,Himachal Pradesh,2012,over_100_to_150pct,lower_tertile,middle_tertile,lower_tertile,lower_tertile
+Himachal Pradesh|2013,Himachal Pradesh,2013,over_100_to_150pct,lower_tertile,upper_tertile,lower_tertile,lower_tertile
+Jammu & Kashmir|2001,Jammu & Kashmir,2001,within_capacity,middle_tertile,lower_tertile,upper_tertile,middle_tertile
+Jammu & Kashmir|2002,Jammu & Kashmir,2002,within_capacity,middle_tertile,lower_tertile,upper_tertile,middle_tertile
+Jammu & Kashmir|2003,Jammu & Kashmir,2003,within_capacity,middle_tertile,middle_tertile,upper_tertile,lower_tertile
+Jammu & Kashmir|2004,Jammu & Kashmir,2004,within_capacity,middle_tertile,lower_tertile,upper_tertile,middle_tertile
+Jammu & Kashmir|2005,Jammu & Kashmir,2005,within_capacity,upper_tertile,middle_tertile,upper_tertile,middle_tertile
+Jammu & Kashmir|2006,Jammu & Kashmir,2006,within_capacity,upper_tertile,lower_tertile,upper_tertile,middle_tertile
+Jammu & Kashmir|2007,Jammu & Kashmir,2007,within_capacity,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Jammu & Kashmir|2008,Jammu & Kashmir,2008,within_capacity,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Jammu & Kashmir|2009,Jammu & Kashmir,2009,within_capacity,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Jammu & Kashmir|2010,Jammu & Kashmir,2010,within_capacity,upper_tertile,middle_tertile,upper_tertile,upper_tertile
+Jammu & Kashmir|2011,Jammu & Kashmir,2011,within_capacity,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Jammu & Kashmir|2012,Jammu & Kashmir,2012,within_capacity,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Jammu & Kashmir|2013,Jammu & Kashmir,2013,within_capacity,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Jharkhand|2001,Jharkhand,2001,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Jharkhand|2002,Jharkhand,2002,over_150pct,upper_tertile,middle_tertile,middle_tertile,upper_tertile
+Jharkhand|2003,Jharkhand,2003,over_150pct,upper_tertile,middle_tertile,middle_tertile,upper_tertile
+Jharkhand|2004,Jharkhand,2004,over_150pct,upper_tertile,middle_tertile,lower_tertile,upper_tertile
+Jharkhand|2005,Jharkhand,2005,over_150pct,upper_tertile,middle_tertile,middle_tertile,upper_tertile
+Jharkhand|2006,Jharkhand,2006,over_150pct,middle_tertile,middle_tertile,middle_tertile,upper_tertile
+Jharkhand|2007,Jharkhand,2007,over_150pct,middle_tertile,middle_tertile,middle_tertile,upper_tertile
+Jharkhand|2008,Jharkhand,2008,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,lower_tertile
+Jharkhand|2009,Jharkhand,2009,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,lower_tertile
+Jharkhand|2010,Jharkhand,2010,over_100_to_150pct,upper_tertile,middle_tertile,upper_tertile,lower_tertile
+Jharkhand|2011,Jharkhand,2011,over_100_to_150pct,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Jharkhand|2012,Jharkhand,2012,over_100_to_150pct,upper_tertile,middle_tertile,lower_tertile,middle_tertile
+Jharkhand|2013,Jharkhand,2013,over_100_to_150pct,upper_tertile,upper_tertile,lower_tertile,middle_tertile
+Karnataka|2001,Karnataka,2001,over_100_to_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Karnataka|2002,Karnataka,2002,over_100_to_150pct,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Karnataka|2004,Karnataka,2004,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,middle_tertile
+Karnataka|2005,Karnataka,2005,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,middle_tertile
+Karnataka|2006,Karnataka,2006,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,middle_tertile
+Karnataka|2007,Karnataka,2007,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,middle_tertile
+Karnataka|2008,Karnataka,2008,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,upper_tertile
+Karnataka|2009,Karnataka,2009,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,upper_tertile
+Karnataka|2010,Karnataka,2010,within_capacity,middle_tertile,middle_tertile,upper_tertile,upper_tertile
+Karnataka|2011,Karnataka,2011,within_capacity,middle_tertile,middle_tertile,upper_tertile,upper_tertile
+Karnataka|2012,Karnataka,2012,over_100_to_150pct,middle_tertile,middle_tertile,upper_tertile,middle_tertile
+Karnataka|2013,Karnataka,2013,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,upper_tertile
+Kerala|2001,Kerala,2001,within_capacity,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Kerala|2002,Kerala,2002,within_capacity,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Kerala|2003,Kerala,2003,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Kerala|2004,Kerala,2004,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Kerala|2005,Kerala,2005,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Kerala|2006,Kerala,2006,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Kerala|2007,Kerala,2007,over_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Kerala|2008,Kerala,2008,over_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Kerala|2009,Kerala,2009,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Kerala|2010,Kerala,2010,over_100_to_150pct,lower_tertile,middle_tertile,lower_tertile,lower_tertile
+Kerala|2011,Kerala,2011,within_capacity,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Kerala|2012,Kerala,2012,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Kerala|2013,Kerala,2013,over_100_to_150pct,middle_tertile,lower_tertile,lower_tertile,lower_tertile
+Lakshadweep|2001,Lakshadweep,2001,within_capacity,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Lakshadweep|2002,Lakshadweep,2002,within_capacity,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Lakshadweep|2003,Lakshadweep,2003,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Lakshadweep|2005,Lakshadweep,2005,within_capacity,upper_tertile,lower_tertile,lower_tertile,middle_tertile
+Lakshadweep|2007,Lakshadweep,2007,over_100_to_150pct,lower_tertile,lower_tertile,upper_tertile,lower_tertile
+Lakshadweep|2008,Lakshadweep,2008,over_100_to_150pct,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Lakshadweep|2009,Lakshadweep,2009,over_150pct,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Lakshadweep|2010,Lakshadweep,2010,over_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Lakshadweep|2011,Lakshadweep,2011,over_150pct,lower_tertile,lower_tertile,middle_tertile,lower_tertile
+Madhya Pradesh|2001,Madhya Pradesh,2001,over_150pct,lower_tertile,lower_tertile,upper_tertile,upper_tertile
+Madhya Pradesh|2002,Madhya Pradesh,2002,over_150pct,lower_tertile,lower_tertile,middle_tertile,upper_tertile
+Madhya Pradesh|2003,Madhya Pradesh,2003,over_150pct,lower_tertile,middle_tertile,middle_tertile,upper_tertile
+Madhya Pradesh|2004,Madhya Pradesh,2004,over_150pct,lower_tertile,lower_tertile,lower_tertile,upper_tertile
+Madhya Pradesh|2005,Madhya Pradesh,2005,over_150pct,lower_tertile,lower_tertile,upper_tertile,upper_tertile
+Madhya Pradesh|2006,Madhya Pradesh,2006,over_150pct,lower_tertile,lower_tertile,upper_tertile,middle_tertile
+Madhya Pradesh|2007,Madhya Pradesh,2007,over_150pct,lower_tertile,lower_tertile,middle_tertile,middle_tertile
+Madhya Pradesh|2008,Madhya Pradesh,2008,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,middle_tertile
+Madhya Pradesh|2009,Madhya Pradesh,2009,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,middle_tertile
+Madhya Pradesh|2010,Madhya Pradesh,2010,over_100_to_150pct,lower_tertile,middle_tertile,upper_tertile,middle_tertile
+Madhya Pradesh|2011,Madhya Pradesh,2011,over_100_to_150pct,lower_tertile,middle_tertile,upper_tertile,middle_tertile
+Madhya Pradesh|2012,Madhya Pradesh,2012,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Madhya Pradesh|2013,Madhya Pradesh,2013,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Maharashtra|2001,Maharashtra,2001,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Maharashtra|2002,Maharashtra,2002,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,middle_tertile
+Maharashtra|2003,Maharashtra,2003,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,middle_tertile
+Maharashtra|2004,Maharashtra,2004,over_150pct,middle_tertile,upper_tertile,lower_tertile,middle_tertile
+Maharashtra|2005,Maharashtra,2005,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,lower_tertile
+Maharashtra|2006,Maharashtra,2006,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,lower_tertile
+Maharashtra|2007,Maharashtra,2007,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,lower_tertile
+Maharashtra|2008,Maharashtra,2008,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,middle_tertile
+Maharashtra|2009,Maharashtra,2009,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,middle_tertile
+Maharashtra|2011,Maharashtra,2011,within_capacity,middle_tertile,upper_tertile,middle_tertile,lower_tertile
+Maharashtra|2012,Maharashtra,2012,within_capacity,middle_tertile,upper_tertile,lower_tertile,lower_tertile
+Maharashtra|2013,Maharashtra,2013,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,lower_tertile
+Manipur|2001,Manipur,2001,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Manipur|2002,Manipur,2002,within_capacity,middle_tertile,upper_tertile,upper_tertile,lower_tertile
+Manipur|2003,Manipur,2003,within_capacity,middle_tertile,upper_tertile,upper_tertile,lower_tertile
+Manipur|2004,Manipur,2004,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Manipur|2005,Manipur,2005,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Manipur|2006,Manipur,2006,within_capacity,upper_tertile,middle_tertile,upper_tertile,lower_tertile
+Manipur|2007,Manipur,2007,within_capacity,lower_tertile,lower_tertile,upper_tertile,lower_tertile
+Manipur|2008,Manipur,2008,within_capacity,lower_tertile,upper_tertile,upper_tertile,lower_tertile
+Manipur|2009,Manipur,2009,within_capacity,middle_tertile,upper_tertile,upper_tertile,lower_tertile
+Manipur|2010,Manipur,2010,within_capacity,lower_tertile,upper_tertile,middle_tertile,lower_tertile
+Manipur|2011,Manipur,2011,within_capacity,middle_tertile,upper_tertile,middle_tertile,lower_tertile
+Manipur|2012,Manipur,2012,within_capacity,upper_tertile,upper_tertile,middle_tertile,lower_tertile
+Manipur|2013,Manipur,2013,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Meghalaya|2001,Meghalaya,2001,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2002,Meghalaya,2002,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2003,Meghalaya,2003,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2004,Meghalaya,2004,within_capacity,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2005,Meghalaya,2005,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2006,Meghalaya,2006,over_100_to_150pct,upper_tertile,lower_tertile,lower_tertile,middle_tertile
+Meghalaya|2007,Meghalaya,2007,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2008,Meghalaya,2008,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2009,Meghalaya,2009,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2010,Meghalaya,2010,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2011,Meghalaya,2011,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Meghalaya|2012,Meghalaya,2012,over_100_to_150pct,upper_tertile,lower_tertile,upper_tertile,middle_tertile
+Meghalaya|2013,Meghalaya,2013,over_150pct,upper_tertile,lower_tertile,upper_tertile,upper_tertile
+Mizoram|2001,Mizoram,2001,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2002,Mizoram,2002,within_capacity,middle_tertile,upper_tertile,middle_tertile,lower_tertile
+Mizoram|2003,Mizoram,2003,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2004,Mizoram,2004,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2005,Mizoram,2005,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2006,Mizoram,2006,within_capacity,upper_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2007,Mizoram,2007,within_capacity,middle_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2008,Mizoram,2008,within_capacity,lower_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2009,Mizoram,2009,within_capacity,lower_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2010,Mizoram,2010,within_capacity,lower_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2011,Mizoram,2011,within_capacity,lower_tertile,upper_tertile,upper_tertile,lower_tertile
+Mizoram|2012,Mizoram,2012,within_capacity,middle_tertile,upper_tertile,middle_tertile,lower_tertile
+Mizoram|2013,Mizoram,2013,within_capacity,lower_tertile,upper_tertile,middle_tertile,lower_tertile
+Nagaland|2001,Nagaland,2001,within_capacity,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Nagaland|2002,Nagaland,2002,within_capacity,upper_tertile,lower_tertile,lower_tertile,lower_tertile
+Nagaland|2003,Nagaland,2003,within_capacity,upper_tertile,lower_tertile,upper_tertile,lower_tertile
+Nagaland|2004,Nagaland,2004,within_capacity,middle_tertile,lower_tertile,lower_tertile,lower_tertile
+Nagaland|2005,Nagaland,2005,within_capacity,upper_tertile,middle_tertile,lower_tertile,lower_tertile
+Nagaland|2006,Nagaland,2006,within_capacity,upper_tertile,middle_tertile,lower_tertile,lower_tertile
+Nagaland|2007,Nagaland,2007,within_capacity,upper_tertile,middle_tertile,lower_tertile,lower_tertile
+Nagaland|2008,Nagaland,2008,within_capacity,middle_tertile,lower_tertile,lower_tertile,middle_tertile
+Nagaland|2009,Nagaland,2009,within_capacity,middle_tertile,lower_tertile,middle_tertile,lower_tertile
+Nagaland|2010,Nagaland,2010,within_capacity,middle_tertile,middle_tertile,lower_tertile,lower_tertile
+Nagaland|2011,Nagaland,2011,within_capacity,lower_tertile,middle_tertile,upper_tertile,lower_tertile
+Nagaland|2012,Nagaland,2012,within_capacity,middle_tertile,middle_tertile,upper_tertile,lower_tertile
+Nagaland|2013,Nagaland,2013,within_capacity,middle_tertile,lower_tertile,upper_tertile,lower_tertile
+Odisha|2001,Odisha,2001,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Odisha|2002,Odisha,2002,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Odisha|2003,Odisha,2003,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Odisha|2004,Odisha,2004,over_150pct,upper_tertile,lower_tertile,lower_tertile,middle_tertile
+Odisha|2005,Odisha,2005,over_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Odisha|2006,Odisha,2006,over_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Odisha|2007,Odisha,2007,over_100_to_150pct,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Odisha|2008,Odisha,2008,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Odisha|2009,Odisha,2009,within_capacity,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Odisha|2010,Odisha,2010,within_capacity,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Odisha|2011,Odisha,2011,within_capacity,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Odisha|2012,Odisha,2012,within_capacity,upper_tertile,middle_tertile,middle_tertile,middle_tertile
+Odisha|2013,Odisha,2013,within_capacity,upper_tertile,upper_tertile,middle_tertile,middle_tertile
+Puducherry|2001,Puducherry,2001,within_capacity,lower_tertile,lower_tertile,upper_tertile,middle_tertile
+Puducherry|2002,Puducherry,2002,within_capacity,lower_tertile,upper_tertile,middle_tertile,lower_tertile
+Puducherry|2003,Puducherry,2003,within_capacity,lower_tertile,lower_tertile,upper_tertile,middle_tertile
+Puducherry|2004,Puducherry,2004,within_capacity,middle_tertile,lower_tertile,lower_tertile,middle_tertile
+Puducherry|2005,Puducherry,2005,within_capacity,lower_tertile,lower_tertile,middle_tertile,middle_tertile
+Puducherry|2006,Puducherry,2006,over_100_to_150pct,middle_tertile,lower_tertile,upper_tertile,middle_tertile
+Puducherry|2007,Puducherry,2007,over_100_to_150pct,middle_tertile,lower_tertile,upper_tertile,middle_tertile
+Puducherry|2008,Puducherry,2008,within_capacity,middle_tertile,lower_tertile,upper_tertile,middle_tertile
+Puducherry|2009,Puducherry,2009,within_capacity,lower_tertile,lower_tertile,middle_tertile,lower_tertile
+Puducherry|2010,Puducherry,2010,within_capacity,lower_tertile,lower_tertile,upper_tertile,middle_tertile
+Puducherry|2011,Puducherry,2011,within_capacity,lower_tertile,lower_tertile,lower_tertile,middle_tertile
+Puducherry|2012,Puducherry,2012,within_capacity,middle_tertile,lower_tertile,middle_tertile,middle_tertile
+Puducherry|2013,Puducherry,2013,within_capacity,middle_tertile,lower_tertile,middle_tertile,upper_tertile
+Punjab|2001,Punjab,2001,over_100_to_150pct,middle_tertile,upper_tertile,upper_tertile,upper_tertile
+Punjab|2002,Punjab,2002,over_100_to_150pct,middle_tertile,upper_tertile,upper_tertile,upper_tertile
+Punjab|2003,Punjab,2003,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Punjab|2004,Punjab,2004,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Punjab|2005,Punjab,2005,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Punjab|2006,Punjab,2006,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+Punjab|2007,Punjab,2007,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Punjab|2008,Punjab,2008,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+Punjab|2009,Punjab,2009,over_100_to_150pct,middle_tertile,upper_tertile,upper_tertile,upper_tertile
+Punjab|2010,Punjab,2010,over_100_to_150pct,middle_tertile,upper_tertile,upper_tertile,upper_tertile
+Punjab|2011,Punjab,2011,over_100_to_150pct,lower_tertile,upper_tertile,upper_tertile,upper_tertile
+Punjab|2012,Punjab,2012,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,middle_tertile
+Punjab|2013,Punjab,2013,over_100_to_150pct,middle_tertile,upper_tertile,lower_tertile,lower_tertile
+Rajasthan|2001,Rajasthan,2001,within_capacity,middle_tertile,lower_tertile,middle_tertile,middle_tertile
+Rajasthan|2002,Rajasthan,2002,within_capacity,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2003,Rajasthan,2003,within_capacity,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2004,Rajasthan,2004,within_capacity,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2005,Rajasthan,2005,within_capacity,lower_tertile,middle_tertile,upper_tertile,middle_tertile
+Rajasthan|2006,Rajasthan,2006,within_capacity,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2007,Rajasthan,2007,within_capacity,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2008,Rajasthan,2008,within_capacity,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2009,Rajasthan,2009,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2010,Rajasthan,2010,within_capacity,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2011,Rajasthan,2011,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2012,Rajasthan,2012,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Rajasthan|2013,Rajasthan,2013,over_100_to_150pct,middle_tertile,middle_tertile,lower_tertile,middle_tertile
+Sikkim|2001,Sikkim,2001,over_150pct,lower_tertile,lower_tertile,upper_tertile,middle_tertile
+Sikkim|2002,Sikkim,2002,over_150pct,lower_tertile,lower_tertile,middle_tertile,lower_tertile
+Sikkim|2003,Sikkim,2003,over_150pct,lower_tertile,lower_tertile,upper_tertile,upper_tertile
+Sikkim|2004,Sikkim,2004,over_150pct,lower_tertile,lower_tertile,upper_tertile,lower_tertile
+Sikkim|2005,Sikkim,2005,over_150pct,middle_tertile,middle_tertile,upper_tertile,lower_tertile
+Sikkim|2006,Sikkim,2006,over_150pct,lower_tertile,lower_tertile,upper_tertile,middle_tertile
+Sikkim|2007,Sikkim,2007,over_100_to_150pct,middle_tertile,lower_tertile,upper_tertile,lower_tertile
+Sikkim|2008,Sikkim,2008,over_100_to_150pct,upper_tertile,middle_tertile,upper_tertile,lower_tertile
+Sikkim|2009,Sikkim,2009,within_capacity,middle_tertile,middle_tertile,upper_tertile,lower_tertile
+Sikkim|2010,Sikkim,2010,within_capacity,middle_tertile,middle_tertile,upper_tertile,lower_tertile
+Sikkim|2011,Sikkim,2011,within_capacity,middle_tertile,lower_tertile,upper_tertile,middle_tertile
+Sikkim|2012,Sikkim,2012,over_100_to_150pct,middle_tertile,lower_tertile,upper_tertile,lower_tertile
+Sikkim|2013,Sikkim,2013,within_capacity,lower_tertile,middle_tertile,middle_tertile,lower_tertile
+Tamil Nadu|2001,Tamil Nadu,2001,over_100_to_150pct,lower_tertile,upper_tertile,middle_tertile,upper_tertile
+Tamil Nadu|2003,Tamil Nadu,2003,over_100_to_150pct,lower_tertile,upper_tertile,lower_tertile,middle_tertile
+Tamil Nadu|2004,Tamil Nadu,2004,over_100_to_150pct,lower_tertile,upper_tertile,lower_tertile,middle_tertile
+Tamil Nadu|2005,Tamil Nadu,2005,over_100_to_150pct,lower_tertile,upper_tertile,lower_tertile,upper_tertile
+Tamil Nadu|2006,Tamil Nadu,2006,over_100_to_150pct,lower_tertile,upper_tertile,lower_tertile,upper_tertile
+Tamil Nadu|2007,Tamil Nadu,2007,within_capacity,lower_tertile,upper_tertile,middle_tertile,middle_tertile
+Tamil Nadu|2008,Tamil Nadu,2008,within_capacity,lower_tertile,upper_tertile,middle_tertile,middle_tertile
+Tamil Nadu|2009,Tamil Nadu,2009,within_capacity,lower_tertile,upper_tertile,lower_tertile,middle_tertile
+Tamil Nadu|2010,Tamil Nadu,2010,within_capacity,lower_tertile,upper_tertile,lower_tertile,upper_tertile
+Tamil Nadu|2011,Tamil Nadu,2011,within_capacity,lower_tertile,upper_tertile,lower_tertile,middle_tertile
+Tamil Nadu|2012,Tamil Nadu,2012,within_capacity,lower_tertile,upper_tertile,lower_tertile,upper_tertile
+Tamil Nadu|2013,Tamil Nadu,2013,within_capacity,lower_tertile,upper_tertile,lower_tertile,upper_tertile
+Tripura|2001,Tripura,2001,over_100_to_150pct,middle_tertile,lower_tertile,middle_tertile,lower_tertile
+Tripura|2002,Tripura,2002,over_100_to_150pct,lower_tertile,lower_tertile,middle_tertile,lower_tertile
+Tripura|2003,Tripura,2003,over_150pct,middle_tertile,lower_tertile,middle_tertile,lower_tertile
+Tripura|2005,Tripura,2005,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Tripura|2006,Tripura,2006,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Tripura|2007,Tripura,2007,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Tripura|2008,Tripura,2008,over_100_to_150pct,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Tripura|2009,Tripura,2009,within_capacity,lower_tertile,middle_tertile,lower_tertile,lower_tertile
+Tripura|2010,Tripura,2010,within_capacity,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Tripura|2011,Tripura,2011,within_capacity,lower_tertile,middle_tertile,lower_tertile,lower_tertile
+Tripura|2012,Tripura,2012,within_capacity,lower_tertile,middle_tertile,lower_tertile,lower_tertile
+Tripura|2013,Tripura,2013,within_capacity,lower_tertile,lower_tertile,lower_tertile,lower_tertile
+Uttar Pradesh|2002,Uttar Pradesh,2002,over_150pct,upper_tertile,lower_tertile,middle_tertile,upper_tertile
+Uttar Pradesh|2003,Uttar Pradesh,2003,over_100_to_150pct,upper_tertile,lower_tertile,middle_tertile,upper_tertile
+Uttar Pradesh|2004,Uttar Pradesh,2004,over_150pct,upper_tertile,lower_tertile,middle_tertile,upper_tertile
+Uttar Pradesh|2005,Uttar Pradesh,2005,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Uttar Pradesh|2006,Uttar Pradesh,2006,over_150pct,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Uttar Pradesh|2007,Uttar Pradesh,2007,over_150pct,upper_tertile,middle_tertile,lower_tertile,upper_tertile
+Uttar Pradesh|2008,Uttar Pradesh,2008,over_150pct,upper_tertile,middle_tertile,lower_tertile,upper_tertile
+Uttar Pradesh|2009,Uttar Pradesh,2009,over_150pct,middle_tertile,middle_tertile,lower_tertile,upper_tertile
+Uttar Pradesh|2010,Uttar Pradesh,2010,over_150pct,middle_tertile,middle_tertile,lower_tertile,upper_tertile
+Uttar Pradesh|2011,Uttar Pradesh,2011,over_150pct,middle_tertile,middle_tertile,lower_tertile,upper_tertile
+Uttar Pradesh|2012,Uttar Pradesh,2012,over_150pct,middle_tertile,middle_tertile,lower_tertile,upper_tertile
+Uttar Pradesh|2013,Uttar Pradesh,2013,over_150pct,middle_tertile,middle_tertile,lower_tertile,middle_tertile
+Uttarakhand|2001,Uttarakhand,2001,within_capacity,upper_tertile,lower_tertile,middle_tertile,upper_tertile
+Uttarakhand|2002,Uttarakhand,2002,within_capacity,upper_tertile,lower_tertile,lower_tertile,upper_tertile
+Uttarakhand|2003,Uttarakhand,2003,within_capacity,upper_tertile,lower_tertile,lower_tertile,middle_tertile
+Uttarakhand|2004,Uttarakhand,2004,within_capacity,middle_tertile,upper_tertile,lower_tertile,lower_tertile
+Uttarakhand|2005,Uttarakhand,2005,over_100_to_150pct,middle_tertile,lower_tertile,lower_tertile,lower_tertile
+Uttarakhand|2006,Uttarakhand,2006,over_150pct,middle_tertile,lower_tertile,middle_tertile,middle_tertile
+Uttarakhand|2007,Uttarakhand,2007,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Uttarakhand|2008,Uttarakhand,2008,over_100_to_150pct,middle_tertile,middle_tertile,lower_tertile,middle_tertile
+Uttarakhand|2009,Uttarakhand,2009,over_100_to_150pct,middle_tertile,middle_tertile,middle_tertile,middle_tertile
+Uttarakhand|2010,Uttarakhand,2010,over_100_to_150pct,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Uttarakhand|2011,Uttarakhand,2011,within_capacity,lower_tertile,middle_tertile,middle_tertile,upper_tertile
+Uttarakhand|2012,Uttarakhand,2012,within_capacity,lower_tertile,middle_tertile,middle_tertile,middle_tertile
+Uttarakhand|2013,Uttarakhand,2013,over_100_to_150pct,lower_tertile,upper_tertile,lower_tertile,middle_tertile
+West Bengal|2001,West Bengal,2001,within_capacity,upper_tertile,upper_tertile,middle_tertile,upper_tertile
+West Bengal|2002,West Bengal,2002,within_capacity,upper_tertile,upper_tertile,middle_tertile,upper_tertile
+West Bengal|2003,West Bengal,2003,within_capacity,upper_tertile,upper_tertile,middle_tertile,upper_tertile
+West Bengal|2004,West Bengal,2004,within_capacity,upper_tertile,upper_tertile,upper_tertile,upper_tertile
+West Bengal|2005,West Bengal,2005,within_capacity,upper_tertile,upper_tertile,middle_tertile,upper_tertile
+West Bengal|2006,West Bengal,2006,within_capacity,upper_tertile,upper_tertile,lower_tertile,middle_tertile
+West Bengal|2007,West Bengal,2007,within_capacity,upper_tertile,upper_tertile,lower_tertile,middle_tertile
+West Bengal|2008,West Bengal,2008,within_capacity,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+West Bengal|2009,West Bengal,2009,within_capacity,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+West Bengal|2010,West Bengal,2010,within_capacity,middle_tertile,upper_tertile,lower_tertile,upper_tertile
+West Bengal|2011,West Bengal,2011,within_capacity,middle_tertile,upper_tertile,middle_tertile,upper_tertile
+West Bengal|2012,West Bengal,2012,over_100_to_150pct,middle_tertile,upper_tertile,middle_tertile,middle_tertile

@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+"[""occupancy_ratio=over_150pct""]","[""illiterate_share=upper_tertile""]",0.14187643020594964,0.6391752577319587,1.9131478604716847

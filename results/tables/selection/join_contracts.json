@@ -1,0 +1,58 @@
+[
+  {
+    "left": "Jail wise population of prison inmates.csv",
+    "right": "Other Prison data/Population_and_capacity_of_jails.csv",
+    "keys": [
+      "state",
+      "year",
+      "jail_type"
+    ],
+    "cardinality": "one_to_one",
+    "checked_rows": 4023,
+    "status": "keys_valid_but_measures_disagree",
+    "population_cells_compared": 12069,
+    "disagreeing_cells": 8,
+    "use": "Do not integrate conflicting jail-type measures; use verified state-year totals for profiles."
+  },
+  {
+    "left": "population totals",
+    "right": "capacity totals",
+    "keys": [
+      "state",
+      "year"
+    ],
+    "cardinality": "one_to_one",
+    "checked_rows": 447,
+    "status": "verified"
+  },
+  {
+    "left": "age/education native records",
+    "right": "profile cohort keys",
+    "keys": [
+      "state",
+      "year"
+    ],
+    "cardinality": "many_to_one",
+    "status": "verified_filter_only"
+  },
+  {
+    "left": "Age_group.csv",
+    "right": "Education.csv",
+    "keys": [
+      "state",
+      "year"
+    ],
+    "cardinality": "many_to_many",
+    "status": "forbidden",
+    "reason": "Separate marginal distributions cannot establish joint age/education records. Aggregate independently at Phase 3 before one-to-one integration."
+  },
+  {
+    "left": "2001\u20132013 tables",
+    "right": "2015/2015\u20132016 tables",
+    "keys": [
+      "state"
+    ],
+    "status": "forbidden",
+    "reason": "Dates and geographic boundaries are not aligned."
+  }
+]

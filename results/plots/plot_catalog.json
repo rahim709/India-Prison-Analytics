@@ -1,0 +1,200 @@
+[
+  {
+    "file": "01_bar.png",
+    "kind": "Bar",
+    "source": "latest_state_snapshot.csv",
+    "suitability": "Compare jurisdiction counts.",
+    "inference": "Uttar Pradesh reports 83,518 prisoners, the largest count."
+  },
+  {
+    "file": "09_dot.png",
+    "kind": "Dot plot",
+    "source": "latest_state_snapshot.csv",
+    "suitability": "Precisely compare a manageable number of numeric values.",
+    "inference": "Chhattisgarh has the highest reported occupancy at 260.96%; Delhi follows at 216.83%."
+  },
+  {
+    "file": "05_line.png",
+    "kind": "Line",
+    "source": "year_summary_balanced.csv",
+    "suitability": "Display temporal changes with fixed geographic coverage.",
+    "inference": "Prisoner counts grew 31.33%, compared with 51.41% capacity growth over 2001\u20132013."
+  },
+  {
+    "file": "02_pie.png",
+    "kind": "Pie",
+    "source": "demographic_year.csv",
+    "suitability": "Mutually exclusive statuses form one population.",
+    "inference": "Undertrials account for 67.60% of the 411,992 reported prisoners."
+  },
+  {
+    "file": "08_area.png",
+    "kind": "Stacked area",
+    "source": "year_summary_balanced.csv",
+    "suitability": "Show disjoint category contributions through time.",
+    "inference": "Undertrials remain the largest category throughout the fixed-panel series."
+  },
+  {
+    "file": "11_status_state_rankings.png",
+    "kind": "Paired bars",
+    "source": "latest_state_snapshot.csv",
+    "plot_data": "results/tables/visualization/11_status_state_rankings.csv",
+    "suitability": "Separate status rankings reveal differences hidden by total population.",
+    "inference": "Largest convict population: Uttar Pradesh; largest undertrial population: Uttar Pradesh."
+  },
+  {
+    "file": "12_status_demographics.png",
+    "kind": "Composition panels",
+    "source": "latest_state_snapshot.csv; demographic_status_year.csv",
+    "plot_data": "results/tables/visualization/12_status_demographics.csv",
+    "suitability": "Compare observed compositions within convicted and undertrial populations.",
+    "inference": "Female shares are 4.12% among convicts and 4.56% among undertrials. Caste and gender are overlapping margins."
+  },
+  {
+    "file": "16_religion_education.png",
+    "kind": "Demographic share bars",
+    "source": "demographic_status_year.csv",
+    "plot_data": "results/tables/visualization/16_religion_education.csv",
+    "suitability": "Labeled bars make small categories easier to compare than crowded pie slices.",
+    "inference": "Religion uses the explicitly repaired religion column; these two panels describe different legal-status populations."
+  },
+  {
+    "file": "17_ipc_composition.png",
+    "kind": "Crime composition bars",
+    "source": "IPC_crime_inmates_convicted.csv, eligible cleaned view",
+    "plot_data": "results/tables/visualization/17_ipc_composition.csv",
+    "suitability": "Compare all 21 heads without an unreadable 21-slice pie.",
+    "inference": "Murder represents 59.99% of this source's reported convicted IPC counts, not all prisoners or resident crime incidence."
+  },
+  {
+    "file": "18_crime_trends_women_related.png",
+    "kind": "Crime trend facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible fixed-coverage view",
+    "plot_data": "results/tables/visualization/18_crime_trends_women_related.csv",
+    "suitability": "Separate axes retain interpretable scales for different source crime heads.",
+    "inference": "For CRUELTY BY HUSBAND OR RELATIVE OF HUSBAND, reported counts change from 381 to 1,057 over 2001\u20132013 on 32 fixed jurisdictions. These are convicted-inmate counts, not crime incidence."
+  },
+  {
+    "file": "19_crime_trends_property.png",
+    "kind": "Crime trend facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible fixed-coverage view",
+    "plot_data": "results/tables/visualization/19_crime_trends_property.csv",
+    "suitability": "Separate axes retain interpretable scales for different source crime heads.",
+    "inference": "For BURGLARY, reported counts change from 883 to 1,064 over 2001\u20132013 on 32 fixed jurisdictions. These are convicted-inmate counts, not crime incidence."
+  },
+  {
+    "file": "20_crime_trends_fraud.png",
+    "kind": "Crime trend facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible fixed-coverage view",
+    "plot_data": "results/tables/visualization/20_crime_trends_fraud.csv",
+    "suitability": "Separate axes retain interpretable scales for different source crime heads.",
+    "inference": "For CHEATING, reported counts change from 555 to 872 over 2001\u20132013 on 32 fixed jurisdictions. These are convicted-inmate counts, not crime incidence."
+  },
+  {
+    "file": "21_crime_trends_other_selected.png",
+    "kind": "Crime trend facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible fixed-coverage view",
+    "plot_data": "results/tables/visualization/21_crime_trends_other_selected.csv",
+    "suitability": "Separate axes retain interpretable scales for different source crime heads.",
+    "inference": "For ARSON, reported counts change from 169 to 275 over 2001\u20132013 on 32 fixed jurisdictions. These are convicted-inmate counts, not crime incidence."
+  },
+  {
+    "file": "22_crime_trends_murder.png",
+    "kind": "Crime trend facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible fixed-coverage view",
+    "plot_data": "results/tables/visualization/22_crime_trends_murder.csv",
+    "suitability": "Separate axes retain interpretable scales for different source crime heads.",
+    "inference": "For MURDER, reported counts change from 37,925 to 65,291 over 2001\u20132013 on 32 fixed jurisdictions. These are convicted-inmate counts, not crime incidence."
+  },
+  {
+    "file": "23_crime_rankings_women_related.png",
+    "kind": "Crime ranking facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible latest-year view",
+    "plot_data": "results/tables/visualization/23_crime_rankings_women_related.csv",
+    "suitability": "Compare jurisdictions within each crime head without pooling repeated annual inmate stocks.",
+    "inference": "For CRUELTY BY HUSBAND OR RELATIVE OF HUSBAND, Punjab has the largest reported count (183) in 2013. This is not a per-resident crime rate."
+  },
+  {
+    "file": "24_crime_rankings_property.png",
+    "kind": "Crime ranking facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible latest-year view",
+    "plot_data": "results/tables/visualization/24_crime_rankings_property.csv",
+    "suitability": "Compare jurisdictions within each crime head without pooling repeated annual inmate stocks.",
+    "inference": "For BURGLARY, Punjab has the largest reported count (113) in 2013. This is not a per-resident crime rate."
+  },
+  {
+    "file": "25_crime_rankings_fraud.png",
+    "kind": "Crime ranking facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible latest-year view",
+    "plot_data": "results/tables/visualization/25_crime_rankings_fraud.csv",
+    "suitability": "Compare jurisdictions within each crime head without pooling repeated annual inmate stocks.",
+    "inference": "For CHEATING, Punjab has the largest reported count (185) in 2013. This is not a per-resident crime rate."
+  },
+  {
+    "file": "26_crime_rankings_other_selected.png",
+    "kind": "Crime ranking facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible latest-year view",
+    "plot_data": "results/tables/visualization/26_crime_rankings_other_selected.csv",
+    "suitability": "Compare jurisdictions within each crime head without pooling repeated annual inmate stocks.",
+    "inference": "For ARSON, Maharashtra has the largest reported count (96) in 2013. This is not a per-resident crime rate."
+  },
+  {
+    "file": "27_crime_rankings_murder.png",
+    "kind": "Crime ranking facets",
+    "source": "IPC_crime_inmates_convicted.csv, eligible latest-year view",
+    "plot_data": "results/tables/visualization/27_crime_rankings_murder.csv",
+    "suitability": "Compare jurisdictions within each crime head without pooling repeated annual inmate stocks.",
+    "inference": "For MURDER, Uttar Pradesh has the largest reported count (14,211) in 2013. This is not a per-resident crime rate."
+  },
+  {
+    "file": "14_sentence_indicator_rankings.png",
+    "kind": "Indicator rank panels",
+    "source": "Death_sentence.csv, eligible cleaned view",
+    "plot_data": "results/tables/visualization/14_sentence_indicator_rankings.csv",
+    "suitability": "Compare source-specific indicators without confusing them with the entire sentenced population.",
+    "inference": "These source field names are retained literally; no_life_imprisonment is not assumed to describe every life-sentenced inmate."
+  },
+  {
+    "file": "15_sentence_indicator_trends.png",
+    "kind": "Annual indicator panels",
+    "source": "Death_sentence.csv, eligible cleaned view",
+    "plot_data": "results/tables/visualization/15_sentence_indicator_trends.csv",
+    "suitability": "Prevent geographic coverage changes from masquerading as indicator changes.",
+    "inference": "Trends use the same 33 jurisdictions in all thirteen years; the two indicators are not added together."
+  },
+  {
+    "file": "03_histogram.png",
+    "kind": "Histogram",
+    "source": "profile_features.csv",
+    "suitability": "Show the numeric occupancy distribution.",
+    "inference": "The median occupancy is 110.33%; the maximum is 500%."
+  },
+  {
+    "file": "04_box.png",
+    "kind": "Box plot",
+    "source": "state_year_totals.csv",
+    "suitability": "Compare medians, dispersion and extreme observations.",
+    "inference": "Coverage changes from 34 to 35 jurisdictions after 2008; outliers are retained."
+  },
+  {
+    "file": "06_scatter.png",
+    "kind": "Scatter",
+    "source": "profile_features.csv",
+    "suitability": "Inspect paired numerical values without causal claims.",
+    "inference": "Pooled Pearson correlation is 0.35432; repeated state-years are not independent people."
+  },
+  {
+    "file": "07_heatmap.png",
+    "kind": "Heatmap",
+    "source": "profile_features.csv",
+    "suitability": "Compare all feature-pair associations on one consistent cohort.",
+    "inference": "The largest absolute off-diagonal Pearson correlation is 0.35432, between illiterate share and occupancy."
+  },
+  {
+    "file": "10_stem_leaf.png",
+    "kind": "Stem-and-leaf",
+    "source": "latest_state_snapshot.csv",
+    "suitability": "Retain individual rounded values for 35 jurisdictions.",
+    "inference": "The display includes recorded zero occupancy and a rounded maximum of 261%; rounding is for this display only."
+  }
+]

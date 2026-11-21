@@ -1,0 +1,11 @@
+state,year,marginal_compatible,positive_denominators,reason
+Karnataka,2003,False,True,Age/education completeness or population compatibility
+Lakshadweep,2004,True,False,Zero prisoner denominator; demographic proportions undefined
+Lakshadweep,2006,True,False,Zero prisoner denominator; demographic proportions undefined
+Lakshadweep,2012,True,False,Zero prisoner denominator; demographic proportions undefined
+Lakshadweep,2013,True,False,Zero prisoner denominator; demographic proportions undefined
+Maharashtra,2010,False,True,Age/education completeness or population compatibility
+Tamil Nadu,2002,False,True,Age/education completeness or population compatibility
+Tripura,2004,False,True,Age/education completeness or population compatibility
+Uttar Pradesh,2001,False,True,Age/education completeness or population compatibility
+West Bengal,2013,False,True,Age/education completeness or population compatibility

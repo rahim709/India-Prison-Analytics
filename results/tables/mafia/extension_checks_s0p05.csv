@@ -1,0 +1,1068 @@
+items,added_item,extension_count,min_count,extension_frequent
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",illiterate_share=lower_tertile,13,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",illiterate_share=middle_tertile,13,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",illiterate_share=upper_tertile,14,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,15,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",occupancy_ratio=over_150pct,10,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",occupancy_ratio=within_capacity,15,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",undertrial_share=lower_tertile,12,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",undertrial_share=middle_tertile,13,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=middle_tertile""]",undertrial_share=upper_tertile,15,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",female_share=lower_tertile,9,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",female_share=middle_tertile,13,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",female_share=upper_tertile,17,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,18,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=over_150pct,3,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=within_capacity,18,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=lower_tertile,8,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=middle_tertile,12,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=upper_tertile,19,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",female_share=lower_tertile,16,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",female_share=middle_tertile,14,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",female_share=upper_tertile,20,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,17,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",occupancy_ratio=over_150pct,19,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",occupancy_ratio=within_capacity,14,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",undertrial_share=lower_tertile,13,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",undertrial_share=middle_tertile,19,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=upper_tertile""]",undertrial_share=upper_tertile,18,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",female_share=lower_tertile,17,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",female_share=middle_tertile,10,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",female_share=upper_tertile,1,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=lower_tertile,6,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=middle_tertile,3,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=upper_tertile,19,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=lower_tertile,4,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=middle_tertile,7,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=upper_tertile,17,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",illiterate_share=lower_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",illiterate_share=middle_tertile,9,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",illiterate_share=upper_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,14,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",occupancy_ratio=over_150pct,10,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",occupancy_ratio=within_capacity,9,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",undertrial_share=lower_tertile,17,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",undertrial_share=middle_tertile,10,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=lower_tertile""]",undertrial_share=upper_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",illiterate_share=lower_tertile,10,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",illiterate_share=middle_tertile,13,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",illiterate_share=upper_tertile,21,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,15,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",occupancy_ratio=over_150pct,8,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",occupancy_ratio=within_capacity,21,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",undertrial_share=lower_tertile,17,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",undertrial_share=middle_tertile,20,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=upper_tertile""]",undertrial_share=upper_tertile,7,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",female_share=lower_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",female_share=middle_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",female_share=upper_tertile,10,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,14,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_150pct,3,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=within_capacity,17,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=lower_tertile,20,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=middle_tertile,11,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=upper_tertile,3,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,13,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,7,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,3,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,11,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,5,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,7,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,14,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",illiterate_share=lower_tertile,10,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",illiterate_share=middle_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",illiterate_share=upper_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,13,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",occupancy_ratio=over_150pct,10,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",occupancy_ratio=within_capacity,14,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",undertrial_share=lower_tertile,4,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",undertrial_share=middle_tertile,18,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=middle_tertile""]",undertrial_share=upper_tertile,15,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",female_share=lower_tertile,17,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",female_share=middle_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",female_share=upper_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,19,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=over_150pct,11,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=within_capacity,13,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=lower_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=middle_tertile,16,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=upper_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=lower_tertile,17,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=middle_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=upper_tertile,18,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=lower_tertile,11,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=middle_tertile,19,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=upper_tertile,18,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=lower_tertile,9,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=middle_tertile,20,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=upper_tertile,19,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=lower_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=middle_tertile,10,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=upper_tertile,10,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=lower_tertile,4,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=middle_tertile,11,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=upper_tertile,18,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=lower_tertile,11,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=middle_tertile,3,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=upper_tertile,19,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,4,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,17,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,12,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,9,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,9,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,11,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,15,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,18,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,11,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,16,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,16,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,10,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,20,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,3,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,19,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=lower_tertile,9,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=middle_tertile,9,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=upper_tertile,17,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,9,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=over_150pct,8,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=within_capacity,18,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=lower_tertile,14,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=middle_tertile,12,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=upper_tertile,9,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,9,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,10,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,13,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,16,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,12,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,4,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,11,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,4,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,17,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=lower_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=lower_tertile,13,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=middle_tertile,12,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=upper_tertile,10,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,13,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_150pct,1,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=within_capacity,21,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=lower_tertile,18,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=middle_tertile,11,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=upper_tertile,6,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,15,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,13,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,15,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,6,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,21,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,16,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,9,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,15,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,19,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,13,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,17,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,17,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,11,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,17,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,19,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,15,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,12,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,20,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=lower_tertile,3,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=middle_tertile,8,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=upper_tertile,11,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",female_share=lower_tertile,8,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",female_share=middle_tertile,9,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",female_share=upper_tertile,5,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=lower_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=upper_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=lower_tertile,7,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=middle_tertile,7,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=upper_tertile,8,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,13,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,17,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,9,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,10,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,10,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,19,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,12,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,21,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,6,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,9,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,5,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,19,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,17,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,9,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,7,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,7,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,13,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,13,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,4,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,18,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,11,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,14,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,7,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,12,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,5,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,7,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,21,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""occupancy_ratio=over_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,14,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_150pct,6,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=within_capacity,12,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=lower_tertile,17,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=middle_tertile,6,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=upper_tertile,9,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,17,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,2,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,3,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,14,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,3,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,5,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,9,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,5,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,12,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,4,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,13,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,9,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=lower_tertile,6,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,8,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,13,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,7,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,11,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,9,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,8,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,6,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,12,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,14,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,1,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,11,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""female_share=upper_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=lower_tertile,14,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=middle_tertile,2,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=upper_tertile,6,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=lower_tertile,14,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=middle_tertile,7,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=upper_tertile,1,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,12,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,11,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=upper_tertile,6,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,10,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,9,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,10,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,17,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,7,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,2,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,14,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,2,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,10,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,14,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,6,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,6,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,14,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,5,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,7,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,3,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,5,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,14,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,7,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,7,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,8,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,9,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,7,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,9,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,10,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,12,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,3,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,17,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=over_150pct,4,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",occupancy_ratio=within_capacity,19,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=lower_tertile,14,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=middle_tertile,16,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""illiterate_share=middle_tertile""]",undertrial_share=upper_tertile,10,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=lower_tertile,8,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=middle_tertile,17,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=upper_tertile,1,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=lower_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=middle_tertile,11,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=upper_tertile,3,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=lower_tertile,4,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,19,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,1,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,10,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,14,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,12,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,6,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,12,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,2,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,16,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,7,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,11,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,8,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,6,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""female_share=middle_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=lower_tertile,4,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=middle_tertile,17,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=upper_tertile,5,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=lower_tertile,11,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=middle_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=upper_tertile,3,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,3,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,19,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",female_share=upper_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,9,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,7,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,14,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,7,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,11,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,4,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,12,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,3,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,16,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,5,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,12,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,3,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,9,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=lower_tertile,5,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=middle_tertile,14,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=upper_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=lower_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=middle_tertile,7,22,False
+"[""age_18_30_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=upper_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,9,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,3,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,9,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,11,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,4,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,3,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,11,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,4,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,10,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,4,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,6,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,9,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,12,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,1,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,5,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_150pct,1,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=within_capacity,16,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=lower_tertile,5,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=middle_tertile,6,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=upper_tertile,11,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=lower_tertile,16,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,9,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,1,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,6,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,8,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,12,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,11,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,4,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,11,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,6,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,12,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=lower_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,3,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=over_150pct,2,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",occupancy_ratio=within_capacity,19,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=lower_tertile,6,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=middle_tertile,4,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]",undertrial_share=upper_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=lower_tertile,19,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,2,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,4,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,7,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,5,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,6,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,5,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,6,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,6,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,13,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""female_share=upper_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,16,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,6,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=upper_tertile,19,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,9,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,11,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,21,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,11,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,3,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,5,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,2,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,21,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,14,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,9,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,5,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,10,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,11,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,7,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,12,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,6,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,13,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,21,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,3,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,7,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""age_18_30_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=lower_tertile,14,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=middle_tertile,5,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=upper_tertile,5,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=lower_tertile,14,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=middle_tertile,7,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=upper_tertile,3,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,12,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,4,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=upper_tertile,16,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,10,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,7,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,15,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,17,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,7,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,5,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,14,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,5,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,10,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=lower_tertile"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=lower_tertile,10,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=middle_tertile,5,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=upper_tertile,7,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=lower_tertile,5,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=middle_tertile,1,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=upper_tertile,16,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,12,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,5,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,14,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,12,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,16,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,3,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=lower_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,14,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,9,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,1,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,14,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,5,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,5,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,13,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,3,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,6,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,3,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,3,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,16,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,9,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,1,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,12,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,15,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,4,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,3,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=lower_tertile,8,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=middle_tertile,17,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=upper_tertile,7,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=lower_tertile,8,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=middle_tertile,17,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=upper_tertile,7,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,4,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,19,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=upper_tertile,2,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",female_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,9,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,5,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,11,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,4,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,16,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,7,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,17,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,5,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,5,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=middle_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=lower_tertile,9,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=middle_tertile,14,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",age_18_30_share=upper_tertile,5,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",female_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=lower_tertile,6,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=middle_tertile,10,22,False
+"[""female_share=middle_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct""]",undertrial_share=upper_tertile,12,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,5,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,11,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,9,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,0,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,2,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,17,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,6,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,6,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,9,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=upper_tertile,19,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,9,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,11,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,14,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=lower_tertile,8,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=middle_tertile,5,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=upper_tertile,9,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=upper_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=lower_tertile,9,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=middle_tertile,9,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=upper_tertile,4,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=lower_tertile,7,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=middle_tertile,9,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",age_18_30_share=upper_tertile,6,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=lower_tertile,4,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=middle_tertile,17,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct""]",undertrial_share=upper_tertile,1,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=lower_tertile,13,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=middle_tertile,6,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",age_18_30_share=upper_tertile,4,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=lower_tertile,5,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=middle_tertile,10,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""occupancy_ratio=within_capacity""]",undertrial_share=upper_tertile,8,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,12,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,10,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,5,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,17,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,10,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""illiterate_share=upper_tertile"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,14,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,12,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,6,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,6,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,9,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,17,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,11,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,8,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,5,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,11,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,3,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,10,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,9,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,7,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,13,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,14,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,7,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,8,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""female_share=upper_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,14,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,9,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,2,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,14,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,9,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,2,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,10,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,9,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,9,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,10,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,9,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,9,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,9,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,6,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,11,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,7,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,8,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,11,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,10,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,2,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,21,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,15,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,4,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,14,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""illiterate_share=lower_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=lower_tertile,5,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=middle_tertile,11,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",age_18_30_share=upper_tertile,6,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=lower_tertile,5,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=middle_tertile,8,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",female_share=upper_tertile,9,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=lower_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,7,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,12,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,9,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,2,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,17,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,9,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,12,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,7,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,3,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,4,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,11,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,7,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",illiterate_share=upper_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""illiterate_share=middle_tertile"", ""occupancy_ratio=within_capacity"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=lower_tertile,8,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=middle_tertile,10,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",age_18_30_share=upper_tertile,7,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=lower_tertile,2,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=middle_tertile,6,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",female_share=upper_tertile,17,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=over_150pct,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_100_to_150pct"", ""undertrial_share=middle_tertile""]",undertrial_share=upper_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=lower_tertile,13,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=middle_tertile,6,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",age_18_30_share=upper_tertile,11,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",female_share=lower_tertile,16,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",female_share=middle_tertile,12,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",female_share=upper_tertile,2,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",illiterate_share=lower_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",illiterate_share=middle_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",occupancy_ratio=over_100_to_150pct,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",occupancy_ratio=within_capacity,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",undertrial_share=lower_tertile,0,22,False
+"[""illiterate_share=upper_tertile"", ""occupancy_ratio=over_150pct"", ""undertrial_share=upper_tertile""]",undertrial_share=middle_tertile,0,22,False

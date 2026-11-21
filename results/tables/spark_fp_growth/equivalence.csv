@@ -1,0 +1,13 @@
+min_support,min_count,min_confidence,itemsets,rules,equivalent
+0.05,22,0.6,166,16,True
+0.05,22,0.7,166,4,True
+0.05,22,0.8,166,0,True
+0.1,44,0.6,75,1,True
+0.1,44,0.7,75,0,True
+0.1,44,0.8,75,0,True
+0.15,66,0.6,23,0,True
+0.15,66,0.7,23,0,True
+0.15,66,0.8,23,0,True
+0.2,88,0.6,15,0,True
+0.2,88,0.7,15,0,True
+0.2,88,0.8,15,0,True

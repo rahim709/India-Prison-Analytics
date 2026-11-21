@@ -1,0 +1,38 @@
+file,rows_before,rows_after,blank_records_removed,schema_repaired,duplicate_candidates,duplicates_removed,duplicates_retained_ambiguous_grain,quarantined_rows,key_conflict_rows_retained,missing_cells_before,missing_cells_after,within_record_mismatches_before,within_record_mismatches_after,within_record_checks_after,partition_mismatches,partition_checks,partition_checks_incomplete,outlier_cells_flagged
+Age_group.csv,7152,7152,0,False,0,0,0,0,0,1,1,0,0,0,0,0,0,1167
+Caste.csv,3568,3568,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,1007
+Death_sentence.csv,446,446,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,122
+Domicile.csv,2676,2676,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,713
+Education.csv,5346,5346,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,1240
+Education_facilities.csv,445,445,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,240
+IPC_crime_inmates_convicted.csv,9391,9385,0,False,2,2,0,4,0,1,0,0,0,65695,0,0,0,7510
+IPC_crime_inmates_under_trial.csv,9390,9385,0,False,1,1,0,4,0,0,0,0,0,65695,0,0,0,9257
+Inmates_death.csv,4023,4023,0,False,0,0,0,0,0,0,0,0,0,4023,0,1341,0,215
+Inmates_escapee.csv,1788,1788,0,False,0,0,0,0,0,0,0,0,0,1788,0,0,0,376
+Jail wise population of prison inmates.csv,4023,4023,0,False,0,0,0,0,0,0,0,0,0,28161,0,6705,0,3578
+Other Prison data/Budget.CSV,1026,1026,0,False,0,0,0,0,0,0,0,0,0,0,0,342,0,73
+Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV,3390,3390,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,336
+Other Prison data/Details_of_inmates_parole_during_the_year.csv,1341,1341,0,False,0,0,0,0,0,0,0,0,0,1341,0,0,0,492
+Other Prison data/Expenditure.CSV,1368,1368,0,False,0,0,0,0,0,0,0,0,0,0,0,342,0,80
+Other Prison data/Expenditure_on_inmates.CSV,2394,2394,0,False,0,0,0,0,0,0,0,0,0,0,0,342,0,276
+Other Prison data/Inmates_released.csv,8485,8485,0,False,0,0,0,0,0,0,0,0,0,8485,0,3708,105,3141
+Other Prison data/Inmates_suffering_from_mental_ilness.csv,442,442,0,False,0,0,0,0,0,0,0,3,3,3094,0,0,0,414
+Other Prison data/Movements_outside_jail_premises.CSV,1025,1025,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,92
+Other Prison data/Number_of_vehicles_available.CSV,3051,3051,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,258
+Other Prison data/Number_of_women_prisoners_with_children.csv,446,446,1,False,0,0,0,0,0,0,0,1,1,892,0,0,0,191
+Other Prison data/Period_of_detention_of_undertrials.csv,3576,3576,0,False,0,0,0,0,0,0,0,0,0,3576,0,1341,0,800
+Other Prison data/Population_and_capacity_of_jails.csv,4023,4023,0,False,0,0,0,0,0,0,0,0,0,12069,0,3129,0,1906
+Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv,9458,9456,0,False,0,0,0,2,0,1,0,0,0,66192,0,6690,0,6898
+Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv,9457,9457,0,False,0,0,0,0,0,0,0,0,0,66199,0,6705,0,8808
+Other Prison data/Strength_of_officials.CSV,36612,36612,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,2542
+Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv,36,36,0,False,0,0,0,0,0,0,0,0,0,72,0,0,0,11
+Other Prison data/Training_of_Jail_Officers.CSV,1108,1108,0,False,0,0,0,0,0,0,0,0,0,0,0,277,0,134
+Other Prison data/Value_of_goods_produced_by_inmates.csv,1954,1954,0,False,0,0,0,0,39,8,8,0,0,0,0,0,0,102
+Prison_details_2015.csv,1397,1397,0,False,0,0,0,0,0,2218,2218,0,0,0,0,0,0,0
+Recidivism.csv,447,447,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,115
+Rehabilitation.csv,445,445,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,231
+Religion.csv,4460,4460,0,True,0,0,0,0,0,0,0,0,0,0,0,0,0,1297
+Sentence_period.csv,8940,8940,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,2013
+Tranquillity.csv,1336,1336,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,69
+Vocational_training.csv,4122,4122,0,False,5,0,5,0,104,3,3,0,0,0,0,0,0,216
+Wages.csv,445,445,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,98

@@ -1,0 +1,447 @@
+source_record,state_name,year,no_capital_punishment,no_life_imprisonment,no_executed
+2,Uttar Pradesh,2009,57,21,0
+3,Uttar Pradesh,2005,51,117,0
+4,Uttar Pradesh,2011,47,4,0
+5,Uttar Pradesh,2003,35,18,0
+6,Uttar Pradesh,2002,34,45,0
+7,Uttar Pradesh,2004,33,82,0
+8,Uttar Pradesh,2007,30,8,0
+9,Maharashtra,2007,29,0,0
+10,Bihar,2003,25,73,0
+11,Bihar,2008,25,21,0
+12,Uttar Pradesh,2010,25,12,0
+13,Uttar Pradesh,2012,25,14,0
+14,Tamil Nadu,2002,24,6,0
+15,Uttar Pradesh,2006,24,26,0
+16,West Bengal,2005,24,2,0
+17,Karnataka,2008,22,2,0
+18,Madhya Pradesh,2007,22,0,0
+19,Tamil Nadu,2003,22,6,0
+20,Madhya Pradesh,2013,22,1,0
+21,Jharkhand,2005,21,132,0
+22,Bihar,2002,20,89,0
+23,Maharashtra,2006,20,0,0
+24,Gujarat,2004,19,0,0
+25,Karnataka,2010,19,0,0
+26,Uttar Pradesh,2001,19,120,0
+27,Bihar,2013,19,22,0
+28,Madhya Pradesh,2008,17,10,0
+29,Bihar,2004,16,6,0
+30,Tamil Nadu,2001,16,1,0
+31,Jharkhand,2004,15,44,0
+32,Maharashtra,2009,15,4,0
+33,Uttar Pradesh,2008,15,5,0
+34,Bihar,2007,14,8,0
+35,Gujarat,2011,14,1,0
+36,Karnataka,2005,14,0,0
+37,Karnataka,2007,14,0,0
+38,Maharashtra,2003,14,12,0
+39,Odisha,2007,14,14,0
+40,Tamil Nadu,2007,14,0,0
+41,Bihar,2001,13,50,0
+42,Karnataka,2006,13,0,0
+43,Maharashtra,2002,13,126,0
+44,Maharashtra,2013,13,16,0
+45,Bihar,2012,12,4,0
+46,Maharashtra,2008,12,1,0
+47,West Bengal,2010,12,7,0
+48,Jharkhand,2009,11,10,0
+49,Kerala,2003,11,1,0
+50,Madhya Pradesh,2005,11,11,0
+51,Punjab,2001,11,24,0
+52,Rajasthan,2003,11,3,0
+53,Uttarakhand,2006,11,22,0
+54,Chhattisgarh,2013,11,3,0
+55,Uttar Pradesh,2013,11,14,0
+56,Delhi,2013,11,5,1
+57,Tamil Nadu,2006,10,0,0
+58,West Bengal,2009,10,17,0
+59,Delhi,2006,10,806,0
+60,Delhi,2010,10,1,0
+61,Jammu & Kashmir,2011,9,1,0
+62,Madhya Pradesh,2006,9,0,0
+63,Delhi,2005,9,919,0
+64,Delhi,2007,9,726,0
+65,Delhi,2012,9,3,0
+66,Jharkhand,2013,9,1,0
+67,Assam,2005,8,0,0
+68,Gujarat,2005,8,0,0
+69,Gujarat,2009,8,1,0
+70,Haryana,2001,8,2,0
+71,Jharkhand,2006,8,8,0
+72,Jharkhand,2010,8,8,0
+73,Karnataka,2012,8,1,0
+74,Punjab,2011,8,0,0
+75,Tamil Nadu,2005,8,0,0
+76,West Bengal,2008,8,1,0
+77,Delhi,2002,8,2,0
+78,Delhi,2011,8,1,0
+79,Chhattisgarh,2007,7,1,0
+80,Karnataka,2004,7,0,0
+81,Madhya Pradesh,2012,7,5,0
+82,Maharashtra,2001,7,1,0
+83,Odisha,2006,7,1,0
+84,Delhi,2004,7,0,0
+85,Haryana,2013,7,2,0
+86,Assam,2012,6,0,0
+87,Bihar,2006,6,27,0
+88,Jharkhand,2008,6,1,0
+89,Jharkhand,2011,6,4,0
+90,Madhya Pradesh,2004,6,3,0
+91,Rajasthan,2005,6,1,0
+92,Rajasthan,2006,6,4,0
+93,West Bengal,2001,6,2,0
+94,West Bengal,2007,6,0,0
+95,West Bengal,2011,6,13,0
+96,Bihar,2009,5,20,0
+97,Chhattisgarh,2002,5,0,0
+98,Gujarat,2003,5,0,0
+99,Haryana,2009,5,2,0
+100,Karnataka,2009,5,0,0
+101,Kerala,2007,5,0,0
+102,Kerala,2009,5,0,0
+103,Odisha,2001,5,53,0
+104,Odisha,2004,5,0,0
+105,Delhi,2003,5,3,0
+106,Bihar,2010,4,12,0
+107,Haryana,2011,4,0,0
+108,Jammu & Kashmir,2001,4,1,0
+109,Jharkhand,2002,4,1,0
+110,Kerala,2005,4,9,0
+111,Madhya Pradesh,2001,4,3,0
+112,Madhya Pradesh,2002,4,17,0
+113,Madhya Pradesh,2003,4,1,0
+114,Madhya Pradesh,2010,4,2,0
+115,Madhya Pradesh,2011,4,0,0
+116,Maharashtra,2004,4,16,0
+117,Maharashtra,2005,4,2,0
+118,Maharashtra,2010,4,11,0
+119,Maharashtra,2012,4,0,1
+120,Rajasthan,2010,4,0,0
+121,Tamil Nadu,2009,4,8,0
+122,Tamil Nadu,2010,4,1,0
+123,Daman & Diu,2002,4,0,0
+124,Karnataka,2013,4,21,0
+125,Andhra Pradesh,2002,3,1,0
+126,Andhra Pradesh,2011,3,0,0
+127,Assam,2001,3,2,0
+128,Gujarat,2001,3,1,0
+129,Gujarat,2012,3,2,0
+130,Haryana,2003,3,0,0
+131,Haryana,2004,3,3,0
+132,Haryana,2007,3,2,0
+133,Haryana,2008,3,2,0
+134,Haryana,2012,3,7,0
+135,Jammu & Kashmir,2007,3,0,0
+136,Jammu & Kashmir,2009,3,0,0
+137,Kerala,2006,3,1,0
+138,Kerala,2008,3,0,0
+139,Kerala,2012,3,0,0
+140,Maharashtra,2011,3,2,0
+141,Meghalaya,2007,3,0,0
+142,Meghalaya,2008,3,0,0
+143,Punjab,2012,3,1,0
+144,Rajasthan,2007,3,3,0
+145,Rajasthan,2008,3,2,0
+146,Tamil Nadu,2012,3,4,0
+147,West Bengal,2002,3,0,0
+148,West Bengal,2004,3,1,1
+149,Delhi,2008,3,0,0
+150,Rajasthan,2013,3,2,0
+151,West Bengal,2013,3,2,0
+152,Andhra Pradesh,2012,2,0,0
+153,Assam,2004,2,8,0
+154,Assam,2007,2,17,0
+155,Assam,2008,2,0,0
+156,Bihar,2005,2,33,0
+157,Bihar,2011,2,4,0
+158,Chhattisgarh,2003,2,2,0
+159,Chhattisgarh,2008,2,0,0
+160,Haryana,2002,2,8,0
+161,Jharkhand,2007,2,92,0
+162,Kerala,2001,2,0,0
+163,Madhya Pradesh,2009,2,15,0
+164,Odisha,2010,2,0,0
+165,Rajasthan,2004,2,2,0
+166,Rajasthan,2011,2,4,0
+167,Rajasthan,2012,2,4,0
+168,Tripura,2007,2,8,0
+169,Uttarakhand,2003,2,9,0
+170,Uttarakhand,2009,2,0,0
+171,West Bengal,2012,2,6,0
+172,Chandigarh,2007,2,0,0
+173,Chandigarh,2012,2,0,0
+174,Delhi,2001,2,0,0
+175,Puducherry,2009,2,0,0
+176,Assam,2013,2,5,0
+177,Gujarat,2013,2,1,0
+178,Jammu & Kashmir,2013,2,4,0
+179,Andhra Pradesh,2001,1,1,0
+180,Andhra Pradesh,2003,1,1,0
+181,Assam,2002,1,1,0
+182,Assam,2003,1,3,0
+183,Assam,2006,1,63,0
+184,Assam,2009,1,0,0
+185,Chhattisgarh,2001,1,21,0
+186,Chhattisgarh,2009,1,0,0
+187,Goa,2007,1,0,0
+188,Himachal Pradesh,2004,1,0,0
+189,Himachal Pradesh,2005,1,0,0
+190,Himachal Pradesh,2007,1,1,0
+191,Jammu & Kashmir,2010,1,3,0
+192,Jharkhand,2012,1,3,0
+193,Karnataka,2011,1,0,0
+194,Kerala,2004,1,9,0
+195,Manipur,2002,1,0,0
+196,Manipur,2003,1,0,0
+197,Manipur,2008,1,0,0
+198,Rajasthan,2001,1,13,0
+199,Tamil Nadu,2004,1,0,0
+200,Tripura,2012,1,0,0
+201,Uttarakhand,2005,1,15,0
+202,Uttarakhand,2012,1,0,0
+203,West Bengal,2006,1,55,0
+204,Chandigarh,2008,1,0,0
+205,Chandigarh,2009,1,0,0
+206,Himachal Pradesh,2013,1,0,0
+207,Kerala,2013,1,0,0
+208,Tamil Nadu,2013,1,2,0
+209,Tripura,2013,1,1,0
+210,Uttarakhand,2013,1,0,0
+211,Andaman & Nicobar Islands,2013,1,0,0
+212,Andhra Pradesh,2004,0,0,0
+213,Andhra Pradesh,2005,0,0,0
+214,Andhra Pradesh,2006,0,0,0
+215,Andhra Pradesh,2007,0,0,0
+216,Andhra Pradesh,2008,0,0,0
+217,Andhra Pradesh,2009,0,0,0
+218,Andhra Pradesh,2010,0,0,0
+219,Arunachal Pradesh,2009,0,0,0
+220,Arunachal Pradesh,2010,0,0,0
+221,Arunachal Pradesh,2011,0,0,0
+222,Arunachal Pradesh,2012,0,0,0
+223,Assam,2010,0,2,0
+224,Assam,2011,0,1,0
+225,Chhattisgarh,2012,0,4,0
+226,Chhattisgarh,2004,0,0,0
+227,Chhattisgarh,2005,0,0,0
+228,Chhattisgarh,2006,0,0,0
+229,Chhattisgarh,2010,0,0,0
+230,Chhattisgarh,2011,0,0,0
+231,Goa,2001,0,0,0
+232,Goa,2002,0,0,0
+233,Goa,2003,0,0,0
+234,Goa,2004,0,0,0
+235,Goa,2005,0,0,0
+236,Goa,2006,0,0,0
+237,Goa,2008,0,0,0
+238,Goa,2009,0,0,0
+239,Goa,2010,0,0,0
+240,Goa,2011,0,0,0
+241,Goa,2012,0,1,0
+242,Gujarat,2002,0,0,0
+243,Gujarat,2006,0,0,0
+244,Gujarat,2007,0,0,0
+245,Gujarat,2008,0,0,0
+246,Gujarat,2010,0,0,0
+247,Haryana,2005,0,0,0
+248,Haryana,2006,0,3,0
+249,Haryana,2010,0,1,0
+250,Himachal Pradesh,2001,0,0,0
+251,Himachal Pradesh,2002,0,0,0
+252,Himachal Pradesh,2003,0,0,0
+253,Himachal Pradesh,2006,0,0,0
+254,Himachal Pradesh,2008,0,1,0
+255,Himachal Pradesh,2009,0,0,0
+256,Himachal Pradesh,2010,0,0,0
+257,Himachal Pradesh,2011,0,0,0
+258,Himachal Pradesh,2012,0,0,0
+259,Jammu & Kashmir,2002,0,0,0
+260,Jammu & Kashmir,2003,0,5,0
+261,Jammu & Kashmir,2004,0,5,0
+262,Jammu & Kashmir,2005,0,0,0
+263,Jammu & Kashmir,2006,0,3,0
+264,Jammu & Kashmir,2008,0,0,0
+265,Jammu & Kashmir,2012,0,0,0
+266,Jharkhand,2001,0,0,0
+267,Jharkhand,2003,0,0,0
+268,Karnataka,2001,0,0,0
+269,Karnataka,2002,0,0,0
+270,Karnataka,2003,0,0,0
+271,Kerala,2002,0,0,0
+272,Kerala,2010,0,0,0
+273,Kerala,2011,0,3,0
+274,Manipur,2001,0,0,0
+275,Manipur,2004,0,0,0
+276,Manipur,2005,0,0,0
+277,Manipur,2006,0,0,0
+278,Manipur,2007,0,0,0
+279,Manipur,2009,0,0,0
+280,Manipur,2010,0,0,0
+281,Manipur,2011,0,1,0
+282,Manipur,2012,0,0,0
+283,Meghalaya,2001,0,1,0
+284,Meghalaya,2002,0,0,0
+285,Meghalaya,2003,0,0,0
+286,Meghalaya,2004,0,0,0
+287,Meghalaya,2005,0,0,0
+288,Meghalaya,2006,0,1,0
+289,Meghalaya,2009,0,0,0
+290,Meghalaya,2010,0,0,0
+291,Meghalaya,2011,0,0,0
+292,Meghalaya,2012,0,0,0
+293,Mizoram,2001,0,0,0
+294,Mizoram,2002,0,0,0
+295,Mizoram,2003,0,0,0
+296,Mizoram,2004,0,0,0
+297,Mizoram,2005,0,0,0
+298,Mizoram,2006,0,0,0
+299,Mizoram,2007,0,0,0
+300,Mizoram,2008,0,0,0
+301,Mizoram,2009,0,0,0
+302,Mizoram,2010,0,0,0
+303,Mizoram,2011,0,0,0
+304,Mizoram,2012,0,0,0
+305,Nagaland,2001,0,6,0
+306,Nagaland,2002,0,4,0
+307,Nagaland,2003,0,5,0
+308,Nagaland,2004,0,0,0
+309,Nagaland,2005,0,0,0
+310,Nagaland,2006,0,0,0
+311,Nagaland,2007,0,0,0
+312,Nagaland,2008,0,0,0
+313,Nagaland,2009,0,0,0
+314,Nagaland,2010,0,0,0
+315,Nagaland,2011,0,0,0
+316,Nagaland,2012,0,0,0
+317,Odisha,2002,0,0,0
+318,Odisha,2003,0,0,0
+319,Odisha,2005,0,0,0
+320,Odisha,2008,0,0,0
+321,Odisha,2009,0,0,0
+322,Odisha,2011,0,0,0
+323,Odisha,2012,0,2,0
+324,Punjab,2002,0,0,0
+325,Punjab,2003,0,0,0
+326,Punjab,2004,0,0,0
+327,Punjab,2005,0,0,0
+328,Punjab,2006,0,0,0
+329,Punjab,2007,0,0,0
+330,Punjab,2008,0,0,0
+331,Punjab,2009,0,0,0
+332,Punjab,2010,0,0,0
+333,Rajasthan,2002,0,0,0
+334,Rajasthan,2009,0,1,0
+335,Sikkim,2001,0,0,0
+336,Sikkim,2002,0,0,0
+337,Sikkim,2003,0,0,0
+338,Sikkim,2004,0,0,0
+339,Sikkim,2005,0,0,0
+340,Sikkim,2006,0,0,0
+341,Sikkim,2007,0,0,0
+342,Sikkim,2008,0,0,0
+343,Sikkim,2009,0,0,0
+344,Sikkim,2010,0,0,0
+345,Sikkim,2011,0,0,0
+346,Sikkim,2012,0,0,0
+347,Tamil Nadu,2008,0,0,0
+348,Tamil Nadu,2011,0,2,0
+349,Tripura,2001,0,0,0
+350,Tripura,2002,0,0,0
+351,Tripura,2003,0,0,0
+352,Tripura,2004,0,0,0
+353,Tripura,2005,0,0,0
+354,Tripura,2006,0,0,0
+355,Tripura,2008,0,0,0
+356,Tripura,2009,0,1,0
+357,Tripura,2010,0,0,0
+358,Tripura,2011,0,0,0
+359,Uttarakhand,2001,0,0,0
+360,Uttarakhand,2002,0,0,0
+361,Uttarakhand,2004,0,0,0
+362,Uttarakhand,2007,0,0,0
+363,Uttarakhand,2008,0,0,0
+364,Uttarakhand,2010,0,0,0
+365,Uttarakhand,2011,0,0,0
+366,West Bengal,2003,0,0,0
+367,Andaman & Nicobar Islands,2002,0,0,0
+368,Andaman & Nicobar Islands,2003,0,0,0
+369,Andaman & Nicobar Islands,2004,0,0,0
+370,Andaman & Nicobar Islands,2005,0,0,0
+371,Andaman & Nicobar Islands,2006,0,0,0
+372,Andaman & Nicobar Islands,2007,0,0,0
+373,Andaman & Nicobar Islands,2008,0,0,0
+374,Andaman & Nicobar Islands,2009,0,0,0
+375,Andaman & Nicobar Islands,2010,0,0,0
+376,Andaman & Nicobar Islands,2011,0,0,0
+377,Andaman & Nicobar Islands,2012,0,0,0
+378,Chandigarh,2001,0,0,0
+379,Chandigarh,2002,0,0,0
+380,Chandigarh,2003,0,0,0
+381,Chandigarh,2004,0,0,0
+382,Chandigarh,2005,0,0,0
+383,Chandigarh,2006,0,0,0
+384,Chandigarh,2010,0,2,0
+385,Chandigarh,2011,0,1,0
+386,Dadra & Nagar Haveli,2001,0,0,0
+387,Dadra & Nagar Haveli,2002,0,0,0
+388,Dadra & Nagar Haveli,2003,0,0,0
+389,Dadra & Nagar Haveli,2004,0,0,0
+390,Dadra & Nagar Haveli,2005,0,0,0
+391,Dadra & Nagar Haveli,2006,0,0,0
+392,Dadra & Nagar Haveli,2007,0,0,0
+393,Dadra & Nagar Haveli,2008,0,0,0
+394,Dadra & Nagar Haveli,2009,0,0,0
+395,Dadra & Nagar Haveli,2010,0,0,0
+396,Dadra & Nagar Haveli,2011,0,0,0
+397,Dadra & Nagar Haveli,2012,0,0,0
+398,Daman & Diu,2001,0,0,0
+399,Daman & Diu,2003,0,0,0
+400,Daman & Diu,2004,0,0,0
+401,Daman & Diu,2005,0,0,0
+402,Daman & Diu,2006,0,0,0
+403,Daman & Diu,2007,0,0,0
+404,Daman & Diu,2008,0,0,0
+405,Daman & Diu,2009,0,0,0
+406,Daman & Diu,2010,0,0,0
+407,Daman & Diu,2011,0,0,0
+408,Daman & Diu,2012,0,0,0
+409,Delhi,2009,0,4,0
+410,Lakshadweep,2001,0,0,0
+411,Lakshadweep,2002,0,1,0
+412,Lakshadweep,2003,0,0,0
+413,Lakshadweep,2004,0,0,0
+414,Lakshadweep,2005,0,0,0
+415,Lakshadweep,2006,0,0,0
+416,Lakshadweep,2007,0,1,0
+417,Lakshadweep,2008,0,0,0
+418,Lakshadweep,2009,0,0,0
+419,Lakshadweep,2010,0,0,0
+420,Lakshadweep,2011,0,0,0
+421,Lakshadweep,2012,0,0,0
+422,Puducherry,2001,0,1,0
+423,Puducherry,2002,0,0,0
+424,Puducherry,2003,0,0,0
+425,Puducherry,2004,0,0,0
+426,Puducherry,2005,0,0,0
+427,Puducherry,2006,0,0,0
+428,Puducherry,2007,0,0,0
+429,Puducherry,2008,0,0,0
+430,Puducherry,2010,0,0,0
+431,Puducherry,2011,0,0,0
+432,Puducherry,2012,0,0,0
+433,Andhra Pradesh,2013,0,0,0
+434,Arunachal Pradesh,2013,0,0,0
+435,Goa,2013,0,0,0
+436,Manipur,2013,0,0,0
+437,Meghalaya,2013,0,0,0
+438,Mizoram,2013,0,0,0
+439,Nagaland,2013,0,0,0
+440,Odisha,2013,0,0,0
+441,Punjab,2013,0,11,0
+442,Sikkim,2013,0,0,0
+443,Chandigarh,2013,0,2,0
+444,Dadra & Nagar Haveli,2013,0,0,0
+445,Daman & Diu,2013,0,0,0
+446,Lakshadweep,2013,0,0,0
+447,Puducherry,2013,0,0,0

@@ -1,0 +1,200 @@
+{
+  "transactions": 437,
+  "vocabulary": 15,
+  "items_per_transaction": 5,
+  "baseline_support": 0.1,
+  "baseline_confidence": 0.7,
+  "baseline_maximal_itemsets": 60,
+  "baseline_rules": 0,
+  "exploratory_support": 0.05,
+  "exploratory_confidence": 0.7,
+  "exploratory_rules": 4,
+  "supports": [
+    0.05,
+    0.1,
+    0.15,
+    0.2
+  ],
+  "confidences": [
+    0.6,
+    0.7,
+    0.8
+  ],
+  "algorithm": "MAFIA head/tail DFS, vertical integer bitmaps, PEP, leftmost-path FHUT, HUTMFI and ascending-support dynamic reordering",
+  "representation": "Python arbitrary-precision integers, one transaction bit per observation, AND and bit_count; no adaptive relative-bitmap compression",
+  "mfi_repository": "maintained inclusion antichain; subset/superset checks use Python frozensets; no specialized MFI index",
+  "rules": "all disjoint nonempty partitions of maximal unions meeting confidence, with independently recounted subset supports; not the complete association-rule family",
+  "paper": "https://www.cs.cornell.edu/johannes/papers/2001/icde2001-mafia.pdf",
+  "validation": [
+    {
+      "min_support": 0.05,
+      "min_confidence": 0.6,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.05,
+      "min_confidence": 0.7,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.05,
+      "min_confidence": 0.8,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.1,
+      "min_confidence": 0.6,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.1,
+      "min_confidence": 0.7,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.1,
+      "min_confidence": 0.8,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.15,
+      "min_confidence": 0.6,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.15,
+      "min_confidence": 0.7,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.15,
+      "min_confidence": 0.8,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.2,
+      "min_confidence": 0.6,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.2,
+      "min_confidence": 0.7,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    },
+    {
+      "min_support": 0.2,
+      "min_confidence": 0.8,
+      "exact_frequency_and_maximality": true,
+      "complete_maximal_union_rule_equivalence": true
+    }
+  ],
+  "inputs": [
+    {
+      "file": "data/processed/transformed/profile_counts.csv",
+      "sha256": "0222d31e23c1d4222e21b405108e1ae316408d56f2823b73ea4b507ee8cad27c"
+    },
+    {
+      "file": "data/processed/transformed/profile_features.csv",
+      "sha256": "6544333262b3b2bbcd8bb3b0d1410b7a1846dfc89de00ef390effa5158fb6e14"
+    },
+    {
+      "file": "data/processed/transformed/clustering_features.csv",
+      "sha256": "1a92b3652e344183f4bb7275890fc3f8b835547bdd58989d80f3c803ffb6c81d"
+    },
+    {
+      "file": "data/processed/transformed/discretized_profiles.csv",
+      "sha256": "14e9e4a9bc1b41f456139fe3248aee33ac1295cc154fee1ce4e8691fbbf8d375"
+    },
+    {
+      "file": "data/processed/transformed/transactions_onehot.csv",
+      "sha256": "fb2886136b46bd0c776b977d43ab7f4e235fe700ebae510edc87d5e04bb34181"
+    },
+    {
+      "file": "data/processed/transformed/transactions.jsonl",
+      "sha256": "5275f19c8e773da03a52f2da8b07fd3c1d0ef66390d3093e7f1dbe51251057f1"
+    },
+    {
+      "file": "data/processed/transformed/spark_profiles.jsonl",
+      "sha256": "2cbd1be1beb42951c46d269772b678c1ef8d5afd43e11367d4d906cba481012a"
+    },
+    {
+      "file": "results/tables/fp_growth/itemsets_s0p05.csv",
+      "sha256": "19df0f6f1890dd9b5626627ff9c660af1dd567678b20c8eb29f957fdb880841e"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p05_c0.60.csv",
+      "sha256": "00ea9e06fc83da15e50e8e527e17fb77321cecb4126ec17556dbe6e35e38dfce"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p05_c0.70.csv",
+      "sha256": "fc759422f456291ee9de5b70422a78dd315a9a0f3495f7b59eb1a29785ab9741"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p05_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/itemsets_s0p10.csv",
+      "sha256": "61b74604ea9c07e2dd9b204043b86dfac039304b98e3bea06ee5b85b06f55e68"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p10_c0.60.csv",
+      "sha256": "229af542a8d3971d9554a7eef8b322b97b3d0c306db45232491f4d4346f1fb5d"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p10_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p10_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/itemsets_s0p15.csv",
+      "sha256": "e35bee573e04538b09250ba88b13633f96a8cdcb583879099271c32f2bdb3715"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p15_c0.60.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p15_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p15_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/itemsets_s0p20.csv",
+      "sha256": "fe993dced975ee6cddcbffdc0d5f487b02a96799dac13f4d17e548319fc284c5"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p20_c0.60.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p20_c0.70.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    },
+    {
+      "file": "results/tables/fp_growth/rules_s0p20_c0.80.csv",
+      "sha256": "3b6fcd0e98299b04365f97be9cfa010b2aa5559db46e5bbcfd4575988428b74a"
+    }
+  ],
+  "python": "3.14.4",
+  "numpy": "2.5.5",
+  "pandas": "3.1.1",
+  "benchmark_claim": "node/intersection counters describe work, not measured time or speedup"
+}

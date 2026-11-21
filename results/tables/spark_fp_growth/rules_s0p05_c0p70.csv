@@ -1,0 +1,5 @@
+antecedents,consequents,support,confidence,lift
+"[""age_18_30_share=upper_tertile"", ""illiterate_share=lower_tertile""]","[""occupancy_ratio=within_capacity""]",0.09382151029748284,0.7321428571428571,1.7774801587301585
+"[""female_share=middle_tertile"", ""occupancy_ratio=over_150pct""]","[""illiterate_share=upper_tertile""]",0.06407322654462243,0.7368421052631579,2.2054794520547945
+"[""female_share=upper_tertile"", ""illiterate_share=lower_tertile""]","[""occupancy_ratio=within_capacity""]",0.07780320366132723,0.7391304347826086,1.7944444444444443
+"[""illiterate_share=lower_tertile"", ""undertrial_share=upper_tertile""]","[""occupancy_ratio=within_capacity""]",0.07551487414187644,0.7333333333333333,1.7803703703703702

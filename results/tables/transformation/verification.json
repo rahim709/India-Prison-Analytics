@@ -1,0 +1,33 @@
+{
+  "phase": 3,
+  "phase3_tests_passed": 10,
+  "earlier_regression_tests_passed": 23,
+  "total_tests_passed": 33,
+  "notebook_code_cells_executed": 23,
+  "phase3_code_cells_executed": 8,
+  "notebook_outputs_match_pipeline": true,
+  "profiles_verified": 437,
+  "feature_count": 5,
+  "transactions_verified": 437,
+  "onehot_matrix_shape": [
+    437,
+    15
+  ],
+  "onehot_true_cells": 2185,
+  "exact_python_json_vector_equivalence": true,
+  "boolean_transaction_roundtrip": true,
+  "independent_boundary_checks": 2185,
+  "profile_lineage_verified": 437,
+  "upstream_data_hashes_unchanged": 78,
+  "transformed_files_verified": 7,
+  "determinism": {
+    "files_compared": 16,
+    "all_identical": true
+  },
+  "fit_scope": "full selected cohort; descriptive unsupervised analysis; no held-out performance claim",
+  "pyspark_runtime_verified": false,
+  "later_phases_started": false,
+  "compilation_passed": true,
+  "dependency_check_passed": true,
+  "diff_check_passed": true
+}

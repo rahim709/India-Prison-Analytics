@@ -1,0 +1,1342 @@
+source_record,STATE/UT,YEAR,DETAILS,Male,Female,Total
+2,Andhra Pradesh,2001,Parole released - Number of persons released on parole,344,0,344
+3,Andhra Pradesh,2001,Parole released - Number of parole absconders,10,0,10
+4,Andhra Pradesh,2001,Parole released - Number of parole absconders rearrested,2,0,2
+5,Andhra Pradesh,2002,Parole released - Number of persons released on parole,285,1,286
+6,Andhra Pradesh,2002,Parole released - Number of parole absconders,70,0,70
+7,Andhra Pradesh,2002,Parole released - Number of parole absconders rearrested,4,0,4
+8,Andhra Pradesh,2003,Parole released - Number of persons released on parole,517,0,517
+9,Andhra Pradesh,2003,Parole released - Number of parole absconders,2,0,2
+10,Andhra Pradesh,2003,Parole released - Number of parole absconders rearrested,0,0,0
+11,Andhra Pradesh,2004,Parole released - Number of persons released on parole,389,1,390
+12,Andhra Pradesh,2004,Parole released - Number of parole absconders,4,0,4
+13,Andhra Pradesh,2004,Parole released - Number of parole absconders rearrested,2,0,2
+14,Andhra Pradesh,2005,Parole released - Number of persons released on parole,328,2,330
+15,Andhra Pradesh,2005,Parole released - Number of parole absconders,7,0,7
+16,Andhra Pradesh,2005,Parole released - Number of parole absconders rearrested,3,0,3
+17,Andhra Pradesh,2006,Parole released - Number of persons released on parole,400,1,401
+18,Andhra Pradesh,2006,Parole released - Number of parole absconders,2,0,2
+19,Andhra Pradesh,2006,Parole released - Number of parole absconders rearrested,28,0,28
+20,Andhra Pradesh,2007,Parole released - Number of persons released on parole,364,1,365
+21,Andhra Pradesh,2007,Parole released - Number of parole absconders,5,0,5
+22,Andhra Pradesh,2007,Parole released - Number of parole absconders rearrested,5,0,5
+23,Andhra Pradesh,2008,Parole released - Number of persons released on parole,685,0,685
+24,Andhra Pradesh,2008,Parole released - Number of parole absconders,4,0,4
+25,Andhra Pradesh,2008,Parole released - Number of parole absconders rearrested,2,0,2
+26,Andhra Pradesh,2009,Parole released - Number of persons released on parole,656,1,657
+27,Andhra Pradesh,2009,Parole released - Number of parole absconders,3,0,3
+28,Andhra Pradesh,2009,Parole released - Number of parole absconders rearrested,3,0,3
+29,Andhra Pradesh,2010,Parole released - Number of persons released on parole,603,2,605
+30,Andhra Pradesh,2010,Parole released - Number of parole absconders,2,0,2
+31,Andhra Pradesh,2010,Parole released - Number of parole absconders rearrested,0,0,0
+32,Andhra Pradesh,2011,Parole released - Number of persons released on parole,451,4,455
+33,Andhra Pradesh,2011,Parole released - Number of parole absconders,2,0,2
+34,Andhra Pradesh,2011,Parole released - Number of parole absconders rearrested,3,0,3
+35,Andhra Pradesh,2012,Parole released - Number of persons released on parole,659,9,668
+36,Andhra Pradesh,2012,Parole released - Number of parole absconders,5,0,5
+37,Andhra Pradesh,2012,Parole released - Number of parole absconders rearrested,5,0,5
+38,Arunachal Pradesh,2009,Parole released - Number of persons released on parole,0,0,0
+39,Arunachal Pradesh,2009,Parole released - Number of parole absconders,0,0,0
+40,Arunachal Pradesh,2009,Parole released - Number of parole absconders rearrested,0,0,0
+41,Arunachal Pradesh,2010,Parole released - Number of persons released on parole,0,0,0
+42,Arunachal Pradesh,2010,Parole released - Number of parole absconders,0,0,0
+43,Arunachal Pradesh,2010,Parole released - Number of parole absconders rearrested,0,0,0
+44,Arunachal Pradesh,2011,Parole released - Number of persons released on parole,0,0,0
+45,Arunachal Pradesh,2011,Parole released - Number of parole absconders,0,0,0
+46,Arunachal Pradesh,2011,Parole released - Number of parole absconders rearrested,0,0,0
+47,Arunachal Pradesh,2012,Parole released - Number of persons released on parole,0,0,0
+48,Arunachal Pradesh,2012,Parole released - Number of parole absconders,0,0,0
+49,Arunachal Pradesh,2012,Parole released - Number of parole absconders rearrested,0,0,0
+50,Assam,2001,Parole released - Number of persons released on parole,286,4,290
+51,Assam,2001,Parole released - Number of parole absconders,0,0,0
+52,Assam,2001,Parole released - Number of parole absconders rearrested,0,0,0
+53,Assam,2002,Parole released - Number of persons released on parole,311,0,311
+54,Assam,2002,Parole released - Number of parole absconders,5,0,5
+55,Assam,2002,Parole released - Number of parole absconders rearrested,1,0,1
+56,Assam,2003,Parole released - Number of persons released on parole,405,2,407
+57,Assam,2003,Parole released - Number of parole absconders,1,0,1
+58,Assam,2003,Parole released - Number of parole absconders rearrested,0,0,0
+59,Assam,2004,Parole released - Number of persons released on parole,372,0,372
+60,Assam,2004,Parole released - Number of parole absconders,3,0,3
+61,Assam,2004,Parole released - Number of parole absconders rearrested,1,0,1
+62,Assam,2005,Parole released - Number of persons released on parole,310,3,313
+63,Assam,2005,Parole released - Number of parole absconders,0,0,0
+64,Assam,2005,Parole released - Number of parole absconders rearrested,0,0,0
+65,Assam,2006,Parole released - Number of persons released on parole,316,4,320
+66,Assam,2006,Parole released - Number of parole absconders,2,0,2
+67,Assam,2006,Parole released - Number of parole absconders rearrested,1,0,1
+68,Assam,2007,Parole released - Number of persons released on parole,318,6,324
+69,Assam,2007,Parole released - Number of parole absconders,6,0,6
+70,Assam,2007,Parole released - Number of parole absconders rearrested,0,0,0
+71,Assam,2008,Parole released - Number of persons released on parole,376,6,382
+72,Assam,2008,Parole released - Number of parole absconders,5,0,5
+73,Assam,2008,Parole released - Number of parole absconders rearrested,2,0,2
+74,Assam,2009,Parole released - Number of persons released on parole,367,6,373
+75,Assam,2009,Parole released - Number of parole absconders,7,1,8
+76,Assam,2009,Parole released - Number of parole absconders rearrested,0,0,0
+77,Assam,2010,Parole released - Number of persons released on parole,238,6,244
+78,Assam,2010,Parole released - Number of parole absconders,4,0,4
+79,Assam,2010,Parole released - Number of parole absconders rearrested,5,0,5
+80,Assam,2011,Parole released - Number of persons released on parole,138,0,138
+81,Assam,2011,Parole released - Number of parole absconders,0,0,0
+82,Assam,2011,Parole released - Number of parole absconders rearrested,3,0,3
+83,Assam,2012,Parole released - Number of persons released on parole,139,4,143
+84,Assam,2012,Parole released - Number of parole absconders,0,0,0
+85,Assam,2012,Parole released - Number of parole absconders rearrested,1,0,1
+86,Bihar,2001,Parole released - Number of persons released on parole,3,0,3
+87,Bihar,2001,Parole released - Number of parole absconders,0,0,0
+88,Bihar,2001,Parole released - Number of parole absconders rearrested,0,0,0
+89,Bihar,2002,Parole released - Number of persons released on parole,12,0,12
+90,Bihar,2002,Parole released - Number of parole absconders,0,0,0
+91,Bihar,2002,Parole released - Number of parole absconders rearrested,0,0,0
+92,Bihar,2003,Parole released - Number of persons released on parole,2,0,2
+93,Bihar,2003,Parole released - Number of parole absconders,0,0,0
+94,Bihar,2003,Parole released - Number of parole absconders rearrested,0,0,0
+95,Bihar,2004,Parole released - Number of persons released on parole,13,0,13
+96,Bihar,2004,Parole released - Number of parole absconders,1,0,1
+97,Bihar,2004,Parole released - Number of parole absconders rearrested,0,0,0
+98,Bihar,2005,Parole released - Number of persons released on parole,14,0,14
+99,Bihar,2005,Parole released - Number of parole absconders,0,0,0
+100,Bihar,2005,Parole released - Number of parole absconders rearrested,0,0,0
+101,Bihar,2006,Parole released - Number of persons released on parole,11,0,11
+102,Bihar,2006,Parole released - Number of parole absconders,0,0,0
+103,Bihar,2006,Parole released - Number of parole absconders rearrested,0,0,0
+104,Bihar,2007,Parole released - Number of persons released on parole,9,0,9
+105,Bihar,2007,Parole released - Number of parole absconders,0,0,0
+106,Bihar,2007,Parole released - Number of parole absconders rearrested,0,0,0
+107,Bihar,2008,Parole released - Number of persons released on parole,5,0,5
+108,Bihar,2008,Parole released - Number of parole absconders,0,0,0
+109,Bihar,2008,Parole released - Number of parole absconders rearrested,0,0,0
+110,Bihar,2009,Parole released - Number of persons released on parole,8,0,8
+111,Bihar,2009,Parole released - Number of parole absconders,0,0,0
+112,Bihar,2009,Parole released - Number of parole absconders rearrested,0,0,0
+113,Bihar,2010,Parole released - Number of persons released on parole,12,0,12
+114,Bihar,2010,Parole released - Number of parole absconders,0,0,0
+115,Bihar,2010,Parole released - Number of parole absconders rearrested,0,0,0
+116,Bihar,2011,Parole released - Number of persons released on parole,6,0,6
+117,Bihar,2011,Parole released - Number of parole absconders,0,0,0
+118,Bihar,2011,Parole released - Number of parole absconders rearrested,0,0,0
+119,Bihar,2012,Parole released - Number of persons released on parole,15,0,15
+120,Bihar,2012,Parole released - Number of parole absconders,0,0,0
+121,Bihar,2012,Parole released - Number of parole absconders rearrested,0,0,0
+122,Chhattisgarh,2012,Parole released - Number of persons released on parole,426,4,430
+123,Chhattisgarh,2012,Parole released - Number of parole absconders,0,0,0
+124,Chhattisgarh,2012,Parole released - Number of parole absconders rearrested,0,0,0
+125,Chhattisgarh,2001,Parole released - Number of persons released on parole,128,2,130
+126,Chhattisgarh,2001,Parole released - Number of parole absconders,1,0,1
+127,Chhattisgarh,2001,Parole released - Number of parole absconders rearrested,0,0,0
+128,Chhattisgarh,2002,Parole released - Number of persons released on parole,290,2,292
+129,Chhattisgarh,2002,Parole released - Number of parole absconders,2,0,2
+130,Chhattisgarh,2002,Parole released - Number of parole absconders rearrested,0,0,0
+131,Chhattisgarh,2003,Parole released - Number of persons released on parole,76,4,80
+132,Chhattisgarh,2003,Parole released - Number of parole absconders,111,1,112
+133,Chhattisgarh,2003,Parole released - Number of parole absconders rearrested,0,0,0
+134,Chhattisgarh,2004,Parole released - Number of persons released on parole,248,5,253
+135,Chhattisgarh,2004,Parole released - Number of parole absconders,0,0,0
+136,Chhattisgarh,2004,Parole released - Number of parole absconders rearrested,0,0,0
+137,Chhattisgarh,2005,Parole released - Number of persons released on parole,314,5,319
+138,Chhattisgarh,2005,Parole released - Number of parole absconders,1,0,1
+139,Chhattisgarh,2005,Parole released - Number of parole absconders rearrested,1,0,1
+140,Chhattisgarh,2006,Parole released - Number of persons released on parole,281,4,285
+141,Chhattisgarh,2006,Parole released - Number of parole absconders,1,0,1
+142,Chhattisgarh,2006,Parole released - Number of parole absconders rearrested,0,0,0
+143,Chhattisgarh,2007,Parole released - Number of persons released on parole,189,5,194
+144,Chhattisgarh,2007,Parole released - Number of parole absconders,5,0,5
+145,Chhattisgarh,2007,Parole released - Number of parole absconders rearrested,0,0,0
+146,Chhattisgarh,2008,Parole released - Number of persons released on parole,216,1,217
+147,Chhattisgarh,2008,Parole released - Number of parole absconders,1,0,1
+148,Chhattisgarh,2008,Parole released - Number of parole absconders rearrested,1,0,1
+149,Chhattisgarh,2009,Parole released - Number of persons released on parole,514,12,526
+150,Chhattisgarh,2009,Parole released - Number of parole absconders,0,0,0
+151,Chhattisgarh,2009,Parole released - Number of parole absconders rearrested,0,0,0
+152,Chhattisgarh,2010,Parole released - Number of persons released on parole,186,3,189
+153,Chhattisgarh,2010,Parole released - Number of parole absconders,94,0,94
+154,Chhattisgarh,2010,Parole released - Number of parole absconders rearrested,3,0,3
+155,Chhattisgarh,2011,Parole released - Number of persons released on parole,286,4,290
+156,Chhattisgarh,2011,Parole released - Number of parole absconders,1,0,1
+157,Chhattisgarh,2011,Parole released - Number of parole absconders rearrested,0,0,0
+158,Goa,2001,Parole released - Number of persons released on parole,24,3,27
+159,Goa,2001,Parole released - Number of parole absconders,0,0,0
+160,Goa,2001,Parole released - Number of parole absconders rearrested,0,0,0
+161,Goa,2002,Parole released - Number of persons released on parole,9,2,11
+162,Goa,2002,Parole released - Number of parole absconders,1,0,1
+163,Goa,2002,Parole released - Number of parole absconders rearrested,0,0,0
+164,Goa,2003,Parole released - Number of persons released on parole,21,1,22
+165,Goa,2003,Parole released - Number of parole absconders,3,0,3
+166,Goa,2003,Parole released - Number of parole absconders rearrested,0,0,0
+167,Goa,2004,Parole released - Number of persons released on parole,22,0,22
+168,Goa,2004,Parole released - Number of parole absconders,1,0,1
+169,Goa,2004,Parole released - Number of parole absconders rearrested,0,0,0
+170,Goa,2005,Parole released - Number of persons released on parole,13,0,13
+171,Goa,2005,Parole released - Number of parole absconders,0,0,0
+172,Goa,2005,Parole released - Number of parole absconders rearrested,0,0,0
+173,Goa,2006,Parole released - Number of persons released on parole,20,1,21
+174,Goa,2006,Parole released - Number of parole absconders,4,0,4
+175,Goa,2006,Parole released - Number of parole absconders rearrested,0,0,0
+176,Goa,2007,Parole released - Number of persons released on parole,24,1,25
+177,Goa,2007,Parole released - Number of parole absconders,3,0,3
+178,Goa,2007,Parole released - Number of parole absconders rearrested,0,0,0
+179,Goa,2008,Parole released - Number of persons released on parole,0,0,0
+180,Goa,2008,Parole released - Number of parole absconders,16,1,17
+181,Goa,2008,Parole released - Number of parole absconders rearrested,0,0,0
+182,Goa,2009,Parole released - Number of persons released on parole,11,0,11
+183,Goa,2009,Parole released - Number of parole absconders,0,0,0
+184,Goa,2009,Parole released - Number of parole absconders rearrested,0,0,0
+185,Goa,2010,Parole released - Number of persons released on parole,12,0,12
+186,Goa,2010,Parole released - Number of parole absconders,0,0,0
+187,Goa,2010,Parole released - Number of parole absconders rearrested,0,0,0
+188,Goa,2011,Parole released - Number of persons released on parole,36,1,37
+189,Goa,2011,Parole released - Number of parole absconders,0,0,0
+190,Goa,2011,Parole released - Number of parole absconders rearrested,0,0,0
+191,Goa,2012,Parole released - Number of persons released on parole,46,0,46
+192,Goa,2012,Parole released - Number of parole absconders,0,0,0
+193,Goa,2012,Parole released - Number of parole absconders rearrested,0,0,0
+194,Gujarat,2001,Parole released - Number of persons released on parole,255,6,261
+195,Gujarat,2001,Parole released - Number of parole absconders,33,0,33
+196,Gujarat,2001,Parole released - Number of parole absconders rearrested,5,0,5
+197,Gujarat,2002,Parole released - Number of persons released on parole,356,6,362
+198,Gujarat,2002,Parole released - Number of parole absconders,11,0,11
+199,Gujarat,2002,Parole released - Number of parole absconders rearrested,0,0,0
+200,Gujarat,2003,Parole released - Number of persons released on parole,450,16,466
+201,Gujarat,2003,Parole released - Number of parole absconders,26,0,26
+202,Gujarat,2003,Parole released - Number of parole absconders rearrested,9,0,9
+203,Gujarat,2004,Parole released - Number of persons released on parole,507,35,542
+204,Gujarat,2004,Parole released - Number of parole absconders,14,0,14
+205,Gujarat,2004,Parole released - Number of parole absconders rearrested,15,0,15
+206,Gujarat,2005,Parole released - Number of persons released on parole,565,34,599
+207,Gujarat,2005,Parole released - Number of parole absconders,56,0,56
+208,Gujarat,2005,Parole released - Number of parole absconders rearrested,35,0,35
+209,Gujarat,2006,Parole released - Number of persons released on parole,1473,3,1476
+210,Gujarat,2006,Parole released - Number of parole absconders,86,0,86
+211,Gujarat,2006,Parole released - Number of parole absconders rearrested,16,0,16
+212,Gujarat,2007,Parole released - Number of persons released on parole,2121,118,2239
+213,Gujarat,2007,Parole released - Number of parole absconders,55,0,55
+214,Gujarat,2007,Parole released - Number of parole absconders rearrested,13,0,13
+215,Gujarat,2008,Parole released - Number of persons released on parole,536,56,592
+216,Gujarat,2008,Parole released - Number of parole absconders,14,1,15
+217,Gujarat,2008,Parole released - Number of parole absconders rearrested,16,0,16
+218,Gujarat,2009,Parole released - Number of persons released on parole,677,98,775
+219,Gujarat,2009,Parole released - Number of parole absconders,43,2,45
+220,Gujarat,2009,Parole released - Number of parole absconders rearrested,14,0,14
+221,Gujarat,2010,Parole released - Number of persons released on parole,813,110,923
+222,Gujarat,2010,Parole released - Number of parole absconders,19,0,19
+223,Gujarat,2010,Parole released - Number of parole absconders rearrested,34,3,37
+224,Gujarat,2011,Parole released - Number of persons released on parole,2510,105,2615
+225,Gujarat,2011,Parole released - Number of parole absconders,44,0,44
+226,Gujarat,2011,Parole released - Number of parole absconders rearrested,39,0,39
+227,Gujarat,2012,Parole released - Number of persons released on parole,784,34,818
+228,Gujarat,2012,Parole released - Number of parole absconders,26,0,26
+229,Gujarat,2012,Parole released - Number of parole absconders rearrested,13,0,13
+230,Haryana,2001,Parole released - Number of persons released on parole,2642,115,2757
+231,Haryana,2001,Parole released - Number of parole absconders,48,1,49
+232,Haryana,2001,Parole released - Number of parole absconders rearrested,6,0,6
+233,Haryana,2002,Parole released - Number of persons released on parole,3778,119,3897
+234,Haryana,2002,Parole released - Number of parole absconders,72,0,72
+235,Haryana,2002,Parole released - Number of parole absconders rearrested,9,0,9
+236,Haryana,2003,Parole released - Number of persons released on parole,4565,165,4730
+237,Haryana,2003,Parole released - Number of parole absconders,58,0,58
+238,Haryana,2003,Parole released - Number of parole absconders rearrested,11,0,11
+239,Haryana,2004,Parole released - Number of persons released on parole,3739,116,3855
+240,Haryana,2004,Parole released - Number of parole absconders,188,0,188
+241,Haryana,2004,Parole released - Number of parole absconders rearrested,27,0,27
+242,Haryana,2005,Parole released - Number of persons released on parole,4083,122,4205
+243,Haryana,2005,Parole released - Number of parole absconders,54,0,54
+244,Haryana,2005,Parole released - Number of parole absconders rearrested,24,0,24
+245,Haryana,2006,Parole released - Number of persons released on parole,4525,19,4544
+246,Haryana,2006,Parole released - Number of parole absconders,76,0,76
+247,Haryana,2006,Parole released - Number of parole absconders rearrested,16,0,16
+248,Haryana,2007,Parole released - Number of persons released on parole,3376,81,3457
+249,Haryana,2007,Parole released - Number of parole absconders,62,0,62
+250,Haryana,2007,Parole released - Number of parole absconders rearrested,28,0,28
+251,Haryana,2008,Parole released - Number of persons released on parole,3222,96,3318
+252,Haryana,2008,Parole released - Number of parole absconders,84,0,84
+253,Haryana,2008,Parole released - Number of parole absconders rearrested,17,0,17
+254,Haryana,2009,Parole released - Number of persons released on parole,3505,94,3599
+255,Haryana,2009,Parole released - Number of parole absconders,179,0,179
+256,Haryana,2009,Parole released - Number of parole absconders rearrested,42,0,42
+257,Haryana,2010,Parole released - Number of persons released on parole,3809,88,3897
+258,Haryana,2010,Parole released - Number of parole absconders,57,0,57
+259,Haryana,2010,Parole released - Number of parole absconders rearrested,29,0,29
+260,Haryana,2011,Parole released - Number of persons released on parole,4194,119,4313
+261,Haryana,2011,Parole released - Number of parole absconders,80,1,81
+262,Haryana,2011,Parole released - Number of parole absconders rearrested,41,0,41
+263,Haryana,2012,Parole released - Number of persons released on parole,4264,104,4368
+264,Haryana,2012,Parole released - Number of parole absconders,78,0,78
+265,Haryana,2012,Parole released - Number of parole absconders rearrested,47,0,47
+266,Himachal Pradesh,2001,Parole released - Number of persons released on parole,509,10,519
+267,Himachal Pradesh,2001,Parole released - Number of parole absconders,0,0,0
+268,Himachal Pradesh,2001,Parole released - Number of parole absconders rearrested,0,0,0
+269,Himachal Pradesh,2002,Parole released - Number of persons released on parole,456,13,469
+270,Himachal Pradesh,2002,Parole released - Number of parole absconders,4,0,4
+271,Himachal Pradesh,2002,Parole released - Number of parole absconders rearrested,0,0,0
+272,Himachal Pradesh,2003,Parole released - Number of persons released on parole,333,16,349
+273,Himachal Pradesh,2003,Parole released - Number of parole absconders,3,0,3
+274,Himachal Pradesh,2003,Parole released - Number of parole absconders rearrested,3,0,3
+275,Himachal Pradesh,2004,Parole released - Number of persons released on parole,353,6,359
+276,Himachal Pradesh,2004,Parole released - Number of parole absconders,0,0,0
+277,Himachal Pradesh,2004,Parole released - Number of parole absconders rearrested,0,0,0
+278,Himachal Pradesh,2005,Parole released - Number of persons released on parole,353,6,359
+279,Himachal Pradesh,2005,Parole released - Number of parole absconders,0,0,0
+280,Himachal Pradesh,2005,Parole released - Number of parole absconders rearrested,0,0,0
+281,Himachal Pradesh,2006,Parole released - Number of persons released on parole,505,19,524
+282,Himachal Pradesh,2006,Parole released - Number of parole absconders,31,0,31
+283,Himachal Pradesh,2006,Parole released - Number of parole absconders rearrested,15,0,15
+284,Himachal Pradesh,2007,Parole released - Number of persons released on parole,619,18,637
+285,Himachal Pradesh,2007,Parole released - Number of parole absconders,15,0,15
+286,Himachal Pradesh,2007,Parole released - Number of parole absconders rearrested,2,0,2
+287,Himachal Pradesh,2008,Parole released - Number of persons released on parole,492,23,515
+288,Himachal Pradesh,2008,Parole released - Number of parole absconders,21,1,22
+289,Himachal Pradesh,2008,Parole released - Number of parole absconders rearrested,5,0,5
+290,Himachal Pradesh,2009,Parole released - Number of persons released on parole,346,23,369
+291,Himachal Pradesh,2009,Parole released - Number of parole absconders,8,0,8
+292,Himachal Pradesh,2009,Parole released - Number of parole absconders rearrested,4,0,4
+293,Himachal Pradesh,2010,Parole released - Number of persons released on parole,482,24,506
+294,Himachal Pradesh,2010,Parole released - Number of parole absconders,11,0,11
+295,Himachal Pradesh,2010,Parole released - Number of parole absconders rearrested,3,0,3
+296,Himachal Pradesh,2011,Parole released - Number of persons released on parole,445,19,464
+297,Himachal Pradesh,2011,Parole released - Number of parole absconders,27,0,27
+298,Himachal Pradesh,2011,Parole released - Number of parole absconders rearrested,3,0,3
+299,Himachal Pradesh,2012,Parole released - Number of persons released on parole,666,23,689
+300,Himachal Pradesh,2012,Parole released - Number of parole absconders,29,1,30
+301,Himachal Pradesh,2012,Parole released - Number of parole absconders rearrested,7,0,7
+302,Jammu & Kashmir,2001,Parole released - Number of persons released on parole,8,0,8
+303,Jammu & Kashmir,2001,Parole released - Number of parole absconders,0,0,0
+304,Jammu & Kashmir,2001,Parole released - Number of parole absconders rearrested,1,0,1
+305,Jammu & Kashmir,2002,Parole released - Number of persons released on parole,17,0,17
+306,Jammu & Kashmir,2002,Parole released - Number of parole absconders,0,0,0
+307,Jammu & Kashmir,2002,Parole released - Number of parole absconders rearrested,0,0,0
+308,Jammu & Kashmir,2003,Parole released - Number of persons released on parole,4,0,4
+309,Jammu & Kashmir,2003,Parole released - Number of parole absconders,0,0,0
+310,Jammu & Kashmir,2003,Parole released - Number of parole absconders rearrested,0,0,0
+311,Jammu & Kashmir,2004,Parole released - Number of persons released on parole,9,0,9
+312,Jammu & Kashmir,2004,Parole released - Number of parole absconders,0,0,0
+313,Jammu & Kashmir,2004,Parole released - Number of parole absconders rearrested,0,0,0
+314,Jammu & Kashmir,2005,Parole released - Number of persons released on parole,4,0,4
+315,Jammu & Kashmir,2005,Parole released - Number of parole absconders,0,0,0
+316,Jammu & Kashmir,2005,Parole released - Number of parole absconders rearrested,0,0,0
+317,Jammu & Kashmir,2006,Parole released - Number of persons released on parole,12,0,12
+318,Jammu & Kashmir,2006,Parole released - Number of parole absconders,0,0,0
+319,Jammu & Kashmir,2006,Parole released - Number of parole absconders rearrested,0,0,0
+320,Jammu & Kashmir,2007,Parole released - Number of persons released on parole,10,0,10
+321,Jammu & Kashmir,2007,Parole released - Number of parole absconders,0,0,0
+322,Jammu & Kashmir,2007,Parole released - Number of parole absconders rearrested,0,0,0
+323,Jammu & Kashmir,2008,Parole released - Number of persons released on parole,15,0,15
+324,Jammu & Kashmir,2008,Parole released - Number of parole absconders,0,0,0
+325,Jammu & Kashmir,2008,Parole released - Number of parole absconders rearrested,0,0,0
+326,Jammu & Kashmir,2009,Parole released - Number of persons released on parole,5,0,5
+327,Jammu & Kashmir,2009,Parole released - Number of parole absconders,0,0,0
+328,Jammu & Kashmir,2009,Parole released - Number of parole absconders rearrested,0,0,0
+329,Jammu & Kashmir,2010,Parole released - Number of persons released on parole,9,0,9
+330,Jammu & Kashmir,2010,Parole released - Number of parole absconders,0,0,0
+331,Jammu & Kashmir,2010,Parole released - Number of parole absconders rearrested,0,0,0
+332,Jammu & Kashmir,2011,Parole released - Number of persons released on parole,5,0,5
+333,Jammu & Kashmir,2011,Parole released - Number of parole absconders,0,0,0
+334,Jammu & Kashmir,2011,Parole released - Number of parole absconders rearrested,0,0,0
+335,Jammu & Kashmir,2012,Parole released - Number of persons released on parole,7,1,8
+336,Jammu & Kashmir,2012,Parole released - Number of parole absconders,0,0,0
+337,Jammu & Kashmir,2012,Parole released - Number of parole absconders rearrested,0,0,0
+338,Jharkhand,2001,Parole released - Number of persons released on parole,0,0,0
+339,Jharkhand,2001,Parole released - Number of parole absconders,0,0,0
+340,Jharkhand,2001,Parole released - Number of parole absconders rearrested,0,0,0
+341,Jharkhand,2002,Parole released - Number of persons released on parole,0,0,0
+342,Jharkhand,2002,Parole released - Number of parole absconders,0,0,0
+343,Jharkhand,2002,Parole released - Number of parole absconders rearrested,0,0,0
+344,Jharkhand,2003,Parole released - Number of persons released on parole,0,0,0
+345,Jharkhand,2003,Parole released - Number of parole absconders,0,0,0
+346,Jharkhand,2003,Parole released - Number of parole absconders rearrested,0,0,0
+347,Jharkhand,2004,Parole released - Number of persons released on parole,0,0,0
+348,Jharkhand,2004,Parole released - Number of parole absconders,0,0,0
+349,Jharkhand,2004,Parole released - Number of parole absconders rearrested,0,0,0
+350,Jharkhand,2005,Parole released - Number of persons released on parole,0,0,0
+351,Jharkhand,2005,Parole released - Number of parole absconders,0,0,0
+352,Jharkhand,2005,Parole released - Number of parole absconders rearrested,0,0,0
+353,Jharkhand,2006,Parole released - Number of persons released on parole,0,0,0
+354,Jharkhand,2006,Parole released - Number of parole absconders,0,0,0
+355,Jharkhand,2006,Parole released - Number of parole absconders rearrested,0,0,0
+356,Jharkhand,2007,Parole released - Number of persons released on parole,0,0,0
+357,Jharkhand,2007,Parole released - Number of parole absconders,0,0,0
+358,Jharkhand,2007,Parole released - Number of parole absconders rearrested,0,0,0
+359,Jharkhand,2008,Parole released - Number of persons released on parole,0,0,0
+360,Jharkhand,2008,Parole released - Number of parole absconders,0,0,0
+361,Jharkhand,2008,Parole released - Number of parole absconders rearrested,0,0,0
+362,Jharkhand,2009,Parole released - Number of persons released on parole,0,0,0
+363,Jharkhand,2009,Parole released - Number of parole absconders,0,0,0
+364,Jharkhand,2009,Parole released - Number of parole absconders rearrested,0,0,0
+365,Jharkhand,2010,Parole released - Number of persons released on parole,0,0,0
+366,Jharkhand,2010,Parole released - Number of parole absconders,0,0,0
+367,Jharkhand,2010,Parole released - Number of parole absconders rearrested,0,0,0
+368,Jharkhand,2011,Parole released - Number of persons released on parole,0,0,0
+369,Jharkhand,2011,Parole released - Number of parole absconders,0,0,0
+370,Jharkhand,2011,Parole released - Number of parole absconders rearrested,0,0,0
+371,Jharkhand,2012,Parole released - Number of persons released on parole,0,0,0
+372,Jharkhand,2012,Parole released - Number of parole absconders,0,0,0
+373,Jharkhand,2012,Parole released - Number of parole absconders rearrested,1,0,1
+374,Karnataka,2001,Parole released - Number of persons released on parole,299,4,303
+375,Karnataka,2001,Parole released - Number of parole absconders,2,0,2
+376,Karnataka,2001,Parole released - Number of parole absconders rearrested,1,0,1
+377,Karnataka,2002,Parole released - Number of persons released on parole,345,2,347
+378,Karnataka,2002,Parole released - Number of parole absconders,0,0,0
+379,Karnataka,2002,Parole released - Number of parole absconders rearrested,0,0,0
+380,Karnataka,2003,Parole released - Number of persons released on parole,391,5,396
+381,Karnataka,2003,Parole released - Number of parole absconders,0,0,0
+382,Karnataka,2003,Parole released - Number of parole absconders rearrested,0,0,0
+383,Karnataka,2004,Parole released - Number of persons released on parole,316,1,317
+384,Karnataka,2004,Parole released - Number of parole absconders,0,0,0
+385,Karnataka,2004,Parole released - Number of parole absconders rearrested,0,0,0
+386,Karnataka,2005,Parole released - Number of persons released on parole,322,3,325
+387,Karnataka,2005,Parole released - Number of parole absconders,0,0,0
+388,Karnataka,2005,Parole released - Number of parole absconders rearrested,0,0,0
+389,Karnataka,2006,Parole released - Number of persons released on parole,441,1,442
+390,Karnataka,2006,Parole released - Number of parole absconders,0,0,0
+391,Karnataka,2006,Parole released - Number of parole absconders rearrested,0,0,0
+392,Karnataka,2007,Parole released - Number of persons released on parole,574,5,579
+393,Karnataka,2007,Parole released - Number of parole absconders,0,0,0
+394,Karnataka,2007,Parole released - Number of parole absconders rearrested,0,0,0
+395,Karnataka,2008,Parole released - Number of persons released on parole,579,5,584
+396,Karnataka,2008,Parole released - Number of parole absconders,0,0,0
+397,Karnataka,2008,Parole released - Number of parole absconders rearrested,0,0,0
+398,Karnataka,2009,Parole released - Number of persons released on parole,663,7,670
+399,Karnataka,2009,Parole released - Number of parole absconders,0,0,0
+400,Karnataka,2009,Parole released - Number of parole absconders rearrested,0,0,0
+401,Karnataka,2010,Parole released - Number of persons released on parole,831,17,848
+402,Karnataka,2010,Parole released - Number of parole absconders,13,0,13
+403,Karnataka,2010,Parole released - Number of parole absconders rearrested,2,0,2
+404,Karnataka,2011,Parole released - Number of persons released on parole,783,14,797
+405,Karnataka,2011,Parole released - Number of parole absconders,28,0,28
+406,Karnataka,2011,Parole released - Number of parole absconders rearrested,2,0,2
+407,Karnataka,2012,Parole released - Number of persons released on parole,891,0,891
+408,Karnataka,2012,Parole released - Number of parole absconders,11,0,11
+409,Karnataka,2012,Parole released - Number of parole absconders rearrested,3,0,3
+410,Kerala,2001,Parole released - Number of persons released on parole,797,6,803
+411,Kerala,2001,Parole released - Number of parole absconders,0,0,0
+412,Kerala,2001,Parole released - Number of parole absconders rearrested,0,0,0
+413,Kerala,2002,Parole released - Number of persons released on parole,765,4,769
+414,Kerala,2002,Parole released - Number of parole absconders,0,0,0
+415,Kerala,2002,Parole released - Number of parole absconders rearrested,0,0,0
+416,Kerala,2003,Parole released - Number of persons released on parole,528,8,536
+417,Kerala,2003,Parole released - Number of parole absconders,8,0,8
+418,Kerala,2003,Parole released - Number of parole absconders rearrested,1,0,1
+419,Kerala,2004,Parole released - Number of persons released on parole,528,8,536
+420,Kerala,2004,Parole released - Number of parole absconders,10,0,10
+421,Kerala,2004,Parole released - Number of parole absconders rearrested,1,0,1
+422,Kerala,2005,Parole released - Number of persons released on parole,0,0,0
+423,Kerala,2005,Parole released - Number of parole absconders,2,0,2
+424,Kerala,2005,Parole released - Number of parole absconders rearrested,1,2,3
+425,Kerala,2006,Parole released - Number of persons released on parole,718,20,738
+426,Kerala,2006,Parole released - Number of parole absconders,4,0,4
+427,Kerala,2006,Parole released - Number of parole absconders rearrested,4,0,4
+428,Kerala,2007,Parole released - Number of persons released on parole,823,23,846
+429,Kerala,2007,Parole released - Number of parole absconders,5,0,5
+430,Kerala,2007,Parole released - Number of parole absconders rearrested,3,0,3
+431,Kerala,2008,Parole released - Number of persons released on parole,732,25,757
+432,Kerala,2008,Parole released - Number of parole absconders,10,0,10
+433,Kerala,2008,Parole released - Number of parole absconders rearrested,8,0,8
+434,Kerala,2009,Parole released - Number of persons released on parole,927,23,950
+435,Kerala,2009,Parole released - Number of parole absconders,9,0,9
+436,Kerala,2009,Parole released - Number of parole absconders rearrested,5,0,5
+437,Kerala,2010,Parole released - Number of persons released on parole,869,18,887
+438,Kerala,2010,Parole released - Number of parole absconders,7,0,7
+439,Kerala,2010,Parole released - Number of parole absconders rearrested,6,0,6
+440,Kerala,2011,Parole released - Number of persons released on parole,1012,30,1042
+441,Kerala,2011,Parole released - Number of parole absconders,12,0,12
+442,Kerala,2011,Parole released - Number of parole absconders rearrested,0,0,0
+443,Kerala,2012,Parole released - Number of persons released on parole,1532,52,1584
+444,Kerala,2012,Parole released - Number of parole absconders,15,0,15
+445,Kerala,2012,Parole released - Number of parole absconders rearrested,0,0,0
+446,Madhya Pradesh,2001,Parole released - Number of persons released on parole,1916,25,1941
+447,Madhya Pradesh,2001,Parole released - Number of parole absconders,13,0,13
+448,Madhya Pradesh,2001,Parole released - Number of parole absconders rearrested,3,0,3
+449,Madhya Pradesh,2002,Parole released - Number of persons released on parole,11,1,12
+450,Madhya Pradesh,2002,Parole released - Number of parole absconders,4,0,4
+451,Madhya Pradesh,2002,Parole released - Number of parole absconders rearrested,0,0,0
+452,Madhya Pradesh,2003,Parole released - Number of persons released on parole,2026,9,2035
+453,Madhya Pradesh,2003,Parole released - Number of parole absconders,17,5,22
+454,Madhya Pradesh,2003,Parole released - Number of parole absconders rearrested,45,0,45
+455,Madhya Pradesh,2004,Parole released - Number of persons released on parole,1380,4,1384
+456,Madhya Pradesh,2004,Parole released - Number of parole absconders,93,1,94
+457,Madhya Pradesh,2004,Parole released - Number of parole absconders rearrested,43,0,43
+458,Madhya Pradesh,2005,Parole released - Number of persons released on parole,719,13,732
+459,Madhya Pradesh,2005,Parole released - Number of parole absconders,44,0,44
+460,Madhya Pradesh,2005,Parole released - Number of parole absconders rearrested,7,0,7
+461,Madhya Pradesh,2006,Parole released - Number of persons released on parole,1761,0,1761
+462,Madhya Pradesh,2006,Parole released - Number of parole absconders,69,0,69
+463,Madhya Pradesh,2006,Parole released - Number of parole absconders rearrested,16,0,16
+464,Madhya Pradesh,2007,Parole released - Number of persons released on parole,1204,9,1213
+465,Madhya Pradesh,2007,Parole released - Number of parole absconders,39,0,39
+466,Madhya Pradesh,2007,Parole released - Number of parole absconders rearrested,7,0,7
+467,Madhya Pradesh,2008,Parole released - Number of persons released on parole,1636,11,1647
+468,Madhya Pradesh,2008,Parole released - Number of parole absconders,15,0,15
+469,Madhya Pradesh,2008,Parole released - Number of parole absconders rearrested,5,0,5
+470,Madhya Pradesh,2009,Parole released - Number of persons released on parole,2965,31,2996
+471,Madhya Pradesh,2009,Parole released - Number of parole absconders,10,0,10
+472,Madhya Pradesh,2009,Parole released - Number of parole absconders rearrested,6,0,6
+473,Madhya Pradesh,2010,Parole released - Number of persons released on parole,3399,14,3413
+474,Madhya Pradesh,2010,Parole released - Number of parole absconders,11,0,11
+475,Madhya Pradesh,2010,Parole released - Number of parole absconders rearrested,4,0,4
+476,Madhya Pradesh,2011,Parole released - Number of persons released on parole,1987,11,1998
+477,Madhya Pradesh,2011,Parole released - Number of parole absconders,14,0,14
+478,Madhya Pradesh,2011,Parole released - Number of parole absconders rearrested,3,0,3
+479,Madhya Pradesh,2012,Parole released - Number of persons released on parole,7247,56,7303
+480,Madhya Pradesh,2012,Parole released - Number of parole absconders,4,0,4
+481,Madhya Pradesh,2012,Parole released - Number of parole absconders rearrested,0,0,0
+482,Maharashtra,2001,Parole released - Number of persons released on parole,379,3,382
+483,Maharashtra,2001,Parole released - Number of parole absconders,64,0,64
+484,Maharashtra,2001,Parole released - Number of parole absconders rearrested,15,0,15
+485,Maharashtra,2002,Parole released - Number of persons released on parole,429,3,432
+486,Maharashtra,2002,Parole released - Number of parole absconders,145,2,147
+487,Maharashtra,2002,Parole released - Number of parole absconders rearrested,34,0,34
+488,Maharashtra,2003,Parole released - Number of persons released on parole,529,7,536
+489,Maharashtra,2003,Parole released - Number of parole absconders,50,0,50
+490,Maharashtra,2003,Parole released - Number of parole absconders rearrested,12,0,12
+491,Maharashtra,2004,Parole released - Number of persons released on parole,544,7,551
+492,Maharashtra,2004,Parole released - Number of parole absconders,121,1,122
+493,Maharashtra,2004,Parole released - Number of parole absconders rearrested,9,3,12
+494,Maharashtra,2005,Parole released - Number of persons released on parole,654,14,668
+495,Maharashtra,2005,Parole released - Number of parole absconders,107,1,108
+496,Maharashtra,2005,Parole released - Number of parole absconders rearrested,23,0,23
+497,Maharashtra,2006,Parole released - Number of persons released on parole,958,16,974
+498,Maharashtra,2006,Parole released - Number of parole absconders,178,0,178
+499,Maharashtra,2006,Parole released - Number of parole absconders rearrested,38,0,38
+500,Maharashtra,2007,Parole released - Number of persons released on parole,992,24,1016
+501,Maharashtra,2007,Parole released - Number of parole absconders,108,0,108
+502,Maharashtra,2007,Parole released - Number of parole absconders rearrested,33,0,33
+503,Maharashtra,2008,Parole released - Number of persons released on parole,1094,39,1133
+504,Maharashtra,2008,Parole released - Number of parole absconders,181,0,181
+505,Maharashtra,2008,Parole released - Number of parole absconders rearrested,45,0,45
+506,Maharashtra,2009,Parole released - Number of persons released on parole,1212,43,1255
+507,Maharashtra,2009,Parole released - Number of parole absconders,186,2,188
+508,Maharashtra,2009,Parole released - Number of parole absconders rearrested,68,0,68
+509,Maharashtra,2010,Parole released - Number of persons released on parole,1466,60,1526
+510,Maharashtra,2010,Parole released - Number of parole absconders,513,1,514
+511,Maharashtra,2010,Parole released - Number of parole absconders rearrested,86,0,86
+512,Maharashtra,2011,Parole released - Number of persons released on parole,1657,49,1706
+513,Maharashtra,2011,Parole released - Number of parole absconders,330,3,333
+514,Maharashtra,2011,Parole released - Number of parole absconders rearrested,191,0,191
+515,Maharashtra,2012,Parole released - Number of persons released on parole,2725,154,2879
+516,Maharashtra,2012,Parole released - Number of parole absconders,197,1,198
+517,Maharashtra,2012,Parole released - Number of parole absconders rearrested,41,0,41
+518,Manipur,2001,Parole released - Number of persons released on parole,0,0,0
+519,Manipur,2001,Parole released - Number of parole absconders,0,0,0
+520,Manipur,2001,Parole released - Number of parole absconders rearrested,0,0,0
+521,Manipur,2002,Parole released - Number of persons released on parole,3,0,3
+522,Manipur,2002,Parole released - Number of parole absconders,2,0,2
+523,Manipur,2002,Parole released - Number of parole absconders rearrested,0,0,0
+524,Manipur,2003,Parole released - Number of persons released on parole,3,0,3
+525,Manipur,2003,Parole released - Number of parole absconders,0,0,0
+526,Manipur,2003,Parole released - Number of parole absconders rearrested,0,0,0
+527,Manipur,2004,Parole released - Number of persons released on parole,0,0,0
+528,Manipur,2004,Parole released - Number of parole absconders,0,0,0
+529,Manipur,2004,Parole released - Number of parole absconders rearrested,0,0,0
+530,Manipur,2005,Parole released - Number of persons released on parole,1,0,1
+531,Manipur,2005,Parole released - Number of parole absconders,0,0,0
+532,Manipur,2005,Parole released - Number of parole absconders rearrested,0,0,0
+533,Manipur,2006,Parole released - Number of persons released on parole,2,0,2
+534,Manipur,2006,Parole released - Number of parole absconders,0,0,0
+535,Manipur,2006,Parole released - Number of parole absconders rearrested,0,0,0
+536,Manipur,2007,Parole released - Number of persons released on parole,0,0,0
+537,Manipur,2007,Parole released - Number of parole absconders,0,0,0
+538,Manipur,2007,Parole released - Number of parole absconders rearrested,0,0,0
+539,Manipur,2008,Parole released - Number of persons released on parole,0,0,0
+540,Manipur,2008,Parole released - Number of parole absconders,0,0,0
+541,Manipur,2008,Parole released - Number of parole absconders rearrested,0,0,0
+542,Manipur,2009,Parole released - Number of persons released on parole,0,0,0
+543,Manipur,2009,Parole released - Number of parole absconders,0,0,0
+544,Manipur,2009,Parole released - Number of parole absconders rearrested,0,0,0
+545,Manipur,2010,Parole released - Number of persons released on parole,0,0,0
+546,Manipur,2010,Parole released - Number of parole absconders,0,0,0
+547,Manipur,2010,Parole released - Number of parole absconders rearrested,0,0,0
+548,Manipur,2011,Parole released - Number of persons released on parole,0,1,1
+549,Manipur,2011,Parole released - Number of parole absconders,0,0,0
+550,Manipur,2011,Parole released - Number of parole absconders rearrested,0,0,0
+551,Manipur,2012,Parole released - Number of persons released on parole,1,0,1
+552,Manipur,2012,Parole released - Number of parole absconders,1,0,1
+553,Manipur,2012,Parole released - Number of parole absconders rearrested,0,0,0
+554,Meghalaya,2001,Parole released - Number of persons released on parole,0,0,0
+555,Meghalaya,2001,Parole released - Number of parole absconders,0,0,0
+556,Meghalaya,2001,Parole released - Number of parole absconders rearrested,0,0,0
+557,Meghalaya,2002,Parole released - Number of persons released on parole,0,0,0
+558,Meghalaya,2002,Parole released - Number of parole absconders,0,0,0
+559,Meghalaya,2002,Parole released - Number of parole absconders rearrested,0,0,0
+560,Meghalaya,2003,Parole released - Number of persons released on parole,0,0,0
+561,Meghalaya,2003,Parole released - Number of parole absconders,0,0,0
+562,Meghalaya,2003,Parole released - Number of parole absconders rearrested,0,0,0
+563,Meghalaya,2004,Parole released - Number of persons released on parole,0,0,0
+564,Meghalaya,2004,Parole released - Number of parole absconders,0,0,0
+565,Meghalaya,2004,Parole released - Number of parole absconders rearrested,0,0,0
+566,Meghalaya,2005,Parole released - Number of persons released on parole,0,0,0
+567,Meghalaya,2005,Parole released - Number of parole absconders,0,0,0
+568,Meghalaya,2005,Parole released - Number of parole absconders rearrested,0,0,0
+569,Meghalaya,2006,Parole released - Number of persons released on parole,0,0,0
+570,Meghalaya,2006,Parole released - Number of parole absconders,0,0,0
+571,Meghalaya,2006,Parole released - Number of parole absconders rearrested,0,0,0
+572,Meghalaya,2007,Parole released - Number of persons released on parole,0,0,0
+573,Meghalaya,2007,Parole released - Number of parole absconders,0,0,0
+574,Meghalaya,2007,Parole released - Number of parole absconders rearrested,0,0,0
+575,Meghalaya,2008,Parole released - Number of persons released on parole,0,0,0
+576,Meghalaya,2008,Parole released - Number of parole absconders,0,0,0
+577,Meghalaya,2008,Parole released - Number of parole absconders rearrested,0,0,0
+578,Meghalaya,2009,Parole released - Number of persons released on parole,0,0,0
+579,Meghalaya,2009,Parole released - Number of parole absconders,0,0,0
+580,Meghalaya,2009,Parole released - Number of parole absconders rearrested,0,0,0
+581,Meghalaya,2010,Parole released - Number of persons released on parole,0,0,0
+582,Meghalaya,2010,Parole released - Number of parole absconders,0,0,0
+583,Meghalaya,2010,Parole released - Number of parole absconders rearrested,0,0,0
+584,Meghalaya,2011,Parole released - Number of persons released on parole,0,0,0
+585,Meghalaya,2011,Parole released - Number of parole absconders,0,0,0
+586,Meghalaya,2011,Parole released - Number of parole absconders rearrested,0,0,0
+587,Meghalaya,2012,Parole released - Number of persons released on parole,0,0,0
+588,Meghalaya,2012,Parole released - Number of parole absconders,0,0,0
+589,Meghalaya,2012,Parole released - Number of parole absconders rearrested,0,0,0
+590,Mizoram,2001,Parole released - Number of persons released on parole,1,0,1
+591,Mizoram,2001,Parole released - Number of parole absconders,0,0,0
+592,Mizoram,2001,Parole released - Number of parole absconders rearrested,0,0,0
+593,Mizoram,2002,Parole released - Number of persons released on parole,3,0,3
+594,Mizoram,2002,Parole released - Number of parole absconders,0,0,0
+595,Mizoram,2002,Parole released - Number of parole absconders rearrested,0,0,0
+596,Mizoram,2003,Parole released - Number of persons released on parole,2,0,2
+597,Mizoram,2003,Parole released - Number of parole absconders,0,0,0
+598,Mizoram,2003,Parole released - Number of parole absconders rearrested,0,0,0
+599,Mizoram,2004,Parole released - Number of persons released on parole,0,0,0
+600,Mizoram,2004,Parole released - Number of parole absconders,0,0,0
+601,Mizoram,2004,Parole released - Number of parole absconders rearrested,0,0,0
+602,Mizoram,2005,Parole released - Number of persons released on parole,0,0,0
+603,Mizoram,2005,Parole released - Number of parole absconders,0,0,0
+604,Mizoram,2005,Parole released - Number of parole absconders rearrested,0,0,0
+605,Mizoram,2006,Parole released - Number of persons released on parole,7,0,7
+606,Mizoram,2006,Parole released - Number of parole absconders,0,0,0
+607,Mizoram,2006,Parole released - Number of parole absconders rearrested,0,0,0
+608,Mizoram,2007,Parole released - Number of persons released on parole,10,0,10
+609,Mizoram,2007,Parole released - Number of parole absconders,0,0,0
+610,Mizoram,2007,Parole released - Number of parole absconders rearrested,0,0,0
+611,Mizoram,2008,Parole released - Number of persons released on parole,8,0,8
+612,Mizoram,2008,Parole released - Number of parole absconders,0,0,0
+613,Mizoram,2008,Parole released - Number of parole absconders rearrested,0,0,0
+614,Mizoram,2009,Parole released - Number of persons released on parole,0,0,0
+615,Mizoram,2009,Parole released - Number of parole absconders,0,0,0
+616,Mizoram,2009,Parole released - Number of parole absconders rearrested,0,0,0
+617,Mizoram,2010,Parole released - Number of persons released on parole,0,0,0
+618,Mizoram,2010,Parole released - Number of parole absconders,0,0,0
+619,Mizoram,2010,Parole released - Number of parole absconders rearrested,0,0,0
+620,Mizoram,2011,Parole released - Number of persons released on parole,3,0,3
+621,Mizoram,2011,Parole released - Number of parole absconders,0,0,0
+622,Mizoram,2011,Parole released - Number of parole absconders rearrested,0,0,0
+623,Mizoram,2012,Parole released - Number of persons released on parole,15,0,15
+624,Mizoram,2012,Parole released - Number of parole absconders,0,0,0
+625,Mizoram,2012,Parole released - Number of parole absconders rearrested,0,0,0
+626,Nagaland,2001,Parole released - Number of persons released on parole,0,0,0
+627,Nagaland,2001,Parole released - Number of parole absconders,0,0,0
+628,Nagaland,2001,Parole released - Number of parole absconders rearrested,0,0,0
+629,Nagaland,2002,Parole released - Number of persons released on parole,0,0,0
+630,Nagaland,2002,Parole released - Number of parole absconders,0,0,0
+631,Nagaland,2002,Parole released - Number of parole absconders rearrested,0,0,0
+632,Nagaland,2003,Parole released - Number of persons released on parole,0,0,0
+633,Nagaland,2003,Parole released - Number of parole absconders,0,0,0
+634,Nagaland,2003,Parole released - Number of parole absconders rearrested,0,0,0
+635,Nagaland,2004,Parole released - Number of persons released on parole,0,0,0
+636,Nagaland,2004,Parole released - Number of parole absconders,0,0,0
+637,Nagaland,2004,Parole released - Number of parole absconders rearrested,0,0,0
+638,Nagaland,2005,Parole released - Number of persons released on parole,0,0,0
+639,Nagaland,2005,Parole released - Number of parole absconders,0,0,0
+640,Nagaland,2005,Parole released - Number of parole absconders rearrested,0,0,0
+641,Nagaland,2006,Parole released - Number of persons released on parole,0,0,0
+642,Nagaland,2006,Parole released - Number of parole absconders,0,0,0
+643,Nagaland,2006,Parole released - Number of parole absconders rearrested,0,0,0
+644,Nagaland,2007,Parole released - Number of persons released on parole,0,0,0
+645,Nagaland,2007,Parole released - Number of parole absconders,0,0,0
+646,Nagaland,2007,Parole released - Number of parole absconders rearrested,0,0,0
+647,Nagaland,2008,Parole released - Number of persons released on parole,0,0,0
+648,Nagaland,2008,Parole released - Number of parole absconders,0,0,0
+649,Nagaland,2008,Parole released - Number of parole absconders rearrested,0,0,0
+650,Nagaland,2009,Parole released - Number of persons released on parole,0,0,0
+651,Nagaland,2009,Parole released - Number of parole absconders,0,0,0
+652,Nagaland,2009,Parole released - Number of parole absconders rearrested,0,0,0
+653,Nagaland,2010,Parole released - Number of persons released on parole,1,0,1
+654,Nagaland,2010,Parole released - Number of parole absconders,0,0,0
+655,Nagaland,2010,Parole released - Number of parole absconders rearrested,0,0,0
+656,Nagaland,2011,Parole released - Number of persons released on parole,0,0,0
+657,Nagaland,2011,Parole released - Number of parole absconders,0,0,0
+658,Nagaland,2011,Parole released - Number of parole absconders rearrested,0,0,0
+659,Nagaland,2012,Parole released - Number of persons released on parole,0,0,0
+660,Nagaland,2012,Parole released - Number of parole absconders,0,0,0
+661,Nagaland,2012,Parole released - Number of parole absconders rearrested,0,0,0
+662,Odisha,2001,Parole released - Number of persons released on parole,122,0,122
+663,Odisha,2001,Parole released - Number of parole absconders,1,0,1
+664,Odisha,2001,Parole released - Number of parole absconders rearrested,0,0,0
+665,Odisha,2002,Parole released - Number of persons released on parole,100,0,100
+666,Odisha,2002,Parole released - Number of parole absconders,0,0,0
+667,Odisha,2002,Parole released - Number of parole absconders rearrested,0,0,0
+668,Odisha,2003,Parole released - Number of persons released on parole,45,0,45
+669,Odisha,2003,Parole released - Number of parole absconders,0,0,0
+670,Odisha,2003,Parole released - Number of parole absconders rearrested,0,0,0
+671,Odisha,2004,Parole released - Number of persons released on parole,85,0,85
+672,Odisha,2004,Parole released - Number of parole absconders,0,0,0
+673,Odisha,2004,Parole released - Number of parole absconders rearrested,0,0,0
+674,Odisha,2005,Parole released - Number of persons released on parole,127,0,127
+675,Odisha,2005,Parole released - Number of parole absconders,1,0,1
+676,Odisha,2005,Parole released - Number of parole absconders rearrested,0,0,0
+677,Odisha,2006,Parole released - Number of persons released on parole,133,0,133
+678,Odisha,2006,Parole released - Number of parole absconders,3,0,3
+679,Odisha,2006,Parole released - Number of parole absconders rearrested,1,0,1
+680,Odisha,2007,Parole released - Number of persons released on parole,158,0,158
+681,Odisha,2007,Parole released - Number of parole absconders,3,0,3
+682,Odisha,2007,Parole released - Number of parole absconders rearrested,1,0,1
+683,Odisha,2008,Parole released - Number of persons released on parole,57,0,57
+684,Odisha,2008,Parole released - Number of parole absconders,0,0,0
+685,Odisha,2008,Parole released - Number of parole absconders rearrested,0,0,0
+686,Odisha,2009,Parole released - Number of persons released on parole,88,0,88
+687,Odisha,2009,Parole released - Number of parole absconders,0,0,0
+688,Odisha,2009,Parole released - Number of parole absconders rearrested,0,0,0
+689,Odisha,2010,Parole released - Number of persons released on parole,127,0,127
+690,Odisha,2010,Parole released - Number of parole absconders,0,0,0
+691,Odisha,2010,Parole released - Number of parole absconders rearrested,0,0,0
+692,Odisha,2011,Parole released - Number of persons released on parole,135,1,136
+693,Odisha,2011,Parole released - Number of parole absconders,0,0,0
+694,Odisha,2011,Parole released - Number of parole absconders rearrested,0,0,0
+695,Odisha,2012,Parole released - Number of persons released on parole,152,0,152
+696,Odisha,2012,Parole released - Number of parole absconders,0,0,0
+697,Odisha,2012,Parole released - Number of parole absconders rearrested,0,0,0
+698,Punjab,2001,Parole released - Number of persons released on parole,2648,156,2804
+699,Punjab,2001,Parole released - Number of parole absconders,0,0,0
+700,Punjab,2001,Parole released - Number of parole absconders rearrested,0,0,0
+701,Punjab,2002,Parole released - Number of persons released on parole,3769,147,3916
+702,Punjab,2002,Parole released - Number of parole absconders,11,0,11
+703,Punjab,2002,Parole released - Number of parole absconders rearrested,1,0,1
+704,Punjab,2003,Parole released - Number of persons released on parole,2595,199,2794
+705,Punjab,2003,Parole released - Number of parole absconders,727,2,729
+706,Punjab,2003,Parole released - Number of parole absconders rearrested,5,0,5
+707,Punjab,2004,Parole released - Number of persons released on parole,2608,206,2814
+708,Punjab,2004,Parole released - Number of parole absconders,786,5,791
+709,Punjab,2004,Parole released - Number of parole absconders rearrested,8,0,8
+710,Punjab,2005,Parole released - Number of persons released on parole,2625,225,2850
+711,Punjab,2005,Parole released - Number of parole absconders,798,10,808
+712,Punjab,2005,Parole released - Number of parole absconders rearrested,10,0,10
+713,Punjab,2006,Parole released - Number of persons released on parole,2735,241,2976
+714,Punjab,2006,Parole released - Number of parole absconders,645,11,656
+715,Punjab,2006,Parole released - Number of parole absconders rearrested,7,0,7
+716,Punjab,2007,Parole released - Number of persons released on parole,2693,231,2924
+717,Punjab,2007,Parole released - Number of parole absconders,531,9,540
+718,Punjab,2007,Parole released - Number of parole absconders rearrested,5,0,5
+719,Punjab,2008,Parole released - Number of persons released on parole,4824,252,5076
+720,Punjab,2008,Parole released - Number of parole absconders,54,0,54
+721,Punjab,2008,Parole released - Number of parole absconders rearrested,17,0,17
+722,Punjab,2009,Parole released - Number of persons released on parole,5347,346,5693
+723,Punjab,2009,Parole released - Number of parole absconders,60,3,63
+724,Punjab,2009,Parole released - Number of parole absconders rearrested,16,1,17
+725,Punjab,2010,Parole released - Number of persons released on parole,5874,326,6200
+726,Punjab,2010,Parole released - Number of parole absconders,54,2,56
+727,Punjab,2010,Parole released - Number of parole absconders rearrested,24,1,25
+728,Punjab,2011,Parole released - Number of persons released on parole,6284,362,6646
+729,Punjab,2011,Parole released - Number of parole absconders,63,2,65
+730,Punjab,2011,Parole released - Number of parole absconders rearrested,27,1,28
+731,Punjab,2012,Parole released - Number of persons released on parole,8630,395,9025
+732,Punjab,2012,Parole released - Number of parole absconders,114,1,115
+733,Punjab,2012,Parole released - Number of parole absconders rearrested,62,0,62
+734,Rajasthan,2001,Parole released - Number of persons released on parole,545,10,555
+735,Rajasthan,2001,Parole released - Number of parole absconders,0,0,0
+736,Rajasthan,2001,Parole released - Number of parole absconders rearrested,0,0,0
+737,Rajasthan,2002,Parole released - Number of persons released on parole,910,9,919
+738,Rajasthan,2002,Parole released - Number of parole absconders,4,0,4
+739,Rajasthan,2002,Parole released - Number of parole absconders rearrested,1,0,1
+740,Rajasthan,2003,Parole released - Number of persons released on parole,1072,17,1089
+741,Rajasthan,2003,Parole released - Number of parole absconders,11,0,11
+742,Rajasthan,2003,Parole released - Number of parole absconders rearrested,3,0,3
+743,Rajasthan,2004,Parole released - Number of persons released on parole,1195,7,1202
+744,Rajasthan,2004,Parole released - Number of parole absconders,15,0,15
+745,Rajasthan,2004,Parole released - Number of parole absconders rearrested,4,0,4
+746,Rajasthan,2005,Parole released - Number of persons released on parole,1462,28,1490
+747,Rajasthan,2005,Parole released - Number of parole absconders,27,0,27
+748,Rajasthan,2005,Parole released - Number of parole absconders rearrested,3,0,3
+749,Rajasthan,2006,Parole released - Number of persons released on parole,1610,43,1653
+750,Rajasthan,2006,Parole released - Number of parole absconders,30,0,30
+751,Rajasthan,2006,Parole released - Number of parole absconders rearrested,5,0,5
+752,Rajasthan,2007,Parole released - Number of persons released on parole,1616,35,1651
+753,Rajasthan,2007,Parole released - Number of parole absconders,40,4,44
+754,Rajasthan,2007,Parole released - Number of parole absconders rearrested,14,0,14
+755,Rajasthan,2008,Parole released - Number of persons released on parole,1478,26,1504
+756,Rajasthan,2008,Parole released - Number of parole absconders,23,0,23
+757,Rajasthan,2008,Parole released - Number of parole absconders rearrested,8,0,8
+758,Rajasthan,2009,Parole released - Number of persons released on parole,2016,38,2054
+759,Rajasthan,2009,Parole released - Number of parole absconders,59,0,59
+760,Rajasthan,2009,Parole released - Number of parole absconders rearrested,13,0,13
+761,Rajasthan,2010,Parole released - Number of persons released on parole,1686,45,1731
+762,Rajasthan,2010,Parole released - Number of parole absconders,37,1,38
+763,Rajasthan,2010,Parole released - Number of parole absconders rearrested,10,0,10
+764,Rajasthan,2011,Parole released - Number of persons released on parole,1956,21,1977
+765,Rajasthan,2011,Parole released - Number of parole absconders,39,0,39
+766,Rajasthan,2011,Parole released - Number of parole absconders rearrested,10,0,10
+767,Rajasthan,2012,Parole released - Number of persons released on parole,1289,23,1312
+768,Rajasthan,2012,Parole released - Number of parole absconders,33,0,33
+769,Rajasthan,2012,Parole released - Number of parole absconders rearrested,10,0,10
+770,Sikkim,2001,Parole released - Number of persons released on parole,0,0,0
+771,Sikkim,2001,Parole released - Number of parole absconders,0,0,0
+772,Sikkim,2001,Parole released - Number of parole absconders rearrested,0,0,0
+773,Sikkim,2002,Parole released - Number of persons released on parole,0,0,0
+774,Sikkim,2002,Parole released - Number of parole absconders,0,0,0
+775,Sikkim,2002,Parole released - Number of parole absconders rearrested,0,0,0
+776,Sikkim,2003,Parole released - Number of persons released on parole,0,0,0
+777,Sikkim,2003,Parole released - Number of parole absconders,0,0,0
+778,Sikkim,2003,Parole released - Number of parole absconders rearrested,0,0,0
+779,Sikkim,2004,Parole released - Number of persons released on parole,0,0,0
+780,Sikkim,2004,Parole released - Number of parole absconders,0,0,0
+781,Sikkim,2004,Parole released - Number of parole absconders rearrested,0,0,0
+782,Sikkim,2005,Parole released - Number of persons released on parole,0,0,0
+783,Sikkim,2005,Parole released - Number of parole absconders,0,0,0
+784,Sikkim,2005,Parole released - Number of parole absconders rearrested,0,0,0
+785,Sikkim,2006,Parole released - Number of persons released on parole,0,0,0
+786,Sikkim,2006,Parole released - Number of parole absconders,0,0,0
+787,Sikkim,2006,Parole released - Number of parole absconders rearrested,0,0,0
+788,Sikkim,2007,Parole released - Number of persons released on parole,0,0,0
+789,Sikkim,2007,Parole released - Number of parole absconders,0,0,0
+790,Sikkim,2007,Parole released - Number of parole absconders rearrested,0,0,0
+791,Sikkim,2008,Parole released - Number of persons released on parole,0,0,0
+792,Sikkim,2008,Parole released - Number of parole absconders,0,0,0
+793,Sikkim,2008,Parole released - Number of parole absconders rearrested,0,0,0
+794,Sikkim,2009,Parole released - Number of persons released on parole,0,0,0
+795,Sikkim,2009,Parole released - Number of parole absconders,0,0,0
+796,Sikkim,2009,Parole released - Number of parole absconders rearrested,0,0,0
+797,Sikkim,2010,Parole released - Number of persons released on parole,3,0,3
+798,Sikkim,2010,Parole released - Number of parole absconders,0,0,0
+799,Sikkim,2010,Parole released - Number of parole absconders rearrested,0,0,0
+800,Sikkim,2011,Parole released - Number of persons released on parole,0,0,0
+801,Sikkim,2011,Parole released - Number of parole absconders,0,0,0
+802,Sikkim,2011,Parole released - Number of parole absconders rearrested,0,0,0
+803,Sikkim,2012,Parole released - Number of persons released on parole,0,0,0
+804,Sikkim,2012,Parole released - Number of parole absconders,0,0,0
+805,Sikkim,2012,Parole released - Number of parole absconders rearrested,0,0,0
+806,Tamil Nadu,2001,Parole released - Number of persons released on parole,3016,12,3028
+807,Tamil Nadu,2001,Parole released - Number of parole absconders,25,0,25
+808,Tamil Nadu,2001,Parole released - Number of parole absconders rearrested,0,0,0
+809,Tamil Nadu,2002,Parole released - Number of persons released on parole,3184,18,3202
+810,Tamil Nadu,2002,Parole released - Number of parole absconders,16,0,16
+811,Tamil Nadu,2002,Parole released - Number of parole absconders rearrested,14,0,14
+812,Tamil Nadu,2003,Parole released - Number of persons released on parole,3284,20,3304
+813,Tamil Nadu,2003,Parole released - Number of parole absconders,0,0,0
+814,Tamil Nadu,2003,Parole released - Number of parole absconders rearrested,0,0,0
+815,Tamil Nadu,2004,Parole released - Number of persons released on parole,3291,25,3316
+816,Tamil Nadu,2004,Parole released - Number of parole absconders,0,0,0
+817,Tamil Nadu,2004,Parole released - Number of parole absconders rearrested,0,0,0
+818,Tamil Nadu,2005,Parole released - Number of persons released on parole,3173,20,3193
+819,Tamil Nadu,2005,Parole released - Number of parole absconders,22,0,22
+820,Tamil Nadu,2005,Parole released - Number of parole absconders rearrested,7,0,7
+821,Tamil Nadu,2006,Parole released - Number of persons released on parole,3173,20,3193
+822,Tamil Nadu,2006,Parole released - Number of parole absconders,22,0,22
+823,Tamil Nadu,2006,Parole released - Number of parole absconders rearrested,7,0,7
+824,Tamil Nadu,2007,Parole released - Number of persons released on parole,3505,15,3520
+825,Tamil Nadu,2007,Parole released - Number of parole absconders,15,0,15
+826,Tamil Nadu,2007,Parole released - Number of parole absconders rearrested,4,0,4
+827,Tamil Nadu,2008,Parole released - Number of persons released on parole,4635,6,4641
+828,Tamil Nadu,2008,Parole released - Number of parole absconders,7,0,7
+829,Tamil Nadu,2008,Parole released - Number of parole absconders rearrested,3,0,3
+830,Tamil Nadu,2009,Parole released - Number of persons released on parole,3584,23,3607
+831,Tamil Nadu,2009,Parole released - Number of parole absconders,26,0,26
+832,Tamil Nadu,2009,Parole released - Number of parole absconders rearrested,11,0,11
+833,Tamil Nadu,2010,Parole released - Number of persons released on parole,3774,24,3798
+834,Tamil Nadu,2010,Parole released - Number of parole absconders,18,0,18
+835,Tamil Nadu,2010,Parole released - Number of parole absconders rearrested,11,0,11
+836,Tamil Nadu,2011,Parole released - Number of persons released on parole,4579,20,4599
+837,Tamil Nadu,2011,Parole released - Number of parole absconders,12,0,12
+838,Tamil Nadu,2011,Parole released - Number of parole absconders rearrested,8,0,8
+839,Tamil Nadu,2012,Parole released - Number of persons released on parole,3835,20,3855
+840,Tamil Nadu,2012,Parole released - Number of parole absconders,21,0,21
+841,Tamil Nadu,2012,Parole released - Number of parole absconders rearrested,9,0,9
+842,Tripura,2001,Parole released - Number of persons released on parole,61,3,64
+843,Tripura,2001,Parole released - Number of parole absconders,0,0,0
+844,Tripura,2001,Parole released - Number of parole absconders rearrested,0,0,0
+845,Tripura,2002,Parole released - Number of persons released on parole,22,0,22
+846,Tripura,2002,Parole released - Number of parole absconders,0,0,0
+847,Tripura,2002,Parole released - Number of parole absconders rearrested,0,0,0
+848,Tripura,2003,Parole released - Number of persons released on parole,27,1,28
+849,Tripura,2003,Parole released - Number of parole absconders,0,0,0
+850,Tripura,2003,Parole released - Number of parole absconders rearrested,0,0,0
+851,Tripura,2004,Parole released - Number of persons released on parole,47,0,47
+852,Tripura,2004,Parole released - Number of parole absconders,0,0,0
+853,Tripura,2004,Parole released - Number of parole absconders rearrested,0,0,0
+854,Tripura,2005,Parole released - Number of persons released on parole,36,0,36
+855,Tripura,2005,Parole released - Number of parole absconders,1,0,1
+856,Tripura,2005,Parole released - Number of parole absconders rearrested,0,0,0
+857,Tripura,2006,Parole released - Number of persons released on parole,60,1,61
+858,Tripura,2006,Parole released - Number of parole absconders,1,0,1
+859,Tripura,2006,Parole released - Number of parole absconders rearrested,0,0,0
+860,Tripura,2007,Parole released - Number of persons released on parole,43,2,45
+861,Tripura,2007,Parole released - Number of parole absconders,1,0,1
+862,Tripura,2007,Parole released - Number of parole absconders rearrested,0,0,0
+863,Tripura,2008,Parole released - Number of persons released on parole,71,1,72
+864,Tripura,2008,Parole released - Number of parole absconders,0,0,0
+865,Tripura,2008,Parole released - Number of parole absconders rearrested,0,0,0
+866,Tripura,2009,Parole released - Number of persons released on parole,38,1,39
+867,Tripura,2009,Parole released - Number of parole absconders,0,0,0
+868,Tripura,2009,Parole released - Number of parole absconders rearrested,0,0,0
+869,Tripura,2010,Parole released - Number of persons released on parole,103,0,103
+870,Tripura,2010,Parole released - Number of parole absconders,0,0,0
+871,Tripura,2010,Parole released - Number of parole absconders rearrested,0,0,0
+872,Tripura,2011,Parole released - Number of persons released on parole,69,0,69
+873,Tripura,2011,Parole released - Number of parole absconders,0,0,0
+874,Tripura,2011,Parole released - Number of parole absconders rearrested,0,0,0
+875,Tripura,2012,Parole released - Number of persons released on parole,106,3,109
+876,Tripura,2012,Parole released - Number of parole absconders,0,0,0
+877,Tripura,2012,Parole released - Number of parole absconders rearrested,0,0,0
+878,Uttar Pradesh,2001,Parole released - Number of persons released on parole,53,1,54
+879,Uttar Pradesh,2001,Parole released - Number of parole absconders,6,0,6
+880,Uttar Pradesh,2001,Parole released - Number of parole absconders rearrested,3,0,3
+881,Uttar Pradesh,2002,Parole released - Number of persons released on parole,31,0,31
+882,Uttar Pradesh,2002,Parole released - Number of parole absconders,14,0,14
+883,Uttar Pradesh,2002,Parole released - Number of parole absconders rearrested,1,0,1
+884,Uttar Pradesh,2003,Parole released - Number of persons released on parole,127,1,128
+885,Uttar Pradesh,2003,Parole released - Number of parole absconders,9,0,9
+886,Uttar Pradesh,2003,Parole released - Number of parole absconders rearrested,1,0,1
+887,Uttar Pradesh,2004,Parole released - Number of persons released on parole,149,5,154
+888,Uttar Pradesh,2004,Parole released - Number of parole absconders,3,0,3
+889,Uttar Pradesh,2004,Parole released - Number of parole absconders rearrested,0,0,0
+890,Uttar Pradesh,2005,Parole released - Number of persons released on parole,102,0,102
+891,Uttar Pradesh,2005,Parole released - Number of parole absconders,99,11,110
+892,Uttar Pradesh,2005,Parole released - Number of parole absconders rearrested,2,0,2
+893,Uttar Pradesh,2006,Parole released - Number of persons released on parole,208,7,215
+894,Uttar Pradesh,2006,Parole released - Number of parole absconders,44,0,44
+895,Uttar Pradesh,2006,Parole released - Number of parole absconders rearrested,10,0,10
+896,Uttar Pradesh,2007,Parole released - Number of persons released on parole,67,0,67
+897,Uttar Pradesh,2007,Parole released - Number of parole absconders,121,12,133
+898,Uttar Pradesh,2007,Parole released - Number of parole absconders rearrested,7,0,7
+899,Uttar Pradesh,2008,Parole released - Number of persons released on parole,192,16,208
+900,Uttar Pradesh,2008,Parole released - Number of parole absconders,8,0,8
+901,Uttar Pradesh,2008,Parole released - Number of parole absconders rearrested,4,0,4
+902,Uttar Pradesh,2009,Parole released - Number of persons released on parole,88,0,88
+903,Uttar Pradesh,2009,Parole released - Number of parole absconders,3,0,3
+904,Uttar Pradesh,2009,Parole released - Number of parole absconders rearrested,0,0,0
+905,Uttar Pradesh,2010,Parole released - Number of persons released on parole,97,0,97
+906,Uttar Pradesh,2010,Parole released - Number of parole absconders,19,0,19
+907,Uttar Pradesh,2010,Parole released - Number of parole absconders rearrested,0,0,0
+908,Uttar Pradesh,2011,Parole released - Number of persons released on parole,113,0,113
+909,Uttar Pradesh,2011,Parole released - Number of parole absconders,19,0,19
+910,Uttar Pradesh,2011,Parole released - Number of parole absconders rearrested,0,0,0
+911,Uttar Pradesh,2012,Parole released - Number of persons released on parole,107,0,107
+912,Uttar Pradesh,2012,Parole released - Number of parole absconders,21,0,21
+913,Uttar Pradesh,2012,Parole released - Number of parole absconders rearrested,0,0,0
+914,Uttarakhand,2001,Parole released - Number of persons released on parole,10,0,10
+915,Uttarakhand,2001,Parole released - Number of parole absconders,2,0,2
+916,Uttarakhand,2001,Parole released - Number of parole absconders rearrested,2,0,2
+917,Uttarakhand,2002,Parole released - Number of persons released on parole,3,0,3
+918,Uttarakhand,2002,Parole released - Number of parole absconders,0,0,0
+919,Uttarakhand,2002,Parole released - Number of parole absconders rearrested,0,0,0
+920,Uttarakhand,2003,Parole released - Number of persons released on parole,6,0,6
+921,Uttarakhand,2003,Parole released - Number of parole absconders,0,0,0
+922,Uttarakhand,2003,Parole released - Number of parole absconders rearrested,0,0,0
+923,Uttarakhand,2004,Parole released - Number of persons released on parole,7,0,7
+924,Uttarakhand,2004,Parole released - Number of parole absconders,0,0,0
+925,Uttarakhand,2004,Parole released - Number of parole absconders rearrested,0,0,0
+926,Uttarakhand,2005,Parole released - Number of persons released on parole,13,0,13
+927,Uttarakhand,2005,Parole released - Number of parole absconders,0,0,0
+928,Uttarakhand,2005,Parole released - Number of parole absconders rearrested,0,0,0
+929,Uttarakhand,2006,Parole released - Number of persons released on parole,7,0,7
+930,Uttarakhand,2006,Parole released - Number of parole absconders,0,0,0
+931,Uttarakhand,2006,Parole released - Number of parole absconders rearrested,0,0,0
+932,Uttarakhand,2007,Parole released - Number of persons released on parole,6,0,6
+933,Uttarakhand,2007,Parole released - Number of parole absconders,0,0,0
+934,Uttarakhand,2007,Parole released - Number of parole absconders rearrested,0,0,0
+935,Uttarakhand,2008,Parole released - Number of persons released on parole,0,0,0
+936,Uttarakhand,2008,Parole released - Number of parole absconders,0,0,0
+937,Uttarakhand,2008,Parole released - Number of parole absconders rearrested,0,0,0
+938,Uttarakhand,2009,Parole released - Number of persons released on parole,7,0,7
+939,Uttarakhand,2009,Parole released - Number of parole absconders,0,0,0
+940,Uttarakhand,2009,Parole released - Number of parole absconders rearrested,0,0,0
+941,Uttarakhand,2010,Parole released - Number of persons released on parole,6,0,6
+942,Uttarakhand,2010,Parole released - Number of parole absconders,0,0,0
+943,Uttarakhand,2010,Parole released - Number of parole absconders rearrested,0,0,0
+944,Uttarakhand,2011,Parole released - Number of persons released on parole,12,0,12
+945,Uttarakhand,2011,Parole released - Number of parole absconders,0,0,0
+946,Uttarakhand,2011,Parole released - Number of parole absconders rearrested,0,0,0
+947,Uttarakhand,2012,Parole released - Number of persons released on parole,14,0,14
+948,Uttarakhand,2012,Parole released - Number of parole absconders,0,0,0
+949,Uttarakhand,2012,Parole released - Number of parole absconders rearrested,0,0,0
+950,West Bengal,2001,Parole released - Number of persons released on parole,133,0,133
+951,West Bengal,2001,Parole released - Number of parole absconders,1,0,1
+952,West Bengal,2001,Parole released - Number of parole absconders rearrested,0,0,0
+953,West Bengal,2002,Parole released - Number of persons released on parole,117,0,117
+954,West Bengal,2002,Parole released - Number of parole absconders,0,0,0
+955,West Bengal,2002,Parole released - Number of parole absconders rearrested,0,0,0
+956,West Bengal,2003,Parole released - Number of persons released on parole,37,0,37
+957,West Bengal,2003,Parole released - Number of parole absconders,0,0,0
+958,West Bengal,2003,Parole released - Number of parole absconders rearrested,0,0,0
+959,West Bengal,2004,Parole released - Number of persons released on parole,81,5,86
+960,West Bengal,2004,Parole released - Number of parole absconders,0,0,0
+961,West Bengal,2004,Parole released - Number of parole absconders rearrested,0,0,0
+962,West Bengal,2005,Parole released - Number of persons released on parole,83,5,88
+963,West Bengal,2005,Parole released - Number of parole absconders,0,0,0
+964,West Bengal,2005,Parole released - Number of parole absconders rearrested,0,0,0
+965,West Bengal,2006,Parole released - Number of persons released on parole,6,0,6
+966,West Bengal,2006,Parole released - Number of parole absconders,0,0,0
+967,West Bengal,2006,Parole released - Number of parole absconders rearrested,0,0,0
+968,West Bengal,2007,Parole released - Number of persons released on parole,14,0,14
+969,West Bengal,2007,Parole released - Number of parole absconders,0,0,0
+970,West Bengal,2007,Parole released - Number of parole absconders rearrested,0,0,0
+971,West Bengal,2008,Parole released - Number of persons released on parole,10,0,10
+972,West Bengal,2008,Parole released - Number of parole absconders,0,0,0
+973,West Bengal,2008,Parole released - Number of parole absconders rearrested,0,0,0
+974,West Bengal,2009,Parole released - Number of persons released on parole,8,2,10
+975,West Bengal,2009,Parole released - Number of parole absconders,0,0,0
+976,West Bengal,2009,Parole released - Number of parole absconders rearrested,0,0,0
+977,West Bengal,2010,Parole released - Number of persons released on parole,19,0,19
+978,West Bengal,2010,Parole released - Number of parole absconders,0,0,0
+979,West Bengal,2010,Parole released - Number of parole absconders rearrested,0,0,0
+980,West Bengal,2011,Parole released - Number of persons released on parole,484,20,504
+981,West Bengal,2011,Parole released - Number of parole absconders,0,0,0
+982,West Bengal,2011,Parole released - Number of parole absconders rearrested,0,0,0
+983,West Bengal,2012,Parole released - Number of persons released on parole,1230,81,1311
+984,West Bengal,2012,Parole released - Number of parole absconders,0,0,0
+985,West Bengal,2012,Parole released - Number of parole absconders rearrested,0,0,0
+986,Andaman & Nicobar Islands,2001,Parole released - Number of persons released on parole,6,0,6
+987,Andaman & Nicobar Islands,2001,Parole released - Number of parole absconders,0,0,0
+988,Andaman & Nicobar Islands,2001,Parole released - Number of parole absconders rearrested,0,0,0
+989,Andaman & Nicobar Islands,2002,Parole released - Number of persons released on parole,3,0,3
+990,Andaman & Nicobar Islands,2002,Parole released - Number of parole absconders,0,0,0
+991,Andaman & Nicobar Islands,2002,Parole released - Number of parole absconders rearrested,0,0,0
+992,Andaman & Nicobar Islands,2003,Parole released - Number of persons released on parole,3,0,3
+993,Andaman & Nicobar Islands,2003,Parole released - Number of parole absconders,0,0,0
+994,Andaman & Nicobar Islands,2003,Parole released - Number of parole absconders rearrested,0,0,0
+995,Andaman & Nicobar Islands,2004,Parole released - Number of persons released on parole,3,0,3
+996,Andaman & Nicobar Islands,2004,Parole released - Number of parole absconders,0,0,0
+997,Andaman & Nicobar Islands,2004,Parole released - Number of parole absconders rearrested,0,0,0
+998,Andaman & Nicobar Islands,2005,Parole released - Number of persons released on parole,0,0,0
+999,Andaman & Nicobar Islands,2005,Parole released - Number of parole absconders,0,0,0
+1000,Andaman & Nicobar Islands,2005,Parole released - Number of parole absconders rearrested,0,0,0
+1001,Andaman & Nicobar Islands,2006,Parole released - Number of persons released on parole,3,0,3
+1002,Andaman & Nicobar Islands,2006,Parole released - Number of parole absconders,0,0,0
+1003,Andaman & Nicobar Islands,2006,Parole released - Number of parole absconders rearrested,0,0,0
+1004,Andaman & Nicobar Islands,2007,Parole released - Number of persons released on parole,0,0,0
+1005,Andaman & Nicobar Islands,2007,Parole released - Number of parole absconders,0,0,0
+1006,Andaman & Nicobar Islands,2007,Parole released - Number of parole absconders rearrested,0,0,0
+1007,Andaman & Nicobar Islands,2008,Parole released - Number of persons released on parole,2,0,2
+1008,Andaman & Nicobar Islands,2008,Parole released - Number of parole absconders,0,0,0
+1009,Andaman & Nicobar Islands,2008,Parole released - Number of parole absconders rearrested,0,0,0
+1010,Andaman & Nicobar Islands,2009,Parole released - Number of persons released on parole,0,0,0
+1011,Andaman & Nicobar Islands,2009,Parole released - Number of parole absconders,0,0,0
+1012,Andaman & Nicobar Islands,2009,Parole released - Number of parole absconders rearrested,0,0,0
+1013,Andaman & Nicobar Islands,2010,Parole released - Number of persons released on parole,2,0,2
+1014,Andaman & Nicobar Islands,2010,Parole released - Number of parole absconders,0,0,0
+1015,Andaman & Nicobar Islands,2010,Parole released - Number of parole absconders rearrested,0,0,0
+1016,Andaman & Nicobar Islands,2011,Parole released - Number of persons released on parole,0,0,0
+1017,Andaman & Nicobar Islands,2011,Parole released - Number of parole absconders,0,0,0
+1018,Andaman & Nicobar Islands,2011,Parole released - Number of parole absconders rearrested,0,0,0
+1019,Andaman & Nicobar Islands,2012,Parole released - Number of persons released on parole,1,0,1
+1020,Andaman & Nicobar Islands,2012,Parole released - Number of parole absconders,0,0,0
+1021,Andaman & Nicobar Islands,2012,Parole released - Number of parole absconders rearrested,0,0,0
+1022,Chandigarh,2001,Parole released - Number of persons released on parole,46,5,51
+1023,Chandigarh,2001,Parole released - Number of parole absconders,0,0,0
+1024,Chandigarh,2001,Parole released - Number of parole absconders rearrested,0,0,0
+1025,Chandigarh,2002,Parole released - Number of persons released on parole,64,4,68
+1026,Chandigarh,2002,Parole released - Number of parole absconders,1,0,1
+1027,Chandigarh,2002,Parole released - Number of parole absconders rearrested,0,0,0
+1028,Chandigarh,2003,Parole released - Number of persons released on parole,67,3,70
+1029,Chandigarh,2003,Parole released - Number of parole absconders,1,0,1
+1030,Chandigarh,2003,Parole released - Number of parole absconders rearrested,0,0,0
+1031,Chandigarh,2004,Parole released - Number of persons released on parole,47,4,51
+1032,Chandigarh,2004,Parole released - Number of parole absconders,2,0,2
+1033,Chandigarh,2004,Parole released - Number of parole absconders rearrested,1,0,1
+1034,Chandigarh,2005,Parole released - Number of persons released on parole,54,4,58
+1035,Chandigarh,2005,Parole released - Number of parole absconders,2,0,2
+1036,Chandigarh,2005,Parole released - Number of parole absconders rearrested,0,0,0
+1037,Chandigarh,2006,Parole released - Number of persons released on parole,62,3,65
+1038,Chandigarh,2006,Parole released - Number of parole absconders,2,0,2
+1039,Chandigarh,2006,Parole released - Number of parole absconders rearrested,0,0,0
+1040,Chandigarh,2007,Parole released - Number of persons released on parole,65,3,68
+1041,Chandigarh,2007,Parole released - Number of parole absconders,1,0,1
+1042,Chandigarh,2007,Parole released - Number of parole absconders rearrested,0,0,0
+1043,Chandigarh,2008,Parole released - Number of persons released on parole,124,5,129
+1044,Chandigarh,2008,Parole released - Number of parole absconders,2,0,2
+1045,Chandigarh,2008,Parole released - Number of parole absconders rearrested,0,0,0
+1046,Chandigarh,2009,Parole released - Number of persons released on parole,147,7,154
+1047,Chandigarh,2009,Parole released - Number of parole absconders,2,0,2
+1048,Chandigarh,2009,Parole released - Number of parole absconders rearrested,2,0,2
+1049,Chandigarh,2010,Parole released - Number of persons released on parole,96,4,100
+1050,Chandigarh,2010,Parole released - Number of parole absconders,2,0,2
+1051,Chandigarh,2010,Parole released - Number of parole absconders rearrested,0,0,0
+1052,Chandigarh,2011,Parole released - Number of persons released on parole,165,4,169
+1053,Chandigarh,2011,Parole released - Number of parole absconders,2,0,2
+1054,Chandigarh,2011,Parole released - Number of parole absconders rearrested,1,0,1
+1055,Chandigarh,2012,Parole released - Number of persons released on parole,207,8,215
+1056,Chandigarh,2012,Parole released - Number of parole absconders,2,0,2
+1057,Chandigarh,2012,Parole released - Number of parole absconders rearrested,0,0,0
+1058,Dadra & Nagar Haveli,2001,Parole released - Number of persons released on parole,0,0,0
+1059,Dadra & Nagar Haveli,2001,Parole released - Number of parole absconders,0,0,0
+1060,Dadra & Nagar Haveli,2001,Parole released - Number of parole absconders rearrested,0,0,0
+1061,Dadra & Nagar Haveli,2002,Parole released - Number of persons released on parole,0,0,0
+1062,Dadra & Nagar Haveli,2002,Parole released - Number of parole absconders,0,0,0
+1063,Dadra & Nagar Haveli,2002,Parole released - Number of parole absconders rearrested,0,0,0
+1064,Dadra & Nagar Haveli,2003,Parole released - Number of persons released on parole,0,0,0
+1065,Dadra & Nagar Haveli,2003,Parole released - Number of parole absconders,0,0,0
+1066,Dadra & Nagar Haveli,2003,Parole released - Number of parole absconders rearrested,0,0,0
+1067,Dadra & Nagar Haveli,2004,Parole released - Number of persons released on parole,0,0,0
+1068,Dadra & Nagar Haveli,2004,Parole released - Number of parole absconders,0,0,0
+1069,Dadra & Nagar Haveli,2004,Parole released - Number of parole absconders rearrested,0,0,0
+1070,Dadra & Nagar Haveli,2005,Parole released - Number of persons released on parole,0,0,0
+1071,Dadra & Nagar Haveli,2005,Parole released - Number of parole absconders,0,0,0
+1072,Dadra & Nagar Haveli,2005,Parole released - Number of parole absconders rearrested,0,0,0
+1073,Dadra & Nagar Haveli,2006,Parole released - Number of persons released on parole,0,0,0
+1074,Dadra & Nagar Haveli,2006,Parole released - Number of parole absconders,0,0,0
+1075,Dadra & Nagar Haveli,2006,Parole released - Number of parole absconders rearrested,0,0,0
+1076,Dadra & Nagar Haveli,2007,Parole released - Number of persons released on parole,0,0,0
+1077,Dadra & Nagar Haveli,2007,Parole released - Number of parole absconders,0,0,0
+1078,Dadra & Nagar Haveli,2007,Parole released - Number of parole absconders rearrested,0,0,0
+1079,Dadra & Nagar Haveli,2008,Parole released - Number of persons released on parole,0,0,0
+1080,Dadra & Nagar Haveli,2008,Parole released - Number of parole absconders,0,0,0
+1081,Dadra & Nagar Haveli,2008,Parole released - Number of parole absconders rearrested,0,0,0
+1082,Dadra & Nagar Haveli,2009,Parole released - Number of persons released on parole,0,0,0
+1083,Dadra & Nagar Haveli,2009,Parole released - Number of parole absconders,0,0,0
+1084,Dadra & Nagar Haveli,2009,Parole released - Number of parole absconders rearrested,0,0,0
+1085,Dadra & Nagar Haveli,2010,Parole released - Number of persons released on parole,0,0,0
+1086,Dadra & Nagar Haveli,2010,Parole released - Number of parole absconders,0,0,0
+1087,Dadra & Nagar Haveli,2010,Parole released - Number of parole absconders rearrested,0,0,0
+1088,Dadra & Nagar Haveli,2011,Parole released - Number of persons released on parole,0,0,0
+1089,Dadra & Nagar Haveli,2011,Parole released - Number of parole absconders,0,0,0
+1090,Dadra & Nagar Haveli,2011,Parole released - Number of parole absconders rearrested,0,0,0
+1091,Dadra & Nagar Haveli,2012,Parole released - Number of persons released on parole,0,0,0
+1092,Dadra & Nagar Haveli,2012,Parole released - Number of parole absconders,0,0,0
+1093,Dadra & Nagar Haveli,2012,Parole released - Number of parole absconders rearrested,0,0,0
+1094,Daman & Diu,2001,Parole released - Number of persons released on parole,2,0,2
+1095,Daman & Diu,2001,Parole released - Number of parole absconders,0,0,0
+1096,Daman & Diu,2001,Parole released - Number of parole absconders rearrested,0,0,0
+1097,Daman & Diu,2002,Parole released - Number of persons released on parole,2,0,2
+1098,Daman & Diu,2002,Parole released - Number of parole absconders,0,0,0
+1099,Daman & Diu,2002,Parole released - Number of parole absconders rearrested,0,0,0
+1100,Daman & Diu,2003,Parole released - Number of persons released on parole,2,0,2
+1101,Daman & Diu,2003,Parole released - Number of parole absconders,0,0,0
+1102,Daman & Diu,2003,Parole released - Number of parole absconders rearrested,0,0,0
+1103,Daman & Diu,2004,Parole released - Number of persons released on parole,4,0,4
+1104,Daman & Diu,2004,Parole released - Number of parole absconders,0,0,0
+1105,Daman & Diu,2004,Parole released - Number of parole absconders rearrested,0,0,0
+1106,Daman & Diu,2005,Parole released - Number of persons released on parole,3,0,3
+1107,Daman & Diu,2005,Parole released - Number of parole absconders,0,0,0
+1108,Daman & Diu,2005,Parole released - Number of parole absconders rearrested,0,0,0
+1109,Daman & Diu,2006,Parole released - Number of persons released on parole,4,0,4
+1110,Daman & Diu,2006,Parole released - Number of parole absconders,0,0,0
+1111,Daman & Diu,2006,Parole released - Number of parole absconders rearrested,0,0,0
+1112,Daman & Diu,2007,Parole released - Number of persons released on parole,3,0,3
+1113,Daman & Diu,2007,Parole released - Number of parole absconders,0,0,0
+1114,Daman & Diu,2007,Parole released - Number of parole absconders rearrested,0,0,0
+1115,Daman & Diu,2008,Parole released - Number of persons released on parole,1,1,2
+1116,Daman & Diu,2008,Parole released - Number of parole absconders,0,0,0
+1117,Daman & Diu,2008,Parole released - Number of parole absconders rearrested,0,0,0
+1118,Daman & Diu,2009,Parole released - Number of persons released on parole,1,0,1
+1119,Daman & Diu,2009,Parole released - Number of parole absconders,0,0,0
+1120,Daman & Diu,2009,Parole released - Number of parole absconders rearrested,0,0,0
+1121,Daman & Diu,2010,Parole released - Number of persons released on parole,1,0,1
+1122,Daman & Diu,2010,Parole released - Number of parole absconders,0,0,0
+1123,Daman & Diu,2010,Parole released - Number of parole absconders rearrested,0,0,0
+1124,Daman & Diu,2011,Parole released - Number of persons released on parole,1,0,1
+1125,Daman & Diu,2011,Parole released - Number of parole absconders,0,0,0
+1126,Daman & Diu,2011,Parole released - Number of parole absconders rearrested,0,0,0
+1127,Daman & Diu,2012,Parole released - Number of persons released on parole,3,1,4
+1128,Daman & Diu,2012,Parole released - Number of parole absconders,0,0,0
+1129,Daman & Diu,2012,Parole released - Number of parole absconders rearrested,0,0,0
+1130,Delhi,2001,Parole released - Number of persons released on parole,69,1,70
+1131,Delhi,2001,Parole released - Number of parole absconders,3,0,3
+1132,Delhi,2001,Parole released - Number of parole absconders rearrested,0,0,0
+1133,Delhi,2002,Parole released - Number of persons released on parole,236,4,240
+1134,Delhi,2002,Parole released - Number of parole absconders,31,0,31
+1135,Delhi,2002,Parole released - Number of parole absconders rearrested,0,0,0
+1136,Delhi,2003,Parole released - Number of persons released on parole,285,5,290
+1137,Delhi,2003,Parole released - Number of parole absconders,0,0,0
+1138,Delhi,2003,Parole released - Number of parole absconders rearrested,0,0,0
+1139,Delhi,2004,Parole released - Number of persons released on parole,221,7,228
+1140,Delhi,2004,Parole released - Number of parole absconders,0,0,0
+1141,Delhi,2004,Parole released - Number of parole absconders rearrested,0,0,0
+1142,Delhi,2005,Parole released - Number of persons released on parole,179,1,180
+1143,Delhi,2005,Parole released - Number of parole absconders,2,0,2
+1144,Delhi,2005,Parole released - Number of parole absconders rearrested,0,0,0
+1145,Delhi,2006,Parole released - Number of persons released on parole,123,10,133
+1146,Delhi,2006,Parole released - Number of parole absconders,1,3,4
+1147,Delhi,2006,Parole released - Number of parole absconders rearrested,1,0,1
+1148,Delhi,2007,Parole released - Number of persons released on parole,122,5,127
+1149,Delhi,2007,Parole released - Number of parole absconders,1,0,1
+1150,Delhi,2007,Parole released - Number of parole absconders rearrested,0,0,0
+1151,Delhi,2008,Parole released - Number of persons released on parole,149,6,155
+1152,Delhi,2008,Parole released - Number of parole absconders,0,0,0
+1153,Delhi,2008,Parole released - Number of parole absconders rearrested,0,0,0
+1154,Delhi,2009,Parole released - Number of persons released on parole,241,12,253
+1155,Delhi,2009,Parole released - Number of parole absconders,1,0,1
+1156,Delhi,2009,Parole released - Number of parole absconders rearrested,0,0,0
+1157,Delhi,2010,Parole released - Number of persons released on parole,132,15,147
+1158,Delhi,2010,Parole released - Number of parole absconders,0,1,1
+1159,Delhi,2010,Parole released - Number of parole absconders rearrested,0,0,0
+1160,Delhi,2011,Parole released - Number of persons released on parole,353,22,375
+1161,Delhi,2011,Parole released - Number of parole absconders,2,1,3
+1162,Delhi,2011,Parole released - Number of parole absconders rearrested,1,0,1
+1163,Delhi,2012,Parole released - Number of persons released on parole,266,22,288
+1164,Delhi,2012,Parole released - Number of parole absconders,2,0,2
+1165,Delhi,2012,Parole released - Number of parole absconders rearrested,1,0,1
+1166,Lakshadweep,2001,Parole released - Number of persons released on parole,0,0,0
+1167,Lakshadweep,2001,Parole released - Number of parole absconders,0,0,0
+1168,Lakshadweep,2001,Parole released - Number of parole absconders rearrested,0,0,0
+1169,Lakshadweep,2002,Parole released - Number of persons released on parole,0,0,0
+1170,Lakshadweep,2002,Parole released - Number of parole absconders,0,0,0
+1171,Lakshadweep,2002,Parole released - Number of parole absconders rearrested,0,0,0
+1172,Lakshadweep,2003,Parole released - Number of persons released on parole,0,0,0
+1173,Lakshadweep,2003,Parole released - Number of parole absconders,0,0,0
+1174,Lakshadweep,2003,Parole released - Number of parole absconders rearrested,0,0,0
+1175,Lakshadweep,2004,Parole released - Number of persons released on parole,0,0,0
+1176,Lakshadweep,2004,Parole released - Number of parole absconders,0,0,0
+1177,Lakshadweep,2004,Parole released - Number of parole absconders rearrested,0,0,0
+1178,Lakshadweep,2005,Parole released - Number of persons released on parole,0,0,0
+1179,Lakshadweep,2005,Parole released - Number of parole absconders,0,0,0
+1180,Lakshadweep,2005,Parole released - Number of parole absconders rearrested,0,0,0
+1181,Lakshadweep,2006,Parole released - Number of persons released on parole,0,0,0
+1182,Lakshadweep,2006,Parole released - Number of parole absconders,0,0,0
+1183,Lakshadweep,2006,Parole released - Number of parole absconders rearrested,0,0,0
+1184,Lakshadweep,2007,Parole released - Number of persons released on parole,0,0,0
+1185,Lakshadweep,2007,Parole released - Number of parole absconders,0,0,0
+1186,Lakshadweep,2007,Parole released - Number of parole absconders rearrested,0,0,0
+1187,Lakshadweep,2008,Parole released - Number of persons released on parole,0,0,0
+1188,Lakshadweep,2008,Parole released - Number of parole absconders,0,0,0
+1189,Lakshadweep,2008,Parole released - Number of parole absconders rearrested,0,0,0
+1190,Lakshadweep,2009,Parole released - Number of persons released on parole,0,0,0
+1191,Lakshadweep,2009,Parole released - Number of parole absconders,0,0,0
+1192,Lakshadweep,2009,Parole released - Number of parole absconders rearrested,0,0,0
+1193,Lakshadweep,2010,Parole released - Number of persons released on parole,0,0,0
+1194,Lakshadweep,2010,Parole released - Number of parole absconders,0,0,0
+1195,Lakshadweep,2010,Parole released - Number of parole absconders rearrested,0,0,0
+1196,Lakshadweep,2011,Parole released - Number of persons released on parole,0,0,0
+1197,Lakshadweep,2011,Parole released - Number of parole absconders,0,0,0
+1198,Lakshadweep,2011,Parole released - Number of parole absconders rearrested,0,0,0
+1199,Lakshadweep,2012,Parole released - Number of persons released on parole,0,0,0
+1200,Lakshadweep,2012,Parole released - Number of parole absconders,0,0,0
+1201,Lakshadweep,2012,Parole released - Number of parole absconders rearrested,0,0,0
+1202,Puducherry,2001,Parole released - Number of persons released on parole,36,0,36
+1203,Puducherry,2001,Parole released - Number of parole absconders,1,0,1
+1204,Puducherry,2001,Parole released - Number of parole absconders rearrested,0,0,0
+1205,Puducherry,2002,Parole released - Number of persons released on parole,48,0,48
+1206,Puducherry,2002,Parole released - Number of parole absconders,0,0,0
+1207,Puducherry,2002,Parole released - Number of parole absconders rearrested,0,0,0
+1208,Puducherry,2003,Parole released - Number of persons released on parole,31,0,31
+1209,Puducherry,2003,Parole released - Number of parole absconders,1,0,1
+1210,Puducherry,2003,Parole released - Number of parole absconders rearrested,1,0,1
+1211,Puducherry,2004,Parole released - Number of persons released on parole,12,1,13
+1212,Puducherry,2004,Parole released - Number of parole absconders,0,0,0
+1213,Puducherry,2004,Parole released - Number of parole absconders rearrested,0,0,0
+1214,Puducherry,2005,Parole released - Number of persons released on parole,26,0,26
+1215,Puducherry,2005,Parole released - Number of parole absconders,0,0,0
+1216,Puducherry,2005,Parole released - Number of parole absconders rearrested,0,0,0
+1217,Puducherry,2006,Parole released - Number of persons released on parole,21,0,21
+1218,Puducherry,2006,Parole released - Number of parole absconders,0,0,0
+1219,Puducherry,2006,Parole released - Number of parole absconders rearrested,0,0,0
+1220,Puducherry,2007,Parole released - Number of persons released on parole,77,0,77
+1221,Puducherry,2007,Parole released - Number of parole absconders,0,0,0
+1222,Puducherry,2007,Parole released - Number of parole absconders rearrested,0,0,0
+1223,Puducherry,2008,Parole released - Number of persons released on parole,73,0,73
+1224,Puducherry,2008,Parole released - Number of parole absconders,0,0,0
+1225,Puducherry,2008,Parole released - Number of parole absconders rearrested,0,0,0
+1226,Puducherry,2009,Parole released - Number of persons released on parole,37,1,38
+1227,Puducherry,2009,Parole released - Number of parole absconders,0,0,0
+1228,Puducherry,2009,Parole released - Number of parole absconders rearrested,0,0,0
+1229,Puducherry,2010,Parole released - Number of persons released on parole,70,0,70
+1230,Puducherry,2010,Parole released - Number of parole absconders,0,0,0
+1231,Puducherry,2010,Parole released - Number of parole absconders rearrested,0,0,0
+1232,Puducherry,2011,Parole released - Number of persons released on parole,110,0,110
+1233,Puducherry,2011,Parole released - Number of parole absconders,1,0,1
+1234,Puducherry,2011,Parole released - Number of parole absconders rearrested,0,0,0
+1235,Puducherry,2012,Parole released - Number of persons released on parole,208,0,208
+1236,Puducherry,2012,Parole released - Number of parole absconders,1,0,1
+1237,Puducherry,2012,Parole released - Number of parole absconders rearrested,1,0,1
+1238,Andhra Pradesh,2013,Parole released - Number of persons released on parole,803,10,813
+1239,Andhra Pradesh,2013,Parole released - Number of parole absconders,5,0,5
+1240,Andhra Pradesh,2013,Parole released - Number of parole absconders rearrested,3,0,3
+1241,Arunachal Pradesh,2013,Parole released - Number of persons released on parole,2,0,2
+1242,Arunachal Pradesh,2013,Parole released - Number of parole absconders,0,0,0
+1243,Arunachal Pradesh,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1244,Assam,2013,Parole released - Number of persons released on parole,150,7,157
+1245,Assam,2013,Parole released - Number of parole absconders,1,0,1
+1246,Assam,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1247,Bihar,2013,Parole released - Number of persons released on parole,5,3,8
+1248,Bihar,2013,Parole released - Number of parole absconders,0,0,0
+1249,Bihar,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1250,Chhattisgarh,2013,Parole released - Number of persons released on parole,300,4,304
+1251,Chhattisgarh,2013,Parole released - Number of parole absconders,4,0,4
+1252,Chhattisgarh,2013,Parole released - Number of parole absconders rearrested,1,0,1
+1253,Goa,2013,Parole released - Number of persons released on parole,12,0,12
+1254,Goa,2013,Parole released - Number of parole absconders,0,0,0
+1255,Goa,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1256,Gujarat,2013,Parole released - Number of persons released on parole,948,67,1015
+1257,Gujarat,2013,Parole released - Number of parole absconders,53,1,54
+1258,Gujarat,2013,Parole released - Number of parole absconders rearrested,29,0,29
+1259,Haryana,2013,Parole released - Number of persons released on parole,3600,115,3715
+1260,Haryana,2013,Parole released - Number of parole absconders,39,1,40
+1261,Haryana,2013,Parole released - Number of parole absconders rearrested,31,0,31
+1262,Himachal Pradesh,2013,Parole released - Number of persons released on parole,527,11,538
+1263,Himachal Pradesh,2013,Parole released - Number of parole absconders,23,1,24
+1264,Himachal Pradesh,2013,Parole released - Number of parole absconders rearrested,3,0,3
+1265,Jammu & Kashmir,2013,Parole released - Number of persons released on parole,18,2,20
+1266,Jammu & Kashmir,2013,Parole released - Number of parole absconders,1,0,1
+1267,Jammu & Kashmir,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1268,Jharkhand,2013,Parole released - Number of persons released on parole,3,0,3
+1269,Jharkhand,2013,Parole released - Number of parole absconders,0,0,0
+1270,Jharkhand,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1271,Karnataka,2013,Parole released - Number of persons released on parole,823,6,829
+1272,Karnataka,2013,Parole released - Number of parole absconders,9,0,9
+1273,Karnataka,2013,Parole released - Number of parole absconders rearrested,3,0,3
+1274,Kerala,2013,Parole released - Number of persons released on parole,689,15,704
+1275,Kerala,2013,Parole released - Number of parole absconders,4,0,4
+1276,Kerala,2013,Parole released - Number of parole absconders rearrested,2,0,2
+1277,Madhya Pradesh,2013,Parole released - Number of persons released on parole,4192,70,4262
+1278,Madhya Pradesh,2013,Parole released - Number of parole absconders,7,0,7
+1279,Madhya Pradesh,2013,Parole released - Number of parole absconders rearrested,2,0,2
+1280,Maharashtra,2013,Parole released - Number of persons released on parole,1479,40,1519
+1281,Maharashtra,2013,Parole released - Number of parole absconders,305,0,305
+1282,Maharashtra,2013,Parole released - Number of parole absconders rearrested,66,0,66
+1283,Manipur,2013,Parole released - Number of persons released on parole,0,0,0
+1284,Manipur,2013,Parole released - Number of parole absconders,0,0,0
+1285,Manipur,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1286,Meghalaya,2013,Parole released - Number of persons released on parole,0,0,0
+1287,Meghalaya,2013,Parole released - Number of parole absconders,0,0,0
+1288,Meghalaya,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1289,Mizoram,2013,Parole released - Number of persons released on parole,12,0,12
+1290,Mizoram,2013,Parole released - Number of parole absconders,2,0,2
+1291,Mizoram,2013,Parole released - Number of parole absconders rearrested,2,0,2
+1292,Nagaland,2013,Parole released - Number of persons released on parole,0,0,0
+1293,Nagaland,2013,Parole released - Number of parole absconders,0,0,0
+1294,Nagaland,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1295,Odisha,2013,Parole released - Number of persons released on parole,149,0,149
+1296,Odisha,2013,Parole released - Number of parole absconders,0,0,0
+1297,Odisha,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1298,Punjab,2013,Parole released - Number of persons released on parole,8359,489,8848
+1299,Punjab,2013,Parole released - Number of parole absconders,119,0,119
+1300,Punjab,2013,Parole released - Number of parole absconders rearrested,69,0,69
+1301,Rajasthan,2013,Parole released - Number of persons released on parole,978,35,1013
+1302,Rajasthan,2013,Parole released - Number of parole absconders,11,0,11
+1303,Rajasthan,2013,Parole released - Number of parole absconders rearrested,7,0,7
+1304,Sikkim,2013,Parole released - Number of persons released on parole,0,0,0
+1305,Sikkim,2013,Parole released - Number of parole absconders,0,0,0
+1306,Sikkim,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1307,Tamil Nadu,2013,Parole released - Number of persons released on parole,4276,20,4296
+1308,Tamil Nadu,2013,Parole released - Number of parole absconders,14,0,14
+1309,Tamil Nadu,2013,Parole released - Number of parole absconders rearrested,3,0,3
+1310,Tripura,2013,Parole released - Number of persons released on parole,84,4,88
+1311,Tripura,2013,Parole released - Number of parole absconders,0,0,0
+1312,Tripura,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1313,Uttar Pradesh,2013,Parole released - Number of persons released on parole,272,3,275
+1314,Uttar Pradesh,2013,Parole released - Number of parole absconders,8,0,8
+1315,Uttar Pradesh,2013,Parole released - Number of parole absconders rearrested,22,0,22
+1316,Uttarakhand,2013,Parole released - Number of persons released on parole,21,0,21
+1317,Uttarakhand,2013,Parole released - Number of parole absconders,0,0,0
+1318,Uttarakhand,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1319,West Bengal,2013,Parole released - Number of persons released on parole,3505,153,3658
+1320,West Bengal,2013,Parole released - Number of parole absconders,2,0,2
+1321,West Bengal,2013,Parole released - Number of parole absconders rearrested,1,0,1
+1322,Andaman & Nicobar Islands,2013,Parole released - Number of persons released on parole,2,0,2
+1323,Andaman & Nicobar Islands,2013,Parole released - Number of parole absconders,0,0,0
+1324,Andaman & Nicobar Islands,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1325,Chandigarh,2013,Parole released - Number of persons released on parole,257,7,264
+1326,Chandigarh,2013,Parole released - Number of parole absconders,3,0,3
+1327,Chandigarh,2013,Parole released - Number of parole absconders rearrested,1,0,1
+1328,Dadra & Nagar Haveli,2013,Parole released - Number of persons released on parole,0,0,0
+1329,Dadra & Nagar Haveli,2013,Parole released - Number of parole absconders,0,0,0
+1330,Dadra & Nagar Haveli,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1331,Daman & Diu,2013,Parole released - Number of persons released on parole,0,0,0
+1332,Daman & Diu,2013,Parole released - Number of parole absconders,0,0,0
+1333,Daman & Diu,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1334,Delhi,2013,Parole released - Number of persons released on parole,305,22,327
+1335,Delhi,2013,Parole released - Number of parole absconders,0,0,0
+1336,Delhi,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1337,Lakshadweep,2013,Parole released - Number of persons released on parole,0,0,0
+1338,Lakshadweep,2013,Parole released - Number of parole absconders,0,0,0
+1339,Lakshadweep,2013,Parole released - Number of parole absconders rearrested,0,0,0
+1340,Puducherry,2013,Parole released - Number of persons released on parole,176,1,177
+1341,Puducherry,2013,Parole released - Number of parole absconders,0,0,0
+1342,Puducherry,2013,Parole released - Number of parole absconders rearrested,0,0,0

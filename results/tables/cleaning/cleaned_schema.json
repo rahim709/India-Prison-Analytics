@@ -1,0 +1,2146 @@
+[
+  {
+    "file": "Age_group.csv",
+    "columns": [
+      "state_name",
+      "is_state",
+      "year",
+      "category",
+      "type",
+      "gender",
+      "age_16_18",
+      "age_18_30",
+      "age_30_50",
+      "age_50_above"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "category",
+        "type",
+        "gender"
+      ],
+      "numeric": [
+        "is_state",
+        "year",
+        "age_16_18",
+        "age_18_30",
+        "age_30_50",
+        "age_50_above"
+      ],
+      "identifiers": [
+        "is_state",
+        "year"
+      ],
+      "measures": [
+        "age_16_18",
+        "age_18_30",
+        "age_30_50",
+        "age_50_above"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "category",
+        "type",
+        "gender",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "is_state": "Int64",
+      "year": "Int64",
+      "category": "string",
+      "type": "string",
+      "gender": "string",
+      "age_16_18": "Int64",
+      "age_18_30": "Int64",
+      "age_30_50": "Int64",
+      "age_50_above": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Caste.csv",
+    "columns": [
+      "state_name",
+      "is_state",
+      "year",
+      "gender",
+      "caste",
+      "convicts",
+      "under_trial",
+      "detenues",
+      "others"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "gender",
+        "caste"
+      ],
+      "numeric": [
+        "is_state",
+        "year",
+        "convicts",
+        "under_trial",
+        "detenues",
+        "others"
+      ],
+      "identifiers": [
+        "is_state",
+        "year"
+      ],
+      "measures": [
+        "convicts",
+        "under_trial",
+        "detenues",
+        "others"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "gender",
+        "caste",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "is_state": "Int64",
+      "year": "Int64",
+      "gender": "string",
+      "caste": "string",
+      "convicts": "Int64",
+      "under_trial": "Int64",
+      "detenues": "Int64",
+      "others": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Death_sentence.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "no_capital_punishment",
+      "no_life_imprisonment",
+      "no_executed"
+    ],
+    "roles": {
+      "text": [
+        "state_name"
+      ],
+      "numeric": [
+        "year",
+        "no_capital_punishment",
+        "no_life_imprisonment",
+        "no_executed"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "no_capital_punishment",
+        "no_life_imprisonment",
+        "no_executed"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "no_capital_punishment": "Int64",
+      "no_life_imprisonment": "Int64",
+      "no_executed": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Domicile.csv",
+    "columns": [
+      "state_name",
+      "is_state",
+      "year",
+      "gender",
+      "domicile",
+      "convicts",
+      "under_trial",
+      "detenues",
+      "others"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "gender",
+        "domicile"
+      ],
+      "numeric": [
+        "is_state",
+        "year",
+        "convicts",
+        "under_trial",
+        "detenues",
+        "others"
+      ],
+      "identifiers": [
+        "is_state",
+        "year"
+      ],
+      "measures": [
+        "convicts",
+        "under_trial",
+        "detenues",
+        "others"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "gender",
+        "domicile",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "is_state": "Int64",
+      "year": "Int64",
+      "gender": "string",
+      "domicile": "string",
+      "convicts": "Int64",
+      "under_trial": "Int64",
+      "detenues": "Int64",
+      "others": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Education.csv",
+    "columns": [
+      "state_name",
+      "is_state",
+      "year",
+      "gender",
+      "education",
+      "convicts",
+      "under_trial",
+      "detenues",
+      "others"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "gender",
+        "education"
+      ],
+      "numeric": [
+        "is_state",
+        "year",
+        "convicts",
+        "under_trial",
+        "detenues",
+        "others"
+      ],
+      "identifiers": [
+        "is_state",
+        "year"
+      ],
+      "measures": [
+        "convicts",
+        "under_trial",
+        "detenues",
+        "others"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "gender",
+        "education",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "is_state": "Int64",
+      "year": "Int64",
+      "gender": "string",
+      "education": "string",
+      "convicts": "Int64",
+      "under_trial": "Int64",
+      "detenues": "Int64",
+      "others": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Education_facilities.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "elementary_education",
+      "adult_education",
+      "higher_education",
+      "computer_course"
+    ],
+    "roles": {
+      "text": [
+        "state_name"
+      ],
+      "numeric": [
+        "year",
+        "elementary_education",
+        "adult_education",
+        "higher_education",
+        "computer_course"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "elementary_education",
+        "adult_education",
+        "higher_education",
+        "computer_course"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "elementary_education": "Int64",
+      "adult_education": "Int64",
+      "higher_education": "Int64",
+      "computer_course": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "IPC_crime_inmates_convicted.csv",
+    "columns": [
+      "STATE/UT",
+      "YEAR",
+      "CRIME HEAD",
+      "Male 16-18 years",
+      "Female 16-18 years",
+      "Total 16-18 years",
+      "Male 18-30 years",
+      "Female 18-30 years",
+      "Total 18-30 years",
+      "Male 30-50 years",
+      "Female 30-50 years",
+      "Total 30-50 years",
+      "Male Above 50 years",
+      "Female Above 50 years",
+      "Total Above 50 years",
+      "Total Male",
+      "Total Female",
+      "Grand Total"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT",
+        "CRIME HEAD"
+      ],
+      "numeric": [
+        "YEAR",
+        "Male 16-18 years",
+        "Female 16-18 years",
+        "Total 16-18 years",
+        "Male 18-30 years",
+        "Female 18-30 years",
+        "Total 18-30 years",
+        "Male 30-50 years",
+        "Female 30-50 years",
+        "Total 30-50 years",
+        "Male Above 50 years",
+        "Female Above 50 years",
+        "Total Above 50 years",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "identifiers": [
+        "YEAR"
+      ],
+      "measures": [
+        "Male 16-18 years",
+        "Female 16-18 years",
+        "Total 16-18 years",
+        "Male 18-30 years",
+        "Female 18-30 years",
+        "Total 18-30 years",
+        "Male 30-50 years",
+        "Female 30-50 years",
+        "Total 30-50 years",
+        "Male Above 50 years",
+        "Female Above 50 years",
+        "Total Above 50 years",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "CRIME HEAD",
+        "YEAR"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "YEAR": "Int64",
+      "CRIME HEAD": "string",
+      "Male 16-18 years": "Int64",
+      "Female 16-18 years": "Int64",
+      "Total 16-18 years": "Int64",
+      "Male 18-30 years": "Int64",
+      "Female 18-30 years": "Int64",
+      "Total 18-30 years": "Int64",
+      "Male 30-50 years": "Int64",
+      "Female 30-50 years": "Int64",
+      "Total 30-50 years": "Int64",
+      "Male Above 50 years": "Int64",
+      "Female Above 50 years": "Int64",
+      "Total Above 50 years": "Int64",
+      "Total Male": "Int64",
+      "Total Female": "Int64",
+      "Grand Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "IPC_crime_inmates_under_trial.csv",
+    "columns": [
+      "STATE/UT",
+      "YEAR",
+      "CRIME HEAD",
+      "Male 16-18 years",
+      "Female 16-18 years",
+      "Total 16-18 years",
+      "Male 18-30 years",
+      "Female 18-30 years",
+      "Total 18-30 years",
+      "Male 30-50 years",
+      "Female 30-50 years",
+      "Total 30-50 years",
+      "Male Above 50 years",
+      "Female Above 50 years",
+      "Total Above 50 years",
+      "Total Male",
+      "Total Female",
+      "Grand Total"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT",
+        "CRIME HEAD"
+      ],
+      "numeric": [
+        "YEAR",
+        "Male 16-18 years",
+        "Female 16-18 years",
+        "Total 16-18 years",
+        "Male 18-30 years",
+        "Female 18-30 years",
+        "Total 18-30 years",
+        "Male 30-50 years",
+        "Female 30-50 years",
+        "Total 30-50 years",
+        "Male Above 50 years",
+        "Female Above 50 years",
+        "Total Above 50 years",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "identifiers": [
+        "YEAR"
+      ],
+      "measures": [
+        "Male 16-18 years",
+        "Female 16-18 years",
+        "Total 16-18 years",
+        "Male 18-30 years",
+        "Female 18-30 years",
+        "Total 18-30 years",
+        "Male 30-50 years",
+        "Female 30-50 years",
+        "Total 30-50 years",
+        "Male Above 50 years",
+        "Female Above 50 years",
+        "Total Above 50 years",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "CRIME HEAD",
+        "YEAR"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "YEAR": "Int64",
+      "CRIME HEAD": "string",
+      "Male 16-18 years": "Int64",
+      "Female 16-18 years": "Int64",
+      "Total 16-18 years": "Int64",
+      "Male 18-30 years": "Int64",
+      "Female 18-30 years": "Int64",
+      "Total 18-30 years": "Int64",
+      "Male 30-50 years": "Int64",
+      "Female 30-50 years": "Int64",
+      "Total 30-50 years": "Int64",
+      "Male Above 50 years": "Int64",
+      "Female Above 50 years": "Int64",
+      "Total Above 50 years": "Int64",
+      "Total Male": "Int64",
+      "Total Female": "Int64",
+      "Grand Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Inmates_death.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "details",
+      "Male",
+      "Female",
+      "Total"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "details"
+      ],
+      "numeric": [
+        "year",
+        "Male",
+        "Female",
+        "Total"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "Male",
+        "Female",
+        "Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "details",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "details": "string",
+      "Male": "Int64",
+      "Female": "Int64",
+      "Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Inmates_escapee.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "detail",
+      "male",
+      "female",
+      "total"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "detail"
+      ],
+      "numeric": [
+        "year",
+        "male",
+        "female",
+        "total"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "male",
+        "female",
+        "total"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "detail",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "detail": "string",
+      "male": "Int64",
+      "female": "Int64",
+      "total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Jail wise population of prison inmates.csv",
+    "columns": [
+      "State_UT_name",
+      "Year",
+      "Jail_Type",
+      "Male Convicts",
+      "Female_Convicts",
+      "Total_Convicts",
+      "Male_Under_trial",
+      "Female_Under_trial",
+      "Total_Under_trial",
+      "Male_Detenues",
+      "Female_Detenues",
+      "Total_Detenues",
+      "Male_Others",
+      "Female_Others",
+      "Total_Others",
+      "Total_Male",
+      "Total_Female",
+      "Grand_Total"
+    ],
+    "roles": {
+      "text": [
+        "State_UT_name",
+        "Jail_Type"
+      ],
+      "numeric": [
+        "Year",
+        "Male Convicts",
+        "Female_Convicts",
+        "Total_Convicts",
+        "Male_Under_trial",
+        "Female_Under_trial",
+        "Total_Under_trial",
+        "Male_Detenues",
+        "Female_Detenues",
+        "Total_Detenues",
+        "Male_Others",
+        "Female_Others",
+        "Total_Others",
+        "Total_Male",
+        "Total_Female",
+        "Grand_Total"
+      ],
+      "identifiers": [
+        "Year"
+      ],
+      "measures": [
+        "Male Convicts",
+        "Female_Convicts",
+        "Total_Convicts",
+        "Male_Under_trial",
+        "Female_Under_trial",
+        "Total_Under_trial",
+        "Male_Detenues",
+        "Female_Detenues",
+        "Total_Detenues",
+        "Male_Others",
+        "Female_Others",
+        "Total_Others",
+        "Total_Male",
+        "Total_Female",
+        "Grand_Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "State_UT_name",
+        "Jail_Type",
+        "Year"
+      ]
+    },
+    "dtypes": {
+      "State_UT_name": "string",
+      "Year": "Int64",
+      "Jail_Type": "string",
+      "Male Convicts": "Int64",
+      "Female_Convicts": "Int64",
+      "Total_Convicts": "Int64",
+      "Male_Under_trial": "Int64",
+      "Female_Under_trial": "Int64",
+      "Total_Under_trial": "Int64",
+      "Male_Detenues": "Int64",
+      "Female_Detenues": "Int64",
+      "Total_Detenues": "Int64",
+      "Male_Others": "Int64",
+      "Female_Others": "Int64",
+      "Total_Others": "Int64",
+      "Total_Male": "Int64",
+      "Total_Female": "Int64",
+      "Grand_Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Budget.CSV",
+    "columns": [
+      "TimePeriod",
+      "Area_Name",
+      "Indicator_Name",
+      "Data_Value"
+    ],
+    "roles": {
+      "text": [
+        "Area_Name",
+        "Indicator_Name"
+      ],
+      "numeric": [
+        "TimePeriod",
+        "Data_Value"
+      ],
+      "identifiers": [
+        "TimePeriod"
+      ],
+      "measures": [
+        "Data_Value"
+      ],
+      "continuous": [
+        "Data_Value"
+      ],
+      "keys": [
+        "Area_Name",
+        "Indicator_Name",
+        "TimePeriod"
+      ]
+    },
+    "dtypes": {
+      "TimePeriod": "Int64",
+      "Area_Name": "string",
+      "Indicator_Name": "string",
+      "Data_Value": "Float64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Details_of_electronic_equipments_used_in_prison.CSV",
+    "columns": [
+      "TimePeriod",
+      "Area_Name",
+      "Electronic_equipments_used",
+      "Data_Value"
+    ],
+    "roles": {
+      "text": [
+        "Area_Name",
+        "Electronic_equipments_used"
+      ],
+      "numeric": [
+        "TimePeriod",
+        "Data_Value"
+      ],
+      "identifiers": [
+        "TimePeriod"
+      ],
+      "measures": [
+        "Data_Value"
+      ],
+      "continuous": [],
+      "keys": [
+        "Area_Name",
+        "Electronic_equipments_used",
+        "TimePeriod"
+      ]
+    },
+    "dtypes": {
+      "TimePeriod": "Int64",
+      "Area_Name": "string",
+      "Electronic_equipments_used": "string",
+      "Data_Value": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Details_of_inmates_parole_during_the_year.csv",
+    "columns": [
+      "STATE/UT",
+      "YEAR",
+      "DETAILS",
+      "Male",
+      "Female",
+      "Total"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT",
+        "DETAILS"
+      ],
+      "numeric": [
+        "YEAR",
+        "Male",
+        "Female",
+        "Total"
+      ],
+      "identifiers": [
+        "YEAR"
+      ],
+      "measures": [
+        "Male",
+        "Female",
+        "Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "DETAILS",
+        "YEAR"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "YEAR": "Int64",
+      "DETAILS": "string",
+      "Male": "Int64",
+      "Female": "Int64",
+      "Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Expenditure.CSV",
+    "columns": [
+      "TimePeriod",
+      "Area_Name",
+      "Indicator_Name",
+      "Data_Value"
+    ],
+    "roles": {
+      "text": [
+        "Area_Name",
+        "Indicator_Name"
+      ],
+      "numeric": [
+        "TimePeriod",
+        "Data_Value"
+      ],
+      "identifiers": [
+        "TimePeriod"
+      ],
+      "measures": [
+        "Data_Value"
+      ],
+      "continuous": [
+        "Data_Value"
+      ],
+      "keys": [
+        "Area_Name",
+        "Indicator_Name",
+        "TimePeriod"
+      ]
+    },
+    "dtypes": {
+      "TimePeriod": "Int64",
+      "Area_Name": "string",
+      "Indicator_Name": "string",
+      "Data_Value": "Float64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Expenditure_on_inmates.CSV",
+    "columns": [
+      "TimePeriod",
+      "Area_Name",
+      "Indicator_Name",
+      "Data_Value"
+    ],
+    "roles": {
+      "text": [
+        "Area_Name",
+        "Indicator_Name"
+      ],
+      "numeric": [
+        "TimePeriod",
+        "Data_Value"
+      ],
+      "identifiers": [
+        "TimePeriod"
+      ],
+      "measures": [
+        "Data_Value"
+      ],
+      "continuous": [
+        "Data_Value"
+      ],
+      "keys": [
+        "Area_Name",
+        "Indicator_Name",
+        "TimePeriod"
+      ]
+    },
+    "dtypes": {
+      "TimePeriod": "Int64",
+      "Area_Name": "string",
+      "Indicator_Name": "string",
+      "Data_Value": "Float64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Inmates_released.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "details",
+      "male",
+      "female",
+      "total"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "details"
+      ],
+      "numeric": [
+        "year",
+        "male",
+        "female",
+        "total"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "male",
+        "female",
+        "total"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "details",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "details": "string",
+      "male": "Int64",
+      "female": "Int64",
+      "total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Inmates_suffering_from_mental_ilness.csv",
+    "columns": [
+      "STATE/UT",
+      "YEAR",
+      "Male Convicts",
+      "Female Convicts",
+      "Total Convicts",
+      "Male Under trial",
+      "Female Under trial",
+      "Total Under trial",
+      "Male Detenues",
+      "Female Detenues",
+      "Total Detenues",
+      "Male Others",
+      "Female Others",
+      "Total Others",
+      "Total Male",
+      "Total Female",
+      "Grand Total"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT"
+      ],
+      "numeric": [
+        "YEAR",
+        "Male Convicts",
+        "Female Convicts",
+        "Total Convicts",
+        "Male Under trial",
+        "Female Under trial",
+        "Total Under trial",
+        "Male Detenues",
+        "Female Detenues",
+        "Total Detenues",
+        "Male Others",
+        "Female Others",
+        "Total Others",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "identifiers": [
+        "YEAR"
+      ],
+      "measures": [
+        "Male Convicts",
+        "Female Convicts",
+        "Total Convicts",
+        "Male Under trial",
+        "Female Under trial",
+        "Total Under trial",
+        "Male Detenues",
+        "Female Detenues",
+        "Total Detenues",
+        "Male Others",
+        "Female Others",
+        "Total Others",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "YEAR"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "YEAR": "Int64",
+      "Male Convicts": "Int64",
+      "Female Convicts": "Int64",
+      "Total Convicts": "Int64",
+      "Male Under trial": "Int64",
+      "Female Under trial": "Int64",
+      "Total Under trial": "Int64",
+      "Male Detenues": "Int64",
+      "Female Detenues": "Int64",
+      "Total Detenues": "Int64",
+      "Male Others": "Int64",
+      "Female Others": "Int64",
+      "Total Others": "Int64",
+      "Total Male": "Int64",
+      "Total Female": "Int64",
+      "Grand Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Movements_outside_jail_premises.CSV",
+    "columns": [
+      "TimePeriod",
+      "Area_Name",
+      "Indicator_Name",
+      "Data_Value"
+    ],
+    "roles": {
+      "text": [
+        "Area_Name",
+        "Indicator_Name"
+      ],
+      "numeric": [
+        "TimePeriod",
+        "Data_Value"
+      ],
+      "identifiers": [
+        "TimePeriod"
+      ],
+      "measures": [
+        "Data_Value"
+      ],
+      "continuous": [],
+      "keys": [
+        "Area_Name",
+        "Indicator_Name",
+        "TimePeriod"
+      ]
+    },
+    "dtypes": {
+      "TimePeriod": "Int64",
+      "Area_Name": "string",
+      "Indicator_Name": "string",
+      "Data_Value": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Number_of_vehicles_available.CSV",
+    "columns": [
+      "TimePeriod",
+      "Area_Name",
+      "Number of Vehicles Available",
+      "Data_Value"
+    ],
+    "roles": {
+      "text": [
+        "Area_Name",
+        "Number of Vehicles Available"
+      ],
+      "numeric": [
+        "TimePeriod",
+        "Data_Value"
+      ],
+      "identifiers": [
+        "TimePeriod"
+      ],
+      "measures": [
+        "Data_Value"
+      ],
+      "continuous": [],
+      "keys": [
+        "Area_Name",
+        "Number of Vehicles Available",
+        "TimePeriod"
+      ]
+    },
+    "dtypes": {
+      "TimePeriod": "Int64",
+      "Area_Name": "string",
+      "Number of Vehicles Available": "string",
+      "Data_Value": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Number_of_women_prisoners_with_children.csv",
+    "columns": [
+      "STATE/UT",
+      "YEAR",
+      "No. of Convict Women Prisoners with Children",
+      "No. of Children of Convict Women Prisoners",
+      "No. of Under trial Women Prisoners with Children",
+      "No. of children of Under trial Women Prisoners",
+      "No. of Detenues Women Prisoners with Children",
+      "No. of children of Detenues Women Prisoners",
+      "No. of Other Women Prisoners with Children",
+      "No. of children of  Other Women Prisoners",
+      "Total No. of Women Prisoners with Children",
+      "Total No. of children of  Women Prisoners"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT"
+      ],
+      "numeric": [
+        "YEAR",
+        "No. of Convict Women Prisoners with Children",
+        "No. of Children of Convict Women Prisoners",
+        "No. of Under trial Women Prisoners with Children",
+        "No. of children of Under trial Women Prisoners",
+        "No. of Detenues Women Prisoners with Children",
+        "No. of children of Detenues Women Prisoners",
+        "No. of Other Women Prisoners with Children",
+        "No. of children of  Other Women Prisoners",
+        "Total No. of Women Prisoners with Children",
+        "Total No. of children of  Women Prisoners"
+      ],
+      "identifiers": [
+        "YEAR"
+      ],
+      "measures": [
+        "No. of Convict Women Prisoners with Children",
+        "No. of Children of Convict Women Prisoners",
+        "No. of Under trial Women Prisoners with Children",
+        "No. of children of Under trial Women Prisoners",
+        "No. of Detenues Women Prisoners with Children",
+        "No. of children of Detenues Women Prisoners",
+        "No. of Other Women Prisoners with Children",
+        "No. of children of  Other Women Prisoners",
+        "Total No. of Women Prisoners with Children",
+        "Total No. of children of  Women Prisoners"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "YEAR"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "YEAR": "Int64",
+      "No. of Convict Women Prisoners with Children": "Int64",
+      "No. of Children of Convict Women Prisoners": "Int64",
+      "No. of Under trial Women Prisoners with Children": "Int64",
+      "No. of children of Under trial Women Prisoners": "Int64",
+      "No. of Detenues Women Prisoners with Children": "Int64",
+      "No. of children of Detenues Women Prisoners": "Int64",
+      "No. of Other Women Prisoners with Children": "Int64",
+      "No. of children of  Other Women Prisoners": "Int64",
+      "Total No. of Women Prisoners with Children": "Int64",
+      "Total No. of children of  Women Prisoners": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Period_of_detention_of_undertrials.csv",
+    "columns": [
+      "STATE/UT",
+      "YEAR",
+      "PERIOD OF DETENTION",
+      "Male",
+      "Female",
+      "Total"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT",
+        "PERIOD OF DETENTION"
+      ],
+      "numeric": [
+        "YEAR",
+        "Male",
+        "Female",
+        "Total"
+      ],
+      "identifiers": [
+        "YEAR"
+      ],
+      "measures": [
+        "Male",
+        "Female",
+        "Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "PERIOD OF DETENTION",
+        "YEAR"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "YEAR": "Int64",
+      "PERIOD OF DETENTION": "string",
+      "Male": "Int64",
+      "Female": "Int64",
+      "Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Population_and_capacity_of_jails.csv",
+    "columns": [
+      "STATE/UT",
+      "Year",
+      "TYPE OF JAIL",
+      "Number of Central Jails",
+      "Total Capacity of male Inmates",
+      "Total Capacity of female Inmates",
+      "Total Capacity of Inmates",
+      "Male Inmate population",
+      "Female Inmate population",
+      "Total Inmate population"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT",
+        "TYPE OF JAIL"
+      ],
+      "numeric": [
+        "Year",
+        "Number of Central Jails",
+        "Total Capacity of male Inmates",
+        "Total Capacity of female Inmates",
+        "Total Capacity of Inmates",
+        "Male Inmate population",
+        "Female Inmate population",
+        "Total Inmate population"
+      ],
+      "identifiers": [
+        "Year"
+      ],
+      "measures": [
+        "Number of Central Jails",
+        "Total Capacity of male Inmates",
+        "Total Capacity of female Inmates",
+        "Total Capacity of Inmates",
+        "Male Inmate population",
+        "Female Inmate population",
+        "Total Inmate population"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "TYPE OF JAIL",
+        "Year"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "Year": "Int64",
+      "TYPE OF JAIL": "string",
+      "Number of Central Jails": "Int64",
+      "Total Capacity of male Inmates": "Int64",
+      "Total Capacity of female Inmates": "Int64",
+      "Total Capacity of Inmates": "Int64",
+      "Male Inmate population": "Int64",
+      "Female Inmate population": "Int64",
+      "Total Inmate population": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/SLL_Crime_headwise_distribution_of_inmates_who_convicted.csv",
+    "columns": [
+      "STATE/UT",
+      "YEAR",
+      "CRIME HEAD",
+      "Male 16-18 years",
+      "Female 16-18 years",
+      "Total 16-18 years",
+      "Male 18-30 years",
+      "Female 18-30 years",
+      "Total 18-30 years",
+      "Male 30-50 years",
+      "Female 30-50 years",
+      "Total 30-50 years",
+      "Male Above 50 years",
+      "Female Above 50 years",
+      "Total Above 50 years",
+      "Total Male",
+      "Total Female",
+      "Grand Total"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT",
+        "CRIME HEAD"
+      ],
+      "numeric": [
+        "YEAR",
+        "Male 16-18 years",
+        "Female 16-18 years",
+        "Total 16-18 years",
+        "Male 18-30 years",
+        "Female 18-30 years",
+        "Total 18-30 years",
+        "Male 30-50 years",
+        "Female 30-50 years",
+        "Total 30-50 years",
+        "Male Above 50 years",
+        "Female Above 50 years",
+        "Total Above 50 years",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "identifiers": [
+        "YEAR"
+      ],
+      "measures": [
+        "Male 16-18 years",
+        "Female 16-18 years",
+        "Total 16-18 years",
+        "Male 18-30 years",
+        "Female 18-30 years",
+        "Total 18-30 years",
+        "Male 30-50 years",
+        "Female 30-50 years",
+        "Total 30-50 years",
+        "Male Above 50 years",
+        "Female Above 50 years",
+        "Total Above 50 years",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "CRIME HEAD",
+        "YEAR"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "YEAR": "Int64",
+      "CRIME HEAD": "string",
+      "Male 16-18 years": "Int64",
+      "Female 16-18 years": "Int64",
+      "Total 16-18 years": "Int64",
+      "Male 18-30 years": "Int64",
+      "Female 18-30 years": "Int64",
+      "Total 18-30 years": "Int64",
+      "Male 30-50 years": "Int64",
+      "Female 30-50 years": "Int64",
+      "Total 30-50 years": "Int64",
+      "Male Above 50 years": "Int64",
+      "Female Above 50 years": "Int64",
+      "Total Above 50 years": "Int64",
+      "Total Male": "Int64",
+      "Total Female": "Int64",
+      "Grand Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/SLL_crime_head_wise_distribution_of_inmates_under_trial.csv",
+    "columns": [
+      "STATE/UT",
+      "Year",
+      "CRIME HEAD",
+      "Male 16-18 years",
+      "Female 16-18 years",
+      "Total 16-18 years",
+      "Male 18-30 years",
+      "Female 18-30 years",
+      "Total 18-30 years",
+      "Male 30-50 years",
+      "Female 30-50 years",
+      "Total 30-50 years",
+      "Male Above 50 years",
+      "Female Above 50 years",
+      "Total Above 50 years",
+      "Total Male",
+      "Total Female",
+      "Grand Total"
+    ],
+    "roles": {
+      "text": [
+        "STATE/UT",
+        "CRIME HEAD"
+      ],
+      "numeric": [
+        "Year",
+        "Male 16-18 years",
+        "Female 16-18 years",
+        "Total 16-18 years",
+        "Male 18-30 years",
+        "Female 18-30 years",
+        "Total 18-30 years",
+        "Male 30-50 years",
+        "Female 30-50 years",
+        "Total 30-50 years",
+        "Male Above 50 years",
+        "Female Above 50 years",
+        "Total Above 50 years",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "identifiers": [
+        "Year"
+      ],
+      "measures": [
+        "Male 16-18 years",
+        "Female 16-18 years",
+        "Total 16-18 years",
+        "Male 18-30 years",
+        "Female 18-30 years",
+        "Total 18-30 years",
+        "Male 30-50 years",
+        "Female 30-50 years",
+        "Total 30-50 years",
+        "Male Above 50 years",
+        "Female Above 50 years",
+        "Total Above 50 years",
+        "Total Male",
+        "Total Female",
+        "Grand Total"
+      ],
+      "continuous": [],
+      "keys": [
+        "STATE/UT",
+        "CRIME HEAD",
+        "Year"
+      ]
+    },
+    "dtypes": {
+      "STATE/UT": "string",
+      "Year": "Int64",
+      "CRIME HEAD": "string",
+      "Male 16-18 years": "Int64",
+      "Female 16-18 years": "Int64",
+      "Total 16-18 years": "Int64",
+      "Male 18-30 years": "Int64",
+      "Female 18-30 years": "Int64",
+      "Total 18-30 years": "Int64",
+      "Male 30-50 years": "Int64",
+      "Female 30-50 years": "Int64",
+      "Total 30-50 years": "Int64",
+      "Male Above 50 years": "Int64",
+      "Female Above 50 years": "Int64",
+      "Total Above 50 years": "Int64",
+      "Total Male": "Int64",
+      "Total Female": "Int64",
+      "Grand Total": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Strength_of_officials.CSV",
+    "columns": [
+      "TimePeriod",
+      "Area_Name",
+      "Indicator_Name",
+      "Data_Value",
+      "Subgroup_Val"
+    ],
+    "roles": {
+      "text": [
+        "Area_Name",
+        "Indicator_Name",
+        "Subgroup_Val"
+      ],
+      "numeric": [
+        "TimePeriod",
+        "Data_Value"
+      ],
+      "identifiers": [
+        "TimePeriod"
+      ],
+      "measures": [
+        "Data_Value"
+      ],
+      "continuous": [],
+      "keys": [
+        "Area_Name",
+        "Indicator_Name",
+        "Subgroup_Val",
+        "TimePeriod"
+      ]
+    },
+    "dtypes": {
+      "TimePeriod": "Int64",
+      "Area_Name": "string",
+      "Indicator_Name": "string",
+      "Data_Value": "Int64",
+      "Subgroup_Val": "string"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Total_Budget_and_Actual_Expenditure_during_ the_year_2015_2016.csv",
+    "columns": [
+      "S.No. (Col. No. 1)",
+      "State/UT (Col. No. 2)",
+      "Total Annual Budget - Plan (Col. No. 3)",
+      "Total Annual Budget - Non-Plan (Col. No. 4)",
+      "Total Annual Budget - Total (Col. No. 5)",
+      "Actual Expenditure - Plan (Col. No. 6)",
+      "Actual Expenditure - Non-Plan (Col. No. 7)",
+      "Actual Expenditure - Expenditure on Account of Funds made Available by Other Agencies (Col. No. 8)",
+      "Actual Expenditure - Total (Col. No. 9) = (Col.6+7+8)"
+    ],
+    "roles": {
+      "text": [
+        "State/UT (Col. No. 2)"
+      ],
+      "numeric": [
+        "S.No. (Col. No. 1)",
+        "Total Annual Budget - Plan (Col. No. 3)",
+        "Total Annual Budget - Non-Plan (Col. No. 4)",
+        "Total Annual Budget - Total (Col. No. 5)",
+        "Actual Expenditure - Plan (Col. No. 6)",
+        "Actual Expenditure - Non-Plan (Col. No. 7)",
+        "Actual Expenditure - Expenditure on Account of Funds made Available by Other Agencies (Col. No. 8)",
+        "Actual Expenditure - Total (Col. No. 9) = (Col.6+7+8)"
+      ],
+      "identifiers": [
+        "S.No. (Col. No. 1)"
+      ],
+      "measures": [
+        "Total Annual Budget - Plan (Col. No. 3)",
+        "Total Annual Budget - Non-Plan (Col. No. 4)",
+        "Total Annual Budget - Total (Col. No. 5)",
+        "Actual Expenditure - Plan (Col. No. 6)",
+        "Actual Expenditure - Non-Plan (Col. No. 7)",
+        "Actual Expenditure - Expenditure on Account of Funds made Available by Other Agencies (Col. No. 8)",
+        "Actual Expenditure - Total (Col. No. 9) = (Col.6+7+8)"
+      ],
+      "continuous": [
+        "Actual Expenditure - Expenditure on Account of Funds made Available by Other Agencies (Col. No. 8)",
+        "Actual Expenditure - Non-Plan (Col. No. 7)",
+        "Actual Expenditure - Plan (Col. No. 6)",
+        "Actual Expenditure - Total (Col. No. 9) = (Col.6+7+8)",
+        "Total Annual Budget - Non-Plan (Col. No. 4)",
+        "Total Annual Budget - Plan (Col. No. 3)",
+        "Total Annual Budget - Total (Col. No. 5)"
+      ],
+      "keys": [
+        "State/UT (Col. No. 2)"
+      ]
+    },
+    "dtypes": {
+      "S.No. (Col. No. 1)": "Int64",
+      "State/UT (Col. No. 2)": "string",
+      "Total Annual Budget - Plan (Col. No. 3)": "Float64",
+      "Total Annual Budget - Non-Plan (Col. No. 4)": "Float64",
+      "Total Annual Budget - Total (Col. No. 5)": "Float64",
+      "Actual Expenditure - Plan (Col. No. 6)": "Float64",
+      "Actual Expenditure - Non-Plan (Col. No. 7)": "Float64",
+      "Actual Expenditure - Expenditure on Account of Funds made Available by Other Agencies (Col. No. 8)": "Float64",
+      "Actual Expenditure - Total (Col. No. 9) = (Col.6+7+8)": "Float64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Training_of_Jail_Officers.CSV",
+    "columns": [
+      "TimePeriod",
+      "Area_Name",
+      "Indicator_Name",
+      "Data_Value"
+    ],
+    "roles": {
+      "text": [
+        "Area_Name",
+        "Indicator_Name"
+      ],
+      "numeric": [
+        "TimePeriod",
+        "Data_Value"
+      ],
+      "identifiers": [
+        "TimePeriod"
+      ],
+      "measures": [
+        "Data_Value"
+      ],
+      "continuous": [],
+      "keys": [
+        "Area_Name",
+        "Indicator_Name",
+        "TimePeriod"
+      ]
+    },
+    "dtypes": {
+      "TimePeriod": "Int64",
+      "Area_Name": "string",
+      "Indicator_Name": "string",
+      "Data_Value": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Other Prison data/Value_of_goods_produced_by_inmates.csv",
+    "columns": [
+      "State/UT",
+      "YEAR",
+      "Vocation/Activity",
+      "Gross Value of Sale Proceeds / Earning (In Rs.)"
+    ],
+    "roles": {
+      "text": [
+        "State/UT",
+        "Vocation/Activity"
+      ],
+      "numeric": [
+        "YEAR",
+        "Gross Value of Sale Proceeds / Earning (In Rs.)"
+      ],
+      "identifiers": [
+        "YEAR"
+      ],
+      "measures": [
+        "Gross Value of Sale Proceeds / Earning (In Rs.)"
+      ],
+      "continuous": [
+        "Gross Value of Sale Proceeds / Earning (In Rs.)"
+      ],
+      "keys": [
+        "State/UT",
+        "Vocation/Activity",
+        "YEAR"
+      ]
+    },
+    "dtypes": {
+      "State/UT": "string",
+      "YEAR": "Int64",
+      "Vocation/Activity": "string",
+      "Gross Value of Sale Proceeds / Earning (In Rs.)": "Float64"
+    },
+    "grain": "under-specified",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Prison_details_2015.csv",
+    "columns": [
+      "Category",
+      "State / UT Name",
+      "Jail Type Sl.No.",
+      "Jail Type",
+      "Number of jails",
+      "Jail Sl.No.",
+      "Jail Name",
+      "Contact No.",
+      "VC for Remand Purpose",
+      "VC for Trial Purpose",
+      "VC for Other Purpose",
+      "Location1",
+      "Location2",
+      "Email ID"
+    ],
+    "roles": {
+      "text": [
+        "Category",
+        "State / UT Name",
+        "Jail Type",
+        "Jail Name",
+        "Contact No.",
+        "VC for Remand Purpose",
+        "VC for Trial Purpose",
+        "VC for Other Purpose",
+        "Location1",
+        "Location2",
+        "Email ID"
+      ],
+      "numeric": [
+        "Jail Type Sl.No.",
+        "Number of jails",
+        "Jail Sl.No."
+      ],
+      "identifiers": [
+        "Jail Type Sl.No.",
+        "Jail Sl.No."
+      ],
+      "measures": [
+        "Number of jails"
+      ],
+      "continuous": [],
+      "keys": [
+        "State / UT Name",
+        "Jail Type",
+        "Jail Sl.No."
+      ]
+    },
+    "dtypes": {
+      "Category": "string",
+      "State / UT Name": "string",
+      "Jail Type Sl.No.": "Int64",
+      "Jail Type": "string",
+      "Number of jails": "Int64",
+      "Jail Sl.No.": "Int64",
+      "Jail Name": "string",
+      "Contact No.": "string",
+      "VC for Remand Purpose": "string",
+      "VC for Trial Purpose": "string",
+      "VC for Other Purpose": "string",
+      "Location1": "string",
+      "Location2": "string",
+      "Email ID": "string"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [
+      "Number of jails"
+    ],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Recidivism.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "convicts_admitted",
+      "habitual_offenders"
+    ],
+    "roles": {
+      "text": [
+        "state_name"
+      ],
+      "numeric": [
+        "year",
+        "convicts_admitted",
+        "habitual_offenders"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "convicts_admitted",
+        "habitual_offenders"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "convicts_admitted": "Int64",
+      "habitual_offenders": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Rehabilitation.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "financial_assistance_provided",
+      "rehabilitated",
+      "legal_aid_provided"
+    ],
+    "roles": {
+      "text": [
+        "state_name"
+      ],
+      "numeric": [
+        "year",
+        "financial_assistance_provided",
+        "rehabilitated",
+        "legal_aid_provided"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "financial_assistance_provided",
+        "rehabilitated",
+        "legal_aid_provided"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "financial_assistance_provided": "Int64",
+      "rehabilitated": "Int64",
+      "legal_aid_provided": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Religion.csv",
+    "columns": [
+      "state_name",
+      "is_state",
+      "year",
+      "gender",
+      "religion",
+      "convicts",
+      "under_trial",
+      "detenues",
+      "others"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "gender",
+        "religion"
+      ],
+      "numeric": [
+        "is_state",
+        "year",
+        "convicts",
+        "under_trial",
+        "detenues",
+        "others"
+      ],
+      "identifiers": [
+        "is_state",
+        "year"
+      ],
+      "measures": [
+        "convicts",
+        "under_trial",
+        "detenues",
+        "others"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "gender",
+        "religion",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "is_state": "Int64",
+      "year": "Int64",
+      "gender": "string",
+      "religion": "string",
+      "convicts": "Int64",
+      "under_trial": "Int64",
+      "detenues": "Int64",
+      "others": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Sentence_period.csv",
+    "columns": [
+      "state_name",
+      "is_state",
+      "year",
+      "gender",
+      "sentence_period",
+      "age_16_18_years",
+      "age_18_30_years",
+      "age_30_50_years",
+      "age_50_above"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "gender",
+        "sentence_period"
+      ],
+      "numeric": [
+        "is_state",
+        "year",
+        "age_16_18_years",
+        "age_18_30_years",
+        "age_30_50_years",
+        "age_50_above"
+      ],
+      "identifiers": [
+        "is_state",
+        "year"
+      ],
+      "measures": [
+        "age_16_18_years",
+        "age_18_30_years",
+        "age_30_50_years",
+        "age_50_above"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "gender",
+        "sentence_period",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "is_state": "Int64",
+      "year": "Int64",
+      "gender": "string",
+      "sentence_period": "string",
+      "age_16_18_years": "Int64",
+      "age_18_30_years": "Int64",
+      "age_30_50_years": "Int64",
+      "age_50_above": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Tranquillity.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "type",
+      "incidence",
+      "inmate_injured",
+      "jail_personnel_injured",
+      "inmate_killed",
+      "jail_personnel_killed"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "type"
+      ],
+      "numeric": [
+        "year",
+        "incidence",
+        "inmate_injured",
+        "jail_personnel_injured",
+        "inmate_killed",
+        "jail_personnel_killed"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "incidence",
+        "inmate_injured",
+        "jail_personnel_injured",
+        "inmate_killed",
+        "jail_personnel_killed"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "type",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "type": "string",
+      "incidence": "Int64",
+      "inmate_injured": "Int64",
+      "jail_personnel_injured": "Int64",
+      "inmate_killed": "Int64",
+      "jail_personnel_killed": "Int64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Vocational_training.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "vocational_trainings_program",
+      "inmates_trained"
+    ],
+    "roles": {
+      "text": [
+        "state_name",
+        "vocational_trainings_program"
+      ],
+      "numeric": [
+        "year",
+        "inmates_trained"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "inmates_trained"
+      ],
+      "continuous": [],
+      "keys": [
+        "state_name",
+        "vocational_trainings_program",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "vocational_trainings_program": "string",
+      "inmates_trained": "Int64"
+    },
+    "grain": "under-specified",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  },
+  {
+    "file": "Wages.csv",
+    "columns": [
+      "state_name",
+      "year",
+      "wages_skilled_convicts",
+      "wages_semi_skilled_convicts",
+      "wages_unskilled_convicts"
+    ],
+    "roles": {
+      "text": [
+        "state_name"
+      ],
+      "numeric": [
+        "year",
+        "wages_skilled_convicts",
+        "wages_semi_skilled_convicts",
+        "wages_unskilled_convicts"
+      ],
+      "identifiers": [
+        "year"
+      ],
+      "measures": [
+        "wages_skilled_convicts",
+        "wages_semi_skilled_convicts",
+        "wages_unskilled_convicts"
+      ],
+      "continuous": [
+        "wages_semi_skilled_convicts",
+        "wages_skilled_convicts",
+        "wages_unskilled_convicts"
+      ],
+      "keys": [
+        "state_name",
+        "year"
+      ]
+    },
+    "dtypes": {
+      "state_name": "string",
+      "year": "Int64",
+      "wages_skilled_convicts": "Float64",
+      "wages_semi_skilled_convicts": "Float64",
+      "wages_unskilled_convicts": "Float64"
+    },
+    "grain": "validated_unique_keys",
+    "nonadditive_fields": [],
+    "aggregation_warning": "Never sum across files or mix total/subtotal/detail rows. Consult row_flags.csv."
+  }
+]
