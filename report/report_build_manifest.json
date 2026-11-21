@@ -383,8 +383,8 @@
   "figure_count": 42,
   "analysis_rerun_for_report": false,
   "pdf_file": "report/India_Prison_Analytics_Report.pdf",
-  "pdf_sha256": "3b18e5c69241e1bf8bb2cbe4b91c251a5e8254de9f4ceeff74c92627f86720b3",
-  "pdf_bytes": 8349632,
+  "pdf_sha256": "51b7d529d0f5d089d7a3128cc0d5aab7fa15415c9fde17a27f4c51f211f73027",
+  "pdf_bytes": 8349978,
   "pages": 88,
   "table_count": 34,
   "descriptive_figure_count": 26,
@@ -397,5 +397,9 @@
   "latex_sources_in_git": false,
   "project_analysis_notebooks_rerun": false,
   "final_project_compliance_audit_pending": true,
-  "preserved_data_hashes_verified": 85
+  "preserved_data_hashes_verified": 85,
+  "dataset_url": "https://www.kaggle.com/datasets/rajanand/prison-in-india/data",
+  "dataset_link_on_title_page": true,
+  "dataset_link_in_dataset_section": true,
+  "clickable_dataset_links_verified": true
 }
